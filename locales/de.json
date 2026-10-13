@@ -3,7 +3,7 @@
     "language": "de",
     "name": "Deutsch",
     "managed_by": "kiekr-team",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "app_upgrade_body": {
     "value": "Öffne die App erneut, um die neue Version fertig zu laden.",
@@ -4923,7 +4923,7 @@
     "_human": true
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Wie lange auf ein Repeater-Echo bei einer Kanal-Nachricht gewartet wird, bevor das Wiederholungssymbol erscheint. Standard 10 s. Niedriger für schnelle Meshes, in denen du früher wiederholen willst; höher bei langsamen / weitläufigen Meshes, wo das erste Echo 20–30 s dauern kann.\n\nDie DM-Wiederholungsverzögerung ist fest auf 140 s — sie folgt der Dauer der Auto-Retry-Leiter auf Funkebene. Würde man sie offenlegen, erschiene der manuelle Wiederholungsknopf, bevor die Auto-Retry-Kette fertig ist, was manuelle + automatische Wiederholungen verschränken und den Versuchszähler der Blase verwirren würde.",
+    "value": "Wie lange auf ein Repeater-Echo bei einer Kanal-Nachricht gewartet wird, bevor das Wiederholungssymbol erscheint. Standard 10 s. Niedriger für schnelle Meshes, in denen du früher wiederholen willst; höher bei langsamen / weitläufigen Meshes, wo das erste Echo 20-30 s dauern kann.\n\nDie DM-Wiederholungsverzögerung ist fest auf 140 s. Sie folgt der Dauer der Auto-Retry-Leiter auf Funkebene. Würde man sie offenlegen, erschiene der manuelle Wiederholungsknopf, bevor die Auto-Retry-Kette fertig ist, was manuelle + automatische Wiederholungen verschränken und den Versuchszähler der Blase verwirren würde.",
     "_human": true
   },
   "settings_retries_channel_delay_header": {
@@ -4939,7 +4939,7 @@
     "_human": true
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Hartes Limit für nutzerinitiierte Wiederholungen pro ausgehender Nachricht — das orangene ↻-Symbol auf nicht bestätigten Blasen. Sobald du das Limit erreichst, wird das Symbol ausgegraut und nimmt keine Tipps mehr an. Standard 5 (passt zur Auto-Retry-Leiter: 3× direkt + 2× Flood).",
+    "value": "Hartes Limit für nutzerinitiierte Wiederholungen pro ausgehender Nachricht (das orangene ↻-Symbol auf nicht bestätigten Blasen). Sobald du das Limit erreichst, wird das Symbol ausgegraut und nimmt keine Tipps mehr an. Standard 5 (passt zur Auto-Retry-Leiter: 3× direkt + 2× Flood).",
     "_human": true
   },
   "settings_retries_manual_cap_header": {
@@ -4951,7 +4951,7 @@
     "_human": true
   },
   "settings_retries_owner_info_footer": {
-    "value": "Wie oft die App eine Eigentümerinfo-Anfrage erneut sendet, wenn keine Antwort eintrifft, und wie lange sie zwischen den Versuchen wartet. Standard 1 Wiederholung, 8 s Intervall. Eine Wiederholung reicht in der Regel aus — die Anfrage geht an einen bestimmten Repeater, sodass die Verbindungsqualität vorhersehbar ist.",
+    "value": "Wie oft die App eine Eigentümerinfo-Anfrage erneut sendet, wenn keine Antwort eintrifft, und wie lange sie zwischen den Versuchen wartet. Standard 1 Wiederholung, 8 s Intervall. Eine Wiederholung reicht in der Regel aus: Die Anfrage geht an einen bestimmten Repeater, sodass die Verbindungsqualität vorhersehbar ist.",
     "_human": true
   },
   "settings_retries_owner_info_header": {
@@ -5686,7 +5686,7 @@
     "_human": true
   },
   "traceroute_settings_footer": {
-    "value": "Ein Traceroute prüft eine von dir Hop für Hop gewählte Route und meldet das Signal je Hop. Einmalig (keine Wiederholung) — du hast den Pfad gewählt. Standard 30 s Timeout.",
+    "value": "Ein Traceroute prüft eine von dir Hop für Hop gewählte Route und meldet das Signal je Hop. Einmalig (keine Wiederholung), da du den Pfad gewählt hast. Standard 30 s Timeout.",
     "_human": true
   },
   "traceroute_add_hops_hint": {
@@ -8367,9 +8367,8 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Wie lange auf eine Antwort gewartet werden soll, bevor aufgegeben wird – gilt für CLI (set name / position / reboot / advert / clock / ver), Status, Telemetrie, Eigentümer-Info, Anmeldung und Pfadverfolgung. Standardwert 30 s, Bereich 10–60. Dies ist die Zahl, von der aus der Countdown für laufende Anfragen herunterzählt.",
-    "_human": true,
-    "_seeded": "2026-08-12"
+    "value": "Wie lange auf eine Antwort gewartet werden soll, bevor aufgegeben wird. Gilt für CLI (set name / position / reboot / advert / clock / ver), Status, Telemetrie, Eigentümer-Info, Anmeldung und Pfadverfolgung. Standardwert 30 s, Bereich 10-60. Dies ist die Zahl, von der aus der Countdown für laufende Anfragen herunterzählt.",
+    "_human": true
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maximale Wiederholungsversuche",
@@ -8382,9 +8381,8 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Feste Obergrenze für benutzerinitiierte Wiederholungsversuche pro ausgehender Nachricht – das orangefarbene ↻-Symbol auf nicht bestätigten Sprechblasen. Sobald die Obergrenze erreicht ist, wird das Symbol ausgegraut und akzeptiert keine Tippen mehr. Standardwert 5 (entspricht der automatischen Wiederholungsleiter: 3× direkt + 2× Flood).",
-    "_human": true,
-    "_seeded": "2026-08-12"
+    "value": "Feste Obergrenze für benutzerinitiierte Wiederholungsversuche pro ausgehender Nachricht (das orangefarbene ↻-Symbol auf nicht bestätigten Sprechblasen). Sobald die Obergrenze erreicht ist, wird das Symbol ausgegraut und akzeptiert keine Tippen mehr. Standardwert 5 (entspricht der automatischen Wiederholungsleiter: 3× direkt + 2× Flood).",
+    "_human": true
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanalverzögerung",
@@ -8437,9 +8435,8 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Ermittelt die Route zu einem Repeater. Standard: 0 Wiederholungsversuche (ein einziger Versuch) – die Standard-Firmware setzt ihren „pending-trace“-Slot bei jeder neuen Anfrage zurück, sodass ein Wiederholungsversuch auf der Telefonseite eine langsame, noch in Bearbeitung befindliche Antwort unterbrechen kann, anstatt sie zu retten. Nur erhöhen, wenn deine Firmware dies nicht mehr tut. Bei Erhöhung 10 s zwischen den Versuchen.",
-    "_human": true,
-    "_seeded": "2026-08-12"
+    "value": "Ermittelt die Route zu einem Repeater. Standard: 0 Wiederholungsversuche (ein einziger Versuch). Die Standard-Firmware setzt ihren „pending-trace“-Slot bei jeder neuen Anfrage zurück, sodass ein Wiederholungsversuch auf der Telefonseite eine langsame, noch in Bearbeitung befindliche Antwort unterbrechen kann, anstatt sie zu retten. Nur erhöhen, wenn deine Firmware dies nicht mehr tut. Bei Erhöhung 10 s zwischen den Versuchen.",
+    "_human": true
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervall",
@@ -8516,11 +8513,11 @@
     "_human": true
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Keine Antwort — dieser Repeater unterstützt Firmware-Versions-Abfragen evtl. nicht (benötigt fw v2+) oder ist außer Reichweite.",
+    "value": "Keine Antwort: Dieser Repeater unterstützt Firmware-Versions-Abfragen evtl. nicht (benötigt fw v2+) oder ist außer Reichweite.",
     "_human": true
   },
   "repeater_err_no_response_owner": {
-    "value": "Keine Antwort — dieser Repeater unterstützt Besitzer-Infos evtl. nicht oder ist außer Reichweite.",
+    "value": "Keine Antwort: Dieser Repeater unterstützt Besitzer-Infos evtl. nicht oder ist außer Reichweite.",
     "_human": true
   },
   "repeater_err_not_connected": {

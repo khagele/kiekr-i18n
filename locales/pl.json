@@ -7217,9 +7217,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Jak długo należy czekać na echo z przekaźnika w przypadku komunikatu kanałowego, zanim pojawi się ikona ponownej próby. Domyślnie 10 s. Wartość tę należy zmniejszyć w przypadku szybkich siatek, gdzie pożądane jest wcześniejsze ponowienie próby; zwiększyć w przypadku wolnych lub rozległych siatek, gdzie pierwsze echo może pojawić się dopiero po 20–30 s.\n\nOpóźnienie ponownej próby DM jest ustalone na 140 s — śledzi ono czas trwania drabinki automatycznych ponownych prób na poziomie połączeń. Ujawnienie tej wartości spowodowałoby wyświetlenie przycisku ręcznej ponownej próby przed zakończeniem łańcucha automatycznych ponownych prób, co spowodowałoby przeplatanie się prób ręcznych i automatycznych oraz wprowadziłoby zamieszanie w liczniku prób bańki.",
+    "value": "Jak długo należy czekać na echo z przekaźnika w przypadku komunikatu kanałowego, zanim pojawi się ikona ponownej próby. Domyślnie 10 s. Wartość tę należy zmniejszyć w przypadku szybkich siatek, gdzie pożądane jest wcześniejsze ponowienie próby; zwiększyć w przypadku wolnych lub rozległych siatek, gdzie pierwsze echo może pojawić się dopiero po 20-30 s.\n\nOpóźnienie ponownej próby DM jest ustalone na 140 s. Śledzi ono czas trwania drabinki automatycznych ponownych prób na poziomie połączeń. Ujawnienie tej wartości spowodowałoby wyświetlenie przycisku ręcznej ponownej próby przed zakończeniem łańcucha automatycznych ponownych prób, co spowodowałoby przeplatanie się prób ręcznych i automatycznych oraz wprowadziłoby zamieszanie w liczniku prób bańki.",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Opóźnienie ponownej próby kanału",
@@ -7237,9 +7237,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Sztywny limit ponownych prób inicjowanych przez użytkownika dla każdej wysyłanej wiadomości — pomarańczowy symbol ↻ na dymkach bez potwierdzenia odbioru. Po osiągnięciu limitu symbol staje się szary i nie reaguje już na dotknięcia. Domyślnie 5 (odpowiada schematowi automatycznych ponownych prób: 3× bezpośrednie + 2× flood).",
+    "value": "Sztywny limit ponownych prób inicjowanych przez użytkownika dla każdej wysyłanej wiadomości (pomarańczowy symbol ↻ na dymkach bez potwierdzenia odbioru). Po osiągnięciu limitu symbol staje się szary i nie reaguje już na dotknięcia. Domyślnie 5 (odpowiada schematowi automatycznych ponownych prób: 3× bezpośrednie + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limit ręcznych ponownych prób",
@@ -7252,9 +7252,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Ile razy aplikacja ponownie wysyła żądanie informacji o właścicielu, jeśli nie otrzyma odpowiedzi, oraz jak długo czeka między kolejnymi próbami. Domyślnie 1 ponowna próba, odstęp 8 sekund. Zazwyczaj wystarczy jedna próba — żądanie trafia do konkretnego przekaźnika, więc jakość połączenia jest przewidywalna.",
+    "value": "Ile razy aplikacja ponownie wysyła żądanie informacji o właścicielu, jeśli nie otrzyma odpowiedzi, oraz jak długo czeka między kolejnymi próbami. Domyślnie 1 ponowna próba, odstęp 8 sekund. Zazwyczaj wystarczy jedna próba: żądanie trafia do konkretnego przekaźnika, więc jakość połączenia jest przewidywalna.",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informacje o właścicielu",
@@ -7507,9 +7507,9 @@
     "_seeded": "2026-07-01"
   },
   "traceroute_settings_footer": {
-    "value": "Komenda `traceroute` sprawdza wybraną przez użytkownika trasę, przechodząc przez kolejne węzły, i wyświetla informacje o sygnale dla każdego z nich. Tryb jednorazowy (bez ponownych prób) — użytkownik wybiera ścieżkę. Domyślny limit czasu wynosi 30 s.",
+    "value": "Komenda `traceroute` sprawdza wybraną przez użytkownika trasę, przechodząc przez kolejne węzły, i wyświetla informacje o sygnale dla każdego z nich. Tryb jednorazowy (bez ponownych prób), ponieważ użytkownik wybiera ścieżkę. Domyślny limit czasu wynosi 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-01"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "tylko słyszał",
@@ -10204,9 +10204,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Jak długo czekać na odpowiedź przed zrezygnowaniem — dotyczy CLI (ustaw nazwa / pozycja / restart / ogłoszenie / zegar / wersja), statusu, telemetrii, informacji o właścicielu, logowania i śledzenia ścieżki. Domyślnie 30 s, zakres 10–60. Jest to liczba, od której odlicza się czas trwania żądania.",
+    "value": "Jak długo czekać na odpowiedź przed zrezygnowaniem. Dotyczy CLI (ustaw nazwa / pozycja / restart / ogłoszenie / zegar / wersja), statusu, telemetrii, informacji o właścicielu, logowania i śledzenia ścieżki. Domyślnie 30 s, zakres 10-60. Jest to liczba, od której odlicza się czas trwania żądania.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maksymalna liczba ponownych prób",
@@ -10219,9 +10219,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Sztywny limit ponownych prób inicjowanych przez użytkownika na jedną wiadomość wychodzącą — pomarańczowy symbol ↻ na bąbelkach bez potwierdzenia. Po osiągnięciu limitu symbol staje się szary i przestaje akceptować dotknięcia. Domyślnie 5 (odpowiada schematowi automatycznych ponownych prób: 3× bezpośrednie + 2× zalewowe).",
+    "value": "Sztywny limit ponownych prób inicjowanych przez użytkownika na jedną wiadomość wychodzącą (pomarańczowy symbol ↻ na bąbelkach bez potwierdzenia). Po osiągnięciu limitu symbol staje się szary i przestaje akceptować dotknięcia. Domyślnie 5 (odpowiada schematowi automatycznych ponownych prób: 3× bezpośrednie + 2× zalewowe).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Opóźnienie kanału",
@@ -10274,9 +10274,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Wykrywa trasę do repeatera. Domyślnie 0 ponownych prób (pojedyncza próba) — standardowe oprogramowanie układowe resetuje swój slot śledzenia oczekujących żądań przy każdym nowym żądaniu, więc ponowna próba po stronie telefonu może spowodować utratę powolnej odpowiedzi w trakcie przesyłania, zamiast ją uratować. Zwiększ tę wartość tylko wtedy, gdy oprogramowanie układowe przestanie tak działać. W przypadku zwiększenia wartości — 10 s między próbami.",
+    "value": "Wykrywa trasę do repeatera. Domyślnie 0 ponownych prób (pojedyncza próba). Standardowe oprogramowanie układowe resetuje swój slot śledzenia oczekujących żądań przy każdym nowym żądaniu, więc ponowna próba po stronie telefonu może spowodować utratę powolnej odpowiedzi w trakcie przesyłania, zamiast ją uratować. Zwiększ tę wartość tylko wtedy, gdy oprogramowanie układowe przestanie tak działać. W przypadku zwiększenia wartości: 10 s między próbami.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interwał",
@@ -10364,14 +10364,14 @@
     "_seeded": "2026-08-12"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Brak odpowiedzi — ten repeater może nie obsługiwać żądań dotyczących wersji oprogramowania układowego (wymagana wersja fw v2+) lub znajduje się poza zasięgiem.",
+    "value": "Brak odpowiedzi: ten repeater może nie obsługiwać żądań dotyczących wersji oprogramowania układowego (wymagana wersja fw v2+) lub znajduje się poza zasięgiem.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Brak odpowiedzi — ten repeater może nie obsługiwać informacji o właścicielu lub znajduje się poza zasięgiem.",
+    "value": "Brak odpowiedzi: ten repeater może nie obsługiwać informacji o właścicielu lub znajduje się poza zasięgiem.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Brak połączenia z urządzeniem towarzyszącym — najpierw podłącz węzeł.",

@@ -6019,7 +6019,7 @@
     "_human": true
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Cuánto esperar un eco de repetidor en un mensaje de canal antes de mostrar el glifo de reintento. Predeterminado 10 s. Más bajo para mallas rápidas donde quieras reintentar antes; más alto en mallas lentas / lejanas donde el primer eco puede tardar 20–30 s.\n\nEl retardo de reintento de MD es fijo en 140 s — sigue la duración de la escalera de reintentos automáticos a nivel de cable. Exponerlo mostraría el botón de reintento manual antes de que termine la cadena de reintentos automáticos, lo que intercalaría reintentos manuales + automáticos y confundiría el contador de intentos de la burbuja.",
+    "value": "Cuánto esperar un eco de repetidor en un mensaje de canal antes de mostrar el glifo de reintento. Predeterminado 10 s. Más bajo para mallas rápidas donde quieras reintentar antes; más alto en mallas lentas / lejanas donde el primer eco puede tardar 20-30 s.\n\nEl retardo de reintento de MD es fijo en 140 s. Sigue la duración de la escalera de reintentos automáticos a nivel de cable. Exponerlo mostraría el botón de reintento manual antes de que termine la cadena de reintentos automáticos, lo que intercalaría reintentos manuales + automáticos y confundiría el contador de intentos de la burbuja.",
     "_human": true
   },
   "settings_retries_channel_delay_header": {
@@ -6035,7 +6035,7 @@
     "_human": true
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Límite estricto de reintentos iniciados por el usuario por cada mensaje saliente — el glifo naranja ↻ en las burbujas sin ACK. Una vez que alcanzas el límite, el glifo se atenúa y deja de aceptar toques. Predeterminado 5 (coincide con la escalera de reintentos automáticos: 3× directo + 2× flood).",
+    "value": "Límite estricto de reintentos iniciados por el usuario por cada mensaje saliente (el glifo naranja ↻ en las burbujas sin ACK). Una vez que alcanzas el límite, el glifo se atenúa y deja de aceptar toques. Predeterminado 5 (coincide con la escalera de reintentos automáticos: 3× directo + 2× flood).",
     "_human": true
   },
   "settings_retries_manual_cap_header": {
@@ -8935,9 +8935,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Cuánto tiempo esperar una respuesta antes de dar por perdida la solicitud; se aplica a la CLI (set name / position / reboot / advert / clock / ver), estado, telemetría, información del propietario, inicio de sesión y seguimiento de ruta. Por defecto, 30 s; rango: 10–60. Este es el número desde el que comienza la cuenta atrás de la solicitud en curso.",
+    "value": "Cuánto tiempo esperar una respuesta antes de dar por perdida la solicitud; se aplica a la CLI (set name / position / reboot / advert / clock / ver), estado, telemetría, información del propietario, inicio de sesión y seguimiento de ruta. Por defecto, 30 s; rango: 10-60. Este es el número desde el que comienza la cuenta atrás de la solicitud en curso.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Número máximo de reintentos",
@@ -8950,9 +8950,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Límite máximo de reintentos iniciados por el usuario por cada mensaje saliente — el símbolo naranja ↻ en las burbujas sin confirmar. Una vez alcanzado el límite, el símbolo se vuelve gris y deja de aceptar pulsaciones. Por defecto, 5 (coincide con la escala de reintentos automáticos: 3× directos + 2× en masa).",
+    "value": "Límite máximo de reintentos iniciados por el usuario por cada mensaje saliente (el símbolo naranja ↻ en las burbujas sin confirmar). Una vez alcanzado el límite, el símbolo se vuelve gris y deja de aceptar pulsaciones. Por defecto, 5 (coincide con la escala de reintentos automáticos: 3× directos + 2× en masa).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Retardo del canal",

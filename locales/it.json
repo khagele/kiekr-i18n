@@ -5938,7 +5938,7 @@
     "_human": true
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Quanto tempo attendere per l'eco di un ripetitore su un messaggio di canale prima di visualizzare l'icona di riprova. Impostazione predefinita: 10 s. Ridurre il valore per le reti veloci in cui si desidera riprovare prima; aumentarlo per le reti lente o estese in cui il primo eco può richiedere 20–30 s.\n\nIl ritardo di riprova DM è fissato a 140 s — segue la durata della sequenza di riprove automatiche a livello di cavo. Esporlo farebbe apparire il pulsante di riprova manuale prima che la catena di riprove automatiche finisca, il che intreccierebbe le riprove manuali e automatiche e confonderebbe il contatore dei tentativi della bolla.",
+    "value": "Quanto tempo attendere per l'eco di un ripetitore su un messaggio di canale prima di visualizzare l'icona di riprova. Impostazione predefinita: 10 s. Ridurre il valore per le reti veloci in cui si desidera riprovare prima; aumentarlo per le reti lente o estese in cui il primo eco può richiedere 20-30 s.\n\nIl ritardo di riprova DM è fissato a 140 s. Segue la durata della sequenza di riprove automatiche a livello di cavo. Esporlo farebbe apparire il pulsante di riprova manuale prima che la catena di riprove automatiche finisca, il che intreccierebbe le riprove manuali e automatiche e confonderebbe il contatore dei tentativi della bolla.",
     "_human": true
   },
   "settings_retries_channel_delay_header": {
@@ -5954,7 +5954,7 @@
     "_human": true
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limite massimo rigido ai tentativi di reinvio avviati dall’utente per ogni messaggio in uscita — il simbolo arancione ↻ sulle bolle senza conferma di ricezione. Una volta raggiunto il limite, il simbolo diventa grigio e non accetta più tocchi. Impostazione predefinita: 5 (corrisponde alla sequenza di tentativi automatici: 3× diretti + 2× flood).",
+    "value": "Limite massimo rigido ai tentativi di reinvio avviati dall’utente per ogni messaggio in uscita (il simbolo arancione ↻ sulle bolle senza conferma di ricezione). Una volta raggiunto il limite, il simbolo diventa grigio e non accetta più tocchi. Impostazione predefinita: 5 (corrisponde alla sequenza di tentativi automatici: 3× diretti + 2× flood).",
     "_human": true
   },
   "settings_retries_manual_cap_header": {
@@ -8850,9 +8850,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Per quanto tempo attendere una risposta prima di rinunciare — si applica a CLI (imposta nome / posizione / riavvio / annuncio / orologio / versione), stato, telemetria, informazioni sul proprietario, accesso e tracciamento del percorso. Impostazione predefinita 30 s, intervallo 10–60. Questo è il numero da cui parte il conto alla rovescia in corso.",
+    "value": "Per quanto tempo attendere una risposta prima di rinunciare. Si applica a CLI (imposta nome / posizione / riavvio / annuncio / orologio / versione), stato, telemetria, informazioni sul proprietario, accesso e tracciamento del percorso. Impostazione predefinita 30 s, intervallo 10-60. Questo è il numero da cui parte il conto alla rovescia in corso.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Numero massimo di tentativi",
@@ -8865,9 +8865,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limite massimo rigido sui tentativi avviati dall’utente per ogni messaggio in uscita — il simbolo arancione ↻ sulle bolle senza conferma. Una volta raggiunto il limite, il simbolo diventa grigio e smette di accettare tocchi. Impostazione predefinita 5 (corrisponde alla scala dei tentativi automatici: 3× diretti + 2× flood).",
+    "value": "Limite massimo rigido sui tentativi avviati dall’utente per ogni messaggio in uscita (il simbolo arancione ↻ sulle bolle senza conferma). Una volta raggiunto il limite, il simbolo diventa grigio e smette di accettare tocchi. Impostazione predefinita 5 (corrisponde alla scala dei tentativi automatici: 3× diretti + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Ritardo del canale",
@@ -8920,9 +8920,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Individua il percorso verso un ripetitore. Impostazione predefinita: 0 tentativi (un unico tentativo) — il firmware di serie azzera il proprio slot di traccia in sospeso ad ogni nuova richiesta, quindi un nuovo tentativo da parte del telefono può far perdere una risposta lenta in transito anziché recuperarla. Aumentare solo se il firmware smette di comportarsi in questo modo. Se aumentato, 10 s tra un tentativo e l’altro.",
+    "value": "Individua il percorso verso un ripetitore. Impostazione predefinita: 0 tentativi (un unico tentativo). Il firmware di serie azzera il proprio slot di traccia in sospeso ad ogni nuova richiesta, quindi un nuovo tentativo da parte del telefono può far perdere una risposta lenta in transito anziché recuperarla. Aumentare solo se il firmware smette di comportarsi in questo modo. Se aumentato, 10 s tra un tentativo e l’altro.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervallo",
@@ -9010,14 +9010,14 @@
     "_seeded": "2026-08-12"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Nessuna risposta — questo ripetitore potrebbe non supportare le richieste relative alla versione del firmware (richiede fw v2+), oppure è fuori portata.",
+    "value": "Nessuna risposta: questo ripetitore potrebbe non supportare le richieste relative alla versione del firmware (richiede fw v2+), oppure è fuori portata.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Nessuna risposta — questo ripetitore potrebbe non supportare le informazioni sul proprietario, oppure è fuori portata.",
+    "value": "Nessuna risposta: questo ripetitore potrebbe non supportare le informazioni sul proprietario, oppure è fuori portata.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Non connesso a un dispositivo associato — connetti prima un nodo.",

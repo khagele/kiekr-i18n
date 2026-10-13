@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Hvor lenge man skal vente på et ekko fra en repeater på en kanalmelding før symbolet for nytt forsøk vises. Standardverdi: 10 s. Senk verdien for raske nettverk der man ønsker å prøve på nytt raskere; øk verdien for langsomme eller spredte nettverk der det første ekkoet kan ta 20–30 s.\n\nForsinkelsen for DM-forsøk på nytt er fastsatt til 140 s — den følger varigheten av den automatiske forsøkskjeden på ledningsnivå. Å eksponere den ville føre til at knappen for manuelt forsøk på nytt dukket opp før den automatiske forsøkskjeden var fullført, noe som ville føre til at manuelle og automatiske forsøk på nytt ble blandet sammen og forvirre boblenes forsøks teller.",
+    "value": "Hvor lenge man skal vente på et ekko fra en repeater på en kanalmelding før symbolet for nytt forsøk vises. Standardverdi: 10 s. Senk verdien for raske nettverk der man ønsker å prøve på nytt raskere; øk verdien for langsomme eller spredte nettverk der det første ekkoet kan ta 20-30 s.\n\nForsinkelsen for DM-forsøk på nytt er fastsatt til 140 s. Den følger varigheten av den automatiske forsøkskjeden på ledningsnivå. Å eksponere den ville føre til at knappen for manuelt forsøk på nytt dukket opp før den automatiske forsøkskjeden var fullført, noe som ville føre til at manuelle og automatiske forsøk på nytt ble blandet sammen og forvirre boblenes forsøks teller.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Forsinkelse ved nytt forsøk på kanal",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Fast grense for antall brukerinitierte forsøk per utgående melding — det oransje ↻-symbolet på bobler som ikke er bekreftet. Når du når grensen, blir symbolet grått og tar ikke lenger imot trykk. Standardverdi 5 (samsvarer med skalaen for automatiske forsøk: 3× direkte + 2× flom).",
+    "value": "Fast grense for antall brukerinitierte forsøk per utgående melding (det oransje ↻-symbolet på bobler som ikke er bekreftet). Når du når grensen, blir symbolet grått og tar ikke lenger imot trykk. Standardverdi 5 (samsvarer med skalaen for automatiske forsøk: 3× direkte + 2× flom).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Manuell begrensning på antall forsøk",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Hvor mange ganger appen sender en forespørsel om eierinformasjon på nytt hvis det ikke kommer noe svar, og hvor lenge den venter mellom forsøkene. Standardinnstilling: 1 nytt forsøk, 8 s mellomrom. Ett nytt forsøk er vanligvis nok – forespørselen sendes til en bestemt repeater, så forbindelseskvaliteten er forutsigbar.",
+    "value": "Hvor mange ganger appen sender en forespørsel om eierinformasjon på nytt hvis det ikke kommer noe svar, og hvor lenge den venter mellom forsøkene. Standardinnstilling: 1 nytt forsøk, 8 s mellomrom. Ett nytt forsøk er vanligvis nok: forespørselen sendes til en bestemt repeater, så forbindelseskvaliteten er forutsigbar.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Eieropplysninger",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "En traceroute tester en rute du har valgt hopp for hopp, og rapporterer signal per hopp. Én gang (ingen gjentak) — du valgte banen selv. Standard 30 s tidsavbrudd.",
+    "value": "En traceroute tester en rute du har valgt hopp for hopp, og rapporterer signal per hopp. Én gang (ingen gjentak), siden du valgte banen selv. Standard 30 s tidsavbrudd.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "bare hørt",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Hvor lenge det skal vente på svar før det gir opp — gjelder for CLI (set name / position / reboot / advert / clock / ver), status, telemetri, eierinfo, innlogging og ruteoppslag. Standard 30 s, område 10–60. Dette er tallet nedtellingen for pågående forespørsler starter fra.",
+    "value": "Hvor lenge det skal vente på svar før det gir opp. Gjelder for CLI (set name / position / reboot / advert / clock / ver), status, telemetri, eierinfo, innlogging og ruteoppslag. Standard 30 s, område 10-60. Dette er tallet nedtellingen for pågående forespørsler starter fra.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maks forsøk",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Fast grense for brukerinitierte forsøk per utgående melding — det oransje ↻-symbolet på ubekreftede meldingsbobler. Når grensen er nådd, gråtones symbolet og godtar ikke flere trykk. Standard 5 (samsvarer med automatisk-forsøk-stigen: 3× direkte + 2× flood).",
+    "value": "Fast grense for brukerinitierte forsøk per utgående melding (det oransje ↻-symbolet på ubekreftede meldingsbobler). Når grensen er nådd, gråtones symbolet og godtar ikke flere trykk. Standard 5 (samsvarer med automatisk-forsøk-stigen: 3× direkte + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanalforsinkelse",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Finner ruten til en repeater. Standard 0 forsøk (ett enkelt forsøk) — standard-fastvare tilbakestiller sin ventende trace-plass ved hver nye forespørsel, slik at et nytt forsøk fra telefonen kan miste et sent svar i stedet for å redde det. Øk kun hvis fastvaren din ikke gjør dette lenger. 10 s mellom forsøkene hvis økt.",
+    "value": "Finner ruten til en repeater. Standard 0 forsøk (ett enkelt forsøk). Standard-fastvare tilbakestiller sin ventende trace-plass ved hver nye forespørsel, slik at et nytt forsøk fra telefonen kan miste et sent svar i stedet for å redde det. Øk kun hvis fastvaren din ikke gjør dette lenger. 10 s mellom forsøkene hvis økt.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervall",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Ingen respons — denne repeateren støtter kanskje ikke forespørsler om fastvareversjon (krever fw v2+), eller er utenfor rekkevidde.",
+    "value": "Ingen respons: denne repeateren støtter kanskje ikke forespørsler om fastvareversjon (krever fw v2+), eller er utenfor rekkevidde.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Ingen respons — denne repeateren støtter kanskje ikke eierinfo, eller er utenfor rekkevidde.",
+    "value": "Ingen respons: denne repeateren støtter kanskje ikke eierinfo, eller er utenfor rekkevidde.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Ikke tilkoblet en companion-enhet — koble til en node først.",

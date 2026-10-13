@@ -7225,9 +7225,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Cât timp trebuie așteptat un ecou de la un repetor pentru un mesaj de canal înainte de a afișa simbolul de reîncercare. Valoarea implicită este de 10 s. Se poate reduce pentru rețelele rapide, unde se dorește o reîncercare mai rapidă; se poate mări pentru rețelele lente sau întinse, unde primul ecou poate dura 20–30 s.\n\nÎntârzierea de reîncercare a mesajelor directe (DM) este fixată la 140 s — aceasta urmărește durata lanțului de reîncercări automate la nivel de conexiune. Expunerea acestei valori ar afișa butonul de reîncercare manuală înainte ca lanțul de reîncercări automate să se încheie, ceea ce ar intercală reîncercările manuale cu cele automate și ar crea confuzie în contorul de încercări al bulei.",
+    "value": "Cât timp trebuie așteptat un ecou de la un repetor pentru un mesaj de canal înainte de a afișa simbolul de reîncercare. Valoarea implicită este de 10 s. Se poate reduce pentru rețelele rapide, unde se dorește o reîncercare mai rapidă; se poate mări pentru rețelele lente sau întinse, unde primul ecou poate dura 20-30 s.\n\nÎntârzierea de reîncercare a mesajelor directe (DM) este fixată la 140 s. Aceasta urmărește durata lanțului de reîncercări automate la nivel de conexiune. Expunerea acestei valori ar afișa butonul de reîncercare manuală înainte ca lanțul de reîncercări automate să se încheie, ceea ce ar intercală reîncercările manuale cu cele automate și ar crea confuzie în contorul de încercări al bulei.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Întârzierea între încercările de conectare la canal",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limită maximă strictă pentru numărul de încercări de retrimitere inițiate de utilizator pentru fiecare mesaj trimis — simbolul portocaliu ↻ de pe baloanele fără confirmare de primire. Odată ce se atinge limita, simbolul devine gri și nu mai acceptă apăsări. Valoarea implicită este 5 (corespunde schemei de retrimitere automată: 3× direct + 2× flood).",
+    "value": "Limită maximă strictă pentru numărul de încercări de retrimitere inițiate de utilizator pentru fiecare mesaj trimis (simbolul portocaliu ↻ de pe baloanele fără confirmare de primire). Odată ce se atinge limita, simbolul devine gri și nu mai acceptă apăsări. Valoarea implicită este 5 (corespunde schemei de retrimitere automată: 3× direct + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limita manuală a încercărilor repetate",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "De câte ori aplicația retrimite o solicitare de informații despre proprietar dacă nu primește răspuns și cât timp așteaptă între încercări. Implicit: o singură încercare, cu un interval de 8 s. De obicei, o singură încercare este suficientă — solicitarea este trimisă către un repetor specific, astfel încât calitatea legăturii este previzibilă.",
+    "value": "De câte ori aplicația retrimite o solicitare de informații despre proprietar dacă nu primește răspuns și cât timp așteaptă între încercări. Implicit: o singură încercare, cu un interval de 8 s. De obicei, o singură încercare este suficientă: solicitarea este trimisă către un repetor specific, astfel încât calitatea legăturii este previzibilă.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informații despre proprietar",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Un traceroute testează o rută aleasă de tine salt cu salt și raportează semnalul pe salt. O singură dată (fără reîncercări) — tu ai ales calea. Timeout implicit: 30 s.",
+    "value": "Un traceroute testează o rută aleasă de tine salt cu salt și raportează semnalul pe salt. O singură dată (fără reîncercări), deoarece tu ai ales calea. Timeout implicit: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "doar auzit",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Cât timp se așteaptă un răspuns înainte de a renunța — se aplică la CLI (set name / position / reboot / advert / clock / ver), status, telemetrie, informații despre proprietar, autentificare și urmărirea traseului. Implicit 30 s, interval 10–60. Acesta este numărul de la care numără invers cronometrul cererii în curs.",
+    "value": "Cât timp se așteaptă un răspuns înainte de a renunța. Se aplică la CLI (set name / position / reboot / advert / clock / ver), status, telemetrie, informații despre proprietar, autentificare și urmărirea traseului. Implicit 30 s, interval 10-60. Acesta este numărul de la care numără invers cronometrul cererii în curs.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Reîncercări maxime",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limită fixă pentru reîncercările inițiate de utilizator per mesaj trimis — simbolul portocaliu ↻ pe bulele neconfirmate. Când se atinge limita, simbolul se estompează în gri și nu mai acceptă apăsări. Implicit 5 (corespunde treptelor de reîncercare automată: 3× direct + 2× flood).",
+    "value": "Limită fixă pentru reîncercările inițiate de utilizator per mesaj trimis (simbolul portocaliu ↻ pe bulele neconfirmate). Când se atinge limita, simbolul se estompează în gri și nu mai acceptă apăsări. Implicit 5 (corespunde treptelor de reîncercare automată: 3× direct + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Întârziere canal",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Descoperă ruta către un repeater. Implicit 0 reîncercări (o singură tentativă) — firmware-ul standard resetează slotul său de trace în așteptare la fiecare cerere nouă, astfel încât o reîncercare pe partea telefonului poate întrerupe un răspuns lent în curs, în loc să îl salveze. Crește doar dacă firmware-ul tău nu mai face asta. 10 s între tentative dacă e crescut.",
+    "value": "Descoperă ruta către un repeater. Implicit 0 reîncercări (o singură tentativă). Firmware-ul standard resetează slotul său de trace în așteptare la fiecare cerere nouă, astfel încât o reîncercare pe partea telefonului poate întrerupe un răspuns lent în curs, în loc să îl salveze. Crește doar dacă firmware-ul tău nu mai face asta. 10 s între tentative dacă e crescut.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Niciun răspuns — acest repeater poate să nu suporte cererile de versiune firmware (necesită fw v2+), sau este în afara razei.",
+    "value": "Niciun răspuns: acest repeater poate să nu suporte cererile de versiune firmware (necesită fw v2+), sau este în afara razei.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Niciun răspuns — acest repeater poate să nu suporte informații despre proprietar, sau este în afara razei.",
+    "value": "Niciun răspuns: acest repeater poate să nu suporte informații despre proprietar, sau este în afara razei.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nu este conectat la un dispozitiv companion — conectează mai întâi un nod.",

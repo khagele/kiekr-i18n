@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Hur länge man ska vänta på ett eko från en repeater på ett kanalmeldning innan symbolen för nytt försök visas. Standardvärde: 10 s. Sänk värdet för snabba nätverk där man vill göra ett nytt försök tidigare; höj värdet för långsamma eller utspridda nätverk där det första ekot kan ta 20–30 s.\n\nFördröjningen för DM-försök är fastställd till 140 s — den följer varaktigheten för den automatiska omförsökskedjan på ledningsnivå. Om den vore synlig skulle knappen för manuellt omförsök visas innan den automatiska omförsökskedjan är avslutad, vilket skulle leda till att manuella och automatiska omförsök blandas ihop och förvirra bubblans försöksräknare.",
+    "value": "Hur länge man ska vänta på ett eko från en repeater på ett kanalmeldning innan symbolen för nytt försök visas. Standardvärde: 10 s. Sänk värdet för snabba nätverk där man vill göra ett nytt försök tidigare; höj värdet för långsamma eller utspridda nätverk där det första ekot kan ta 20-30 s.\n\nFördröjningen för DM-försök är fastställd till 140 s. Den följer varaktigheten för den automatiska omförsökskedjan på ledningsnivå. Om den vore synlig skulle knappen för manuellt omförsök visas innan den automatiska omförsökskedjan är avslutad, vilket skulle leda till att manuella och automatiska omförsök blandas ihop och förvirra bubblans försöksräknare.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Fördröjning vid nytt försök för kanalen",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Hårt tak för antalet användarinitierade omförsök per utgående meddelande — den orangefärgade ↻-symbolen på bubblor som inte har bekräftats. När du når taket blir symbolen grå och tar inte längre emot tryckningar. Standardvärde 5 (motsvarar stegen för automatiska omförsök: 3× direkt + 2× massutskick).",
+    "value": "Hårt tak för antalet användarinitierade omförsök per utgående meddelande (den orangefärgade ↻-symbolen på bubblor som inte har bekräftats). När du når taket blir symbolen grå och tar inte längre emot tryckningar. Standardvärde 5 (motsvarar stegen för automatiska omförsök: 3× direkt + 2× massutskick).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Manuell gräns för antal försök",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Hur många gånger appen skickar en begäran om ägarinformation på nytt om inget svar kommer, och hur länge den väntar mellan försöken. Standardinställning: 1 nytt försök, 8 s mellanrum. Ett nytt försök räcker vanligtvis – begäran skickas till en specifik repeater, så länkkvaliteten är förutsägbar.",
+    "value": "Hur många gånger appen skickar en begäran om ägarinformation på nytt om inget svar kommer, och hur länge den väntar mellan försöken. Standardinställning: 1 nytt försök, 8 s mellanrum. Ett nytt försök räcker vanligtvis: begäran skickas till en specifik repeater, så länkkvaliteten är förutsägbar.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Information om ägaren",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "En traceroute testar en rutt du valt hopp för hopp och rapporterar signal per hopp. En gång (inga omförsök) — du valde vägen själv. Standard-timeout 30 s.",
+    "value": "En traceroute testar en rutt du valt hopp för hopp och rapporterar signal per hopp. En gång (inga omförsök), eftersom du valde vägen själv. Standard-timeout 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "endast hörd",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Hur länge att vänta på ett svar innan man ger upp — gäller CLI (set name / position / reboot / advert / clock / ver), status, telemetri, ägarinfo, inloggning och vägspårning. Standard 30 s, intervall 10–60. Det är från detta tal nedräkningen för pågående förfrågningar startar.",
+    "value": "Hur länge att vänta på ett svar innan man ger upp. Gäller CLI (set name / position / reboot / advert / clock / ver), status, telemetri, ägarinfo, inloggning och vägspårning. Standard 30 s, intervall 10-60. Det är från detta tal nedräkningen för pågående förfrågningar startar.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Max antal försök",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Fast gräns för användarinitierade försök per utgående meddelande — den orange ↻-symbolen på obekräftade bubblor. När gränsen nås grånar symbolen och slutar acceptera tryck. Standard 5 (matchar den automatiska försöksstegen: 3× direkt + 2× flood).",
+    "value": "Fast gräns för användarinitierade försök per utgående meddelande (den orange ↻-symbolen på obekräftade bubblor). När gränsen nås grånar symbolen och slutar acceptera tryck. Standard 5 (matchar den automatiska försöksstegen: 3× direkt + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanalfördröjning",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Upptäcker vägen till en repeater. Standard 0 försök (ett enda försök) — standardfirmware återställer sin väntande spårningsplats vid varje ny förfrågan, så ett försök på telefonsidan kan tappa ett långsamt pågående svar istället för att rädda det. Höj bara om din firmware slutar göra det. 10 s mellan försöken om höjd.",
+    "value": "Upptäcker vägen till en repeater. Standard 0 försök (ett enda försök). Standardfirmware återställer sin väntande spårningsplats vid varje ny förfrågan, så ett försök på telefonsidan kan tappa ett långsamt pågående svar istället för att rädda det. Höj bara om din firmware slutar göra det. 10 s mellan försöken om höjd.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervall",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Inget svar — den här repeatern stöder eventuellt inte förfrågningar om firmwareversion (kräver fw v2+), eller är utom räckhåll.",
+    "value": "Inget svar: den här repeatern stöder eventuellt inte förfrågningar om firmwareversion (kräver fw v2+), eller är utom räckhåll.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Inget svar — den här repeatern stöder eventuellt inte ägarinfo, eller är utom räckhåll.",
+    "value": "Inget svar: den här repeatern stöder eventuellt inte ägarinfo, eller är utom räckhåll.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Inte ansluten till en companion-enhet — anslut en nod först.",

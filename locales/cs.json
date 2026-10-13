@@ -7225,9 +7225,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Jak dlouho se má čekat na ozvěnu z opakovače u zprávy kanálu, než se zobrazí ikona opakování pokusu. Výchozí hodnota je 10 s. Tuto hodnotu snižte u rychlých sítí, kde chcete pokus zopakovat dříve; zvyšte ji u pomalých nebo rozlehlých sítí, kde první ozvěna může trvat 20–30 s.\n\nZpoždění opakování DM je pevně nastaveno na 140 s — sleduje dobu trvání řetězce automatických opakování na úrovni sítě. Jeho zpřístupnění by způsobilo zobrazení tlačítka pro ruční opakování ještě před dokončením řetězce automatických opakování, což by vedlo k prolínání ručních a automatických opakování a zmátlo by to počítadlo pokusů bubliny.",
+    "value": "Jak dlouho se má čekat na ozvěnu z opakovače u zprávy kanálu, než se zobrazí ikona opakování pokusu. Výchozí hodnota je 10 s. Tuto hodnotu snižte u rychlých sítí, kde chcete pokus zopakovat dříve; zvyšte ji u pomalých nebo rozlehlých sítí, kde první ozvěna může trvat 20-30 s.\n\nZpoždění opakování DM je pevně nastaveno na 140 s. Sleduje dobu trvání řetězce automatických opakování na úrovni sítě. Jeho zpřístupnění by způsobilo zobrazení tlačítka pro ruční opakování ještě před dokončením řetězce automatických opakování, což by vedlo k prolínání ručních a automatických opakování a zmátlo by to počítadlo pokusů bubliny.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Zpoždění opakovaného pokusu o navázání kanálu",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Pevný limit počtu opakovaných pokusů iniciovaných uživatelem pro každou odchozí zprávu — oranžový symbol ↻ u bublin bez potvrzení. Jakmile dosáhnete tohoto limitu, symbol zešedne a přestane reagovat na klepnutí. Výchozí hodnota je 5 (odpovídá schématu automatických opakovaných pokusů: 3× přímé + 2× hromadné).",
+    "value": "Pevný limit počtu opakovaných pokusů iniciovaných uživatelem pro každou odchozí zprávu (oranžový symbol ↻ u bublin bez potvrzení). Jakmile dosáhnete tohoto limitu, symbol zešedne a přestane reagovat na klepnutí. Výchozí hodnota je 5 (odpovídá schématu automatických opakovaných pokusů: 3× přímé + 2× hromadné).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limit ručních opakovaných pokusů",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Kolikrát aplikace opakuje odeslání požadavku na informace o majiteli, pokud nepřijde žádná odpověď, a jak dlouho mezi jednotlivými pokusy čeká. Výchozí nastavení: 1 opakování, interval 8 s. Jedno opakování obvykle stačí – požadavek směřuje ke konkrétnímu opakovači, takže kvalita spojení je předvídatelná.",
+    "value": "Kolikrát aplikace opakuje odeslání požadavku na informace o majiteli, pokud nepřijde žádná odpověď, a jak dlouho mezi jednotlivými pokusy čeká. Výchozí nastavení: 1 opakování, interval 8 s. Jedno opakování obvykle stačí: požadavek směřuje ke konkrétnímu opakovači, takže kvalita spojení je předvídatelná.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Údaje o majiteli",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute prověří trasu, kterou jste zvolili skok po skoku, a ohlásí signál na každém skoku. Jednorázově (bez opakování) — cestu jste zvolili vy. Výchozí timeout 30 s.",
+    "value": "Traceroute prověří trasu, kterou jste zvolili skok po skoku, a ohlásí signál na každém skoku. Jednorázově (bez opakování), protože cestu jste zvolili vy. Výchozí timeout 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "pouze zaslechnut",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Jak dlouho čekat na odpověď, než se to vzdá – platí pro CLI (set name / position / reboot / advert / clock / ver), stav, telemetrii, informace o vlastníkovi, přihlášení a trasování cesty. Výchozí 30 s, rozsah 10–60. Je to číslo, od kterého odpočítává průběžné počítadlo.",
+    "value": "Jak dlouho čekat na odpověď, než se to vzdá. Platí pro CLI (set name / position / reboot / advert / clock / ver), stav, telemetrii, informace o vlastníkovi, přihlášení a trasování cesty. Výchozí 30 s, rozsah 10-60. Je to číslo, od kterého odpočítává průběžné počítadlo.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Max. opakování",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Pevný horní limit uživatelem vyvolaných opakování na odchozí zprávu – oranžová ikona ↻ na nepotvrzených bublinách. Po dosažení limitu se ikona zešedne a přestane přijímat dotyky. Výchozí 5 (odpovídá žebříčku automatických opakování: 3× přímo + 2× flood).",
+    "value": "Pevný horní limit uživatelem vyvolaných opakování na odchozí zprávu (oranžová ikona ↻ na nepotvrzených bublinách). Po dosažení limitu se ikona zešedne a přestane přijímat dotyky. Výchozí 5 (odpovídá žebříčku automatických opakování: 3× přímo + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Zpoždění kanálu",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Zjistí trasu k repeateru. Výchozí 0 opakování (jediný pokus) – standardní firmware při každém novém požadavku resetuje svůj slot čekajícího trasování, takže opakování na straně telefonu může přerušit pomalou probíhající odpověď, místo aby ji zachránilo. Zvyšte pouze tehdy, pokud váš firmware toto nedělá. Při zvýšení 10 s mezi pokusy.",
+    "value": "Zjistí trasu k repeateru. Výchozí 0 opakování (jediný pokus). Standardní firmware při každém novém požadavku resetuje svůj slot čekajícího trasování, takže opakování na straně telefonu může přerušit pomalou probíhající odpověď, místo aby ji zachránilo. Zvyšte pouze tehdy, pokud váš firmware toto nedělá. Při zvýšení 10 s mezi pokusy.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Žádná odpověď — tento repeater možná nepodporuje dotazy na verzi firmwaru (vyžaduje fw v2+) nebo je mimo dosah.",
+    "value": "Žádná odpověď: tento repeater možná nepodporuje dotazy na verzi firmwaru (vyžaduje fw v2+) nebo je mimo dosah.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Žádná odpověď — tento repeater možná nepodporuje informace o vlastníkovi nebo je mimo dosah.",
+    "value": "Žádná odpověď: tento repeater možná nepodporuje informace o vlastníkovi nebo je mimo dosah.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nepřipojeno k companion zařízení — nejprve připojte uzel.",

@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Quanto tempo esperar por um eco do repetidor numa mensagem de canal antes de exibir o ícone de nova tentativa. Valor predefinido: 10 s. Reduza este valor em malhas rápidas, onde se pretenda tentar novamente mais cedo; aumente-o em malhas lentas ou dispersas, onde o primeiro eco pode demorar 20–30 s.\n\nO atraso de nova tentativa de DM está fixado em 140 s — acompanha a duração da sequência de novas tentativas automáticas ao nível da ligação. Expor este valor faria com que o botão de nova tentativa manual aparecesse antes de a cadeia de novas tentativas automáticas terminar, o que intercalaria as novas tentativas manuais com as automáticas e confundiria o contador de tentativas da bolha.",
+    "value": "Quanto tempo esperar por um eco do repetidor numa mensagem de canal antes de exibir o ícone de nova tentativa. Valor predefinido: 10 s. Reduza este valor em malhas rápidas, onde se pretenda tentar novamente mais cedo; aumente-o em malhas lentas ou dispersas, onde o primeiro eco pode demorar 20-30 s.\n\nO atraso de nova tentativa de DM está fixado em 140 s. Acompanha a duração da sequência de novas tentativas automáticas ao nível da ligação. Expor este valor faria com que o botão de nova tentativa manual aparecesse antes de a cadeia de novas tentativas automáticas terminar, o que intercalaria as novas tentativas manuais com as automáticas e confundiria o contador de tentativas da bolha.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Atraso na repetição da tentativa de ligação",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limite máximo de tentativas de reenvio iniciadas pelo utilizador por mensagem enviada — o símbolo laranja ↻ nas bolhas sem confirmação de receção. Assim que atingir o limite, o símbolo fica a cinzento e deixa de aceitar toques. Valor predefinido: 5 (corresponde à escala de tentativas automáticas: 3× diretas + 2× em massa).",
+    "value": "Limite máximo de tentativas de reenvio iniciadas pelo utilizador por mensagem enviada (o símbolo laranja ↻ nas bolhas sem confirmação de receção). Assim que atingir o limite, o símbolo fica a cinzento e deixa de aceitar toques. Valor predefinido: 5 (corresponde à escala de tentativas automáticas: 3× diretas + 2× em massa).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limite de novas tentativas manuais",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Quantas vezes a aplicação reenvia um pedido de informações do proprietário caso não receba resposta e quanto tempo espera entre cada tentativa. Por predefinição, 1 nova tentativa, com um intervalo de 8 s. Normalmente, basta uma nova tentativa — o pedido é enviado para um repetidor específico, pelo que a qualidade da ligação é previsível.",
+    "value": "Quantas vezes a aplicação reenvia um pedido de informações do proprietário caso não receba resposta e quanto tempo espera entre cada tentativa. Por predefinição, 1 nova tentativa, com um intervalo de 8 s. Normalmente, basta uma nova tentativa: o pedido é enviado para um repetidor específico, pelo que a qualidade da ligação é previsível.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informações sobre o proprietário",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Um traceroute testa uma rota que escolheu salto a salto e comunica o sinal por salto. Uma única vez (sem repetições) — o caminho foi escolhido por si. Timeout predefinido: 30 s.",
+    "value": "Um traceroute testa uma rota que escolheu salto a salto e comunica o sinal por salto. Uma única vez (sem repetições), pois o caminho foi escolhido por si. Timeout predefinido: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "apenas ouvido",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Quanto tempo esperar por uma resposta antes de desistir — aplica-se a CLI (set name / position / reboot / advert / clock / ver), estado, telemetria, informação do proprietário, sessão e traço de caminho. Predefinição 30 s, intervalo 10–60. É o número a partir do qual a contagem decrescente em curso começa.",
+    "value": "Quanto tempo esperar por uma resposta antes de desistir. Aplica-se a CLI (set name / position / reboot / advert / clock / ver), estado, telemetria, informação do proprietário, sessão e traço de caminho. Predefinição 30 s, intervalo 10-60. É o número a partir do qual a contagem decrescente em curso começa.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Máximo de tentativas",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limite rígido de tentativas iniciadas pelo utilizador por mensagem enviada — o símbolo ↻ laranja em balões sem ACK. Ao atingir o limite, o símbolo fica cinzento e deixa de aceitar toques. Predefinição 5 (corresponde à sequência de repetição automática: 3× direta + 2× flood).",
+    "value": "Limite rígido de tentativas iniciadas pelo utilizador por mensagem enviada (o símbolo ↻ laranja em balões sem ACK). Ao atingir o limite, o símbolo fica cinzento e deixa de aceitar toques. Predefinição 5 (corresponde à sequência de repetição automática: 3× direta + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Atraso do canal",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Descobre a rota até um repetidor. Predefinição 0 repetições (uma única tentativa) — o firmware padrão reinicia o seu slot de trace pendente a cada novo pedido, por isso uma repetição do lado do telefone pode interromper uma resposta lenta em curso em vez de a salvar. Aumenta apenas se o teu firmware deixar de fazer isso. 10 s entre tentativas se for aumentado.",
+    "value": "Descobre a rota até um repetidor. Predefinição 0 repetições (uma única tentativa). O firmware padrão reinicia o seu slot de trace pendente a cada novo pedido, por isso uma repetição do lado do telefone pode interromper uma resposta lenta em curso em vez de a salvar. Aumenta apenas se o teu firmware deixar de fazer isso. 10 s entre tentativas se for aumentado.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervalo",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Sem resposta — este repetidor pode não suportar pedidos de versão de firmware (requer fw v2+), ou está fora de alcance.",
+    "value": "Sem resposta: este repetidor pode não suportar pedidos de versão de firmware (requer fw v2+), ou está fora de alcance.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Sem resposta — este repetidor pode não suportar informação do proprietário, ou está fora de alcance.",
+    "value": "Sem resposta: este repetidor pode não suportar informação do proprietário, ou está fora de alcance.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Não ligado a um dispositivo companion — liga primeiro um nó.",

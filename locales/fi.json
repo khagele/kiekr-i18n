@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Kuinka kauan odotetaan toistimen kaikuviestiä kanavaviestissä, ennen kuin uudelleenkokeilun symboli tuodaan näkyviin. Oletusarvo on 10 s. Arvoa voidaan pienentää nopeissa verkoissa, joissa uudelleenkokeilu halutaan suorittaa aikaisemmin; sitä voidaan suurentaa hitaissa tai laajalle ulottuvissa verkoissa, joissa ensimmäisen kaikuviestin saapuminen voi kestää 20–30 s.\n\nDM-uudelleenkäynnistysviive on kiinteästi 140 s — se seuraa langatasoisen automaattisen uudelleenkäynnistysketjun kestoa. Jos tämä asetus olisi näkyvissä, manuaalinen uudelleenkäynnistyspainike ilmestyisi ennen automaattisen uudelleenkäynnistysketjun päättymistä, mikä sekoittaisi manuaaliset ja automaattiset uudelleenkäynnistykset ja hämmentäisi kuplan yrityslaskuria.",
+    "value": "Kuinka kauan odotetaan toistimen kaikuviestiä kanavaviestissä, ennen kuin uudelleenkokeilun symboli tuodaan näkyviin. Oletusarvo on 10 s. Arvoa voidaan pienentää nopeissa verkoissa, joissa uudelleenkokeilu halutaan suorittaa aikaisemmin; sitä voidaan suurentaa hitaissa tai laajalle ulottuvissa verkoissa, joissa ensimmäisen kaikuviestin saapuminen voi kestää 20-30 s.\n\nDM-uudelleenkäynnistysviive on kiinteästi 140 s. Se seuraa langatasoisen automaattisen uudelleenkäynnistysketjun kestoa. Jos tämä asetus olisi näkyvissä, manuaalinen uudelleenkäynnistyspainike ilmestyisi ennen automaattisen uudelleenkäynnistysketjun päättymistä, mikä sekoittaisi manuaaliset ja automaattiset uudelleenkäynnistykset ja hämmentäisi kuplan yrityslaskuria.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Kanavan uudelleenyrittämisen viive",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Käyttäjän aloittamien uudelleenyrittämisten enimmäismäärä lähetettävää viestiä kohti — oranssi ↻-symboli vahvistamattomissa viestikuplissa. Kun enimmäismäärä on saavutettu, symboli muuttuu harmaaksi eikä enää reagoi napautuksiin. Oletusarvo on 5 (vastaa automaattisten uudelleenyrittämisten porrastusta: 3× suora + 2× tulva).",
+    "value": "Käyttäjän aloittamien uudelleenyrittämisten enimmäismäärä lähetettävää viestiä kohti (oranssi ↻-symboli vahvistamattomissa viestikuplissa). Kun enimmäismäärä on saavutettu, symboli muuttuu harmaaksi eikä enää reagoi napautuksiin. Oletusarvo on 5 (vastaa automaattisten uudelleenyrittämisten porrastusta: 3× suora + 2× tulva).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Manuaalinen uudelleenkäynnistysrajoitus",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Kuinka monta kertaa sovellus lähettää omistajatietopyynnön uudelleen, jos vastausta ei saavu, ja kuinka kauan se odottaa yritysten välillä. Oletusarvo: 1 uudelleenkäyttö, 8 sekunnin väli. Yksi uudelleenkäyttö riittää yleensä — pyyntö lähetetään tietylle toistimelle, joten yhteyden laatu on ennustettavissa.",
+    "value": "Kuinka monta kertaa sovellus lähettää omistajatietopyynnön uudelleen, jos vastausta ei saavu, ja kuinka kauan se odottaa yritysten välillä. Oletusarvo: 1 uudelleenkäyttö, 8 sekunnin väli. Yksi uudelleenkäyttö riittää yleensä: pyyntö lähetetään tietylle toistimelle, joten yhteyden laatu on ennustettavissa.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Omistajan tiedot",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute testaa hyppy kerrallaan valitsemasi reitin ja raportoi signaalin joka hypyltä. Kertaluonteinen (ei uusintoja) — valitsit polun itse. Oletusaikakatkaisu 30 s.",
+    "value": "Traceroute testaa hyppy kerrallaan valitsemasi reitin ja raportoi signaalin joka hypyltä. Kertaluonteinen (ei uusintoja), koska valitsit polun itse. Oletusaikakatkaisu 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "vain kuultu",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Kuinka pitkään odotetaan vastausta ennen luopumista — koskee CLI:tä (set name / position / reboot / advert / clock / ver), tilaa, telemetriaa, omistajatietoja, kirjautumista ja reitinjäljitystä. Oletus 30 s, alue 10–60. Tästä luvusta käynnissä olevan pyynnön laskuri laskee alaspäin.",
+    "value": "Kuinka pitkään odotetaan vastausta ennen luopumista. Koskee CLI:tä (set name / position / reboot / advert / clock / ver), tilaa, telemetriaa, omistajatietoja, kirjautumista ja reitinjäljitystä. Oletus 30 s, alue 10-60. Tästä luvusta käynnissä olevan pyynnön laskuri laskee alaspäin.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Enimmäisuudelleenyritykset",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Ehdoton yläraja käyttäjän käynnistämille uudelleenyrityksille per lähtevä viesti — oranssi ↻-merkki vahvistamattomissa kuplissa. Kun yläraja saavutetaan, merkki himmenee ja lakkaa hyväksymästä napautuksia. Oletus 5 (vastaa automaattista uudelleenyritysporrasta: 3× suora + 2× flood).",
+    "value": "Ehdoton yläraja käyttäjän käynnistämille uudelleenyrityksille per lähtevä viesti (oranssi ↻-merkki vahvistamattomissa kuplissa). Kun yläraja saavutetaan, merkki himmenee ja lakkaa hyväksymästä napautuksia. Oletus 5 (vastaa automaattista uudelleenyritysporrasta: 3× suora + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanavaviive",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Selvittää reitin toistimeen. Oletus 0 uudelleenyritystä (yksi yritys) — vakio-laiteohjelmisto nollaa odottavan jäljityspaikkansa jokaisella uudella pyynnöllä, niin että puhelinpuolen uudelleenyritys voi pudottaa hitaan käynnissä olevan vastauksen sen pelastamisen sijaan. Nosta arvoa vain, jos laiteohjelmistosi lopettaa tämän. 10 s yritysten välillä, jos nostettu.",
+    "value": "Selvittää reitin toistimeen. Oletus 0 uudelleenyritystä (yksi yritys). Vakio-laiteohjelmisto nollaa odottavan jäljityspaikkansa jokaisella uudella pyynnöllä, niin että puhelinpuolen uudelleenyritys voi pudottaa hitaan käynnissä olevan vastauksen sen pelastamisen sijaan. Nosta arvoa vain, jos laiteohjelmistosi lopettaa tämän. 10 s yritysten välillä, jos nostettu.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Väli",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Ei vastausta — tämä toistin ei ehkä tue laiteohjelmistoversiopyyntöjä (vaatii fw v2+), tai se on kantaman ulkopuolella.",
+    "value": "Ei vastausta: tämä toistin ei ehkä tue laiteohjelmistoversiopyyntöjä (vaatii fw v2+), tai se on kantaman ulkopuolella.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Ei vastausta — tämä toistin ei ehkä tue omistajatietoja, tai se on kantaman ulkopuolella.",
+    "value": "Ei vastausta: tämä toistin ei ehkä tue omistajatietoja, tai se on kantaman ulkopuolella.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Ei yhdistetty companion-laitteeseen — yhdistä solmu ensin.",

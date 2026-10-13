@@ -7225,9 +7225,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Cik ilgi jāgaida atkārtotāja atbalsis kanāla ziņojumā, pirms tiek parādīts atkārtotās mēģinājuma simbols. Noklusējuma vērtība ir 10 s. Samaziniet to ātrajos tīklos, kur vēlaties atkārtot mēģinājumu ātrāk; palieliniet lēnos vai plašos tīklos, kur pirmajai atbalsij var būt nepieciešamas 20–30 s.\n\nDM atkārtotās mēģinājuma aizkave ir fiksēta 140 s — tā seko līdzi automātiskās atkārtotās mēģinājuma ķēdes ilgumam vadu līmenī. Ja to atklātu, manuālā atkārtotās mēģinājuma poga parādītos, pirms automātiskās atkārtotās mēģinājuma ķēde ir pabeigta, kas sajauktu manuālos un automātiskos mēģinājumus un radītu neskaidrības burbuļa mēģinājumu skaitītājā.",
+    "value": "Cik ilgi jāgaida atkārtotāja atbalsis kanāla ziņojumā, pirms tiek parādīts atkārtotās mēģinājuma simbols. Noklusējuma vērtība ir 10 s. Samaziniet to ātrajos tīklos, kur vēlaties atkārtot mēģinājumu ātrāk; palieliniet lēnos vai plašos tīklos, kur pirmajai atbalsij var būt nepieciešamas 20-30 s.\n\nDM atkārtotās mēģinājuma aizkave ir fiksēta 140 s. Tā seko līdzi automātiskās atkārtotās mēģinājuma ķēdes ilgumam vadu līmenī. Ja to atklātu, manuālā atkārtotās mēģinājuma poga parādītos, pirms automātiskās atkārtotās mēģinājuma ķēde ir pabeigta, kas sajauktu manuālos un automātiskos mēģinājumus un radītu neskaidrības burbuļa mēģinājumu skaitītājā.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Kanāla atkārtotās mēģinājuma aizkave",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Fiksēts maksimālais lietotāja iniciēto atkārtoto mēģinājumu skaits vienai nosūtāmai ziņai — oranžais simbols ↻ uz burbuļiem, par kuriem nav saņemts apstiprinājums. Kad maksimālais skaits ir sasniegts, simbols kļūst pelēks un vairs nepieņem pieskārienus. Noklusējuma vērtība ir 5 (atbilst automātisko atkārtoto mēģinājumu secībai: 3× tieši + 2× masveida).",
+    "value": "Fiksēts maksimālais lietotāja iniciēto atkārtoto mēģinājumu skaits vienai nosūtāmai ziņai (oranžais simbols ↻ uz burbuļiem, par kuriem nav saņemts apstiprinājums). Kad maksimālais skaits ir sasniegts, simbols kļūst pelēks un vairs nepieņem pieskārienus. Noklusējuma vērtība ir 5 (atbilst automātisko atkārtoto mēģinājumu secībai: 3× tieši + 2× masveida).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Maksimālais atkārtoto mēģinājumu skaits",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Cik reizes lietotne atkārtoti nosūta pieprasījumu par īpašnieka informāciju, ja netiek saņemta atbilde, un cik ilgi tā gaida starp mēģinājumiem. Noklusējuma iestatījums: 1 atkārtots mēģinājums, 8 s intervāls. Parasti pietiek ar vienu atkārtotu mēģinājumu — pieprasījums tiek nosūtīts uz konkrētu atkārtotāju, tādēļ savienojuma kvalitāte ir paredzama.",
+    "value": "Cik reizes lietotne atkārtoti nosūta pieprasījumu par īpašnieka informāciju, ja netiek saņemta atbilde, un cik ilgi tā gaida starp mēģinājumiem. Noklusējuma iestatījums: 1 atkārtots mēģinājums, 8 s intervāls. Parasti pietiek ar vienu atkārtotu mēģinājumu: pieprasījums tiek nosūtīts uz konkrētu atkārtotāju, tādēļ savienojuma kvalitāte ir paredzama.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informācija par īpašnieku",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute pārbauda jūsu pa lēcienam izvēlēto maršrutu un ziņo signālu katrā lēcienā. Vienreizējs (bez atkārtojumiem) — ceļu izvēlējāties jūs. Noklusējuma taimauts: 30 s.",
+    "value": "Traceroute pārbauda jūsu pa lēcienam izvēlēto maršrutu un ziņo signālu katrā lēcienā. Vienreizējs (bez atkārtojumiem), jo ceļu izvēlējāties jūs. Noklusējuma taimauts: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "tikai dzirdēts",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Cik ilgi gaidīt atbildi, pirms padoties — attiecas uz CLI (set name / position / reboot / advert / clock / ver), statusu, telemetriju, īpašnieka informāciju, pieteikšanos un ceļa izsekošanu. Noklusējums 30 s, diapazons 10–60. Šis ir skaitlis, no kura sākas notiekošā atpakaļskaitīšana.",
+    "value": "Cik ilgi gaidīt atbildi, pirms padoties. Attiecas uz CLI (set name / position / reboot / advert / clock / ver), statusu, telemetriju, īpašnieka informāciju, pieteikšanos un ceļa izsekošanu. Noklusējums 30 s, diapazons 10-60. Šis ir skaitlis, no kura sākas notiekošā atpakaļskaitīšana.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maks. atkārtoto mēģinājumu skaits",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Stingrs ierobežojums lietotāja sāktiem atkārtotiem mēģinājumiem uz katru izejošo ziņojumu — oranžā ↻ ikona neapstiprinātām ziņām. Tiklīdz ierobežojums ir sasniegts, ikona tiek nokrāsota pelēkā un vairs nereaģē uz pieskārieniem. Noklusējums 5 (atbilst automātisko mēģinājumu shēmai: 3× tiešais + 2× pārpludināšana).",
+    "value": "Stingrs ierobežojums lietotāja sāktiem atkārtotiem mēģinājumiem uz katru izejošo ziņojumu (oranžā ↻ ikona neapstiprinātām ziņām). Tiklīdz ierobežojums ir sasniegts, ikona tiek nokrāsota pelēkā un vairs nereaģē uz pieskārieniem. Noklusējums 5 (atbilst automātisko mēģinājumu shēmai: 3× tiešais + 2× pārpludināšana).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanāla aizture",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Noskaidro maršrutu uz retranslētāju. Noklusējums 0 atkārtoti mēģinājumi (viens mēģinājums) — standarta programmaparatūra atiestata gaidošā trace slotu pēc katra jauna pieprasījuma, tāpēc atkārtots mēģinājums no tālruņa puses var pārtraukt lēnu, joprojām gaidāmu atbildi, nevis to izglābt. Palieliniet tikai tad, ja jūsu programmaparatūra to vairs nedara. Palielinot, starp mēģinājumiem 10 s.",
+    "value": "Noskaidro maršrutu uz retranslētāju. Noklusējums 0 atkārtoti mēģinājumi (viens mēģinājums). Standarta programmaparatūra atiestata gaidošā trace slotu pēc katra jauna pieprasījuma, tāpēc atkārtots mēģinājums no tālruņa puses var pārtraukt lēnu, joprojām gaidāmu atbildi, nevis to izglābt. Palieliniet tikai tad, ja jūsu programmaparatūra to vairs nedara. Palielinot, starp mēģinājumiem 10 s.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervāls",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Nav atbildes — šis retranslētājs iespējams neatbalsta programmaparatūras versijas pieprasījumus (nepieciešama fw v2+) vai ir ārpus tvēruma.",
+    "value": "Nav atbildes: šis retranslētājs iespējams neatbalsta programmaparatūras versijas pieprasījumus (nepieciešama fw v2+) vai ir ārpus tvēruma.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Nav atbildes — šis retranslētājs iespējams neatbalsta īpašnieka informāciju vai ir ārpus tvēruma.",
+    "value": "Nav atbildes: šis retranslētājs iespējams neatbalsta īpašnieka informāciju vai ir ārpus tvēruma.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nav pievienota companion ierīce — vispirms savienojiet mezglu.",

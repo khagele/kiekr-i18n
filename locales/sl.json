@@ -7226,9 +7226,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Kako dolgo je treba čakati na odmev ponavljalnika pri sporočilu na kanalu, preden se prikaže simbol za ponovni poskus. Privzeta vrednost je 10 s. Vrednost zmanjšajte za hitra omrežja, kjer želite ponovni poskus opraviti prej; povečajte jo za počasna/razpršena omrežja, kjer lahko prvi odmev traja 20–30 s.\n\nZamik ponovnega poskusa DM je fiksno nastavljen na 140 s – sledi trajanju lestvice samodejnih ponovnih poskusov na ravni povezave. Če bi ga izpostavili, bi se gumb za ročni ponovni poskus prikazal, preden se veriga samodejnih ponovnih poskusov konča, kar bi prepletlo ročne in samodejne ponovne poskuse ter zmedlo število poskusov mehurčka.",
+    "value": "Kako dolgo je treba čakati na odmev ponavljalnika pri sporočilu na kanalu, preden se prikaže simbol za ponovni poskus. Privzeta vrednost je 10 s. Vrednost zmanjšajte za hitra omrežja, kjer želite ponovni poskus opraviti prej; povečajte jo za počasna/razpršena omrežja, kjer lahko prvi odmev traja 20-30 s.\n\nZamik ponovnega poskusa DM je fiksno nastavljen na 140 s. Sledi trajanju lestvice samodejnih ponovnih poskusov na ravni povezave. Če bi ga izpostavili, bi se gumb za ročni ponovni poskus prikazal, preden se veriga samodejnih ponovnih poskusov konča, kar bi prepletlo ročne in samodejne ponovne poskuse ter zmedlo število poskusov mehurčka.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Zakasnitev ponovnega poskusa na kanalu",
@@ -7246,9 +7246,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Največje dovoljeno število ponovnih poskusov, ki jih sproži uporabnik za vsako odhodno sporočilo — oranžni simbol ↻ na balončkih brez potrditve. Ko dosežete to omejitev, simbol postane siv in ne sprejema več dotikov. Privzeta vrednost je 5 (ustreza lestvici samodejnih ponovnih poskusov: 3× neposredno + 2× poplavljanje).",
+    "value": "Največje dovoljeno število ponovnih poskusov, ki jih sproži uporabnik za vsako odhodno sporočilo (oranžni simbol ↻ na balončkih brez potrditve). Ko dosežete to omejitev, simbol postane siv in ne sprejema več dotikov. Privzeta vrednost je 5 (ustreza lestvici samodejnih ponovnih poskusov: 3× neposredno + 2× poplavljanje).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Omejitev števila ročnih ponovnih poskusov",
@@ -7261,9 +7261,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Kolikokrat aplikacija ponovno pošlje zahtevo za podatke o lastniku, če ne prejme odgovora, in koliko časa počaka med posameznimi poskusi. Privzeto je 1 ponovni poskus z 8-sekundnim intervalom. En ponovni poskus je običajno dovolj – zahteva je naslovljena na določen ponovnik, zato je kakovost povezave predvidljiva.",
+    "value": "Kolikokrat aplikacija ponovno pošlje zahtevo za podatke o lastniku, če ne prejme odgovora, in koliko časa počaka med posameznimi poskusi. Privzeto je 1 ponovni poskus z 8-sekundnim intervalom. En ponovni poskus je običajno dovolj: zahteva je naslovljena na določen ponovnik, zato je kakovost povezave predvidljiva.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Podatki o lastniku",
@@ -7516,9 +7516,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute preizkusi pot, ki ste jo izbrali skok za skokom, in poroča signal na skok. Enkratno (brez ponovitev) — pot ste izbrali vi. Privzeta časovna omejitev: 30 s.",
+    "value": "Traceroute preizkusi pot, ki ste jo izbrali skok za skokom, in poroča signal na skok. Enkratno (brez ponovitev), ker pot ste izbrali vi. Privzeta časovna omejitev: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "samo slišano",
@@ -10213,9 +10213,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Kako dolgo čakati na odgovor, preden se odneha – velja za CLI (set name / position / reboot / advert / clock / ver), stanje, telemetrijo, podatke o lastniku, prijavo in sledenje poti. Privzeto 30 s, razpon 10–60. To je število, od katerega odšteva odštevalnik med potekom zahteve.",
+    "value": "Kako dolgo čakati na odgovor, preden se odneha. Velja za CLI (set name / position / reboot / advert / clock / ver), stanje, telemetrijo, podatke o lastniku, prijavo in sledenje poti. Privzeto 30 s, razpon 10-60. To je število, od katerega odšteva odštevalnik med potekom zahteve.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Največ poskusov",
@@ -10228,9 +10228,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Trda omejitev uporabniško sproženih poskusov na odhodno sporočilo – oranžen simbol ↻ na nepotrjenih oblačkih. Ko dosežete omejitev, simbol posivi in ne sprejema več dotikov. Privzeto 5 (ujema se z lestvico samodejnih poskusov: 3× neposredno + 2× flood).",
+    "value": "Trda omejitev uporabniško sproženih poskusov na odhodno sporočilo (oranžen simbol ↻ na nepotrjenih oblačkih). Ko dosežete omejitev, simbol posivi in ne sprejema več dotikov. Privzeto 5 (ujema se z lestvico samodejnih poskusov: 3× neposredno + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Zamik kanala",
@@ -10283,9 +10283,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Odkrije pot do ponavljalnika. Privzeto 0 poskusov (en sam poskus) – standardna strojna programska oprema ob vsaki novi zahtevi ponastavi svojo režo za čakajoče sledenje, zato lahko ponovni poskus na strani telefona zavrže počasen odgovor, ki je še v teku, namesto da bi ga rešil. Povečajte samo, če vaša strojna programska oprema tega ne počne več. Če povečate, je med poskusi 10 s.",
+    "value": "Odkrije pot do ponavljalnika. Privzeto 0 poskusov (en sam poskus). Standardna strojna programska oprema ob vsaki novi zahtevi ponastavi svojo režo za čakajoče sledenje, zato lahko ponovni poskus na strani telefona zavrže počasen odgovor, ki je še v teku, namesto da bi ga rešil. Povečajte samo, če vaša strojna programska oprema tega ne počne več. Če povečate, je med poskusi 10 s.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10373,14 +10373,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Ni odgovora — ta ponavljalnik morda ne podpira zahtev za različico strojne programske opreme (potrebna je strojna programska oprema v2+) ali je zunaj dosega.",
+    "value": "Ni odgovora: ta ponavljalnik morda ne podpira zahtev za različico strojne programske opreme (potrebna je strojna programska oprema v2+) ali je zunaj dosega.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Ni odgovora — ta ponavljalnik morda ne podpira podatkov o lastniku ali je zunaj dosega.",
+    "value": "Ni odgovora: ta ponavljalnik morda ne podpira podatkov o lastniku ali je zunaj dosega.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Ni povezave s companion napravo — najprej povežite vozlišče.",

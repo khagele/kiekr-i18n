@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Kui kaua tuleb oodata korduvaja kaja saabumist kanalisõnumile, enne kui kuvatakse uuesti proovimise sümbol. Vaikimisi 10 s. Vähenda seda kiiretel võrkudel, kus soovid uuesti proovida varem; suurenda aeglastel või hajutatud võrkudel, kus esimese kaja saabumine võib võtta aega 20–30 s.\n\nDM-i uuesti proovimise viivitus on fikseeritud 140 sekundile – see järgib võrgu tasandi automaatse uuesti proovimise ahela kestust. Selle avalikustamine tooks käsitsi uuesti proovimise nupu ekraanile enne, kui automaatse uuesti proovimise ahel lõpeb, mis segaks käsitsi ja automaatsed uuesti proovimised ning segaks mullikese katsete loendurit.",
+    "value": "Kui kaua tuleb oodata korduvaja kaja saabumist kanalisõnumile, enne kui kuvatakse uuesti proovimise sümbol. Vaikimisi 10 s. Vähenda seda kiiretel võrkudel, kus soovid uuesti proovida varem; suurenda aeglastel või hajutatud võrkudel, kus esimese kaja saabumine võib võtta aega 20-30 s.\n\nDM-i uuesti proovimise viivitus on fikseeritud 140 sekundile. See järgib võrgu tasandi automaatse uuesti proovimise ahela kestust. Selle avalikustamine tooks käsitsi uuesti proovimise nupu ekraanile enne, kui automaatse uuesti proovimise ahel lõpeb, mis segaks käsitsi ja automaatsed uuesti proovimised ning segaks mullikese katsete loendurit.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Kanali uuesti proovimise viivitus",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Väljamineva sõnumi kohta kehtestatud kasutaja poolt algatatud korduskatseid piirav ülempiir — oranž ↻ sümbol kinnitamata mullidel. Kui ülempiir on saavutatud, muutub sümbol halliks ja ei võta enam puudutusi vastu. Vaikimisi on see väärtus 5 (vastab automaatsete korduskatse järjekorrale: 3× otsene + 2× masssaadetis).",
+    "value": "Väljamineva sõnumi kohta kehtestatud kasutaja poolt algatatud korduskatseid piirav ülempiir (oranž ↻ sümbol kinnitamata mullidel). Kui ülempiir on saavutatud, muutub sümbol halliks ja ei võta enam puudutusi vastu. Vaikimisi on see väärtus 5 (vastab automaatsete korduskatse järjekorrale: 3× otsene + 2× masssaadetis).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Käsitsi uuesti proovimise piirang",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Kui palju kordi rakendus saadab omanikuandmete päringu uuesti, kui vastust ei tule, ja kui kaua ta ootab järgmise katse vahel. Vaikimisi 1 korduskatse, 8-sekundiline intervall. Üks korduskatse on tavaliselt piisav – päring läheb konkreetsele repiiterile, seega on ühenduse kvaliteet ettearvatav.",
+    "value": "Kui palju kordi rakendus saadab omanikuandmete päringu uuesti, kui vastust ei tule, ja kui kaua ta ootab järgmise katse vahel. Vaikimisi 1 korduskatse, 8-sekundiline intervall. Üks korduskatse on tavaliselt piisav: päring läheb konkreetsele repiiterile, seega on ühenduse kvaliteet ettearvatav.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Omaniku andmed",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute testib sinu hüpe-haaval valitud marsruuti ja raporteerib signaali iga hüppe kohta. Ühekordne (kordusteta) — tee valisid sina. Vaikimisi ajalõpp 30 s.",
+    "value": "Traceroute testib sinu hüpe-haaval valitud marsruuti ja raporteerib signaali iga hüppe kohta. Ühekordne (kordusteta), sest tee valisid sina. Vaikimisi ajalõpp 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "ainult kuuldud",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Kui kaua oodata vastust enne loobumist – kehtib CLI (set name / position / reboot / advert / clock / ver), staatuse, telemeetria, omaniku info, sisselogimise ja tee jälgimise kohta. Vaikimisi 30 s, vahemik 10–60. See on arv, millest pooleliolev loendur alla loeb.",
+    "value": "Kui kaua oodata vastust enne loobumist. Kehtib CLI (set name / position / reboot / advert / clock / ver), staatuse, telemeetria, omaniku info, sisselogimise ja tee jälgimise kohta. Vaikimisi 30 s, vahemik 10-60. See on arv, millest pooleliolev loendur alla loeb.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maksimaalsed korduskatsed",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Kindel ülempiir kasutaja algatatud korduskatsetele iga saadetava sõnumi kohta – oranž ↻ märk kinnitamata mullidel. Kui piir on saavutatud, muutub märk halliks ja lakkab puudutusi vastu võtmast. Vaikimisi 5 (vastab automaatse korduskatse astmele: 3× otse + 2× flood).",
+    "value": "Kindel ülempiir kasutaja algatatud korduskatsetele iga saadetava sõnumi kohta (oranž ↻ märk kinnitamata mullidel). Kui piir on saavutatud, muutub märk halliks ja lakkab puudutusi vastu võtmast. Vaikimisi 5 (vastab automaatse korduskatse astmele: 3× otse + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanali viivitus",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Selgitab välja tee repeaterini. Vaikimisi 0 korduskatset (üks katse) — standardne püsivara lähtestab oma ootel oleva jälituspesa iga uue päringu korral, mistõttu telefonipoolne korduskatse võib katkestada aeglase pooleliolev vastuse, mitte päästa seda. Tõsta väärtust ainult siis, kui sinu püsivara seda enam ei tee. Suurendamisel 10 s katsete vahel.",
+    "value": "Selgitab välja tee repeaterini. Vaikimisi 0 korduskatset (üks katse). Standardne püsivara lähtestab oma ootel oleva jälituspesa iga uue päringu korral, mistõttu telefonipoolne korduskatse võib katkestada aeglase pooleliolev vastuse, mitte päästa seda. Tõsta väärtust ainult siis, kui sinu püsivara seda enam ei tee. Suurendamisel 10 s katsete vahel.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervall",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Vastust ei tulnud — see repeater ei toeta ehk püsivara versiooni päringuid (vajab fw v2+) või on levialast väljas.",
+    "value": "Vastust ei tulnud: see repeater ei toeta ehk püsivara versiooni päringuid (vajab fw v2+) või on levialast väljas.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Vastust ei tulnud — see repeater ei toeta ehk omaniku infot või on levialast väljas.",
+    "value": "Vastust ei tulnud: see repeater ei toeta ehk omaniku infot või on levialast väljas.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Ei ole ühendatud companion-seadmega — ühenda esmalt sõlm.",

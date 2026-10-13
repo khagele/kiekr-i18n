@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Mennyi ideig kell várni egy csatornaüzenet ismétlőjének visszhangjára, mielőtt megjelenik az újrakísérlet jelképe. Alapértelmezett érték: 10 másodperc. Csökkentse ezt az értéket gyors hálózatok esetén, ahol hamarabb szeretne újrakísérletet tenni; növelje lassú vagy távoli hálózatok esetén, ahol az első visszhang 20–30 másodpercet is igénybe vehet.\n\nA DM-újrakísérleti késleltetés 140 másodpercre van rögzítve – ez követi a vezetékes szintű automatikus újrakísérleti lépcső időtartamát. Ha ezt láthatóvá tennénk, a kézi újrakísérleti gomb megjelenne még az automatikus újrakísérleti lánc befejezése előtt, ami összekeverné a kézi és az automatikus újrakísérleteket, és megzavarná a buborék kísérletszámlálóját.",
+    "value": "Mennyi ideig kell várni egy csatornaüzenet ismétlőjének visszhangjára, mielőtt megjelenik az újrakísérlet jelképe. Alapértelmezett érték: 10 másodperc. Csökkentse ezt az értéket gyors hálózatok esetén, ahol hamarabb szeretne újrakísérletet tenni; növelje lassú vagy távoli hálózatok esetén, ahol az első visszhang 20-30 másodpercet is igénybe vehet.\n\nA DM-újrakísérleti késleltetés 140 másodpercre van rögzítve. Ez követi a vezetékes szintű automatikus újrakísérleti lépcső időtartamát. Ha ezt láthatóvá tennénk, a kézi újrakísérleti gomb megjelenne még az automatikus újrakísérleti lánc befejezése előtt, ami összekeverné a kézi és az automatikus újrakísérleteket, és megzavarná a buborék kísérletszámlálóját.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Csatorna-újrakísérleti késleltetés",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "A kimenő üzenetenkénti, felhasználó által kezdeményezett újraküldési kísérletek szigorú felső határa — a még nem nyugtázott buborékokon megjelenő narancssárga ↻ szimbólum. A felső határ elérése után a szimbólum szürkére vált, és nem fogadja többé az érintéseket. Alapértelmezett érték: 5 (megegyezik az automatikus újraküldési lépcsőzettel: 3× közvetlen + 2× tömeges).",
+    "value": "A kimenő üzenetenkénti, felhasználó által kezdeményezett újraküldési kísérletek szigorú felső határa (a még nem nyugtázott buborékokon megjelenő narancssárga ↻ szimbólum). A felső határ elérése után a szimbólum szürkére vált, és nem fogadja többé az érintéseket. Alapértelmezett érték: 5 (megegyezik az automatikus újraküldési lépcsőzettel: 3× közvetlen + 2× tömeges).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "A kézi újrapróbálkozások számának korlátozása",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Hányszor küldi el újra az alkalmazás a tulajdonosi adatokra vonatkozó kérést, ha nem érkezik válasz, és mennyi ideig vár a kísérletek között. Alapértelmezés szerint 1 újraküldés, 8 másodperces szünet. Általában elegendő egy újraküldés — a kérés egy konkrét átjátszóhoz érkezik, így a kapcsolat minősége előre jelezhető.",
+    "value": "Hányszor küldi el újra az alkalmazás a tulajdonosi adatokra vonatkozó kérést, ha nem érkezik válasz, és mennyi ideig vár a kísérletek között. Alapértelmezés szerint 1 újraküldés, 8 másodperces szünet. Általában elegendő egy újraküldés: a kérés egy konkrét átjátszóhoz érkezik, így a kapcsolat minősége előre jelezhető.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Tulajdonosi adatok",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "A traceroute egy általad ugrásonként kiválasztott útvonalat vizsgál, és ugrásonként jelenti a jelet. Egyszeri (nincs újrapróbálkozás) — az útvonalat te választottad. Alapértelmezett időtúllépés: 30 s.",
+    "value": "A traceroute egy általad ugrásonként kiválasztott útvonalat vizsgál, és ugrásonként jelenti a jelet. Egyszeri (nincs újrapróbálkozás), mivel az útvonalat te választottad. Alapértelmezett időtúllépés: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "csak hallva",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Mennyi ideig várjunk válaszra, mielőtt feladjuk — érvényes a CLI-re (set name / position / reboot / advert / clock / ver), a statusra, a telemetriára, a tulajdonos-infóra, a bejelentkezésre és a path-trace-re. Alapértelmezett 30 s, tartomány 10–60. Ez az a szám, amelytől a folyamatban lévő visszaszámlálás indul.",
+    "value": "Mennyi ideig várjunk válaszra, mielőtt feladjuk. Érvényes a CLI-re (set name / position / reboot / advert / clock / ver), a statusra, a telemetriára, a tulajdonos-infóra, a bejelentkezésre és a path-trace-re. Alapértelmezett 30 s, tartomány 10-60. Ez az a szám, amelytől a folyamatban lévő visszaszámlálás indul.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maximális újrapróbálkozások",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Kemény korlát a felhasználó által indított újrapróbálkozásokra kimenő üzenetenként — ez a narancssárga ↻ ikon a nem visszaigazolt buborékokon. Ha eléred a korlátot, az ikon elszürkül, és nem fogad több koppintást. Alapértelmezett érték: 5 (megfelel az automatikus újrapróbálkozási sornak: 3× direkt + 2× flood).",
+    "value": "Kemény korlát a felhasználó által indított újrapróbálkozásokra kimenő üzenetenként (ez a narancssárga ↻ ikon a nem visszaigazolt buborékokon). Ha eléred a korlátot, az ikon elszürkül, és nem fogad több koppintást. Alapértelmezett érték: 5 (megfelel az automatikus újrapróbálkozási sornak: 3× direkt + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Csatornakésleltetés",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Felderíti az útvonalat egy repeaterhez. Alapértelmezett: 0 újrapróbálkozás (egyetlen kísérlet) — a hivatalos firmware minden új kéréskor visszaállítja a folyamatban lévő trace-slotját, így egy telefonoldali újrapróbálkozás inkább elveszíthet egy lassú, feldolgozás alatt lévő választ, mint hogy megmentse. Csak akkor emeld fel, ha a firmware-ed már nem csinálja ezt. Emelés esetén 10 s a kísérletek között.",
+    "value": "Felderíti az útvonalat egy repeaterhez. Alapértelmezett: 0 újrapróbálkozás (egyetlen kísérlet). A hivatalos firmware minden új kéréskor visszaállítja a folyamatban lévő trace-slotját, így egy telefonoldali újrapróbálkozás inkább elveszíthet egy lassú, feldolgozás alatt lévő választ, mint hogy megmentse. Csak akkor emeld fel, ha a firmware-ed már nem csinálja ezt. Emelés esetén 10 s a kísérletek között.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervallum",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Nincs válasz — ez a repeater esetleg nem támogatja a firmware-verzió-kéréseket (fw v2+ szükséges), vagy hatótávolságon kívül van.",
+    "value": "Nincs válasz: ez a repeater esetleg nem támogatja a firmware-verzió-kéréseket (fw v2+ szükséges), vagy hatótávolságon kívül van.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Nincs válasz — ez a repeater esetleg nem támogatja a tulajdonosi infót, vagy hatótávolságon kívül van.",
+    "value": "Nincs válasz: ez a repeater esetleg nem támogatja a tulajdonosi infót, vagy hatótávolságon kívül van.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nincs csatlakoztatva companion eszköz — előbb csatlakoztass egy node-ot.",

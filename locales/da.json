@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Hvor længe der skal ventes på et gentagelsesekko på en kanalbesked, før ikonet for gentagelse vises. Standardværdien er 10 s. Sæt værdien lavere for hurtige netværk, hvor man ønsker at gentage forsøget hurtigere; sæt den højere på langsomme eller spredte netværk, hvor det første ekko kan tage 20–30 s.\n\nForsinkelsen for DM-genforsøg er fastsat til 140 s — den følger varigheden af den automatiske genforsøgsrække på ledningsniveau. Hvis man gjorde den synlig, ville knappen til manuelt genforsøg blive vist, før den automatiske genforsøgsrække er afsluttet, hvilket ville føre til, at manuelle og automatiske genforsøg blev blandet sammen og forvirre boblens forsøgs-tæller.",
+    "value": "Hvor længe der skal ventes på et gentagelsesekko på en kanalbesked, før ikonet for gentagelse vises. Standardværdien er 10 s. Sæt værdien lavere for hurtige netværk, hvor man ønsker at gentage forsøget hurtigere; sæt den højere på langsomme eller spredte netværk, hvor det første ekko kan tage 20-30 s.\n\nForsinkelsen for DM-genforsøg er fastsat til 140 s. Den følger varigheden af den automatiske genforsøgsrække på ledningsniveau. Hvis man gjorde den synlig, ville knappen til manuelt genforsøg blive vist, før den automatiske genforsøgsrække er afsluttet, hvilket ville føre til, at manuelle og automatiske genforsøg blev blandet sammen og forvirre boblens forsøgs-tæller.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Forsinkelse ved gentagelse af kanalforsøg",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Fast loft for brugerinitierede genforsøg pr. udgående besked — det orange ↻-symbol på bobler, der ikke er bekræftet. Når loftet er nået, bliver symbolet gråt og accepterer ikke længere tryk. Standardværdien er 5 (svarer til skalaen for automatiske genforsøg: 3× direkte + 2× flood).",
+    "value": "Fast loft for brugerinitierede genforsøg pr. udgående besked (det orange ↻-symbol på bobler, der ikke er bekræftet). Når loftet er nået, bliver symbolet gråt og accepterer ikke længere tryk. Standardværdien er 5 (svarer til skalaen for automatiske genforsøg: 3× direkte + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Maksimalt antal manuelle genforsøg",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Hvor mange gange appen sender en anmodning om ejeroplysninger igen, hvis der ikke kommer noget svar, og hvor længe den venter mellem hvert forsøg. Standardindstillingen er 1 forsøg med et interval på 8 s. Et forsøg er normalt nok — anmodningen sendes til en bestemt repeater, så forbindelseskvaliteten er forudsigelig.",
+    "value": "Hvor mange gange appen sender en anmodning om ejeroplysninger igen, hvis der ikke kommer noget svar, og hvor længe den venter mellem hvert forsøg. Standardindstillingen er 1 forsøg med et interval på 8 s. Et forsøg er normalt nok: anmodningen sendes til en bestemt repeater, så forbindelseskvaliteten er forudsigelig.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Oplysninger om ejeren",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "En traceroute tester en rute, du har valgt hop for hop, og rapporterer signalet pr. hop. Én gang (ingen gentagelser) — du valgte selv stien. Standard 30 s timeout.",
+    "value": "En traceroute tester en rute, du har valgt hop for hop, og rapporterer signalet pr. hop. Én gang (ingen gentagelser), da du valgte selv stien. Standard 30 s timeout.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "kun hørt",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Hvor længe der skal ventes på et svar, før der gives op — gælder for CLI (set name / position / reboot / advert / clock / ver), status, telemetri, ejeroplysninger, login og sti-trace. Standard 30 s, interval 10–60. Dette er tallet, den igangværende nedtælling tæller ned fra.",
+    "value": "Hvor længe der skal ventes på et svar, før der gives op. Gælder for CLI (set name / position / reboot / advert / clock / ver), status, telemetri, ejeroplysninger, login og sti-trace. Standard 30 s, interval 10-60. Dette er tallet, den igangværende nedtælling tæller ned fra.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maks. gentagelser",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Fast grænse for brugerinitierede gentagelser pr. udgående besked — det orange ↻-symbol på ikke-bekræftede beskeder. Når grænsen er nået, gråtones symbolet og accepterer ikke længere tryk. Standard 5 (matcher auto-gentagelsesstigen: 3× direkte + 2× flood).",
+    "value": "Fast grænse for brugerinitierede gentagelser pr. udgående besked (det orange ↻-symbol på ikke-bekræftede beskeder). Når grænsen er nået, gråtones symbolet og accepterer ikke længere tryk. Standard 5 (matcher auto-gentagelsesstigen: 3× direkte + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanalforsinkelse",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Finder ruten til en repeater. Standard 0 gentagelser (et enkelt forsøg) — standard-firmwaren nulstiller sin pending-trace-slot ved hver ny forespørgsel, så en gentagelse fra telefonens side kan afbryde et langsomt igangværende svar i stedet for at redde det. Hæv kun, hvis din firmware stopper med at gøre det. 10 s mellem forsøg, hvis den hæves.",
+    "value": "Finder ruten til en repeater. Standard 0 gentagelser (et enkelt forsøg). Standard-firmwaren nulstiller sin pending-trace-slot ved hver ny forespørgsel, så en gentagelse fra telefonens side kan afbryde et langsomt igangværende svar i stedet for at redde det. Hæv kun, hvis din firmware stopper med at gøre det. 10 s mellem forsøg, hvis den hæves.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Intet svar — denne repeater understøtter måske ikke firmware-versionsforespørgsler (kræver fw v2+), eller er uden for rækkevidde.",
+    "value": "Intet svar: denne repeater understøtter måske ikke firmware-versionsforespørgsler (kræver fw v2+), eller er uden for rækkevidde.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Intet svar — denne repeater understøtter måske ikke ejeroplysninger, eller er uden for rækkevidde.",
+    "value": "Intet svar: denne repeater understøtter måske ikke ejeroplysninger, eller er uden for rækkevidde.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Ikke forbundet til en companion-enhed — forbind en node først.",

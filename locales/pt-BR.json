@@ -7225,9 +7225,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Quanto tempo esperar por um eco do repetidor em uma mensagem de canal antes de exibir o ícone de nova tentativa. Padrão: 10 s. Reduza esse valor para malhas rápidas, nas quais se deseja tentar novamente mais cedo; aumente-o em malhas lentas ou distantes, nas quais o primeiro eco pode demorar de 20 a 30 s.\n\nO atraso de repetição de DM é fixo em 140 s — ele acompanha a duração da sequência de repetições automáticas no nível da conexão. Expor esse valor faria com que o botão de repetição manual fosse exibido antes que a cadeia de repetições automáticas terminasse, o que intercalaria repetições manuais e automáticas e confundiria o contador de tentativas da bolha.",
+    "value": "Quanto tempo esperar por um eco do repetidor em uma mensagem de canal antes de exibir o ícone de nova tentativa. Padrão: 10 s. Reduza esse valor para malhas rápidas, nas quais se deseja tentar novamente mais cedo; aumente-o em malhas lentas ou distantes, nas quais o primeiro eco pode demorar de 20 a 30 s.\n\nO atraso de repetição de DM é fixo em 140 s. Ele acompanha a duração da sequência de repetições automáticas no nível da conexão. Expor esse valor faria com que o botão de repetição manual fosse exibido antes que a cadeia de repetições automáticas terminasse, o que intercalaria repetições manuais e automáticas e confundiria o contador de tentativas da bolha.",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Tempo de espera entre tentativas de conexão no canal",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limite máximo de tentativas de reenvio iniciadas pelo usuário por mensagem enviada — o ícone laranja ↻ nas bolhas sem confirmação de recebimento. Ao atingir o limite, o ícone fica desativado e deixa de aceitar toques. Padrão: 5 (corresponde à sequência de tentativas automáticas: 3× diretas + 2× flood).",
+    "value": "Limite máximo de tentativas de reenvio iniciadas pelo usuário por mensagem enviada (o ícone laranja ↻ nas bolhas sem confirmação de recebimento). Ao atingir o limite, o ícone fica desativado e deixa de aceitar toques. Padrão: 5 (corresponde à sequência de tentativas automáticas: 3× diretas + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limite de tentativas manuais",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-05-23"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Quantas vezes o aplicativo reenvia uma solicitação de informações do proprietário caso não receba resposta, e quanto tempo ele espera entre as tentativas. Padrão: 1 tentativa, intervalo de 8 s. Normalmente, uma tentativa é suficiente — a solicitação é enviada a um repetidor específico, portanto a qualidade da conexão é previsível.",
+    "value": "Quantas vezes o aplicativo reenvia uma solicitação de informações do proprietário caso não receba resposta, e quanto tempo ele espera entre as tentativas. Padrão: 1 tentativa, intervalo de 8 s. Normalmente, uma tentativa é suficiente: a solicitação é enviada a um repetidor específico, portanto a qualidade da conexão é previsível.",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informações sobre o proprietário",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-01"
   },
   "traceroute_settings_footer": {
-    "value": "O traceroute analisa uma rota escolhida por você, salto a salto, e apresenta o sinal de cada salto. Execução única (sem tentativas repetidas) — você escolhe o caminho. Tempo limite padrão de 30 s.",
+    "value": "O traceroute analisa uma rota escolhida por você, salto a salto, e apresenta o sinal de cada salto. Execução única (sem tentativas repetidas), pois você escolhe o caminho. Tempo limite padrão de 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-01"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "apenas ouvi",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Quanto tempo esperar por uma resposta antes de desistir — aplica-se à CLI (definir nome / posição / reinicialização / anúncio / relógio / versão), status, telemetria, informações do proprietário, login e rastreamento de caminho. Padrão: 30 s, intervalo: 10–60. Este é o número a partir do qual a contagem regressiva em andamento começa.",
+    "value": "Quanto tempo esperar por uma resposta antes de desistir. Aplica-se à CLI (definir nome / posição / reinicialização / anúncio / relógio / versão), status, telemetria, informações do proprietário, login e rastreamento de caminho. Padrão: 30 s, intervalo: 10-60. Este é o número a partir do qual a contagem regressiva em andamento começa.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Número máximo de tentativas",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limite rígido para tentativas iniciadas pelo usuário por mensagem enviada — o ícone laranja ↻ em bolhas sem confirmação. Ao atingir o limite, o ícone fica desativado e deixa de aceitar toques. Padrão: 5 (corresponde à sequência de tentativas automáticas: 3× diretas + 2× em massa).",
+    "value": "Limite rígido para tentativas iniciadas pelo usuário por mensagem enviada (o ícone laranja ↻ em bolhas sem confirmação). Ao atingir o limite, o ícone fica desativado e deixa de aceitar toques. Padrão: 5 (corresponde à sequência de tentativas automáticas: 3× diretas + 2× em massa).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Atraso do canal",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Descobre a rota para um repetidor. Padrão: 0 novas tentativas (uma única tentativa) — o firmware padrão reinicia seu slot de rastreamento pendente a cada nova solicitação; portanto, uma nova tentativa do lado do telefone pode descartar uma resposta lenta em trânsito em vez de recuperá-la. Aumente esse valor somente se o seu firmware deixar de fazer isso. Intervalo de 10 s entre as tentativas, se o valor for aumentado.",
+    "value": "Descobre a rota para um repetidor. Padrão: 0 novas tentativas (uma única tentativa). O firmware padrão reinicia seu slot de rastreamento pendente a cada nova solicitação; portanto, uma nova tentativa do lado do telefone pode descartar uma resposta lenta em trânsito em vez de recuperá-la. Aumente esse valor somente se o seu firmware deixar de fazer isso. Intervalo de 10 s entre as tentativas, se o valor for aumentado.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervalo",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-08-12"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Sem resposta — este repetidor pode não suportar pedidos de versão do firmware (requer fw v2+), ou está fora de alcance.",
+    "value": "Sem resposta: este repetidor pode não suportar pedidos de versão do firmware (requer fw v2+), ou está fora de alcance.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Sem resposta — este repetidor pode não suportar informações do proprietário, ou está fora de alcance.",
+    "value": "Sem resposta: este repetidor pode não suportar informações do proprietário, ou está fora de alcance.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Não está ligado a um dispositivo associado — ligue primeiro um nó.",

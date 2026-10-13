@@ -7225,9 +7225,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Koliko dugo čekati na odjek ponavljača na poruci kanala prije prikazivanja ikone ponovnog pokušaja. Zadano 10 s. Smanjite za brze mreže gdje želite ranije ponoviti pokušaj; povećajte za spore ili udaljene mreže gdje prvi odjek može potrajati 20–30 s.\n\nDM odgoda ponovnog pokušaja fiksirana je na 140 s — prati trajanje ljestvice automatskog ponovnog pokušaja na razini žice. Njezino prikazivanje izložilo bi gumb za ručni ponovni pokušaj prije nego što se lanac automatskih ponovnih pokušaja završi, što bi ispreplelo ručne i automatske pokušaje i zbunilo brojač pokušaja mjehurića.",
+    "value": "Koliko dugo čekati na odjek ponavljača na poruci kanala prije prikazivanja ikone ponovnog pokušaja. Zadano 10 s. Smanjite za brze mreže gdje želite ranije ponoviti pokušaj; povećajte za spore ili udaljene mreže gdje prvi odjek može potrajati 20-30 s.\n\nDM odgoda ponovnog pokušaja fiksirana je na 140 s. Prati trajanje ljestvice automatskog ponovnog pokušaja na razini žice. Njezino prikazivanje izložilo bi gumb za ručni ponovni pokušaj prije nego što se lanac automatskih ponovnih pokušaja završi, što bi ispreplelo ručne i automatske pokušaje i zbunilo brojač pokušaja mjehurića.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Kašnjenje ponovnog pokušaja kanala",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Strogi limit pokušaja koje korisnik pokreće po odlaznoj poruci — narančasti ↻ simbol na nepotvrđenim mjehurićima. Kad dostignete limit, simbol postaje siv i prestaje prihvaćati dodire. Zadano 5 (odgovara ljestvici automatskih ponovnih pokušaja: 3× izravno + 2× poplava).",
+    "value": "Strogi limit pokušaja koje korisnik pokreće po odlaznoj poruci (narančasti ↻ simbol na nepotvrđenim mjehurićima). Kad dostignete limit, simbol postaje siv i prestaje prihvaćati dodire. Zadano 5 (odgovara ljestvici automatskih ponovnih pokušaja: 3× izravno + 2× poplava).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Ručni poklopac za ponovni pokušaj",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Koliko puta aplikacija ponovno šalje zahtjev za informacije o vlasniku ako ne stigne odgovor i koliko dugo čeka između pokušaja. Zadano 1 ponovni pokušaj, interval od 8 s. Jedan ponovni pokušaj obično je dovoljan — zahtjev se šalje na određeni repetitor, pa je kvaliteta veze predvidljiva.",
+    "value": "Koliko puta aplikacija ponovno šalje zahtjev za informacije o vlasniku ako ne stigne odgovor i koliko dugo čeka između pokušaja. Zadano 1 ponovni pokušaj, interval od 8 s. Jedan ponovni pokušaj obično je dovoljan: zahtjev se šalje na određeni repetitor, pa je kvaliteta veze predvidljiva.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informacije o vlasniku",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute ispituje rutu koju si odabrao skok po skok i javlja signal po skoku. Jednokratno (bez ponavljanja) — stazu si odabrao ti. Zadani timeout 30 s.",
+    "value": "Traceroute ispituje rutu koju si odabrao skok po skok i javlja signal po skoku. Jednokratno (bez ponavljanja), jer stazu si odabrao ti. Zadani timeout 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "samo čuo",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Koliko dugo čekati odgovor prije odustajanja — vrijedi za CLI (set name / position / reboot / advert / clock / ver), status, telemetriju, podatke o vlasniku, prijavu i praćenje puta. Zadano 30 s, raspon 10–60. Ovo je broj od kojeg odbrojava tekući odbrojavanje.",
+    "value": "Koliko dugo čekati odgovor prije odustajanja. Vrijedi za CLI (set name / position / reboot / advert / clock / ver), status, telemetriju, podatke o vlasniku, prijavu i praćenje puta. Zadano 30 s, raspon 10-60. Ovo je broj od kojeg odbrojava tekući odbrojavanje.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Maks. ponovnih pokušaja",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Tvrda granica korisnički pokrenutih ponovnih pokušaja po odlaznoj poruci — narančasti ↻ simbol na neACK-iranim mjehurićima. Kad dosegneš granicu, simbol posivi i ne prima više dodire. Zadano 5 (odgovara ljestvici automatskih pokušaja: 3× izravno + 2× poplava).",
+    "value": "Tvrda granica korisnički pokrenutih ponovnih pokušaja po odlaznoj poruci (narančasti ↻ simbol na neACK-iranim mjehurićima). Kad dosegneš granicu, simbol posivi i ne prima više dodire. Zadano 5 (odgovara ljestvici automatskih pokušaja: 3× izravno + 2× poplava).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Odgoda kanala",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Otkriva rutu do repetitora. Zadano 0 ponovnih pokušaja (jedan pokušaj) — standardni firmware resetira svoj slot za trag u čekanju pri svakom novom zahtjevu, pa ponovni pokušaj sa strane telefona može odbaciti spor odgovor koji je u tijeku umjesto da ga spasi. Povećaj samo ako tvoj firmware to više ne radi. 10 s između pokušaja ako se povećava.",
+    "value": "Otkriva rutu do repetitora. Zadano 0 ponovnih pokušaja (jedan pokušaj). Standardni firmware resetira svoj slot za trag u čekanju pri svakom novom zahtjevu, pa ponovni pokušaj sa strane telefona može odbaciti spor odgovor koji je u tijeku umjesto da ga spasi. Povećaj samo ako tvoj firmware to više ne radi. 10 s između pokušaja ako se povećava.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Nema odgovora — ovaj repetitor možda ne podržava zahtjeve za verziju firmvera (potreban fw v2+) ili je izvan dosega.",
+    "value": "Nema odgovora: ovaj repetitor možda ne podržava zahtjeve za verziju firmvera (potreban fw v2+) ili je izvan dosega.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Nema odgovora — ovaj repetitor možda ne podržava podatke o vlasniku ili je izvan dosega.",
+    "value": "Nema odgovora: ovaj repetitor možda ne podržava podatke o vlasniku ili je izvan dosega.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nije povezano s companion uređajem — prvo poveži čvor.",

@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "An fhad a fhanfar le haghaidh macalla athdhéantóra ar theachtaireacht cainéil sula dtaispeánfar an glif athshnaidhm. Réamhshocrú 10 s. Ísligh é do mhogaill mhear ina dteastaíonn uait athshnaidhm a dhéanamh níos luaithe; ardú do mhogaill mhoille/iargúlta ina bhféadfadh an chéad mhicalla 20–30 s a thógáil.\n\nTá moill ath-iarrachta DM socraithe ag 140 s — leanann sé fad an dréimire ath-iarrachta uathoibríoch ar leibhéal na sreinge. Dá nochtfaí é, thaispeánfadh sé an cnaipe ath-iarrachta láimhe sula gcríochnaíonn an slabhra ath-iarrachta uathoibríoch, rud a chuirfeadh ath-iarrachtaí láimhe + uathoibríocha i bhfite fuaite lena chéile agus a chuirfeadh mearbhall ar chomhaireamh iarrachtaí na bolgáin.",
+    "value": "An fhad a fhanfar le haghaidh macalla athdhéantóra ar theachtaireacht cainéil sula dtaispeánfar an glif athshnaidhm. Réamhshocrú 10 s. Ísligh é do mhogaill mhear ina dteastaíonn uait athshnaidhm a dhéanamh níos luaithe; ardú do mhogaill mhoille/iargúlta ina bhféadfadh an chéad mhicalla 20-30 s a thógáil.\n\nTá moill ath-iarrachta DM socraithe ag 140 s. Leanann sé fad an dréimire ath-iarrachta uathoibríoch ar leibhéal na sreinge. Dá nochtfaí é, thaispeánfadh sé an cnaipe ath-iarrachta láimhe sula gcríochnaíonn an slabhra ath-iarrachta uathoibríoch, rud a chuirfeadh ath-iarrachtaí láimhe + uathoibríocha i bhfite fuaite lena chéile agus a chuirfeadh mearbhall ar chomhaireamh iarrachtaí na bolgáin.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Moill athriail an chainéil",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Uasteorainn ar líon na n-iarrachtaí athdhéanta a thionscnaíonn an t-úsáideoir in aghaidh teachtaireachta amach — an gliofá ↻ oráiste ar bhoilgeoga neamhdheimhnithe. Nuair a shroichtear an uasteorainn, éiríonn an gliofá liath agus stopann sé ag glacadh le tapanna. Réamhshocrú 5 (a thagann leis an dréimire ath-iarrachta uathoibríoch: 3× díreach + 2× tuile).",
+    "value": "Uasteorainn ar líon na n-iarrachtaí athdhéanta a thionscnaíonn an t-úsáideoir in aghaidh teachtaireachta amach (an gliofá ↻ oráiste ar bhoilgeoga neamhdheimhnithe). Nuair a shroichtear an uasteorainn, éiríonn an gliofá liath agus stopann sé ag glacadh le tapanna. Réamhshocrú 5 (a thagann leis an dréimire ath-iarrachta uathoibríoch: 3× díreach + 2× tuile).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Clúdach ath-iarrachta láimhe",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Cé mhéad uair a athsheolann an aip iarratas ar fhaisnéis úinéara mura bhfaightear freagra, agus cé chomh fada is a fhanann sí idir iarrachtaí. Réamhshocrú: 1 n-iarracht arís, eatramh 8 soicind. De ghnáth, is leor aon iarracht amháin — seoltar an t-iarratas chuig athdhéantóir sonrach, agus mar sin bíonn cáilíocht na naisc intuartha.",
+    "value": "Cé mhéad uair a athsheolann an aip iarratas ar fhaisnéis úinéara mura bhfaightear freagra, agus cé chomh fada is a fhanann sí idir iarrachtaí. Réamhshocrú: 1 n-iarracht arís, eatramh 8 soicind. De ghnáth, is leor aon iarracht amháin: seoltar an t-iarratas chuig athdhéantóir sonrach, agus mar sin bíonn cáilíocht na naisc intuartha.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Eolas úinéara",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Tástálann traceroute bealach a roghnaigh tú hop ar hop agus tuairiscíonn sé an comhartha ag gach hop. Aon uair amháin (gan athsheoladh) — tusa a roghnaigh an chonair. Réamhshocrú: teorainn 30 s.",
+    "value": "Tástálann traceroute bealach a roghnaigh tú hop ar hop agus tuairiscíonn sé an comhartha ag gach hop. Aon uair amháin (gan athsheoladh), mar tusa a roghnaigh an chonair. Réamhshocrú: teorainn 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "cloiste amháin",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Cé chomh fada le fanacht le freagra sula dtugtar suas — baineann seo le CLI (set name / position / reboot / advert / clock / ver), stádas, teileméadracht, faisnéis úinéir, logáil isteach agus rianú cosáin. Réamhshocrú 30 s, raon 10–60. Is é seo an uimhir óna dtosaíonn an cuntas síos idir lámha.",
+    "value": "Cé chomh fada le fanacht le freagra sula dtugtar suas. Baineann seo le CLI (set name / position / reboot / advert / clock / ver), stádas, teileméadracht, faisnéis úinéir, logáil isteach agus rianú cosáin. Réamhshocrú 30 s, raon 10-60. Is é seo an uimhir óna dtosaíonn an cuntas síos idir lámha.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Uasmhéid ath-iarrachtaí",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Uasteorainn dhocht ar ath-iarrachtaí tionscnaithe ag an úsáideoir in aghaidh teachtaireachta amach — an glíf ↻ oráiste ar bholgáin nach bhfuil ACK faighte acu. Nuair a shroicheann tú an uasteorainn, liathaíonn an glíf agus ní ghlacann sé le tapaí a thuilleadh. Réamhshocrú 5 (comhoiriúnach leis an dréimire uath-ath-iarrachta: 3× díreach + 2× tuile).",
+    "value": "Uasteorainn dhocht ar ath-iarrachtaí tionscnaithe ag an úsáideoir in aghaidh teachtaireachta amach (an glíf ↻ oráiste ar bholgáin nach bhfuil ACK faighte acu). Nuair a shroicheann tú an uasteorainn, liathaíonn an glíf agus ní ghlacann sé le tapaí a thuilleadh. Réamhshocrú 5 (comhoiriúnach leis an dréimire uath-ath-iarrachta: 3× díreach + 2× tuile).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Moill cainéil",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Aimsíonn sé an bealach chuig athsheachadán. Réamhshocrú 0 ath-iarracht (iarracht amháin) — athshocraíonn an firmware chaighdeánach a shliotán rian-ar-feitheamh le gach iarraidh nua, mar sin d'fhéadfadh ath-iarracht ó thaobh an fhóin freagra mall atá fós ar siúl a chur ar ceal seachas é a tharrtháil. Ardaigh é seo ach amháin má stopann do firmware é sin a dhéanamh. 10 s idir iarrachtaí má ardaítear é.",
+    "value": "Aimsíonn sé an bealach chuig athsheachadán. Réamhshocrú 0 ath-iarracht (iarracht amháin). Athshocraíonn an firmware chaighdeánach a shliotán rian-ar-feitheamh le gach iarraidh nua, mar sin d'fhéadfadh ath-iarracht ó thaobh an fhóin freagra mall atá fós ar siúl a chur ar ceal seachas é a tharrtháil. Ardaigh é seo ach amháin má stopann do firmware é sin a dhéanamh. 10 s idir iarrachtaí má ardaítear é.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Eatramh",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Gan freagra — ní féidir go dtacaíonn an athsheachadán seo le hiarrataí leagain fhirmware (tá fw v2+ de dhíth), nó tá sé lasmuigh de raon.",
+    "value": "Gan freagra: ní féidir go dtacaíonn an athsheachadán seo le hiarrataí leagain fhirmware (tá fw v2+ de dhíth), nó tá sé lasmuigh de raon.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Gan freagra — ní féidir go dtacaíonn an athsheachadán seo le faisnéis úinéir, nó tá sé lasmuigh de raon.",
+    "value": "Gan freagra: ní féidir go dtacaíonn an athsheachadán seo le faisnéis úinéir, nó tá sé lasmuigh de raon.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Níl ceangailte le gléas companion — ceangail nód ar dtús.",

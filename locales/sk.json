@@ -7225,9 +7225,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Ako dlho čakať na odozvu z opakovača pri správe kanála, než sa zobrazí ikona opätovného pokusu. Predvolená hodnota je 10 s. Túto hodnotu znížte v prípade rýchlych sietí, kde chcete opätovný pokus uskutočniť skôr; zvýšte ju v prípade pomalých alebo rozsiahlych sietí, kde prvá odozva môže trvať 20–30 s.\n\nOneskorenie opakovaného pokusu DM je pevne nastavené na 140 s – sleduje trvanie reťazca automatických opakovaných pokusov na úrovni vedenia. Jeho zverejnenie by spôsobilo zobrazenie tlačidla ručného opakovaného pokusu skôr, ako sa reťazec automatických opakovaných pokusov dokončí, čo by viedlo k prekrývaniu ručných a automatických opakovaných pokusov a zmätku v počítadle pokusov bubliny.",
+    "value": "Ako dlho čakať na odozvu z opakovača pri správe kanála, než sa zobrazí ikona opätovného pokusu. Predvolená hodnota je 10 s. Túto hodnotu znížte v prípade rýchlych sietí, kde chcete opätovný pokus uskutočniť skôr; zvýšte ju v prípade pomalých alebo rozsiahlych sietí, kde prvá odozva môže trvať 20-30 s.\n\nOneskorenie opakovaného pokusu DM je pevne nastavené na 140 s. Sleduje trvanie reťazca automatických opakovaných pokusov na úrovni vedenia. Jeho zverejnenie by spôsobilo zobrazenie tlačidla ručného opakovaného pokusu skôr, ako sa reťazec automatických opakovaných pokusov dokončí, čo by viedlo k prekrývaniu ručných a automatických opakovaných pokusov a zmätku v počítadle pokusov bubliny.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Oneskorenie opakovaného pokusu kanála",
@@ -7245,9 +7245,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Maximálny limit opakovaných pokusov iniciovaných používateľom na jednu odosielanú správu — oranžový symbol ↻ na bublinách bez potvrdenia. Po dosiahnutí tohto limitu sa symbol zosivie a prestane prijímať ťuknutia. Predvolená hodnota je 5 (zodpovedá stupnici automatických opakovaných pokusov: 3× priamo + 2× hromadne).",
+    "value": "Maximálny limit opakovaných pokusov iniciovaných používateľom na jednu odosielanú správu (oranžový symbol ↻ na bublinách bez potvrdenia). Po dosiahnutí tohto limitu sa symbol zosivie a prestane prijímať ťuknutia. Predvolená hodnota je 5 (zodpovedá stupnici automatických opakovaných pokusov: 3× priamo + 2× hromadne).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Limit počtu manuálnych opakovaných pokusov",
@@ -7260,9 +7260,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Koľkokrát aplikácia opätovne odošle žiadosť o informácie o vlastníkovi, ak nepríde žiadna odpoveď, a ako dlho čaká medzi jednotlivými pokusmi. Predvolené nastavenie: 1 opakovaný pokus, interval 8 s. Jeden opakovaný pokus zvyčajne stačí – žiadosť smeruje na konkrétny opakovač, takže kvalita spojenia je predvídateľná.",
+    "value": "Koľkokrát aplikácia opätovne odošle žiadosť o informácie o vlastníkovi, ak nepríde žiadna odpoveď, a ako dlho čaká medzi jednotlivými pokusmi. Predvolené nastavenie: 1 opakovaný pokus, interval 8 s. Jeden opakovaný pokus zvyčajne stačí: žiadosť smeruje na konkrétny opakovač, takže kvalita spojenia je predvídateľná.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informácie o vlastníkovi",
@@ -7515,9 +7515,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute preverí trasu, ktorú ste zvolili skok po skoku, a ohlási signál na každom skoku. Jednorazovo (bez opakovaní) — cestu ste zvolili vy. Predvolený timeout 30 s.",
+    "value": "Traceroute preverí trasu, ktorú ste zvolili skok po skoku, a ohlási signál na každom skoku. Jednorazovo (bez opakovaní), keďže cestu ste zvolili vy. Predvolený timeout 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "iba začutý",
@@ -10212,9 +10212,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Ako dlho čakať na odpoveď, než sa to vzdá — platí pre CLI (set name / position / reboot / advert / clock / ver), status, telemetriu, informácie o vlastníkovi, prihlásenie a trasovanie cesty. Predvolené 30 s, rozsah 10–60. Je to číslo, od ktorého odpočítava bežiaci odpočítavač.",
+    "value": "Ako dlho čakať na odpoveď, než sa to vzdá. Platí pre CLI (set name / position / reboot / advert / clock / ver), status, telemetriu, informácie o vlastníkovi, prihlásenie a trasovanie cesty. Predvolené 30 s, rozsah 10-60. Je to číslo, od ktorého odpočítava bežiaci odpočítavač.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Max. počet opakovaní",
@@ -10227,9 +10227,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Pevný limit na počet opakovaní iniciovaných užívateľom pre každú odchádzajúcu správu — oranžový symbol ↻ na nepotvrdených bublinách. Po dosiahnutí limitu sa symbol zošedne a prestane reagovať na ťuknutia. Predvolené 5 (zodpovedá automatickému rebríku opakovaní: 3× priamo + 2× flood).",
+    "value": "Pevný limit na počet opakovaní iniciovaných užívateľom pre každú odchádzajúcu správu (oranžový symbol ↻ na nepotvrdených bublinách). Po dosiahnutí limitu sa symbol zošedne a prestane reagovať na ťuknutia. Predvolené 5 (zodpovedá automatickému rebríku opakovaní: 3× priamo + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Zdržanie kanála",
@@ -10282,9 +10282,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Zisťuje cestu k repeateru. Predvolené 0 opakovaní (jediný pokus) — štandardný firmvér pri každej novej požiadavke resetuje svoj slot pre čakajúce trasovanie, takže opakovanie zo strany telefónu môže skôr zahodiť pomalú odpoveď na ceste, než ju zachrániť. Zvýšte len v prípade, že váš firmvér toto správanie nemá. Pri zvýšení 10 s medzi pokusmi.",
+    "value": "Zisťuje cestu k repeateru. Predvolené 0 opakovaní (jediný pokus). Štandardný firmvér pri každej novej požiadavke resetuje svoj slot pre čakajúce trasovanie, takže opakovanie zo strany telefónu môže skôr zahodiť pomalú odpoveď na ceste, než ju zachrániť. Zvýšte len v prípade, že váš firmvér toto správanie nemá. Pri zvýšení 10 s medzi pokusmi.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -10372,14 +10372,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Žiadna odpoveď — tento repeater možno nepodporuje požiadavky na verziu firmvéru (vyžaduje fw v2+), alebo je mimo dosahu.",
+    "value": "Žiadna odpoveď: tento repeater možno nepodporuje požiadavky na verziu firmvéru (vyžaduje fw v2+), alebo je mimo dosahu.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Žiadna odpoveď — tento repeater možno nepodporuje informácie o vlastníkovi, alebo je mimo dosahu.",
+    "value": "Žiadna odpoveď: tento repeater možno nepodporuje informácie o vlastníkovi, alebo je mimo dosahu.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Nie je pripojené žiadne companion zariadenie — najprv pripojte uzol.",

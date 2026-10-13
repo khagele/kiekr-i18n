@@ -7224,9 +7224,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Kemm għandek tistenna għal eko ta' ripetitur fuq messaġġ tal-kanal qabel ma turi l-ikona tar-ritenta. Default 10 s. Naqqas għal meshijiet veloċi fejn trid tirritenta aktar kmieni; żid għal meshijiet bil-mod jew 'il bogħod fejn l-ewwel eko jista' jieħu 20–30 s.\n\nId-dewmien tar-retry fid-DM huwa fissat għal 140 s — huwa marbut mad-durata tal-iskala tar-retry awtomatiku fil-livell tal-kejbil. Li tagħmilha viżibbli jwassal biex il-buttuna tar-retry manwali tidher qabel ma jispiċċa s-serje tar-retry awtomatiku, u dan jinterkalja r-retry manwali u awtomatiku u jikkonfondi l-kontatur tat-tentattivi tal-bubble.",
+    "value": "Kemm għandek tistenna għal eko ta' ripetitur fuq messaġġ tal-kanal qabel ma turi l-ikona tar-ritenta. Default 10 s. Naqqas għal meshijiet veloċi fejn trid tirritenta aktar kmieni; żid għal meshijiet bil-mod jew 'il bogħod fejn l-ewwel eko jista' jieħu 20-30 s.\n\nId-dewmien tar-retry fid-DM huwa fissat għal 140 s. Huwa marbut mad-durata tal-iskala tar-retry awtomatiku fil-livell tal-kejbil. Li tagħmilha viżibbli jwassal biex il-buttuna tar-retry manwali tidher qabel ma jispiċċa s-serje tar-retry awtomatiku, u dan jinterkalja r-retry manwali u awtomatiku u jikkonfondi l-kontatur tat-tentattivi tal-bubble.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_channel_delay_header": {
     "value": "Dejl ta' ritentattiva tal-kanal",
@@ -7244,9 +7244,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limitu strett tar-ritrjijiet inizjati mill-utent għal kull messaġġ li jitlaq — il-glif oranġjo ↻ fuq il-bolletti bla akkett. Ladarba tilħaq il-limitu, il-glif isir griż u jieqaf jaċċetta t-tapijiet. Default 5 (jaqbel mal-iskala tar-ritrjijiet awtomatiċi: 3× dirett + 2× flood).",
+    "value": "Limitu strett tar-ritrjijiet inizjati mill-utent għal kull messaġġ li jitlaq (il-glif oranġjo ↻ fuq il-bolletti bla akkett). Ladarba tilħaq il-limitu, il-glif isir griż u jieqaf jaċċetta t-tapijiet. Default 5 (jaqbel mal-iskala tar-ritrjijiet awtomatiċi: 3× dirett + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_manual_cap_header": {
     "value": "Kappella ta' ritentattiv manwali",
@@ -7259,9 +7259,9 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_owner_info_footer": {
-    "value": "Kemm drabi l-app tibgħat mill-ġdid talba għall-informazzjoni tal-propjetarju jekk ma tasal l-ebda tweġiba, u kemm tistenna bejn kull tentattiv. B'mod default: 1 tentattiv mill-ġdid u intervall ta' 8 sekondi. Normalment tentattiv wieħed ikun biżżejjed — it-talba tintbagħat lil repeater speċifiku, għalhekk il-kwalità tal-konnessjoni tista' tiġi prevista.",
+    "value": "Kemm drabi l-app tibgħat mill-ġdid talba għall-informazzjoni tal-propjetarju jekk ma tasal l-ebda tweġiba, u kemm tistenna bejn kull tentattiv. B'mod default: 1 tentattiv mill-ġdid u intervall ta' 8 sekondi. Normalment tentattiv wieħed ikun biżżejjed: it-talba tintbagħat lil repeater speċifiku, għalhekk il-kwalità tal-konnessjoni tista' tiġi prevista.",
     "_ai": true,
-    "_seeded": "2026-06-26"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Informazzjoni dwar is-sid",
@@ -7514,9 +7514,9 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_settings_footer": {
-    "value": "Traceroute jittestja rotta li għażilt hop wara hop u jirrapporta s-sinjal f'kull hop. Darba waħda (mingħajr repetizzjonijiet) — it-triq għażiltha int. Timeout default: 30 s.",
+    "value": "Traceroute jittestja rotta li għażilt hop wara hop u jirrapporta s-sinjal f'kull hop. Darba waħda (mingħajr repetizzjonijiet), għax it-triq għażiltha int. Timeout default: 30 s.",
     "_ai": true,
-    "_seeded": "2026-07-05"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "instema' biss",
@@ -10211,9 +10211,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Kemm iddum tistenna tweġiba qabel ma taqta' qalbek — tapplika għal CLI (set name / position / reboot / advert / clock / ver), status, telemetry, informazzjoni tas-sid, login u path-trace. Default 30 s, medda 10–60. Dan huwa n-numru minn fejn jinżel il-countdown waqt li t-talba tkun għaddejja.",
+    "value": "Kemm iddum tistenna tweġiba qabel ma taqta' qalbek. Tapplika għal CLI (set name / position / reboot / advert / clock / ver), status, telemetry, informazzjoni tas-sid, login u path-trace. Default 30 s, medda 10-60. Dan huwa n-numru minn fejn jinżel il-countdown waqt li t-talba tkun għaddejja.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Massimu ta' tentattivi mill-ġdid",
@@ -10226,9 +10226,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limitu assolut fuq it-tentattivi mill-ġdid mibdija mill-utent għal kull messaġġ ħiereġ — is-simbolu oranġjo ↻ fuq bżieżaq mhux ikkonfermati. Ladarba tilħaq il-limitu, is-simbolu jsir griż u ma jibqax jaċċetta taps. Default 5 (jaqbel mal-iskala ta' auto-retry: 3× dirett + 2× flood).",
+    "value": "Limitu assolut fuq it-tentattivi mill-ġdid mibdija mill-utent għal kull messaġġ ħiereġ (is-simbolu oranġjo ↻ fuq bżieżaq mhux ikkonfermati). Ladarba tilħaq il-limitu, is-simbolu jsir griż u ma jibqax jaċċetta taps. Default 5 (jaqbel mal-iskala ta' auto-retry: 3× dirett + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Dewmien tal-kanal",
@@ -10281,9 +10281,9 @@
     "_seeded": "2026-09-20"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Jiskopri r-rotta lejn repeater. Default 0 tentattivi mill-ġdid (attentat wieħed) — il-firmware standard tirrisettja l-pending-trace slot tagħha ma' kull talba ġdida, għalhekk tentattiv mill-ġdid min-naħa tal-mowbajl jista' jitlef tweġiba bil-mod għaddejja minflok isalvaha. Żid biss jekk il-firmware tiegħek tieqaf tagħmel dan. 10 s bejn it-tentattivi jekk jiżdied.",
+    "value": "Jiskopri r-rotta lejn repeater. Default 0 tentattivi mill-ġdid (attentat wieħed). Il-firmware standard tirrisettja l-pending-trace slot tagħha ma' kull talba ġdida, għalhekk tentattiv mill-ġdid min-naħa tal-mowbajl jista' jitlef tweġiba bil-mod għaddejja minflok isalvaha. Żid biss jekk il-firmware tiegħek tieqaf tagħmel dan. 10 s bejn it-tentattivi jekk jiżdied.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervall",
@@ -10371,14 +10371,14 @@
     "_seeded": "2026-09-20"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "L-ebda tweġiba — dan ir-repeater jista' ma jappoġġjax talbiet dwar il-verżjoni tal-firmware (jeħtieġ fw v2+), jew huwa 'l barra mill-medda.",
+    "value": "L-ebda tweġiba: dan ir-repeater jista' ma jappoġġjax talbiet dwar il-verżjoni tal-firmware (jeħtieġ fw v2+), jew huwa 'l barra mill-medda.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "L-ebda tweġiba — dan ir-repeater jista' ma jappoġġjax informazzjoni tas-sid, jew huwa 'l barra mill-medda.",
+    "value": "L-ebda tweġiba: dan ir-repeater jista' ma jappoġġjax informazzjoni tas-sid, jew huwa 'l barra mill-medda.",
     "_ai": true,
-    "_seeded": "2026-09-20"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Mhux konness ma' apparat companion — ikkonnettja nodu l-ewwel.",

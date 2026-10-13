@@ -6019,7 +6019,7 @@
     "_human": true
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Hoe lang te wachten op een repeater-echo bij een kanaalbericht voordat het poging-teken verschijnt. Standaard 10 s. Verlaag voor snelle meshes waar je sneller opnieuw wilt proberen; verhoog op trage / wijd verspreide meshes waar de eerste echo 20–30 s kan duren.\n\nDe vertraging van DM-pogingen ligt vast op 140 s — die volgt de duur van de auto-poging-ladder op draadniveau. Hem tonen zou de handmatige poging-knop laten verschijnen voordat de auto-poging-keten klaar is, wat handmatige + auto-pogingen zou vermengen en de pogingteller van de bubbel zou verwarren.",
+    "value": "Hoe lang te wachten op een repeater-echo bij een kanaalbericht voordat het poging-teken verschijnt. Standaard 10 s. Verlaag voor snelle meshes waar je sneller opnieuw wilt proberen; verhoog op trage / wijd verspreide meshes waar de eerste echo 20-30 s kan duren.\n\nDe vertraging van DM-pogingen ligt vast op 140 s. Die volgt de duur van de auto-poging-ladder op draadniveau. Hem tonen zou de handmatige poging-knop laten verschijnen voordat de auto-poging-keten klaar is, wat handmatige + auto-pogingen zou vermengen en de pogingteller van de bubbel zou verwarren.",
     "_human": true
   },
   "settings_retries_channel_delay_header": {
@@ -6035,7 +6035,7 @@
     "_human": true
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Harde limiet op door de gebruiker gestarte pogingen per uitgaand bericht — het oranje ↻-teken op niet-bevestigde bubbels. Zodra je de limiet bereikt wordt het teken grijs en accepteert het geen tikken meer. Standaard 5 (komt overeen met de auto-poging-ladder: 3× direct + 2× flood).",
+    "value": "Harde limiet op door de gebruiker gestarte pogingen per uitgaand bericht (het oranje ↻-teken op niet-bevestigde bubbels). Zodra je de limiet bereikt wordt het teken grijs en accepteert het geen tikken meer. Standaard 5 (komt overeen met de auto-poging-ladder: 3× direct + 2× flood).",
     "_human": true
   },
   "settings_retries_manual_cap_header": {
@@ -6047,9 +6047,9 @@
     "_human": true
   },
   "settings_retries_owner_info_footer": {
-    "value": "Hoe vaak de app een verzoek om eigenaarsgegevens opnieuw verstuurt als er geen antwoord komt, en hoe lang er tussen de pogingen wordt gewacht. Standaard: 1 poging, interval van 8 seconden. Eén poging is meestal voldoende — het verzoek wordt naar een specifieke repeater gestuurd, dus de verbindingskwaliteit is voorspelbaar.",
+    "value": "Hoe vaak de app een verzoek om eigenaarsgegevens opnieuw verstuurt als er geen antwoord komt, en hoe lang er tussen de pogingen wordt gewacht. Standaard: 1 poging, interval van 8 seconden. Eén poging is meestal voldoende: het verzoek wordt naar een specifieke repeater gestuurd, dus de verbindingskwaliteit is voorspelbaar.",
     "_ai": true,
-    "_seeded": "2026-05-23"
+    "_seeded": "2026-10-14"
   },
   "settings_retries_owner_info_header": {
     "value": "Gegevens eigenaar",
@@ -6270,9 +6270,9 @@
     "_seeded": "2026-07-01"
   },
   "traceroute_settings_footer": {
-    "value": "Met een traceroute wordt een door jou gekozen route hop voor hop onderzocht en wordt per hop een statusmelding weergegeven. Eenmalig (geen herhalingspogingen) — jij kiest het pad. Standaard time-out van 30 seconden.",
+    "value": "Met een traceroute wordt een door jou gekozen route hop voor hop onderzocht en wordt per hop een statusmelding weergegeven. Eenmalig (geen herhalingspogingen), omdat jij kiest het pad. Standaard time-out van 30 seconden.",
     "_ai": true,
-    "_seeded": "2026-07-01"
+    "_seeded": "2026-10-14"
   },
   "traceroute_target_heard_only": {
     "value": "alleen gehoord",
@@ -8935,9 +8935,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Hoe lang er op een antwoord moet worden gewacht voordat het verzoek wordt opgegeven — geldt voor CLI (set name / position / reboot / advert / clock / ver), status, telemetrie, eigenaarsinformatie, login en padtracering. Standaard 30 s, bereik 10–60. Dit is het getal waarvandaan de aftelling tijdens de verwerking begint.",
+    "value": "Hoe lang er op een antwoord moet worden gewacht voordat het verzoek wordt opgegeven. Geldt voor CLI (set name / position / reboot / advert / clock / ver), status, telemetrie, eigenaarsinformatie, login en padtracering. Standaard 30 s, bereik 10-60. Dit is het getal waarvandaan de aftelling tijdens de verwerking begint.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Max. aantal herhalingspogingen",
@@ -8950,9 +8950,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Harde limiet op door de gebruiker geïnitieerde herpogingen per uitgaand bericht — het oranje ↻-symbool op niet-bevestigde bubbels. Zodra de limiet is bereikt, wordt het symbool grijs en worden er geen tikken meer geaccepteerd. Standaard 5 (komt overeen met de ladder voor automatische herpogingen: 3× direct + 2× flood).",
+    "value": "Harde limiet op door de gebruiker geïnitieerde herpogingen per uitgaand bericht (het oranje ↻-symbool op niet-bevestigde bubbels). Zodra de limiet is bereikt, wordt het symbool grijs en worden er geen tikken meer geaccepteerd. Standaard 5 (komt overeen met de ladder voor automatische herpogingen: 3× direct + 2× flood).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Kanaalvertraging",
@@ -9005,9 +9005,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Ontdekt de route naar een repeater. Standaard 0 herhalingspogingen (één enkele poging) — de standaardfirmware reset zijn ‘pending-trace’-slot bij elk nieuw verzoek, dus een herhalingspoging aan de telefoonzijde kan een traag antwoord dat nog onderweg is, laten vallen in plaats van het te redden. Verhoog deze waarde alleen als uw firmware dat niet meer doet. 10 s tussen pogingen indien verhoogd.",
+    "value": "Ontdekt de route naar een repeater. Standaard 0 herhalingspogingen (één enkele poging). De standaardfirmware reset zijn ‘pending-trace’-slot bij elk nieuw verzoek, dus een herhalingspoging aan de telefoonzijde kan een traag antwoord dat nog onderweg is, laten vallen in plaats van het te redden. Verhoog deze waarde alleen als uw firmware dat niet meer doet. 10 s tussen pogingen indien verhoogd.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Interval",
@@ -9095,14 +9095,14 @@
     "_seeded": "2026-08-12"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Geen reactie — deze repeater ondersteunt mogelijk geen verzoeken om de firmwareversie (vereist fw v2+), of bevindt zich buiten bereik.",
+    "value": "Geen reactie: deze repeater ondersteunt mogelijk geen verzoeken om de firmwareversie (vereist fw v2+), of bevindt zich buiten bereik.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Geen reactie — deze repeater ondersteunt mogelijk geen eigenaarsinformatie, of bevindt zich buiten bereik.",
+    "value": "Geen reactie: deze repeater ondersteunt mogelijk geen eigenaarsinformatie, of bevindt zich buiten bereik.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Niet verbonden met een bijbehorend apparaat — sluit eerst een node aan.",

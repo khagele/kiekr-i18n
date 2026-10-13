@@ -6020,7 +6020,7 @@
     "_human": true
   },
   "settings_retries_channel_delay_footer": {
-    "value": "Combien de temps attendre un écho de répéteur sur un message de canal avant de faire apparaître le glyphe de tentative. Défaut 10 s. Plus bas pour les mesh rapides où vous voulez réessayer plus tôt ; plus haut sur les mesh lents / étendus où le premier écho peut prendre 20–30 s.\n\nLe délai de tentative DM est fixé à 140 s — il suit la durée de l'échelle de tentatives automatiques au niveau de la liaison. L'exposer ferait apparaître le bouton de tentative manuelle avant que la chaîne de tentatives automatiques se termine, ce qui entrelacerait les tentatives manuelles + automatiques et embrouillerait le compteur de tentatives de la bulle.",
+    "value": "Combien de temps attendre un écho de répéteur sur un message de canal avant de faire apparaître le glyphe de tentative. Défaut 10 s. Plus bas pour les mesh rapides où vous voulez réessayer plus tôt ; plus haut sur les mesh lents / étendus où le premier écho peut prendre 20-30 s.\n\nLe délai de tentative DM est fixé à 140 s. Il suit la durée de l'échelle de tentatives automatiques au niveau de la liaison. L'exposer ferait apparaître le bouton de tentative manuelle avant que la chaîne de tentatives automatiques se termine, ce qui entrelacerait les tentatives manuelles + automatiques et embrouillerait le compteur de tentatives de la bulle.",
     "_human": true
   },
   "settings_retries_channel_delay_header": {
@@ -6036,7 +6036,7 @@
     "_human": true
   },
   "settings_retries_manual_cap_footer": {
-    "value": "Limite stricte des tentatives lancées par l'utilisateur par message sortant — le glyphe orange ↻ sur les bulles non acquittées. Une fois la limite atteinte, le glyphe grise et n'accepte plus les touches. Défaut 5 (correspond à l'échelle de tentatives automatiques : 3× direct + 2× flood).",
+    "value": "Limite stricte des tentatives lancées par l'utilisateur par message sortant (le glyphe orange ↻ sur les bulles non acquittées). Une fois la limite atteinte, le glyphe grise et n'accepte plus les touches. Défaut 5 (correspond à l'échelle de tentatives automatiques : 3× direct + 2× flood).",
     "_human": true
   },
   "settings_retries_manual_cap_header": {
@@ -8936,9 +8936,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_how_long_to_wait_for_a_reply_before_givi": {
-    "value": "Durée d’attente d’une réponse avant d’abandonner — s’applique à la CLI (set name / position / reboot / advert / clock / ver), au statut, à la télémétrie, aux informations sur le propriétaire, à la connexion et au traçage du chemin. Valeur par défaut : 30 s, plage : 10–60. Il s’agit du nombre à partir duquel le compte à rebours en cours décompte.",
+    "value": "Durée d’attente d’une réponse avant d’abandonner. S’applique à la CLI (set name / position / reboot / advert / clock / ver), au statut, à la télémétrie, aux informations sur le propriétaire, à la connexion et au traçage du chemin. Valeur par défaut : 30 s, plage : 10-60. Il s’agit du nombre à partir duquel le compte à rebours en cours décompte.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_max_retries": {
     "value": "Nombre maximal de tentatives",
@@ -8951,9 +8951,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_hard_cap_on_user_initiated_retries_per_o": {
-    "value": "Limite stricte du nombre de tentatives initiées par l’utilisateur par message sortant — le symbole orange ↻ apparaît sur les bulles non acquittées. Une fois la limite atteinte, le symbole devient gris et n’accepte plus de clics. Valeur par défaut : 5 (correspond à l’échelle de tentatives automatiques : 3 × directes + 2 × en masse).",
+    "value": "Limite stricte du nombre de tentatives initiées par l’utilisateur par message sortant (le symbole orange ↻ apparaît sur les bulles non acquittées). Une fois la limite atteinte, le symbole devient gris et n’accepte plus de clics. Valeur par défaut : 5 (correspond à l’échelle de tentatives automatiques : 3 × directes + 2 × en masse).",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_channel_delay": {
     "value": "Délai du canal",
@@ -9006,9 +9006,9 @@
     "_seeded": "2026-08-12"
   },
   "ios_retriesandtimeou_discovers_the_route_to_a_repeater_defaul": {
-    "value": "Détecte l’itinéraire vers un répéteur. Par défaut : 0 nouvelle tentative (une seule tentative) — le micrologiciel d’origine réinitialise son emplacement de trace en attente à chaque nouvelle requête ; ainsi, une nouvelle tentative côté téléphone peut faire perdre une réponse lente en cours de transmission plutôt que de la récupérer. À augmenter uniquement si votre micrologiciel cesse de fonctionner ainsi. Intervalle de 10 s entre les tentatives si cette valeur est augmentée.",
+    "value": "Détecte l’itinéraire vers un répéteur. Par défaut : 0 nouvelle tentative (une seule tentative). Le micrologiciel d’origine réinitialise son emplacement de trace en attente à chaque nouvelle requête ; ainsi, une nouvelle tentative côté téléphone peut faire perdre une réponse lente en cours de transmission plutôt que de la récupérer. À augmenter uniquement si votre micrologiciel cesse de fonctionner ainsi. Intervalle de 10 s entre les tentatives si cette valeur est augmentée.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "ios_retriesandtimeou_interval": {
     "value": "Intervalle",
@@ -9096,14 +9096,14 @@
     "_seeded": "2026-08-12"
   },
   "repeater_err_no_response_fw_version": {
-    "value": "Pas de réponse — ce répéteur ne prend peut-être pas en charge les requêtes de version du micrologiciel (nécessite la version v2 ou supérieure du micrologiciel), ou est hors de portée.",
+    "value": "Pas de réponse : ce répéteur ne prend peut-être pas en charge les requêtes de version du micrologiciel (nécessite la version v2 ou supérieure du micrologiciel), ou est hors de portée.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_no_response_owner": {
-    "value": "Pas de réponse — ce répéteur ne prend peut-être pas en charge les informations sur le propriétaire, ou est hors de portée.",
+    "value": "Pas de réponse : ce répéteur ne prend peut-être pas en charge les informations sur le propriétaire, ou est hors de portée.",
     "_ai": true,
-    "_seeded": "2026-08-12"
+    "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
     "value": "Non connecté à un appareil compagnon — connectez d’abord un nœud.",
