@@ -3,7 +3,7 @@
     "language": "cs",
     "name": "Čeština",
     "managed_by": "community",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "add_channel_duplicate_key": {
     "value": "Tento klíč již patří k „%1$s“.",
@@ -13915,5 +13915,15 @@
     "value": "Zobrazit méně skoků",
     "_ai": true,
     "_seeded": "2026-10-07"
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "Uzel se liší od aplikace",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Sjednotit",
+    "_ai": true,
+    "_seeded": "2026-10-14"
   }
 }

@@ -3,7 +3,7 @@
     "language": "uk",
     "name": "Українська",
     "managed_by": "community",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "add_channel_duplicate_key": {
     "value": "Цей ключ уже належить до «%1$s».",
@@ -13916,5 +13916,15 @@
     "value": "Показати менше хопів",
     "_ai": true,
     "_seeded": "2026-10-07"
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "Вузол відрізняється від застосунку",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Узгодити",
+    "_ai": true,
+    "_seeded": "2026-10-14"
   }
 }

@@ -3,7 +3,7 @@
     "language": "mt",
     "name": "Malti",
     "managed_by": "community",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "add_channel_duplicate_key": {
     "value": "Din iċ-ċavetta diġà tappartjeni lil \"%1$s\".",
@@ -13915,5 +13915,15 @@
     "value": "Uri inqas qabżiet",
     "_ai": true,
     "_seeded": "2026-10-07"
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "In-nodu huwa differenti mill-app",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Irrikonċilja",
+    "_ai": true,
+    "_seeded": "2026-10-14"
   }
 }

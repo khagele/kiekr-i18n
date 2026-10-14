@@ -3,7 +3,7 @@
     "language": "sk",
     "name": "Slovenčina",
     "managed_by": "community",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "add_channel_duplicate_key": {
     "value": "Tento kľúč už patrí k „%1$s“.",
@@ -13915,5 +13915,15 @@
     "value": "Zobraziť menej skokov",
     "_ai": true,
     "_seeded": "2026-10-07"
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "Uzol sa líši od aplikácie",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Zosúladiť",
+    "_ai": true,
+    "_seeded": "2026-10-14"
   }
 }

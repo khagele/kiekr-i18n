@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-07"
+    "updated": "2026-10-14"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -13912,5 +13912,15 @@
     "value": "Näita vähem hüppeid",
     "_ai": true,
     "_seeded": "2026-10-07"
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "Sõlm erineb rakendusest",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Ühtlusta",
+    "_ai": true,
+    "_seeded": "2026-10-14"
   }
 }

@@ -2799,5 +2799,7 @@
       "other": "Show %1$d more hops"
     }
   },
-  "nodes_detail_advert_path_show_fewer": "Show fewer hops"
+  "nodes_detail_advert_path_show_fewer": "Show fewer hops",
+  "mynode_reconcile_deferred_title": "Node differs from app",
+  "mynode_reconcile_deferred_action": "Reconcile"
 }

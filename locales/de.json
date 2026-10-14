@@ -11348,5 +11348,13 @@
   "nodes_detail_advert_path_show_fewer": {
     "value": "Weniger Hops anzeigen",
     "_human": true
+  },
+  "mynode_reconcile_deferred_title": {
+    "value": "Node weicht von der App ab",
+    "_human": true
+  },
+  "mynode_reconcile_deferred_action": {
+    "value": "Abgleichen",
+    "_human": true
   }
 }
