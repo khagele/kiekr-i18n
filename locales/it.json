@@ -3,7 +3,7 @@
     "language": "it",
     "name": "Italiano",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Questa chiave appartiene già a \"%1$s\".",
@@ -12557,5 +12557,25 @@
     "value": "Riconcilia",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "La connessione al tuo nodo è stata persa. Riprova.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Localizzazione live interrotta: il nodo è stato disconnesso.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Il nodo non ha confermato questa modifica. Potrebbe non essere stata salvata.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Il nodo non ha confermato questo contatto.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

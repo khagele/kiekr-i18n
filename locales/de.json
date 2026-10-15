@@ -3,7 +3,7 @@
     "language": "de",
     "name": "Deutsch",
     "managed_by": "kiekr-team",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "app_upgrade_body": {
     "value": "Öffne die App erneut, um die neue Version fertig zu laden.",
@@ -11355,6 +11355,22 @@
   },
   "mynode_reconcile_deferred_action": {
     "value": "Abgleichen",
+    "_human": true
+  },
+  "repeater_err_link_lost": {
+    "value": "Die Verbindung zum Knoten wurde unterbrochen. Bitte erneut versuchen.",
+    "_human": true
+  },
+  "locate_live_end_disconnected": {
+    "value": "Live-Ortung gestoppt: Der Knoten wurde getrennt.",
+    "_human": true
+  },
+  "config_write_unconfirmed": {
+    "value": "Der Knoten hat die Änderung nicht bestätigt. Sie ist möglicherweise nicht gespeichert.",
+    "_human": true
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Der Knoten hat diesen Kontakt nicht bestätigt.",
     "_human": true
   }
 }

@@ -3,7 +3,7 @@
     "language": "lt",
     "name": "Lietuvių",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Šis raktas jau priklauso „%1$s“.",
@@ -13925,5 +13925,25 @@
     "value": "Suderinti",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Ryšys su jūsų mazgu nutrūko. Bandykite dar kartą.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Tiesioginis sekimas sustabdytas: mazgas buvo atjungtas.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Mazgas nepatvirtino šio pakeitimo. Jis gali būti neišsaugotas.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Mazgas nepatvirtino šio kontakto.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

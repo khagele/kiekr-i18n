@@ -3,7 +3,7 @@
     "language": "ru",
     "name": "Русский",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Этот ключ уже принадлежит «%1$s».",
@@ -13926,5 +13926,25 @@
     "value": "Согласовать",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Соединение с вашим узлом было потеряно. Пожалуйста, попробуйте снова.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Прямое отслеживание остановлено: узел был отключён.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Узел не подтвердил это изменение. Возможно, оно не сохранено.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Узел не подтвердил этот контакт.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

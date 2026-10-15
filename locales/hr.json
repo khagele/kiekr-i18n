@@ -3,7 +3,7 @@
     "language": "hr",
     "name": "Hrvatski",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Ovaj ključ već pripada \"%1$s\".",
@@ -13924,5 +13924,25 @@
     "value": "Uskladi",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Veza s vašim čvorom je izgubljena. Pokušajte ponovno.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Lociranje uživo je zaustavljeno: čvor je odspojen.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Čvor nije potvrdio ovu promjenu. Možda nije spremljena.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Čvor nije potvrdio ovaj kontakt.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

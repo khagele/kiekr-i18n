@@ -3,7 +3,7 @@
     "language": "cs",
     "name": "Čeština",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Tento klíč již patří k „%1$s“.",
@@ -13925,5 +13925,25 @@
     "value": "Sjednotit",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Spojení s vaším uzlem bylo přerušeno. Zkuste to prosím znovu.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Živá lokalizace zastavena: uzel byl odpojen.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Uzel tuto změnu nepotvrdil. Možná není uložena.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Uzel tento kontakt nepotvrdil.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

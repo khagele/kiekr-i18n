@@ -3,7 +3,7 @@
     "language": "el",
     "name": "Ελληνικά",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Αυτό το κλειδί ανήκει ήδη στο «%1$s».",
@@ -13922,5 +13922,25 @@
     "value": "Εναρμόνιση",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Η σύνδεση με τον κόμβο σας χάθηκε. Παρακαλώ δοκιμάστε ξανά.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Ο ζωντανός εντοπισμός σταμάτησε: ο κόμβος αποσυνδέθηκε.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Ο κόμβος δεν επιβεβαίωσε αυτή την αλλαγή. Ίσως δεν έχει αποθηκευτεί.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Ο κόμβος δεν επιβεβαίωσε αυτή την επαφή.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

@@ -3,7 +3,7 @@
     "language": "fi",
     "name": "Suomi",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Tämä avain kuuluu jo ”%1$s” -sivustolle.",
@@ -13922,5 +13922,25 @@
     "value": "Täsmäytä",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Yhteys solmuusi katkesi. Yritä uudelleen.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Live-paikannus pysäytettiin: solmun yhteys katkaistiin.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Solmu ei vahvistanut tätä muutosta. Sitä ei ehkä ole tallennettu.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Solmu ei vahvistanut tätä yhteystietoa.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

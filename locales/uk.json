@@ -3,7 +3,7 @@
     "language": "uk",
     "name": "Українська",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Цей ключ уже належить до «%1$s».",
@@ -13926,5 +13926,25 @@
     "value": "Узгодити",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "З'єднання з вашим вузлом було втрачено. Будь ласка, спробуйте ще раз.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Пряме відстеження зупинено: вузол було відключено.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Вузол не підтвердив цю зміну. Можливо, її не збережено.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Вузол не підтвердив цей контакт.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

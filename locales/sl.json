@@ -3,7 +3,7 @@
     "language": "sl",
     "name": "Slovenščina",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Ta ključ že pripada »%1$s«.",
@@ -13926,5 +13926,25 @@
     "value": "Uskladi",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Povezava z vašim vozliščem je bila prekinjena. Poskusite znova.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Lociranje v živo je ustavljeno: vozlišče je bilo odklopljeno.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Vozlišče te spremembe ni potrdilo. Morda ni shranjena.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Vozlišče tega stika ni potrdilo.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

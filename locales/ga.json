@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -13925,5 +13925,25 @@
     "value": "Réitigh",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Cailleadh an nasc le do nód. Bain triail eile as le do thoil.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Cuireadh stad leis an aimsiú beo: dícheanglaíodh an nód.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Níor dhearbhaigh an nód an t-athrú seo. B'fhéidir nach bhfuil sé sábháilte.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Níor dhearbhaigh an nód an teagmháil seo.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

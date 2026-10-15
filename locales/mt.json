@@ -3,7 +3,7 @@
     "language": "mt",
     "name": "Malti",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Din iċ-ċavetta diġà tappartjeni lil \"%1$s\".",
@@ -13925,5 +13925,25 @@
     "value": "Irrikonċilja",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Il-konnessjoni man-nodu tiegħek intilfet. Jekk jogħġbok erġa' pprova.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Il-lokalizzazzjoni live twaqqfet: in-nodu ġie skonness.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "In-nodu ma kkonfermax din il-bidla. Jista' jkun li ma ġietx maħżuna.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "In-nodu ma kkonfermax dan il-kuntatt.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

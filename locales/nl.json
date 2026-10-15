@@ -3,7 +3,7 @@
     "language": "nl",
     "name": "Nederlands",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Deze sleutel is al gekoppeld aan \"%1$s\".",
@@ -12642,5 +12642,25 @@
     "value": "Afstemmen",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "De verbinding met je node is verbroken. Probeer het opnieuw.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Live-lokalisatie gestopt: de node is losgekoppeld.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "De node heeft deze wijziging niet bevestigd. Mogelijk is deze niet opgeslagen.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "De node heeft dit contact niet bevestigd.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

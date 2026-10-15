@@ -3,7 +3,7 @@
     "language": "pl",
     "name": "Polski",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Ten klucz należy już do „%1$s”.",
@@ -13917,5 +13917,25 @@
     "value": "Uzgodnij",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Połączenie z twoim węzłem zostało utracone. Spróbuj ponownie.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Namierzanie na żywo zatrzymane: węzeł został rozłączony.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Węzeł nie potwierdził tej zmiany. Mogła nie zostać zapisana.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Węzeł nie potwierdził tego kontaktu.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

@@ -3,7 +3,7 @@
     "language": "hu",
     "name": "Magyar",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Ez a kulcs már a „%1$s” tulajdonát képezi.",
@@ -13922,5 +13922,25 @@
     "value": "Egyeztetés",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Megszakadt a kapcsolat a csomópontjával. Kérjük, próbálja meg újra.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Az élő helymeghatározás leállt: a csomópont kapcsolata bontva.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "A csomópont nem erősítette meg a módosítást. Lehet, hogy nem lett elmentve.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "A csomópont nem erősítette meg ezt a névjegyet.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

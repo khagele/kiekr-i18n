@@ -3,7 +3,7 @@
     "language": "lv",
     "name": "Latviešu",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Šī atslēga jau pieder „%1$s“.",
@@ -13924,5 +13924,25 @@
     "value": "Saskaņot",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Savienojums ar jūsu mezglu tika zaudēts. Lūdzu, mēģiniet vēlreiz.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Reāllaika izsekošana apturēta: mezgls tika atvienots.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Mezgls neapstiprināja šīs izmaiņas. Iespējams, tās nav saglabātas.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Mezgls neapstiprināja šo kontaktu.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

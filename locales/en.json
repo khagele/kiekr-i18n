@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -2801,5 +2801,9 @@
   },
   "nodes_detail_advert_path_show_fewer": "Show fewer hops",
   "mynode_reconcile_deferred_title": "Node differs from app",
-  "mynode_reconcile_deferred_action": "Reconcile"
+  "mynode_reconcile_deferred_action": "Reconcile",
+  "repeater_err_link_lost": "The connection to your node was lost. Please try again.",
+  "locate_live_end_disconnected": "Live locate stopped: the node was disconnected.",
+  "config_write_unconfirmed": "The node did not confirm this change. It may not be saved.",
+  "nodes_install_unconfirmed": "The node did not confirm this contact."
 }

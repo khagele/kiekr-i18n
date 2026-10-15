@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -13922,5 +13922,25 @@
     "value": "Ühtlusta",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Ühendus sinu sõlmega katkes. Palun proovi uuesti.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Reaalajas jälgimine peatati: sõlm ühendati lahti.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Sõlm ei kinnitanud seda muudatust. Seda ei pruugi olla salvestatud.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Sõlm ei kinnitanud seda kontakti.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

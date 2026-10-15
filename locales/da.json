@@ -3,7 +3,7 @@
     "language": "da",
     "name": "Dansk",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøgle tilhører allerede »%1$s«.",
@@ -13922,5 +13922,25 @@
     "value": "Afstem",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Forbindelsen til din node blev afbrudt. Prøv venligst igen.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Live-lokalisering stoppet: noden blev frakoblet.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Noden bekræftede ikke denne ændring. Den er muligvis ikke gemt.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Noden bekræftede ikke denne kontaktperson.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

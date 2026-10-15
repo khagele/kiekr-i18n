@@ -3,7 +3,7 @@
     "language": "fr",
     "name": "Français",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Cette clé appartient déjà à « %1$s ».",
@@ -12643,5 +12643,25 @@
     "value": "Réconcilier",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "La connexion à votre nœud a été perdue. Veuillez réessayer.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Localisation en direct arrêtée : le nœud a été déconnecté.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Le nœud n'a pas confirmé cette modification. Elle n'est peut-être pas enregistrée.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Le nœud n'a pas confirmé ce contact.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }

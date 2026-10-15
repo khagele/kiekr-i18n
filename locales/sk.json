@@ -3,7 +3,7 @@
     "language": "sk",
     "name": "Slovenčina",
     "managed_by": "community",
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "add_channel_duplicate_key": {
     "value": "Tento kľúč už patrí k „%1$s“.",
@@ -13925,5 +13925,25 @@
     "value": "Zosúladiť",
     "_ai": true,
     "_seeded": "2026-10-14"
+  },
+  "repeater_err_link_lost": {
+    "value": "Spojenie s vaším uzlom bolo prerušené. Skúste to, prosím, znova.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "locate_live_end_disconnected": {
+    "value": "Živá lokalizácia zastavená: uzol bol odpojený.",
+    "_ai": true,
+    "_seeded": "2026-10-14"
+  },
+  "config_write_unconfirmed": {
+    "value": "Uzol túto zmenu nepotvrdil. Možno nie je uložená.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
+  },
+  "nodes_install_unconfirmed": {
+    "value": "Uzol tento kontakt nepotvrdil.",
+    "_ai": true,
+    "_seeded": "2026-10-15"
   }
 }
