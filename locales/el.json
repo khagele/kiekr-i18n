@@ -3,7 +3,7 @@
     "language": "el",
     "name": "Ελληνικά",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Αυτό το κλειδί ανήκει ήδη στο «%1$s».",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "εντάξει",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Αποστολή συγχρονισμού ρολογιού",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13942,5 +13937,45 @@
     "value": "Ο κόμβος δεν επιβεβαίωσε αυτή την επαφή.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Ρολόι κόμβου",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Ταιριάζει με το τηλέφωνο",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Το ρολόι του κόμβου πάει μπροστά",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s μπροστά · οι διαφημίσεις ίσως αγνοηθούν",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Οι διαφημίσεις ίσως αγνοηθούν",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Επιδιόρθωση",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Δεν υπήρξε απάντηση από τον κόμβο σας. Παρακαλώ δοκιμάστε ξανά.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Ο κόμβος σας δεν μπόρεσε να εκτελέσει αυτή την εντολή.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

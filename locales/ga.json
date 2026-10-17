@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "ceart go leor",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Sioncronú clog seolta",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13945,5 +13940,45 @@
     "value": "Níor dhearbhaigh an nód an teagmháil seo.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Clog an nóid",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Ag teacht leis an teilifón",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Tá clog an nóid chun tosaigh",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s chun tosaigh · d'fhéadfaí fógraí a neamhaird",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "D'fhéadfaí fógraí a neamhaird",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Deisigh",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Níor tháinig freagra ó do nód. Bain triail eile as le do thoil.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Níorbh fhéidir le do nód an t-ordú seo a rith.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

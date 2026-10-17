@@ -3,7 +3,7 @@
     "language": "sv",
     "name": "Svenska",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Den här nyckeln tillhör redan ”%1$s”.",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "okej",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Klock synkronisering skickad",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13942,5 +13937,45 @@
     "value": "Noden bekräftade inte den här kontakten.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Nodens klocka",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Stämmer med telefonen",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Nodens klocka går före",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s före · annonser kan ignoreras",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Annonser kan ignoreras",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Reparera",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Inget svar från din nod. Försök igen.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Din nod kunde inte köra det här kommandot.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

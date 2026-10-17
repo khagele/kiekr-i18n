@@ -3,7 +3,7 @@
     "language": "sl",
     "name": "Slovenščina",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Ta ključ že pripada »%1$s«.",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "ok",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Poslana sinhronizacija ure",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13946,5 +13941,45 @@
     "value": "Vozlišče tega stika ni potrdilo.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Ura vozlišča",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Ujema se s telefonom",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Ura vozlišča prehiteva",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s naprej · oglasi bodo morda prezrti",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Oglasi bodo morda prezrti",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Popravi",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Vaše vozlišče se ni odzvalo. Poskusite znova.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Vaše vozlišče ni moglo izvesti tega ukaza.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

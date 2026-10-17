@@ -3,7 +3,7 @@
     "language": "hu",
     "name": "Magyar",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Ez a kulcs már a „%1$s” tulajdonát képezi.",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "oké",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Óraszinkronizálás elküldve",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13942,5 +13937,45 @@
     "value": "A csomópont nem erősítette meg ezt a névjegyet.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Csomópont órája",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Egyezik a telefonnal",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "A csomópont órája előre jár",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s előre · a hirdetések figyelmen kívül maradhatnak",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "A hirdetések figyelmen kívül maradhatnak",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Javítás",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "A csomópontja nem válaszolt. Kérjük, próbálja meg újra.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "A csomópontja nem tudta végrehajtani ezt a parancsot.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

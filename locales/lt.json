@@ -3,7 +3,7 @@
     "language": "lt",
     "name": "Lietuvių",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Šis raktas jau priklauso „%1$s“.",
@@ -1512,11 +1512,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "gerai",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Siųstas laikrodžių sinchronizavimas",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -13945,5 +13940,45 @@
     "value": "Mazgas nepatvirtino šio kontakto.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Mazgo laikrodis",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Sutampa su telefonu",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Mazgo laikrodis skuba",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s į priekį · reklamos gali būti ignoruojamos",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Reklamos gali būti ignoruojamos",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Taisyti",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Jūsų mazgas neatsakė. Bandykite dar kartą.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Jūsų mazgas negalėjo įvykdyti šios komandos.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

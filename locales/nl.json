@@ -3,7 +3,7 @@
     "language": "nl",
     "name": "Nederlands",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Deze sleutel is al gekoppeld aan \"%1$s\".",
@@ -1278,10 +1278,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "ok",
-    "_human": true
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Kloksynchronisatie verzonden",
     "_human": true
   },
   "mynode_companion_delete_confirm_body": {
@@ -12662,5 +12658,45 @@
     "value": "De node heeft dit contact niet bevestigd.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Node-klok",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Komt overeen met telefoon",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "Node-klok loopt voor",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s voor · adverts worden mogelijk genegeerd",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Adverts worden mogelijk genegeerd",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Repareren",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Geen antwoord van je node. Probeer het opnieuw.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Je node kon dit commando niet uitvoeren.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

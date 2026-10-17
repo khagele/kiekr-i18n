@@ -3,7 +3,7 @@
     "language": "es",
     "name": "Español",
     "managed_by": "community",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": {
     "value": "Esta clave ya pertenece a «%1$s».",
@@ -1278,10 +1278,6 @@
   },
   "mynode_clock_in_sync": {
     "value": "ok",
-    "_human": true
-  },
-  "mynode_clock_sync_sent": {
-    "value": "Sincronización de reloj enviada",
     "_human": true
   },
   "mynode_companion_delete_confirm_body": {
@@ -12662,5 +12658,45 @@
     "value": "El nodo no confirmó este contacto.",
     "_ai": true,
     "_seeded": "2026-10-15"
+  },
+  "mynode_node_clock_title": {
+    "value": "Reloj del nodo",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_matches_phone": {
+    "value": "Coincide con el teléfono",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_title": {
+    "value": "El reloj del nodo va adelantado",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle": {
+    "value": "%1$s adelantado · los adverts pueden ignorarse",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_ahead_subtitle_unknown": {
+    "value": "Los adverts pueden ignorarse",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_repair_action": {
+    "value": "Reparar",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_no_response": {
+    "value": "Tu nodo no ha respondido. Inténtalo de nuevo.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_cli_err_invalid_command": {
+    "value": "Tu nodo no ha podido ejecutar este comando.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

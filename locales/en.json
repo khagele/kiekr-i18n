@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-15"
+    "updated": "2026-10-17"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -307,7 +307,6 @@
   "mynode_clock_ahead_rtc_body": "This device has a battery-backed RTC. Software can't reset it — flash firmware or remove the RTC backup battery to recover.",
   "mynode_clock_ahead_title": "Companion clock is ahead",
   "mynode_clock_in_sync": "ok",
-  "mynode_clock_sync_sent": "Clock sync sent",
   "mynode_companion_delete_confirm_body": "Removes this companion from the list. If it is currently connected, the link is dropped first.",
   "mynode_config_error_code": "firmware error code %1$d",
   "mynode_config_error_name_rejected": "The node rejected the name “%1$s”.",
@@ -2805,5 +2804,13 @@
   "repeater_err_link_lost": "The connection to your node was lost. Please try again.",
   "locate_live_end_disconnected": "Live locate stopped: the node was disconnected.",
   "config_write_unconfirmed": "The node did not confirm this change. It may not be saved.",
-  "nodes_install_unconfirmed": "The node did not confirm this contact."
+  "nodes_install_unconfirmed": "The node did not confirm this contact.",
+  "mynode_node_clock_title": "Node clock",
+  "mynode_node_clock_matches_phone": "Matches phone",
+  "mynode_node_clock_ahead_title": "Node clock is ahead",
+  "mynode_node_clock_ahead_subtitle": "%1$s ahead · adverts may be ignored",
+  "mynode_node_clock_ahead_subtitle_unknown": "Adverts may be ignored",
+  "mynode_node_clock_repair_action": "Repair",
+  "mynode_cli_err_no_response": "No reply from your node. Please try again.",
+  "mynode_cli_err_invalid_command": "Your node couldn't run this command."
 }
