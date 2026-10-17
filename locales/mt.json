@@ -13995,5 +13995,15 @@
     "value": "L-arloġġ tan-nodu għadu 'l quddiem",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Lokalizzazzjoni live: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "%1$s fadal",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

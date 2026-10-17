@@ -13992,5 +13992,15 @@
     "value": "Nodens klocka går fortfarande före",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Live-lokalisering: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "%1$s kvar",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

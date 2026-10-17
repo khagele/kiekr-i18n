@@ -11412,5 +11412,13 @@
   "mynode_node_clock_still_ahead_title": {
     "value": "Node-Uhr geht immer noch vor",
     "_human": true
+  },
+  "locate_live_bar_title": {
+    "value": "Live-Ortung: %1$s",
+    "_human": true
+  },
+  "locate_live_bar_remaining": {
+    "value": "noch %1$s",
+    "_human": true
   }
 }

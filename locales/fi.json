@@ -13992,5 +13992,15 @@
     "value": "Solmun kello on yhä edellä",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Live-paikannus: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "%1$s jäljellä",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

@@ -12713,5 +12713,15 @@
     "value": "Node-klok loopt nog steeds voor",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Live-lokalisatie: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "nog %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

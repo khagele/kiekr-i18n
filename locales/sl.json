@@ -13996,5 +13996,15 @@
     "value": "Ura vozlišča še vedno prehiteva",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Lociranje v živo: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "preostane %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

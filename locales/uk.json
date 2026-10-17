@@ -13996,5 +13996,15 @@
     "value": "Годинник вузла все ще поспішає",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Пряме відстеження: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "залишилось %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

@@ -13987,5 +13987,15 @@
     "value": "Zegar węzła nadal się spieszy",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Namierzanie na żywo: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "zostało %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

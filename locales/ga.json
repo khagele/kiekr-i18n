@@ -13995,5 +13995,15 @@
     "value": "Tá clog an nóid fós chun tosaigh",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Aimsiú beo: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "%1$s fágtha",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

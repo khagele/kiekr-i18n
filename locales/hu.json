@@ -13992,5 +13992,15 @@
     "value": "A csomópont órája még mindig előre jár",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Élő helymeghatározás: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "%1$s van hátra",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

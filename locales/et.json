@@ -13992,5 +13992,15 @@
     "value": "Sõlme kell on endiselt ees",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Reaalajas jälgimine: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "jäänud %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

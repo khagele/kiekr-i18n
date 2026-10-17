@@ -13992,5 +13992,15 @@
     "value": "O relógio do nó continua adiantado",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Localização em direto: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "restam %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

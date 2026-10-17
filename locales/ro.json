@@ -13994,5 +13994,15 @@
     "value": "Ceasul nodului este încă în avans",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Localizare live: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "mai sunt %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

@@ -2815,5 +2815,7 @@
   "mynode_cli_err_invalid_command": "Your node couldn't run this command.",
   "mynode_clock_repair_no_return_title": "Node did not come back",
   "mynode_clock_repair_no_return_body": "The node has not reconnected after its restart. Check that it is switched on and in range, then connect again. KiekR checks the clock as soon as the node is back.",
-  "mynode_node_clock_still_ahead_title": "Node clock is still ahead"
+  "mynode_node_clock_still_ahead_title": "Node clock is still ahead",
+  "locate_live_bar_title": "Live locate: %1$s",
+  "locate_live_bar_remaining": "%1$s left"
 }

@@ -13996,5 +13996,15 @@
     "value": "Часы узла всё ещё спешат",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Прямое отслеживание: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "осталось %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

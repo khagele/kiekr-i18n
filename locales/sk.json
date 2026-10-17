@@ -13995,5 +13995,15 @@
     "value": "Hodiny uzla stále idú dopredu",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Živá lokalizácia: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "zostáva %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

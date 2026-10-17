@@ -13994,5 +13994,15 @@
     "value": "Mezgla pulkstenis joprojām steidzas",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Reāllaika izsekošana: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "atlicis %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

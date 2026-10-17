@@ -13994,5 +13994,15 @@
     "value": "Sat čvora i dalje je unaprijed",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_title": {
+    "value": "Lociranje uživo: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "locate_live_bar_remaining": {
+    "value": "preostalo %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }
