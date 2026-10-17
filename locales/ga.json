@@ -13980,5 +13980,20 @@
     "value": "Níorbh fhéidir le do nód an t-ordú seo a rith.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Níor tháinig an nód ar ais",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Níor athcheangail an nód tar éis a atosaithe. Seiceáil go bhfuil sé casta air agus laistigh de raon, agus ansin ceangail arís. Seiceálfaidh KiekR an clog a luaithe a bheidh an nód ar ais.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Tá clog an nóid fós chun tosaigh",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

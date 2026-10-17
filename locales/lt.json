@@ -13980,5 +13980,20 @@
     "value": "Jūsų mazgas negalėjo įvykdyti šios komandos.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Mazgas negrįžo",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Mazgas po paleidimo iš naujo vėl neprisijungė. Patikrinkite, ar jis įjungtas ir veikimo zonoje, tada prisijunkite iš naujo. KiekR patikrins laikrodį, kai tik mazgas grįš.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Mazgo laikrodis vis dar skuba",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

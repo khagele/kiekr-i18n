@@ -13981,5 +13981,20 @@
     "value": "Vaše vozlišče ni moglo izvesti tega ukaza.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Vozlišče se ni vrnilo",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Vozlišče se po ponovnem zagonu ni znova povezalo. Preverite, ali je vklopljeno in v dosegu, nato se znova povežite. KiekR preveri uro, takoj ko se vozlišče vrne.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Ura vozlišča še vedno prehiteva",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

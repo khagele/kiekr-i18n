@@ -13978,5 +13978,20 @@
     "value": "Seu nó não conseguiu executar este comando.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "O nó não voltou",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "O nó não se reconectou após reiniciar. Verifique se ele está ligado e ao alcance e conecte novamente. O KiekR verifica o relógio assim que o nó voltar.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "O relógio do nó ainda está adiantado",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

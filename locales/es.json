@@ -12698,5 +12698,20 @@
     "value": "Tu nodo no ha podido ejecutar este comando.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "El nodo no ha vuelto",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "El nodo no se ha vuelto a conectar tras reiniciarse. Comprueba que esté encendido y al alcance, y conéctate de nuevo. KiekR comprueba el reloj en cuanto el nodo vuelva.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "El reloj del nodo sigue adelantado",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

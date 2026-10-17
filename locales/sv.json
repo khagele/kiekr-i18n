@@ -13977,5 +13977,20 @@
     "value": "Din nod kunde inte köra det här kommandot.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Noden kom inte tillbaka",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Noden har inte anslutit igen efter omstarten. Kontrollera att den är påslagen och inom räckhåll och anslut sedan igen. KiekR kontrollerar klockan så snart noden är tillbaka.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Nodens klocka går fortfarande före",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

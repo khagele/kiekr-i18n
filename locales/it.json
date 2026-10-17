@@ -12613,5 +12613,20 @@
     "value": "Il tuo nodo non è riuscito a eseguire questo comando.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Il nodo non è tornato",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Il nodo non si è riconnesso dopo il riavvio. Controlla che sia acceso e nel raggio d'azione, poi connettiti di nuovo. KiekR controlla l'orologio appena il nodo è di nuovo disponibile.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "L'orologio del nodo è ancora in anticipo",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

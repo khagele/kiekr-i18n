@@ -13977,5 +13977,20 @@
     "value": "Solmusi ei voinut suorittaa tätä komentoa.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Solmu ei palannut",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Solmu ei yhdistynyt uudelleen käynnistyksen jälkeen. Tarkista, että se on päällä ja kantoalueella, ja yhdistä uudelleen. KiekR tarkistaa kellon heti, kun solmu on takaisin.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Solmun kello on yhä edellä",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

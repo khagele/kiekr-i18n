@@ -12699,5 +12699,20 @@
     "value": "Votre nœud n'a pas pu exécuter cette commande.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Le nœud n'est pas revenu",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Le nœud ne s'est pas reconnecté après son redémarrage. Vérifiez qu'il est allumé et à portée, puis reconnectez-vous. KiekR vérifie l'horloge dès que le nœud est de retour.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "L'horloge du nœud est toujours en avance",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

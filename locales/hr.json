@@ -13979,5 +13979,20 @@
     "value": "Vaš čvor nije mogao izvršiti ovu naredbu.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Čvor se nije vratio",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Čvor se nakon ponovnog pokretanja nije ponovno povezao. Provjerite je li uključen i u dometu, a zatim se ponovno povežite. KiekR provjerava sat čim se čvor vrati.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Sat čvora i dalje je unaprijed",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

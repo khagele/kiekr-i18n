@@ -13980,5 +13980,20 @@
     "value": "Váš uzol nemohol vykonať tento príkaz.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Uzol sa nevrátil",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Uzol sa po reštarte znova nepripojil. Skontrolujte, či je zapnutý a v dosahu, a potom sa pripojte znova. KiekR skontroluje hodiny, hneď ako sa uzol vráti.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Hodiny uzla stále idú dopredu",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

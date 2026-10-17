@@ -13977,5 +13977,20 @@
     "value": "A csomópontja nem tudta végrehajtani ezt a parancsot.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "A csomópont nem jelentkezett vissza",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "A csomópont az újraindítás után nem csatlakozott újra. Ellenőrizd, hogy be van-e kapcsolva és hatótávon belül van-e, majd csatlakozz újra. A KiekR ellenőrzi az órát, amint a csomópont visszatér.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "A csomópont órája még mindig előre jár",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

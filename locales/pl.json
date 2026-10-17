@@ -13972,5 +13972,20 @@
     "value": "Twój węzeł nie mógł wykonać tego polecenia.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Węzeł nie wrócił",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Węzeł nie połączył się ponownie po restarcie. Sprawdź, czy jest włączony i w zasięgu, a następnie połącz się ponownie. KiekR sprawdzi zegar, gdy tylko węzeł będzie z powrotem.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Zegar węzła nadal się spieszy",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

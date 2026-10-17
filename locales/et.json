@@ -13977,5 +13977,20 @@
     "value": "Sinu sõlm ei saanud seda käsku täita.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Sõlm ei tulnud tagasi",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Sõlm ei ühendunud pärast taaskäivitust uuesti. Kontrolli, et see on sisse lülitatud ja leviulatuses, ning ühendu uuesti. KiekR kontrollib kella kohe, kui sõlm on tagasi.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Sõlme kell on endiselt ees",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

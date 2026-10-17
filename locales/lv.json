@@ -13979,5 +13979,20 @@
     "value": "Jūsu mezgls nevarēja izpildīt šo komandu.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Mezgls neatgriezās",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Mezgls pēc pārstartēšanas nav atkal savienojies. Pārbaudiet, vai tas ir ieslēgts un darbības zonā, pēc tam savienojieties vēlreiz. KiekR pārbaudīs pulksteni, tiklīdz mezgls būs atpakaļ.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Mezgla pulkstenis joprojām steidzas",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

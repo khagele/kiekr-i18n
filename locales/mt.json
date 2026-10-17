@@ -13980,5 +13980,20 @@
     "value": "In-nodu tiegħek ma setax iwettaq din il-kmand.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "In-nodu ma reġax lura",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "In-nodu ma reġax ikkonnettja wara li reġa' beda. Iċċekkja li huwa mixgħul u fil-firxa, imbagħad ikkonnettja mill-ġdid. KiekR jiċċekkja l-arloġġ hekk kif in-nodu jirġa' lura.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "L-arloġġ tan-nodu għadu 'l quddiem",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

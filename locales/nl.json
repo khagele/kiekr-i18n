@@ -12698,5 +12698,20 @@
     "value": "Je node kon dit commando niet uitvoeren.",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Node is niet teruggekomen",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "De node heeft na de herstart geen verbinding meer gemaakt. Controleer of hij aanstaat en binnen bereik is en maak dan opnieuw verbinding. KiekR controleert de klok zodra de node terug is.",
+    "_ai": true,
+    "_seeded": "2026-10-17"
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Node-klok loopt nog steeds voor",
+    "_ai": true,
+    "_seeded": "2026-10-17"
   }
 }

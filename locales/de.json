@@ -11400,5 +11400,17 @@
   "mynode_cli_err_invalid_command": {
     "value": "Dein Node konnte diesen Befehl nicht ausführen.",
     "_human": true
+  },
+  "mynode_clock_repair_no_return_title": {
+    "value": "Node meldet sich nicht zurück",
+    "_human": true
+  },
+  "mynode_clock_repair_no_return_body": {
+    "value": "Der Node hat sich nach dem Neustart nicht wieder verbunden. Prüfe, ob er eingeschaltet und in Reichweite ist, und verbinde dich erneut. KiekR prüft die Uhr, sobald der Node wieder da ist.",
+    "_human": true
+  },
+  "mynode_node_clock_still_ahead_title": {
+    "value": "Node-Uhr geht immer noch vor",
+    "_human": true
   }
 }
