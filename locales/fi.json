@@ -14052,5 +14052,10 @@
     "value": "Anna kelvollinen isäntä ja portti 1:n ja 65535:n väliltä.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Kellon korjaus keskeytyi: solmu ei lähettänyt koko yhteystietoluetteloaan. Mitään ei muutettu. Yritä uudelleen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

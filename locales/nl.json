@@ -12775,5 +12775,10 @@
     "value": "Voer een geldige host en een poort tussen 1 en 65535 in.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Klokreparatie afgebroken: de node heeft zijn contacten niet volledig doorgegeven. Er is niets gewijzigd. Probeer het opnieuw.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

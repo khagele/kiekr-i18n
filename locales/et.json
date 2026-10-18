@@ -14052,5 +14052,10 @@
     "value": "Sisesta kehtiv host ja port vahemikus 1 kuni 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Kella parandamine katkes: sõlm ei lõpetanud oma kontaktide loetlemist. Midagi ei muudetud. Proovi uuesti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

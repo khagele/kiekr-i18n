@@ -14052,5 +14052,10 @@
     "value": "Introduza um anfitrião válido e uma porta entre 1 e 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Correção do relógio interrompida: o nó não terminou de listar os seus contactos. Nada foi alterado. Tente novamente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

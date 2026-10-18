@@ -14052,5 +14052,10 @@
     "value": "Angiv en gyldig vært og en port mellem 1 og 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Reparationen af uret blev afbrudt: noden sendte ikke hele sin kontaktliste. Intet er ændret. Prøv igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

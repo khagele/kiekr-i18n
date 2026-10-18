@@ -14052,5 +14052,10 @@
     "value": "Skriv inn en gyldig vert og en port mellom 1 og 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Reparasjonen av klokken ble avbrutt: noden sendte ikke hele kontaktlisten sin. Ingenting ble endret. Prøv igjen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

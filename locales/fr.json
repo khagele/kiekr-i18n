@@ -12776,5 +12776,10 @@
     "value": "Saisissez un hôte valide et un port compris entre 1 et 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Réparation de l'horloge interrompue : le nœud n'a pas fini de lister ses contacts. Rien n'a été modifié. Réessayez.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

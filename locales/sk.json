@@ -14055,5 +14055,10 @@
     "value": "Zadajte platného hostiteľa a port v rozsahu 1 až 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Oprava hodín bola prerušená: uzol nedokončil odosielanie zoznamu svojich kontaktov. Nič sa nezmenilo. Skúste to znova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

@@ -14052,5 +14052,10 @@
     "value": "Adjon meg egy érvényes gazdagépet és egy 1 és 65535 közötti portot.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Az óra javítása megszakadt: a csomópont nem fejezte be a kontaktjai felsorolását. Semmi sem változott. Próbáld meg újra.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

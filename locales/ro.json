@@ -14054,5 +14054,10 @@
     "value": "Introduceți o gazdă validă și un port între 1 și 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Repararea ceasului a fost întreruptă: nodul nu a terminat de transmis lista de contacte. Nu s-a modificat nimic. Încearcă din nou.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

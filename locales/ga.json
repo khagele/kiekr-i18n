@@ -14055,5 +14055,10 @@
     "value": "Cuir isteach óstach bailí agus port idir 1 agus 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Stopadh deisiú an chloig: níor chríochnaigh an nód a theagmhálaithe a liostú. Níor athraíodh aon rud. Bain triail as arís.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

@@ -11460,5 +11460,9 @@
   "wifi_connect_err_invalid_target": {
     "value": "Gib einen gültigen Host und einen Port zwischen 1 und 65535 ein.",
     "_human": true
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Uhr-Reparatur abgebrochen: Der Node hat seine Kontakte nicht vollständig gemeldet. Es wurde nichts geändert. Versuch es noch einmal.",
+    "_human": true
   }
 }

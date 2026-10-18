@@ -14047,5 +14047,10 @@
     "value": "Wpisz prawidłowy host i port od 1 do 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Naprawa zegara została przerwana: węzeł nie przekazał pełnej listy kontaktów. Nic nie zostało zmienione. Spróbuj ponownie.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

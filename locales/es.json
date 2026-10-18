@@ -12775,5 +12775,10 @@
     "value": "Introduce un host válido y un puerto entre 1 y 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Reparación del reloj interrumpida: el nodo no terminó de enviar la lista de sus contactos. No se ha cambiado nada. Inténtalo de nuevo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

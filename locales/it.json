@@ -12690,5 +12690,10 @@
     "value": "Inserisci un host valido e una porta compresa tra 1 e 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Riparazione dell'orologio interrotta: il nodo non ha finito di elencare i suoi contatti. Non è stato modificato nulla. Riprova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

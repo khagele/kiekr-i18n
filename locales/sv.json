@@ -14052,5 +14052,10 @@
     "value": "Ange en giltig värd och en port mellan 1 och 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "mynode_clock_repair_interrupted": {
+    "value": "Klockreparationen avbröts: noden skickade inte hela sin kontaktlista. Inget har ändrats. Försök igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }
