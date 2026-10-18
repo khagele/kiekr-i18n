@@ -3,7 +3,7 @@
     "language": "sv",
     "name": "Svenska",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Den här nyckeln tillhör redan ”%1$s”.",
@@ -14002,5 +14002,15 @@
     "value": "%1$s kvar",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Inget svar från rumsservern. Försök igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Inget svar från den här kontaktens nod. Försök igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

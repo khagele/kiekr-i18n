@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -14002,5 +14002,15 @@
     "value": "jäänud %1$s",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Toaserverilt ei tulnud vastust. Palun proovi uuesti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Selle kontakti sõlmelt ei tulnud vastust. Palun proovi uuesti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

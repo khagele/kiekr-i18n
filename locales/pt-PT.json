@@ -3,7 +3,7 @@
     "language": "pt-PT",
     "name": "Português (Portugal)",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Esta chave já pertence a «%1$s».",
@@ -14002,5 +14002,15 @@
     "value": "restam %1$s",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Sem resposta do servidor de sala. Tente novamente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Sem resposta do nó deste contacto. Tente novamente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

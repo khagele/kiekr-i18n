@@ -3,7 +3,7 @@
     "language": "sl",
     "name": "Slovenščina",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Ta ključ že pripada »%1$s«.",
@@ -14006,5 +14006,15 @@
     "value": "preostane %1$s",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Ni odgovora od sobnega strežnika. Poskusite znova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Ni odgovora od vozlišča tega stika. Poskusite znova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

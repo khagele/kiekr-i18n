@@ -3,7 +3,7 @@
     "language": "da",
     "name": "Dansk",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøgle tilhører allerede »%1$s«.",
@@ -14002,5 +14002,15 @@
     "value": "%1$s tilbage",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Intet svar fra rumserveren. Prøv venligst igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Intet svar fra denne kontakts node. Prøv venligst igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

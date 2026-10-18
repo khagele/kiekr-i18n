@@ -3,7 +3,7 @@
     "language": "nb",
     "name": "Norsk bokmål",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøkkelen tilhører allerede «%1$s».",
@@ -14002,5 +14002,15 @@
     "value": "%1$s igjen",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Ikke noe svar fra romserveren. Prøv på nytt.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Ikke noe svar fra denne kontaktens node. Prøv på nytt.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

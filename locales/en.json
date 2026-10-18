@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -2817,5 +2817,7 @@
   "mynode_clock_repair_no_return_body": "The node has not reconnected after its restart. Check that it is switched on and in range, then connect again. KiekR checks the clock as soon as the node is back.",
   "mynode_node_clock_still_ahead_title": "Node clock is still ahead",
   "locate_live_bar_title": "Live locate: %1$s",
-  "locate_live_bar_remaining": "%1$s left"
+  "locate_live_bar_remaining": "%1$s left",
+  "room_cli_err_no_reply": "No reply from the room server. Please try again.",
+  "remote_cli_err_no_reply": "No reply from this contact's node. Please try again."
 }

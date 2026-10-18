@@ -3,7 +3,7 @@
     "language": "cs",
     "name": "Čeština",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Tento klíč již patří k „%1$s“.",
@@ -14005,5 +14005,15 @@
     "value": "zbývá %1$s",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Žádná odpověď od pokojového serveru. Zkuste to prosím znovu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Žádná odpověď od uzlu tohoto kontaktu. Zkuste to prosím znovu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

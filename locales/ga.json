@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -14005,5 +14005,15 @@
     "value": "%1$s fágtha",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Níor tháinig freagra ón bhfreastalaí seomra. Bain triail eile as le do thoil.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Níor tháinig freagra ó nód an teagmhálaí seo. Bain triail eile as le do thoil.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }

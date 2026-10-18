@@ -3,7 +3,7 @@
     "language": "fr",
     "name": "Français",
     "managed_by": "community",
-    "updated": "2026-10-17"
+    "updated": "2026-10-18"
   },
   "add_channel_duplicate_key": {
     "value": "Cette clé appartient déjà à « %1$s ».",
@@ -12724,5 +12724,15 @@
     "value": "%1$s restant",
     "_ai": true,
     "_seeded": "2026-10-17"
+  },
+  "room_cli_err_no_reply": {
+    "value": "Aucune réponse du serveur de room. Veuillez réessayer.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "remote_cli_err_no_reply": {
+    "value": "Aucune réponse du nœud de ce contact. Veuillez réessayer.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
   }
 }
