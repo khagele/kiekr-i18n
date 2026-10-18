@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Tiedosto on vioittunut tai sitä ei tueta: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Varmuuskopiointi epäonnistui.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Tunnusten tuonti hylättiin: %1$s. Kanavat ja yhteystiedot tuotiin kuitenkin.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Yhteyttä ei voitu käynnistää: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Asennus tähän solmuun epäonnistui (koodi %1$d).",
     "_ai": true,
@@ -14010,6 +13995,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Ei vastausta tämän kontaktin solmulta. Yritä uudelleen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Tiedosto on vioittunut tai peräisin versiosta, jota ei tueta.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Tämän varmuuskopion tunnusta ei tuotu, koska sen avain ei täsmää. Kanavat ja yhteystiedot palautettiin.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Jokaisen jännitteen on oltava edellistä korkeampi.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Mikään prosenttiarvo ei saa olla edellistä pienempi.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Prosenttiarvojen on oltava 0:n ja 100:n välillä.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Käyrässä on oltava vähintään kaksi ankkuria.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Tiedostoa ei voitu lukea.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Tiedostoa ei voitu tallentaa.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Tämä ei ole kelvollinen yksityinen avain. Liitä 64 tai 128 heksamerkkiä.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Johdettu julkinen avain: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Anna kelvollinen isäntä ja portti 1:n ja 65535:n väliltä.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

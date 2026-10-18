@@ -3150,16 +3150,8 @@
     "value": "Verschlüsseltes Backup",
     "_human": true
   },
-  "settings_backup_err_corrupt": {
-    "value": "Datei beschädigt oder nicht unterstützt: %1$s",
-    "_human": true
-  },
   "settings_backup_err_generic": {
     "value": "Backup fehlgeschlagen.",
-    "_human": true
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Identitätsimport abgelehnt: %1$s. Kanäle und Kontakte sind trotzdem angekommen.",
     "_human": true
   },
   "settings_backup_err_missing_passphrase": {
@@ -9626,10 +9618,6 @@
     "value": "Verbinde mit %1$s.",
     "_human": true
   },
-  "mynode_wifi_err_start": {
-    "value": "Verbindung konnte nicht gestartet werden: %1$s",
-    "_human": true
-  },
   "nodes_install_err_code": {
     "value": "Installation auf diesem Node fehlgeschlagen (Code %1$d).",
     "_human": true
@@ -11427,6 +11415,50 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Keine Antwort vom Node dieses Kontakts. Bitte erneut versuchen.",
+    "_human": true
+  },
+  "backup_err_file_corrupt": {
+    "value": "Die Datei ist beschädigt oder stammt aus einer nicht unterstützten Version.",
+    "_human": true
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Die Identität aus diesem Backup wurde nicht übernommen, weil ihr Schlüssel nicht passt. Kanäle und Kontakte wurden wiederhergestellt.",
+    "_human": true
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Jede Spannung muss höher sein als die vorherige.",
+    "_human": true
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Kein Prozentwert darf kleiner sein als der vorherige.",
+    "_human": true
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Prozentwerte müssen zwischen 0 und 100 liegen.",
+    "_human": true
+  },
+  "battery_curve_err_too_few": {
+    "value": "Eine Kurve braucht mindestens zwei Ankerpunkte.",
+    "_human": true
+  },
+  "file_err_read": {
+    "value": "Die Datei konnte nicht gelesen werden.",
+    "_human": true
+  },
+  "file_err_save": {
+    "value": "Die Datei konnte nicht gespeichert werden.",
+    "_human": true
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Kein gültiger privater Schlüssel. Füge 64 oder 128 Hex-Zeichen ein.",
+    "_human": true
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Abgeleiteter öffentlicher Schlüssel: %1$s",
+    "_human": true
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Gib einen gültigen Host und einen Port zwischen 1 und 65535 ein.",
     "_human": true
   }
 }

@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Filen är skadad eller stöds inte: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Säkerhetskopieringen misslyckades.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Import av identitet nekad: %1$s. Kanaler och kontakter har ändå importerats.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Kunde inte starta anslutningen: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Det gick inte att installera på den här noden (kod %1$d).",
     "_ai": true,
@@ -14010,6 +13995,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Inget svar från den här kontaktens nod. Försök igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Filen är skadad eller kommer från en version som inte stöds.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identiteten i den här säkerhetskopian importerades inte eftersom nyckeln inte stämmer. Kanaler och kontakter har återställts.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Varje spänning måste vara högre än den föregående.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ingen procentsats får vara lägre än den föregående.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Procentsatser måste ligga mellan 0 och 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "En kurva behöver minst två ankare.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Det gick inte att läsa filen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Det gick inte att spara filen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Ingen giltig privat nyckel. Klistra in 64 eller 128 hex-tecken.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Härledd publik nyckel: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Ange en giltig värd och en port mellan 1 och 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

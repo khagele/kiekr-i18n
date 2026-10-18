@@ -4059,16 +4059,8 @@
     "value": "Copia de seguridad cifrada",
     "_human": true
   },
-  "settings_backup_err_corrupt": {
-    "value": "Archivo dañado o no compatible: %1$s",
-    "_human": true
-  },
   "settings_backup_err_generic": {
     "value": "La copia de seguridad falló.",
-    "_human": true
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Importación de identidad rechazada: %1$s. Los canales y contactos sí se importaron.",
     "_human": true
   },
   "settings_backup_err_missing_passphrase": {
@@ -10481,11 +10473,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "No se pudo iniciar la conexión: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "No se pudo instalar en este nodo (código %1$d).",
     "_ai": true,
@@ -12731,6 +12718,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Sin respuesta del nodo de este contacto. Inténtalo de nuevo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "El archivo está dañado o es de una versión no compatible.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "La identidad de esta copia de seguridad no se importó porque su clave no coincide. Los canales y contactos se restauraron.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Cada voltaje debe ser mayor que el anterior.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ningún porcentaje puede ser menor que el anterior.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Los porcentajes deben estar entre 0 y 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Una curva necesita al menos dos puntos de anclaje.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "No se pudo leer el archivo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "No se pudo guardar el archivo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "No es una clave privada válida. Pega 64 o 128 caracteres hexadecimales.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Clave pública derivada: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Introduce un host válido y un puerto entre 1 y 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

@@ -4834,18 +4834,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Datoteka je oštećena ili nije podržana: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Sigurnosno kopiranje je propalo.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Uvoz identiteta odbijen: %1$s. Kanali i kontakti su i dalje stigli.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11761,11 +11751,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Nije moguće pokrenuti povezivanje: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Instalacija na ovaj čvor nije uspjela (kod %1$d).",
     "_ai": true,
@@ -14012,6 +13997,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Nema odgovora od čvora ovog kontakta. Pokušajte ponovno.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Datoteka je oštećena ili je iz nepodržane verzije.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identitet iz ove sigurnosne kopije nije uvezen jer se njegov ključ ne podudara. Kanali i kontakti su vraćeni.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Svaki napon mora biti viši od prethodnog.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Nijedan postotak ne smije biti niži od prethodnog.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Postoci moraju biti između 0 i 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Krivulja treba najmanje dva sidra.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Datoteku nije bilo moguće pročitati.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Datoteku nije bilo moguće spremiti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Nevažeći privatni ključ. Zalijepite 64 ili 128 heksadecimalnih znakova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Izvedeni javni ključ: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Unesite valjani host i priključak između 1 i 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

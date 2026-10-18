@@ -4826,18 +4826,8 @@
     "_ai": true,
     "_seeded": "2026-05-23"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Plik jest uszkodzony lub nieobsługiwany: %1$s",
-    "_ai": true,
-    "_seeded": "2026-05-23"
-  },
   "settings_backup_err_generic": {
     "value": "Tworzenie kopii zapasowej nie powiodło się.",
-    "_ai": true,
-    "_seeded": "2026-05-23"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Odmowa importu tożsamości: %1$s. Kanały i kontakty zostały jednak zaimportowane.",
     "_ai": true,
     "_seeded": "2026-05-23"
   },
@@ -11753,11 +11743,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Nie można nawiązać połączenia: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Nie udało się zainstalować na tym węźle (kod %1$d).",
     "_ai": true,
@@ -14005,6 +13990,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Brak odpowiedzi od węzła tego kontaktu. Spróbuj ponownie.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Plik jest uszkodzony lub pochodzi z nieobsługiwanej wersji.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Tożsamość z tej kopii zapasowej nie została zaimportowana, ponieważ jej klucz się nie zgadza. Kanały i kontakty zostały przywrócone.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Każde napięcie musi być wyższe od poprzedniego.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Żaden procent nie może być niższy od poprzedniego.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Wartości procentowe muszą mieścić się w przedziale od 0 do 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Krzywa potrzebuje co najmniej dwóch kotwic.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Nie udało się odczytać pliku.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Nie udało się zapisać pliku.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Nieprawidłowy klucz prywatny. Wklej 64 lub 128 znaków szesnastkowych.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Wyznaczony klucz publiczny: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Wpisz prawidłowy host i port od 1 do 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

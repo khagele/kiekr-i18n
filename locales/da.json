@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Filen er beskadiget eller understøttes ikke: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Sikkerhedskopieringen mislykkedes.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Import af identitet afvist: %1$s. Kanaler og kontakter er stadig importeret.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Kunne ikke starte forbindelsen: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Kunne ikke installere på denne node (kode %1$d).",
     "_ai": true,
@@ -14010,6 +13995,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Intet svar fra denne kontakts node. Prøv venligst igen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Filen er beskadiget eller fra en version, der ikke understøttes.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identiteten i denne sikkerhedskopi blev ikke importeret, fordi dens nøgle ikke passer. Kanaler og kontakter blev gendannet.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Hver spænding skal være højere end den foregående.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ingen procentdel må være lavere end den foregående.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Procentdele skal være mellem 0 og 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "En kurve skal have mindst to ankre.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Filen kunne ikke læses.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Filen kunne ikke gemmes.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Ikke en gyldig privat nøgle. Indsæt 64 eller 128 hex-tegn.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Udledt offentlig nøgle: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Angiv en gyldig vært og en port mellem 1 og 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "A fájl sérült vagy nem támogatott: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "A biztonsági mentés sikertelen volt.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Az azonosító importálása sikertelen: %1$s. A csatornák és a névjegyek mégis importálódtak.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "A kapcsolat nem indítható: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "A telepítés nem sikerült ezen a csomóponton (kód: %1$d).",
     "_ai": true,
@@ -14010,6 +13995,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Nincs válasz ennek a kapcsolatnak a csomópontjától. Kérjük, próbálja meg újra.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "A fájl sérült, vagy nem támogatott verzióból származik.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "A biztonsági mentésben lévő azonosító nem lett importálva, mert a kulcsa nem egyezik. A csatornák és a névjegyek visszaállításra kerültek.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Minden feszültségnek magasabbnak kell lennie az előzőnél.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Egyik százalék sem lehet kisebb az előzőnél.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "A százalékoknak 0 és 100 között kell lenniük.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Egy görbéhez legalább két horgony szükséges.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "A fájl nem olvasható be.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "A fájl nem menthető.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Érvénytelen privát kulcs. Illesszen be 64 vagy 128 hexadecimális karaktert.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Származtatott nyilvános kulcs: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Adjon meg egy érvényes gazdagépet és egy 1 és 65535 közötti portot.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

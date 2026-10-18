@@ -4060,16 +4060,8 @@
     "value": "Sauvegarde chiffrée",
     "_human": true
   },
-  "settings_backup_err_corrupt": {
-    "value": "Fichier corrompu ou non pris en charge : %1$s",
-    "_human": true
-  },
   "settings_backup_err_generic": {
     "value": "Échec de la sauvegarde.",
-    "_human": true
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Import d'identité refusé : %1$s. Les canaux et contacts ont tout de même été importés.",
     "_human": true
   },
   "settings_backup_err_missing_passphrase": {
@@ -10482,11 +10474,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Impossible de démarrer la connexion : %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Impossible d'installer sur ce nœud (code %1$d).",
     "_ai": true,
@@ -12732,6 +12719,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Aucune réponse du nœud de ce contact. Veuillez réessayer.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Le fichier est endommagé ou provient d'une version non prise en charge.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "L'identité de cette sauvegarde n'a pas été importée car sa clé ne correspond pas. Les canaux et contacts ont été restaurés.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Chaque tension doit être supérieure à la précédente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Aucun pourcentage ne peut être inférieur au précédent.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Les pourcentages doivent être compris entre 0 et 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Une courbe nécessite au moins deux points d'ancrage.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Impossible de lire le fichier.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Impossible d'enregistrer le fichier.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Clé privée non valide. Collez 64 ou 128 caractères hexadécimaux.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Clé publique dérivée : %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Saisissez un hôte valide et un port compris entre 1 et 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

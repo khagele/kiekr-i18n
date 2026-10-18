@@ -4834,18 +4834,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Fails ir bojāts vai netiek atbalstīts: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Dublējuma izveide neizdevās.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Identitātes importēšana noraidīta: %1$s. Kanāli un kontakti tomēr tika importēti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11761,11 +11751,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Neizdevās sākt savienojumu: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Neizdevās instalēt šajā mezglā (kods %1$d).",
     "_ai": true,
@@ -14012,6 +13997,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Nav atbildes no šī kontakta mezgla. Lūdzu, mēģiniet vēlreiz.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Fails ir bojāts vai ir no neatbalstītas versijas.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Šī dublējuma identitāte netika importēta, jo tās atslēga nesakrīt. Kanāli un kontakti tika atjaunoti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Katram spriegumam jābūt augstākam par iepriekšējo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Neviens procents nedrīkst būt mazāks par iepriekšējo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Procentiem jābūt no 0 līdz 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Līknei nepieciešami vismaz divi enkuri.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Neizdevās nolasīt failu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Neizdevās saglabāt failu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Nederīga privātā atslēga. Ielīmējiet 64 vai 128 heksadecimālās rakstzīmes.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Atvasinātā publiskā atslēga: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Ievadiet derīgu resursdatoru un portu no 1 līdz 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Comhad loitithe nó neamhthacaithe: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Theip ar an gcúltaca.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Iompórtáil aitheantais diúltaithe: %1$s. Láithreacha agus teagmhálaithe aistrithe fós.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Níorbh fhéidir an nasc a thosú: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Níorbh fhéidir é a shuiteáil ar an nód seo (cód %1$d).",
     "_ai": true,
@@ -14013,6 +13998,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Níor tháinig freagra ó nód an teagmhálaí seo. Bain triail eile as le do thoil.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Tá an comhad loitithe nó ó leagan nach dtacaítear leis.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Níor iompórtáladh an t-aitheantas sa chúltaca seo mar nach meaitseálann a eochair. Athchóiríodh na cainéil agus na teagmhálaithe.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Caithfidh gach voltas a bheith níos airde ná an ceann roimhe.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ní féidir le haon chéatadán a bheith níos ísle ná an ceann roimhe.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Caithfidh céatadáin a bheith idir 0 agus 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Teastaíonn dhá ancaire ar a laghad ó chuar.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Níorbh fhéidir an comhad a léamh.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Níorbh fhéidir an comhad a shábháil.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Ní eochair phríobháideach bhailí í. Greamaigh 64 nó 128 carachtar heicsidheachúlach.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Eochair phoiblí dhíorthaithe: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Cuir isteach óstach bailí agus port idir 1 agus 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

@@ -3980,16 +3980,8 @@
     "value": "Backup crittografato",
     "_human": true
   },
-  "settings_backup_err_corrupt": {
-    "value": "File danneggiato o non supportato: %1$s",
-    "_human": true
-  },
   "settings_backup_err_generic": {
     "value": "Il backup non è andato a buon fine.",
-    "_human": true
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Importazione dell'identità rifiutata: %1$s. I canali e i contatti sono stati comunque importati.",
     "_human": true
   },
   "settings_backup_err_missing_passphrase": {
@@ -10396,11 +10388,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Impossibile avviare la connessione: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Impossibile installare su questo nodo (codice %1$d).",
     "_ai": true,
@@ -12646,6 +12633,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Nessuna risposta dal nodo di questo contatto. Riprova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Il file è danneggiato o proviene da una versione non supportata.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "L'identità di questo backup non è stata importata perché la sua chiave non corrisponde. Canali e contatti sono stati ripristinati.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Ogni tensione deve essere superiore alla precedente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Nessuna percentuale può essere inferiore alla precedente.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Le percentuali devono essere comprese tra 0 e 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Una curva richiede almeno due punti di ancoraggio.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Impossibile leggere il file.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Impossibile salvare il file.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Chiave privata non valida. Incolla 64 o 128 caratteri esadecimali.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Chiave pubblica derivata: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Inserisci un host valido e una porta compresa tra 1 e 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

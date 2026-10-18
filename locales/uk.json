@@ -4835,18 +4835,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Файл пошкоджений або не підтримується: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Створення резервної копії не вдалося.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Імпорт облікового запису відхилено: %1$s. Канали та контакти все одно завантажилися.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11762,11 +11752,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Не вдалося розпочати підключення: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Не вдалося встановити на цей вузол (код %1$d).",
     "_ai": true,
@@ -14014,6 +13999,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Немає відповіді від вузла цього контакту. Будь ласка, спробуйте ще раз.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Файл пошкоджений або створений у непідтримуваній версії.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Обліковий запис із цієї резервної копії не імпортовано, бо його ключ не збігається. Канали та контакти відновлено.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Кожна напруга має бути вищою за попередню.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Жоден відсоток не може бути нижчим за попередній.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Відсотки мають бути від 0 до 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Кривій потрібні щонайменше два якорі.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Не вдалося прочитати файл.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Не вдалося зберегти файл.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Недійсний закритий ключ. Вставте 64 або 128 шістнадцяткових символів.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Виведений публічний ключ: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Введіть дійсний хост і порт від 1 до 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Filen er ødelagt eller støttes ikke: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Sikkerhetskopieringen mislyktes.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Import av identitet avvist: %1$s. Kanaler og kontakter ble likevel importert.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Kunne ikke starte tilkoblingen: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Kunne ikke installere på denne noden (kode %1$d).",
     "_ai": true,
@@ -14010,6 +13995,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Ikke noe svar fra denne kontaktens node. Prøv på nytt.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Filen er ødelagt eller fra en versjon som ikke støttes.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identiteten i denne sikkerhetskopien ble ikke importert fordi nøkkelen ikke stemmer. Kanaler og kontakter ble gjenopprettet.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Hver spenning må være høyere enn den forrige.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ingen prosentverdi kan være lavere enn den forrige.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Prosentverdier må være mellom 0 og 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "En kurve trenger minst to ankre.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Kunne ikke lese filen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Kunne ikke lagre filen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Ikke en gyldig privat nøkkel. Lim inn 64 eller 128 hex-tegn.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Utledet offentlig nøkkel: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Skriv inn en gyldig vert og en port mellom 1 og 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

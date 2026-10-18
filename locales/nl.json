@@ -4059,16 +4059,8 @@
     "value": "Versleutelde back-up",
     "_human": true
   },
-  "settings_backup_err_corrupt": {
-    "value": "Bestand beschadigd of niet ondersteund: %1$s",
-    "_human": true
-  },
   "settings_backup_err_generic": {
     "value": "Back-up mislukt.",
-    "_human": true
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Identiteitsimport geweigerd: %1$s. Kanalen en contacten zijn wel binnengekomen.",
     "_human": true
   },
   "settings_backup_err_missing_passphrase": {
@@ -10481,11 +10473,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Kan verbinding niet starten: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Installeren op deze node is mislukt (code %1$d).",
     "_ai": true,
@@ -12731,6 +12718,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Geen antwoord van de node van dit contact. Probeer het opnieuw.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Het bestand is beschadigd of komt uit een niet-ondersteunde versie.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "De identiteit in deze back-up is niet geïmporteerd omdat de sleutel niet overeenkomt. Kanalen en contacten zijn hersteld.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Elke spanning moet hoger zijn dan de vorige.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Geen enkel percentage mag lager zijn dan het vorige.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Percentages moeten tussen 0 en 100 liggen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Een curve heeft minstens twee ankerpunten nodig.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Het bestand kon niet worden gelezen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Het bestand kon niet worden opgeslagen.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Geen geldige privésleutel. Plak 64 of 128 hextekens.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Afgeleide publieke sleutel: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Voer een geldige host en een poort tussen 1 en 65535 in.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

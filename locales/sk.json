@@ -4834,18 +4834,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Súbor je poškodený alebo nie je podporovaný: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Zálohovanie sa nepodarilo.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Import identity bol zamietnutý: %1$s. Kanály a kontakty sa aj tak naimportovali.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11761,11 +11751,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Pripojenie sa nepodarilo spustiť: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Inštalácia na tento uzol zlyhala (kód %1$d).",
     "_ai": true,
@@ -14013,6 +13998,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Žiadna odpoveď od uzla tohto kontaktu. Skúste to, prosím, znova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Súbor je poškodený alebo pochádza z nepodporovanej verzie.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identita z tejto zálohy nebola importovaná, pretože jej kľúč nesúhlasí. Kanály a kontakty boli obnovené.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Každé napätie musí byť vyššie ako predchádzajúce.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Žiadne percento nesmie byť nižšie ako predchádzajúce.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Percentá musia byť v rozsahu 0 až 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Krivka potrebuje aspoň dve kotvy.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Súbor sa nepodarilo prečítať.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Súbor sa nepodarilo uložiť.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Neplatný súkromný kľúč. Vložte 64 alebo 128 hexadecimálnych znakov.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Odvodený verejný kľúč: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Zadajte platného hostiteľa a port v rozsahu 1 až 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

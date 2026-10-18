@@ -4834,18 +4834,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Failas sugadintas arba nepalaikomas: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Atsarginės kopijos kūrimas nepavyko.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Tapatybės importas atmestas: %1$s. Kanalai ir kontaktai vis tiek buvo perkelti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11761,11 +11751,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Nepavyko pradėti ryšio: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Nepavyko įdiegti šiame mazge (kodas %1$d).",
     "_ai": true,
@@ -14013,6 +13998,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Iš šio kontakto mazgo negautas atsakymas. Bandykite dar kartą.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Failas sugadintas arba yra iš nepalaikomos versijos.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Šios atsarginės kopijos tapatybė nebuvo importuota, nes jos raktas nesutampa. Kanalai ir kontaktai atkurti.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Kiekviena įtampa turi būti didesnė už ankstesnę.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Nė vienas procentas negali būti mažesnis už ankstesnį.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Procentai turi būti nuo 0 iki 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Kreivei reikia bent dviejų inkarų.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Nepavyko nuskaityti failo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Nepavyko išsaugoti failo.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Netinkamas privatusis raktas. Įklijuokite 64 arba 128 šešioliktainius simbolius.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Išvestas viešasis raktas: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Įveskite tinkamą prieglobą ir prievadą nuo 1 iki 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

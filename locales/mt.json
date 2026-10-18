@@ -4833,18 +4833,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Fajl korrutt jew mhux appoġġjat: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Il-backup ma rnexxiex.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "L-importazzjoni tal-identità ġiet miċħuda: %1$s. Il-kanali u l-kuntatti għadhom waslu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11760,11 +11750,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Il-konnessjoni ma setgħetx tinbeda: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Ma setax jiġi installat fuq dan in-nodu (kodiċi %1$d).",
     "_ai": true,
@@ -14013,6 +13998,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "L-ebda tweġiba min-nodu ta' dan il-kuntatt. Jekk jogħġbok erġa' pprova.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Il-fajl huwa korrott jew ġej minn verżjoni mhux appoġġjata.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "L-identità f'dan il-backup ma ġietx importata għax iċ-ċavetta tagħha ma taqbilx. Il-kanali u l-kuntatti ġew irrestawrati.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Kull vultaġġ irid ikun ogħla minn dak ta' qablu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "L-ebda perċentwal ma jista' jkun aktar baxx minn dak ta' qablu.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Il-perċentwali għandhom ikunu bejn 0 u 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Kurva teħtieġ mill-inqas żewġ ankori.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Il-fajl ma setax jinqara.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Il-fajl ma setax jiġi ssejvjat.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Mhix ċavetta privata valida. Waħħal 64 jew 128 karattru hex.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Ċavetta pubblika derivata: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Daħħal host validu u port bejn 1 u 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

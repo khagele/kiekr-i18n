@@ -4834,18 +4834,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Fișier corupt sau neacceptat: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Copierea de rezervă a eșuat.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Importul identității a fost refuzat: %1$s. Canalele și contactele au fost totuși importate.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11761,11 +11751,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Nu s-a putut iniția conexiunea: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Instalarea pe acest nod a eșuat (cod %1$d).",
     "_ai": true,
@@ -14012,6 +13997,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Niciun răspuns de la nodul acestui contact. Încercați din nou.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Fișierul este deteriorat sau provine dintr-o versiune neacceptată.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Identitatea din acest backup nu a fost importată, deoarece cheia ei nu corespunde. Canalele și contactele au fost restaurate.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Fiecare tensiune trebuie să fie mai mare decât cea anterioară.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Niciun procent nu poate fi mai mic decât cel anterior.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Procentele trebuie să fie între 0 și 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "O curbă are nevoie de cel puțin două ancore.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Fișierul nu a putut fi citit.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Fișierul nu a putut fi salvat.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Cheie privată nevalidă. Lipiți 64 sau 128 de caractere hexazecimale.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Cheie publică derivată: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Introduceți o gazdă validă și un port între 1 și 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }

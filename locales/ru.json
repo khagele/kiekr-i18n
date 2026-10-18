@@ -4835,18 +4835,8 @@
     "_ai": true,
     "_seeded": "2026-06-26"
   },
-  "settings_backup_err_corrupt": {
-    "value": "Файл поврежден или не поддерживается: %1$s",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
   "settings_backup_err_generic": {
     "value": "Сбой при создании резервной копии.",
-    "_ai": true,
-    "_seeded": "2026-06-26"
-  },
-  "settings_backup_err_identity_refused": {
-    "value": "Импорт учетной записи отклонен: %1$s. Каналы и контакты все же были импортированы.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -11762,11 +11752,6 @@
     "_ai": true,
     "_seeded": "2026-09-29"
   },
-  "mynode_wifi_err_start": {
-    "value": "Не удалось начать подключение: %1$s",
-    "_ai": true,
-    "_seeded": "2026-09-29"
-  },
   "nodes_install_err_code": {
     "value": "Не удалось установить на этот узел (код %1$d).",
     "_ai": true,
@@ -14014,6 +13999,61 @@
   },
   "remote_cli_err_no_reply": {
     "value": "Нет ответа от узла этого контакта. Пожалуйста, попробуйте снова.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_file_corrupt": {
+    "value": "Файл поврежден или создан в неподдерживаемой версии.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "backup_err_identity_not_imported": {
+    "value": "Учетная запись из этой резервной копии не импортирована, так как ее ключ не совпадает. Каналы и контакты восстановлены.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_mv_order": {
+    "value": "Каждое напряжение должно быть выше предыдущего.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_order": {
+    "value": "Ни один процент не может быть ниже предыдущего.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_pct_range": {
+    "value": "Проценты должны быть в диапазоне от 0 до 100.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "battery_curve_err_too_few": {
+    "value": "Кривой нужны как минимум два якоря.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_read": {
+    "value": "Не удалось прочитать файл.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "file_err_save": {
+    "value": "Не удалось сохранить файл.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "identity_import_err_invalid_key": {
+    "value": "Недействительный закрытый ключ. Вставьте 64 или 128 шестнадцатеричных символов.",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "mynode_identity_derived_pubkey": {
+    "value": "Выведенный открытый ключ: %1$s",
+    "_ai": true,
+    "_seeded": "2026-10-18"
+  },
+  "wifi_connect_err_invalid_target": {
+    "value": "Введите допустимый хост и порт от 1 до 65535.",
     "_ai": true,
     "_seeded": "2026-10-18"
   }
