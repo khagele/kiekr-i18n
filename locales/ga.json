@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Roinn an logáil ar dtús — scriosann an glanadh na sonraí atá de dhíth orainn.",
+    "value": "Roinn an logáil ar dtús: scriosann an glanadh na sonraí atá de dhíth orainn.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Níl aon nód ceangailte — ceangail gléas companion chun seoladh.",
+    "value": "Níl aon nód ceangailte. Ceangail gléas companion chun seoladh.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Dícheangailte — athcheangail chun a sheoladh",
+    "value": "Dícheangailte: athcheangail chun a sheoladh",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Níl teachtaireachtaí cainéil sínithe — is féidir le haon duine sa chainéal a bheith ina seoltóir.",
+    "value": "Níl teachtaireachtaí cainéil sínithe: is féidir le haon duine sa chainéal a bheith ina seoltóir.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Tá an t-eolaire ar líne múchta — cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
+    "value": "Tá an t-eolaire ar líne múchta. Cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Freagraíonn roinnt athdhéantóirí do réimire an chosáin ghearr don léim seo. Ní féidir linn an ceann ceart a roghnú go huathoibríoch — roghnaigh an ceann a bhí ar do chosán.",
+    "value": "Freagraíonn roinnt athdhéantóirí do réimire an chosáin ghearr don léim seo. Ní féidir linn an ceann ceart a roghnú go huathoibríoch. Roghnaigh an ceann a bhí ar do chosán.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "Gan mheaitseáil — ní raibh aon iontráil sa t-eolaire don réimír seo",
+    "value": "Gan mheaitseáil: ní raibh aon iontráil sa t-eolaire don réimír seo",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "Gan mheaitseáil — tá na buillí is gaire ar líne lasmuigh de gheoig na réasúnaíochta",
+    "value": "Gan mheaitseáil: tá na buillí is gaire ar líne lasmuigh de gheoig na réasúnaíochta",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Is é gach preab an chéad %1$d de ghiotán d'eochair phoiblí athdhéantóra. D'fhéadfadh eochracha ghearra a bheith ag teacht le hathdhéantóirí iolracha — tapáil ar an liathróid chun preabanna atá ar iarraidh a chuardach sa táscaire ar líne.",
+    "value": "Is é gach preab an chéad %1$d de ghiotán d'eochair phoiblí athdhéantóra. D'fhéadfadh eochracha ghearra a bheith ag teacht le hathdhéantóirí iolracha. Tapáil ar an liathróid chun preabanna atá ar iarraidh a chuardach sa táscaire ar líne.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "anaithnid — ón bhfeiste",
+    "value": "anaithnid (ón bhfeiste)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Is íosmhéid é an comhaireamh — le trácht trom, féadfaidh cóipeanna imeacht sula sroicheann siad an aip.",
+    "value": "Is íosmhéid é an comhaireamh: le trácht trom, féadfaidh cóipeanna imeacht sula sroicheann siad an aip.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(gan aon cheann — ón bhfeiste)",
+    "value": "(gan aon cheann, ón bhfeiste)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Cainéil aimsithe — tapáil chun athbhreithniú a dhéanamh",
+    "value": "Cainéil aimsithe (tapáil chun athbhreithniú a dhéanamh)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Bain úsáid as an eochair chun cóipeáil. Meaitseáiltear cainéil de réir eochrach, ní de réir ainm — is coitianta na imbhuailtí.",
+    "value": "Bain úsáid as an eochair chun cóipeáil. Meaitseáiltear cainéil de réir eochrach, ní de réir ainm: is coitianta na imbhuailtí.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d léim",
+    "value": "%1$d-%2$d léim",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Tá an teachtaireacht seo craolta ag do nód cheana féin. Níor tháinig aon deimhniú ar ais, ach seans go bhfuair glacadóirí laistigh de raon í mar sin féin — má sheolann tú arís í, feicfidh siad faoi dhó í.",
+    "value": "Tá an teachtaireacht seo craolta ag do nód cheana féin. Níor tháinig aon deimhniú ar ais, ach seans go bhfuair glacadóirí laistigh de raon í mar sin féin. Má sheolann tú arís í, feicfidh siad faoi dhó í.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Rochtain aoi — léamh amháin",
+    "value": "Rochtain aoi (léamh amháin)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Taispeántar anseo gach fráma a chloiseann do nód — ní scagtar rud ar bith amach.",
+    "value": "Taispeántar anseo gach fráma a chloiseann do nód. Ní scagtar rud ar bith amach.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Gan scagadh — taispeántar frámaí díchódaithe, criptithe do dhaoine eile, anaithnide agus lochtacha ar fad.",
+    "value": "Gan scagadh: taispeántar frámaí díchódaithe, criptithe do dhaoine eile, anaithnide agus lochtacha ar fad.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "criptithe — ní don ghléas seo",
+    "value": "criptithe, ní don ghléas seo",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "taispeánann sé gach fráma a fhaightear — fiú an méid nach féidir a léamh",
+    "value": "taispeánann sé gach fráma a fhaightear, fiú an méid nach féidir a léamh",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d Sa chache · páirteach — tapáil chun athnuachan",
+    "value": "%1$d Sa chache · páirteach, tapáil chun athnuachan",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Níl comharsana i gcache — tapáil chun athnuachan.",
+    "value": "Níl comharsana i gcache. Tapáil chun athnuachan.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Níl comhordanáidí GPS stóráilte ag aon athdhéantóir den teachtaireacht seo — ná ag an mbunús. Dún an radharc seo, tapáil ar an deilbhín cruinne ar rannóg chúrsa na teachtaireachta, agus ansin tar ar ais.",
+    "value": "Níl comhordanáidí GPS stóráilte ag aon athdhéantóir den teachtaireacht seo (ná ag an mbunús). Dún an radharc seo, tapáil ar an deilbhín cruinne ar rannóg chúrsa na teachtaireachta, agus ansin tar ar ais.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f go %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Teastaíonn ár bhfógra ó nóid eile ina gcuid tábla teagmhála sula féidir leo ár nDMs a dhíchódú. Tapáil chun an raon a roghnú — is ciúin é an t-éalad nialasach (comharsana amháin); is glórach é an tuile (an líontán iomlán).",
+    "value": "Teastaíonn ár bhfógra ó nóid eile ina gcuid tábla teagmhála sula féidir leo ár nDMs a dhíchódú. Tapáil chun an raon a roghnú: is ciúin é an t-éalad nialasach (comharsana amháin); is glórach é an tuile (an líontán iomlán).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Tá RTC le cúltaca ceallraí ag an ngléas seo. Ní féidir leis an mbogearraí é a athshocrú — chun é a athchóiriú, ní mór an crua-earraí flas a athsholáthar nó an cheallraí chúltaca den RTC a bhaint.",
+    "value": "Tá RTC le cúltaca ceallraí ag an ngléas seo. Ní féidir leis an mbogearraí é a athshocrú. Chun é a athchóiriú, ní mór an crua-earraí flas a athsholáthar nó an cheallraí chúltaca den RTC a bhaint.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Atosaíonn an atosaigh an nód péireáilte. Sclaingíonn athshocrú monarchan teagmhálacha, cainéil agus roghanna an ghléis — ní dhéantar aon athrú ar shonraí áitiúla an aip.",
+    "value": "Atosaíonn an atosaigh an nód péireáilte. Sclaingíonn athshocrú monarchan teagmhálacha, cainéil agus roghanna an ghléis. Ní dhéantar aon athrú ar shonraí áitiúla an aip.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Briseann Disconnect an nasc ach coinníonn sé an nasc taisce — tapáil ar Connect chun athcheangal a dhéanamh gan athphéireáil. Déanann Forget díphéireáil agus glanann sé an taisce; caithfear an nód a athphéireáil chun teacht ar ais.",
+    "value": "Briseann Disconnect an nasc ach coinníonn sé an nasc taisce. Tapáil ar Connect chun athcheangal a dhéanamh gan athphéireáil. Déanann Forget díphéireáil agus glanann sé an taisce; caithfear an nód a athphéireáil chun teacht ar ais.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Scuabann sé teagmhálacha, cainéil, réigiúin, sainroghanna agus aitheantas an fheiste. Ní féidir é a chur ar ceal — níl aon chúlghairm ann. Easpórtáil aon rud ar mhaith leat a choinneáil sula leanann tú ar aghaidh.",
+    "value": "Scuabann sé teagmhálacha, cainéil, réigiúin, sainroghanna agus aitheantas an fheiste. Ní féidir é a chur ar ceal: níl aon chúlghairm ann. Easpórtáil aon rud ar mhaith leat a choinneáil sula leanann tú ar aghaidh.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Mogalra iomlán. Os ard — déanann gach athchraoladóir athchraoladh. Bain úsáid as go stuama; íocann fógraí tuile as an am aeir in aghaidh an athchraoladóra.",
+    "value": "Mogalra iomlán. Os ard: déanann gach athchraoladóir athchraoladh. Bain úsáid as go stuama; íocann fógraí tuile as an am aeir in aghaidh an athchraoladóra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Scríobhann an gné Advanced minicíocht amh / Leithead Lána (BW) / Méid Fhréimhe (SF) / Cóimheas Rothlaithe (CR). Raonta na mbogchrua: 400–2500 MHz, 7.8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "Scríobhann an gné Advanced minicíocht amh / Leithead Lána (BW) / Méid Fhréimhe (SF) / Cóimheas Rothlaithe (CR). Raonta na mbogchrua: 400-2500 MHz, 7.8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "An méid a thuairiscíonn an nód péireáilte faoi láthair. Tagann na réamhshocruithe thíos ó chatalóg phobail MeshCore — roghnaigh an ceann a ritheann do líonra mogalra áitiúil.",
+    "value": "An méid a thuairiscíonn an nód péireáilte faoi láthair. Tagann na réamhshocruithe thíos ó chatalóg phobail MeshCore. Roghnaigh an ceann a ritheann do líonra mogalra áitiúil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Bunaithe ar shuíomh do ghléis. Deimhnigh chun a chur i bhfeidhm — ní athraíonn aon rud go dtí go ndéanann tú é.",
+    "value": "Bunaithe ar shuíomh do ghléis. Deimhnigh chun a chur i bhfeidhm. Ní athraíonn aon rud go dtí go ndéanann tú é.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Athnasc leis an nód a péireáladh roimhe seo. Gan aon iarratas ar PIN — tá an ceangal fós sa chache.",
+    "value": "Athnasc leis an nód a péireáladh roimhe seo. Gan aon iarratas ar PIN: tá an ceangal fós sa chache.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Comharsana amháin. Ciúin — gan tuile. Bain úsáid as nuair nach bhfuil ach ar na nóid in aice láimhe do fhógra a fhoghlaim.",
+    "value": "Comharsana amháin. Ciúin: gan tuile. Bain úsáid as nuair nach bhfuil ach ar na nóid in aice láimhe do fhógra a fhoghlaim.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "Is é 'Secret' an eochair AES 16-giotán chomhroinnte den chainéal, atá scríofa mar 32 charachtar heics. I gcás cainéil de stíl haischlib, tagann an 'Secret' ón ainm go huathoibríoch — fág an comhartha haisch ann má tá sé níos fearr leat an bealach sin a úsáid.",
+    "value": "Is é 'Secret' an eochair AES 16-giotán chomhroinnte den chainéal, atá scríofa mar 32 charachtar heics. I gcás cainéil de stíl haischlib, tagann an 'Secret' ón ainm go huathoibríoch. Fág an comhartha haisch ann má tá sé níos fearr leat an bealach sin a úsáid.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Tá an clog socraithe chun tosaigh. Diúltaíonn an fhirméar stoc do shioncronú siar. Réiteach: rith `clkreboot` ón CLI thíos — athshocraíonn sé an RTC go 2024-05-15 agus atosaíonn sé — ansin tapáil 'sioncronú' chun an t-am reatha a shioncronú.",
+    "value": "Tá an clog socraithe chun tosaigh. Diúltaíonn an fhirméar stoc do shioncronú siar. Réiteach: rith `clkreboot` ón CLI thíos (athshocraíonn sé an RTC go 2024-05-15 agus atosaíonn sé), ansin tapáil 'sioncronú' chun an t-am reatha a shioncronú.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Tá an gléas fós ag sioncronú — bain triail as arís i nóiméad, le do thoil.",
+    "value": "Tá an gléas fós ag sioncronú. Bain triail as arís i nóiméad, le do thoil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Tá an t-eolaire ar líne múchta — cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
+    "value": "Tá an t-eolaire ar líne múchta. Cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Tá pasfhocal athdhéanta teoranta do 15 carachtar — gearrtar aon ní níos faide nuair a logálann tú isteach.",
+    "value": "Tá pasfhocal athdhéanta teoranta do 15 carachtar. Gearrtar aon ní níos faide nuair a logálann tú isteach.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d Cacheáilte · páirteach — tapáil chun athnuachan",
+    "value": "%1$d Cacheáilte · páirteach, tapáil chun athnuachan",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Ráta teoranta — %1$dachtaí",
+    "value": "Ráta teoranta: %1$ds",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Ní féidir a scriosadh — tá réigiúin leanaí ag an réigiún.",
+    "value": "Ní féidir a scriosadh: tá réigiúin leanaí ag an réigiún.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Is ionann gach leagan agus 3 bhait. Tá %1$d san iomlán — chun cur leis nó chun baint de.",
+    "value": "Is ionann gach leagan agus 3 bhait. Tá %1$d san iomlán. Chun cur leis nó chun baint de.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(Gan cosán foghlamtha go fóill — rachadh seoltaí díreacha trí h-aon)",
+    "value": "(Gan cosán foghlamtha go fóill: rachadh seoltaí díreacha trí h-aon)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Anchored on your current location — no position was stored for this message.",
+    "value": "Anchored on your current location: no position was stored for this message.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Níl aon iontrálacha ACL ann — tapáil Athnuachan chun lódáil.",
+    "value": "Níl aon iontrálacha ACL ann. Tapáil Athnuachan chun lódáil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "heicséad eochrach phoiblí neamhbhailí — caithfidh sé a bheith go díreach 64 carachtar heics",
+    "value": "heicséad eochrach phoiblí neamhbhailí: caithfidh sé a bheith go díreach 64 carachtar heics",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 carachtar heics — iomlán eochair phoiblí an nóid.",
+    "value": "64 carachtar heics (iomlán eochair phoiblí an nóid).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Lódáiltear na huirlisí riaracháin anseo — an CLI agus eagarthóir ACL le teacht san chéad nuashonrú eile.",
+    "value": "Lódáiltear na huirlisí riaracháin anseo. An CLI agus eagarthóir ACL le teacht san chéad nuashonrú eile.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Tá iarratas eile á phróiseáil — bain triail as arís, le do thoil.",
+    "value": "Tá iarratas eile á phróiseáil. Bain triail as arís, le do thoil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Theip ar an logáil isteach — pasfhocal mícheart nó seomra nach féidir a bhaint amach.",
+    "value": "Theip ar an logáil isteach: pasfhocal mícheart nó seomra nach féidir a bhaint amach.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Tá an pasfhocal teoranta do 15 carachtar — gearrtar aon ní níos faide nuair a shíníonn tú isteach.",
+    "value": "Tá an pasfhocal teoranta do 15 carachtar. Gearrtar aon ní níos faide nuair a shíníonn tú isteach.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Nuair a chloiseann an gléas nasctha fógra de chineál cumasaithe, stórálann sé an nód ina thábla teagmhála — maireann sé tar éis atosaigh agus sroicheann sé an aip an chéad uair eile a bhíonn an ceallra íseal.",
+    "value": "Nuair a chloiseann an gléas nasctha fógra de chineál cumasaithe, stórálann sé an nód ina thábla teagmhála. Maireann sé tar éis atosaigh agus sroicheann sé an aip an chéad uair eile a bhíonn an ceallra íseal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Nuair atá sé ar siúl, féadfaidh KiekR cuardaigh eolaire a eisiúint go huathoibríoch le haghaidh comhthéacs atá ar iarraidh a thugann an aip faoi deara go pasach — léimeanna anaithnide i gconair, athdhéantóirí a cloiseadh nach bhfuil san eolaire go fóill, sraitheanna comharsanachta atá ar iarraidh, agus réigiúin atá ar iarraidh ar fhionnachtain. Nuair atá sé múchta (de réir réamhshocraithe), teastaíonn tapáil le haghaidh gach cuardaigh eolaire.",
+    "value": "Nuair atá sé ar siúl, féadfaidh KiekR cuardaigh eolaire a eisiúint go huathoibríoch le haghaidh comhthéacs atá ar iarraidh a thugann an aip faoi deara go pasach: léimeanna anaithnide i gconair, athdhéantóirí a cloiseadh nach bhfuil san eolaire go fóill, sraitheanna comharsanachta atá ar iarraidh, agus réigiúin atá ar iarraidh ar fhionnachtain. Nuair atá sé múchta (de réir réamhshocraithe), teastaíonn tapáil le haghaidh gach cuardaigh eolaire.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Ní dhéantar cuardaigh ach ar eolaire KiekR — ní riamh ar óstach tríú páirtí. Fanaann léamha caighdeáin saor in aisce; rialaíonn an lasc seo an leath den líonra.",
+    "value": "Ní dhéantar cuardaigh ach ar eolaire KiekR, ní riamh ar óstach tríú páirtí. Fanaann léamha caighdeáin saor in aisce; rialaíonn an lasc seo an leath den líonra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Iompórtáil déanta — %1$d aitheantas, %2$d cainéil, %3$d réigiúin, %4$d teagmhálaithe, %5$d logálacha isteach athchraoltóra.",
+    "value": "Iompórtáil déanta: %1$d aitheantas, %2$d cainéil, %3$d réigiúin, %4$d teagmhálaithe, %5$d logálacha isteach athchraoltóra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Iompórtáil déanta — %1$d aitheantas, %2$d cainéil, %3$d réigiúin, %4$d teagmhálaithe, %5$d logálacha isteach athchraoltóra, %6$d ceanáin, %7$d seoltóirí blocáilte, %8$d socruithe.",
+    "value": "Iompórtáil déanta: %1$d aitheantas, %2$d cainéil, %3$d réigiúin, %4$d teagmhálaithe, %5$d logálacha isteach athchraoltóra, %6$d ceanáin, %7$d seoltóirí blocáilte, %8$d socruithe.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Athchuir ó chomhad .json nó .mcbackup. Is é Athsholáthar an réamhshocrú don allmhairiú — scriobhtar do chainéil, do theagmhálaithe agus do réigiúin reatha, agus ansin cuirtear an beartán isteach. Brúigh agus coinnigh ar 'Dearbhú' ar feadh 5 soicind.",
+    "value": "Athchuir ó chomhad .json nó .mcbackup. Is é Athsholáthar an réamhshocrú don allmhairiú: scriobhtar do chainéil, do theagmhálaithe agus do réigiúin reatha, agus ansin cuirtear an beartán isteach. Brúigh agus coinnigh ar 'Dearbhú' ar feadh 5 soicind.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "NÍ hé seo do PIN péireála BLE. Ní chosnaíonn sé ach an comhad cúltaca seo — roghnaigh rud éigin so-chuimhnithe; ní féidir le KiekR é a aisghabháil.",
+    "value": "NÍ hé seo do PIN péireála BLE. Ní chosnaíonn sé ach an comhad cúltaca seo. Roghnaigh rud éigin so-chuimhnithe; ní féidir le KiekR é a aisghabháil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Cruthaíodh an cúltaca le leagan níos nuaí den aip (scéimre %1$s) — cuireadh i bhfeidhm chomh maith agus ab fhéidir.",
+    "value": "Cruthaíodh an cúltaca le leagan níos nuaí den aip (scéimre %1$s), cuireadh i bhfeidhm chomh maith agus ab fhéidir.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Líne sholadach = an cuar atá á shábháil agat. Líne bhriste = an cuar cheimice réamhshocraithe don athróg seo. Ais X: 2800–4400 mV. Ais Y: 0–100%.",
+    "value": "Líne sholadach = an cuar atá á shábháil agat. Líne bhriste = an cuar cheimice réamhshocraithe don athróg seo. Ais X: 2800-4400 mV. Ais Y: 0-100%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Cuir in iúl nuair a thiteann an gléas nasctha go dtí an céatadán rabhaidh. Is é an bearna ath-armála an t-achar a gcaithfidh an céatadán dreapadh ar ais os cionn an tairseach sula bhféadfar an chéad rabhadh eile a sheoladh — leathnaigh é má bhíonn do chuid plátaí ceallraí ag sroicheadh ardleibhéal seasta (LiFePO4, AA).",
+    "value": "Cuir in iúl nuair a thiteann an gléas nasctha go dtí an céatadán rabhaidh. Is é an bearna ath-armála an t-achar a gcaithfidh an céatadán dreapadh ar ais os cionn an tairseach sula bhféadfar an chéad rabhadh eile a sheoladh. Leathnaigh é má bhíonn do chuid plátaí ceallraí ag sroicheadh ardleibhéal seasta (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Téigh ar an deilbhín bruscair chun díbhloicniú a dhéanamh. Tagann a gcuid teachtaireachtaí a bhí ann cheana ar ais i ngach cainéal. Leis an mbloic, meaitseáiltear an t-ainm beacht a thaispeántar — is féidir le duine ar bith an t-ainm sin a roghnú, mar sin ní chuirfidh sé seo stad ar dhuine a bhfuil sé de rún daingean aige an t-ainm a athrú.",
+    "value": "Téigh ar an deilbhín bruscair chun díbhloicniú a dhéanamh. Tagann a gcuid teachtaireachtaí a bhí ann cheana ar ais i ngach cainéal. Leis an mbloic, meaitseáiltear an t-ainm beacht a thaispeántar. Is féidir le duine ar bith an t-ainm sin a roghnú, mar sin ní chuirfidh sé seo stad ar dhuine a bhfuil sé de rún daingean aige an t-ainm a athrú.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Tá an t-ainm \"%1$s\" ar an gcainéal ag do nód, ach \"%2$s\" atá air go háitiúil. Tá an eochair chriptithe chéanna acu, mar sin oibríonn teachtaireachtaí fós — roghnaigh ainm le coinneáil.",
+    "value": "Tá an t-ainm \"%1$s\" ar an gcainéal ag do nód, ach \"%2$s\" atá air go háitiúil. Tá an eochair chriptithe chéanna acu, mar sin oibríonn teachtaireachtaí fós. Roghnaigh ainm le coinneáil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Tá cainéal darb ainm \"%1$s\" ag do liosta áitiúil agus ag d'nód araon, ach tá eochracha criptiúcháin éagsúla acu. Ní dhíchóireálfar teachtaireachtaí eatarthu — roghnaigh cé acu eochair an cheann ceart.",
+    "value": "Tá cainéal darb ainm \"%1$s\" ag do liosta áitiúil agus ag d'nód araon, ach tá eochracha criptiúcháin éagsúla acu. Ní dhíchóireálfar teachtaireachtaí eatarthu. Roghnaigh cé acu eochair an cheann ceart.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Baineann sé an cainéal agus a eochair ón mbunachar sonraí. Úsáideann an cainéal seo eochair shaincheaptha, mar sin ní féidir an eochair a athdhíorthú ón ainm — tá an baint buan mura n-onnmhairíonn tú an eochair arís (e.g. trí QR).",
+    "value": "Baineann sé an cainéal agus a eochair ón mbunachar sonraí. Úsáideann an cainéal seo eochair shaincheaptha, mar sin ní féidir an eochair a athdhíorthú ón ainm. Tá an baint buan mura n-onnmhairíonn tú an eochair arís (e.g. trí QR).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Folaíonn sé %1$s ó do liosta comhrá agus ó shocruithe an chainéil. Is féidir leat é a athchur níos déanaí trí an t-ainm a chlóscríobh i Socruithe → Cainéil → Cuir cainéal leis de réir ainm — díorthaítear an eochair SHA-256 ar an mbealach céanna.",
+    "value": "Folaíonn sé %1$s ó do liosta comhrá agus ó shocruithe an chainéil. Is féidir leat é a athchur níos déanaí trí an t-ainm a chlóscríobh i Socruithe → Cainéil → Cuir cainéal leis de réir ainm. Díorthaítear an eochair SHA-256 ar an mbealach céanna.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Níorbh fhéidir an cainéal a chur leis — d'fhéadfadh sé a bheith ann cheana nó tá an t-ainm/an eochair neamhbhailí.",
+    "value": "Níorbh fhéidir an cainéal a chur leis: d'fhéadfadh sé a bheith ann cheana nó tá an t-ainm/an eochair neamhbhailí.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Úsáideann sé an eochair sheanbhunaithe don chainéal poiblí — ní theastaíonn eochair.",
+    "value": "Úsáideann sé an eochair sheanbhunaithe don chainéal poiblí, ní theastaíonn eochair.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Eochair riachtanach — teastaíonn heochair heicsadheach 32 carachtar ó chainéil le hainm saincheaptha.",
+    "value": "Eochair riachtanach: teastaíonn heochair heicsadheach 32 carachtar ó chainéil le hainm saincheaptha.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Níl do nód agus do liosta áitiúil ar aon intinn faoi chainéal — roghnaigh cén taobh a bhuafaidh.",
+    "value": "Níl do nód agus do liosta áitiúil ar aon intinn faoi chainéal. Roghnaigh cén taobh a bhuafaidh.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Eochair coinnithe. Nochtar arís chun fáil a fháil — nó scrios go buan.",
+    "value": "Eochair coinnithe. Nochtar arís chun fáil a fháil, nó scrios go buan.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Ceangal gan ainm — oibríonn sé do bhróicéirí forbartha gan údarú.",
+    "value": "Ceangal gan ainm: oibríonn sé do bhróicéirí forbartha gan údarú.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Nuair a bhíonn sé ar siúl, déanann KiekR taifead ar na réigiúin (agus, nuair is féidir, na hathchraoltóirí) a chloiseann sé i gcill mhapa garbh de thart ar leath chiliméadair, agus uaslódálann sé na himeachtaí iomlána do gach cill ó am go chéile thar Wi-Fi. Ní fhágann do shuíomh beacht an fón riamh — ach an chill amháin — agus ní thaispeánann an léarscáil riamh ach an méid a cloiseadh ann, ní cé a chuala é. Fíorainm bhréige agus ar leith ó d'aitheantas KiekR; múch é am ar bith.",
+    "value": "Nuair a bhíonn sé ar siúl, déanann KiekR taifead ar na réigiúin (agus, nuair is féidir, na hathchraoltóirí) a chloiseann sé i gcill mhapa garbh de thart ar leath chiliméadair, agus uaslódálann sé na himeachtaí iomlána do gach cill ó am go chéile thar Wi-Fi. Ní fhágann do shuíomh beacht an fón riamh (ach an chill amháin) agus ní thaispeánann an léarscáil riamh ach an méid a cloiseadh ann, ní cé a chuala é. Fíorainm bhréige agus ar leith ó d'aitheantas KiekR; múch é am ar bith.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Teastaíonn suíomh cruinn ó Chumhdach chun an méid a chloiseann tú a chur sa chill mhapa cheart. Ceadaigh suíomh cruinn do KiekR — murach sin, ní bhailíonn Cumhdach aon rud ar an bhfón seo.",
+    "value": "Teastaíonn suíomh cruinn ó Chumhdach chun an méid a chloiseann tú a chur sa chill mhapa cheart. Ceadaigh suíomh cruinn do KiekR. Murach sin, ní bhailíonn Cumhdach aon rud ar an bhfón seo.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mqtt_footer": {
-    "value": "Ní dhéanann MQTT sealaíocht ach amháin agus tú péireáilte le do ghléas trí Bhlუთúis. Ní uaslódáiltear aitheantas mogalra do ghléis riamh — úsáideann gach bróicéir a phéire eochracha ghinte féin. Tosaíonn ainmneacha an Fhaire i gcónaí le \"KiekR_\".",
+    "value": "Ní dhéanann MQTT sealaíocht ach amháin agus tú péireáilte le do ghléas trí Bluetooth. Ní uaslódáiltear aitheantas mogalra do ghléis riamh: úsáideann gach bróicéir a phéire eochracha ghinte féin. Tosaíonn ainmneacha an Fhaire i gcónaí le \"KiekR_\".",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "Aithníonn cód aerfoirt trí litir do réigiún ar leathanach an anailíseora (e.g. HAM, JFK, MUC). Taispeántar ainm an bhreathnóra in aice le do phacáistí — tá an réimír \"KiekR_\" seasta.",
+    "value": "Aithníonn cód aerfoirt trí litir do réigiún ar leathanach an anailíseora (e.g. HAM, JFK, MUC). Taispeántar ainm an bhreathnóra in aice le do phacáistí. Tá an réimír \"KiekR_\" seasta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Fionraí — ar fhón póca",
+    "value": "Fionraí: ar fhón póca",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Ar sos — ar cheallach · %1$d i scuaine",
+    "value": "Ar sos: ar cheallach · %1$d i scuaine",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "Le MQTT Uaslódáil, seoltar ar aghaidh gach paicéad amh LoRa a chloiseann do ghléas — lena n-áirítear baitéid chriptithe nach féidir leat a léamh tú féin — chuig an mbróicéir a chumraíonn tú. Tá sé múchta de réir réamhshocraithe; cuireann tú ar siúl é do gach bróicéir ar leith. Úsáideann gach bróicéir a phéire eochracha ghinte féin, ionas nach bhfágann féiniúlacht mhogaill do ghléis an gléas riamh.",
+    "value": "Le MQTT Uaslódáil, seoltar ar aghaidh gach paicéad amh LoRa a chloiseann do ghléas (lena n-áirítear baitéid chriptithe nach féidir leat a léamh tú féin) chuig an mbróicéir a chumraíonn tú. Tá sé múchta de réir réamhshocraithe; cuireann tú ar siúl é do gach bróicéir ar leith. Úsáideann gach bróicéir a phéire eochracha ghinte féin, ionas nach bhfágann féiniúlacht mhogaill do ghléis an gléas riamh.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Ábhar — dífhabhtú",
+    "value": "Ábhar (dífhabhtú)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Topaic — paicéid",
+    "value": "Topaic (paicéid)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Ábhar — amh",
+    "value": "Ábhar (amh)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Topaic — stádas",
+    "value": "Topaic (stádas)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6104,7 +6104,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Caithfidh an port a bheith 1–65535",
+    "value": "Caithfidh an port a bheith idir 1 agus 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "As de réir réamhshocraithe. Nuair atá sé ann, uaslódálann KiekR chuig api.kiekr.app na tuairiscí tuairte, reoite agus LAP a thugann iOS dó: leagan an fheidhmchláir, leagan iOS, samhail an ghléis, cóid earráide an chórais agus an chruach ghlaonna. Gan teachtaireachtaí, teagmhálaithe, eochracha ná suíomhanna — agus is é an t-aon bhealach a shroicheann fabht ar do ghuthán an forbróir.",
+    "value": "As de réir réamhshocraithe. Nuair atá sé ann, uaslódálann KiekR chuig api.kiekr.app na tuairiscí tuairte, reoite agus LAP a thugann iOS dó: leagan an fheidhmchláir, leagan iOS, samhail an ghléis, cóid earráide an chórais agus an chruach ghlaonna. Gan teachtaireachtaí, teagmhálaithe, eochracha ná suíomhanna. Is é an t-aon bhealach a shroicheann fabht ar do ghuthán an forbróir.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Ní féidir sraitheanna réamhchumraithe a athainmniú ná a n-URL a athrú — múch iad mura dteastaíonn uait iad a úsáid, nó cuir foinse nua leis.",
+    "value": "Ní féidir sraitheanna réamhchumraithe a athainmniú ná a n-URL a athrú. Múch iad mura dteastaíonn uait iad a úsáid, nó cuir foinse nua leis.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Déanann cuardaigh siúl trí gach foinse atá cumasaithe in ord ranga; is é an chéad fhoinse a sheolann iarrthóir an buaiteoir. Tá api.kiekr.app cosanta ar phríobháideacht (athr-tharchuradóirí A-leibhéil amháin). Tá Anailíseoir Meshcorenetz níos leithne — oibríonn sé go nádúrtha do nóid nach bhfuil ag cúl-eire KiekR. Ath-ordú leis na saigheada suas/síos; tapáil an peann luaidhe chun an t-uasfhad in aghaidh an fhoinse in aghaidh an léime a chur in eagar.",
+    "value": "Déanann cuardaigh siúl trí gach foinse atá cumasaithe in ord ranga; is é an chéad fhoinse a sheolann iarrthóir an buaiteoir. Tá api.kiekr.app cosanta ar phríobháideacht (athr-tharchuradóirí A-leibhéil amháin). Tá Anailíseoir Meshcorenetz níos leithne agus oibríonn sé go nádúrtha do nóid nach bhfuil ag cúl-eire KiekR. Ath-ordú leis na saigheada suas/síos; tapáil an peann luaidhe chun an t-uasfhad in aghaidh an fhoinse in aghaidh an léime a chur in eagar.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— comhthéacs diagnóiseach —",
+    "value": "Comhthéacs diagnóiseach:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "Logaí Android KiekR — %1$s %2$s — %3$s",
+    "value": "Logaí Android KiekR, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Fógra a sheoladh ar gach DM isteach. Déantar DManna a fhíordheimhniú go cripteagrafach — ní dhéanann an rogha seo a mhúchadh ach an fógra a chur faoi chois; tagann an teachtaireacht go dtí do liosta Comhráite fós.",
+    "value": "Fógra a sheoladh ar gach DM isteach. Déantar DManna a fhíordheimhniú go cripteagrafach. Ní dhéanann an rogha seo a mhúchadh ach an fógra a chur faoi chois; tagann an teachtaireacht go dtí do liosta Comhráite fós.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Cúnamh foghlama buan do thimpistí réimír: a luaithe is a roghnaíonn an roghnóir cinntitheach buaiteoir, cuirtear an (réimír, léim, eochair phoiblí) chun tosaigh ionas go mbrisfear an chéad chomhscór eile ag an réimír chéanna ar an mbealach céanna.\n\nTTL an Chaisé — an fhad a mhaireann iontráil gan í a athúsáid. Réamhshocrú 30 lá, teorannú 1..=180.\n\nImill an bhristeora comhionannais — cé chomh gar is gá do mhéadrachtaí an dá iarrthóra a bheith (i %) sula mbriseann an caoch an comhionannas. Múchann 0 an t-atrascáil caoch (ní cháilíonn ach comhionannais chruinne); is é 20 an uasteorainn. Réamhshocrú 5 %.",
+    "value": "Cúnamh foghlama buan do thimpistí réimír: a luaithe is a roghnaíonn an roghnóir cinntitheach buaiteoir, cuirtear an (réimír, léim, eochair phoiblí) chun tosaigh ionas go mbrisfear an chéad chomhscór eile ag an réimír chéanna ar an mbealach céanna.\n\nTTL an Chaisé: an fhad a mhaireann iontráil gan í a athúsáid. Réamhshocrú 30 lá, teorannú 1..=180.\n\nImill an bhristeora comhionannais: cé chomh gar is gá do mhéadrachtaí an dá iarrthóra a bheith (i %) sula mbriseann an caoch an comhionannas. Múchann 0 an t-atrascáil caoch (ní cháilíonn ach comhionannais chruinne); is é 20 an uasteorainn. Réamhshocrú 5 %.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Teastaíonn an crua-earraí comhpháirtí v1.15.0 nó níos nuaí le haghaidh léimeanna il-ghiotán. Tuairiscíonn do chomhpháirtí leagan níos sine — faoi ghlas ag 1 Ghiotán go dtí go ndéanann tú uasghrádú. Caomhnaítear do shainrogha roimhe seo agus athghníomhálfar é tar éis an uasghrádaithe.",
+    "value": "Teastaíonn an crua-earraí comhpháirtí v1.15.0 nó níos nuaí le haghaidh léimeanna il-ghiotán. Tuairiscíonn do chomhpháirtí leagan níos sine: faoi ghlas ag 1 Ghiotán go dtí go ndéanann tú uasghrádú. Caomhnaítear do shainrogha roimhe seo agus athghníomhálfar é tar éis an uasghrádaithe.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Bait per léim a chuirtear le cur síos an chosáin ar phacáistí nua amach a thionscnaimid. Laghdaíonn luachanna níos airde imbhuailtí ainmneacha ach d'fhéadfadh sé nach seolfar ar aghaidh iad ag firmware athdhéantóra níos sine. Coinníonn na cosáin fhoghlamtha chuig teagmhálaithe aitheanta an leithead a fuarthas iad leis — ní dhéanann an socrú seo difear ach do chosáin tuile agus do chosáin freagra neamhainmnithe. Moltar 3 bhaite do chosáin uathúla (oibríonn 2 chomh maith); is é 1 réamhshocrú an fhirmware.",
+    "value": "Bait per léim a chuirtear le cur síos an chosáin ar phacáistí nua amach a thionscnaimid. Laghdaíonn luachanna níos airde imbhuailtí ainmneacha ach d'fhéadfadh sé nach seolfar ar aghaidh iad ag firmware athdhéantóra níos sine. Coinníonn na cosáin fhoghlamtha chuig teagmhálaithe aitheanta an leithead a fuarthas iad leis. Ní dhéanann an socrú seo difear ach do chosáin tuile agus do chosáin freagra neamhainmnithe. Moltar 3 bhaite do chosáin uathúla (oibríonn 2 chomh maith); is é 1 réamhshocrú an fhirmware.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Tá an t-eolaire ar líne múchta — cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
+    "value": "Tá an t-eolaire ar líne múchta. Cuir foinse ar siúl i Socruithe → Comhroinnt → Eolaire.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Réigiún%1$s: tá sé ar do liosta cheana féin — nocht é",
+    "value": "Réigiún %1$s: tá sé ar do liosta cheana féin, nocht é",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Cuireann Android stop le líonrú aipeanna nuair a bhíonn an scáileán múchta. Díolmhúigh KiekR ó bharrfheabhsú na ceallraí — agus ó theorainneacha tosaigh uathoibríocha déantóir do ghutháin — ionas go mairfidh an nasc comhpháirtí sa chúlra.",
+    "value": "Cuireann Android stop le líonrú aipeanna nuair a bhíonn an scáileán múchta. Díolmhúigh KiekR ó bharrfheabhsú na ceallraí (agus ó theorainneacha tosaigh uathoibríocha déantóir do ghutháin) ionas go mairfidh an nasc comhpháirtí sa chúlra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "Is é Retries an líon iarrachtaí breise a dhéanann core-lib in aghaidh leathanaigh GET_NEIGHBOURS mura bhfreagraíonn an crua-earra bog laistigh den fhuinneog in aghaidh an iarrachta — áisiúil ar naisc BLE / raidió neamhiontaofa ina dtéann leathanach in éag. Scálann an fuinneog le méid an leathanaigh, mar sin má mhéadaítear é, tugtar an t-am riachtanach do na hiarrachtaí breise. Tá méid an leathanaigh féin socraithe ag uasteorainn búffair an fhirméar. Réamhshocrú%1$d.",
+    "value": "Is é Retries an líon iarrachtaí breise a dhéanann core-lib in aghaidh leathanaigh GET_NEIGHBOURS mura bhfreagraíonn an crua-earra bog laistigh den fhuinneog in aghaidh an iarrachta, áisiúil ar naisc BLE / raidió neamhiontaofa ina dtéann leathanach in éag. Scálann an fuinneog le méid an leathanaigh, mar sin má mhéadaítear é, tugtar an t-am riachtanach do na hiarrachtaí breise. Tá méid an leathanaigh féin socraithe ag uasteorainn búffair an fhirméar. Réamhshocrú %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Gan freagra — seans nach bhfuil an chonair insroichte.",
+    "value": "Gan freagra: seans nach bhfuil an chonair insroichte.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Caithfidh an chéad athchraoltóir tú a chloisteáil agus caithfidh tú freagra an chinn dheireanaigh a chloisteáil — roghnaigh conair a bhfuil a fhios agat go bhfuil sí insroichte.",
+    "value": "Caithfidh an chéad athchraoltóir tú a chloisteáil agus caithfidh tú freagra an chinn dheireanaigh a chloisteáil. Roghnaigh conair a bhfuil a fhios agat go bhfuil sí insroichte.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Níl aon nód ceangailte — tapáil chun péireáil",
+    "value": "Níl aon nód ceangailte: tapáil chun péireáil",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "Is féidir le KiekR teachtaire athdhéantaí anaithnid a aimsiú trína hash trí eolairí ar líne — rud atá áisiúil nuair a thagann léim cosáin aníos mar réimír heics sheachanta. Fanann sé múchta go dtí go gcuireann tú ar siúl é faoi Socruithe → Comhroinnt → Eolairí.",
+    "value": "Is féidir le KiekR teachtaire athdhéantaí anaithnid a aimsiú trína hash trí eolairí ar líne (rud atá áisiúil nuair a thagann léim cosáin aníos mar réimír heics sheachanta). Fanann sé múchta go dtí go gcuireann tú ar siúl é faoi Socruithe → Comhroinnt → Eolairí.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Logáil isteach leis an rialtán ag an mbarr ar dheis — aoi le haghaidh staitisticí, comharsana, teileiméadracht & crua-earraí; riarthóir le haghaidh cumraíochta, réigiúin & CLI.",
+    "value": "Logáil isteach leis an rialtán ag an mbarr ar dheis: aoi le haghaidh staitisticí, comharsana, teileiméadracht & crua-earraí; riarthóir le haghaidh cumraíochta, réigiúin & CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pacáistí nár fhéad an raidió a léamh go glan — méadaíonn siad le trasnaíocht nó le comhartha lag.",
+    "value": "Pacáistí nár fhéad an raidió a léamh go glan. Méadaíonn siad le trasnaíocht nó le comhartha lag.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Nuair a bhíonn sé ar siúl, roinneann KiekR na cealla mapa a bhfuil cumhdach mogalra acu le mapme.sh — léarscáil cumhdaigh pobail. Cuimsíonn gach sampla an chill mhapa, neart an chomhartha agus an cosán léime, ach ní riamh do shuíomh beacht ná d'fhéiniúlacht. Leanann uaslódálacha do shocruithe Wi-Fi amháin agus eatramh uaslódála.",
+    "value": "Nuair a bhíonn sé ar siúl, roinneann KiekR na cealla mapa a bhfuil cumhdach mogalra acu le mapme.sh, léarscáil cumhdaigh pobail. Cuimsíonn gach sampla an chill mhapa, neart an chomhartha agus an cosán léime, ach ní riamh do shuíomh beacht ná d'fhéiniúlacht. Leanann uaslódálacha do shocruithe Wi-Fi amháin agus eatramh uaslódála.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Gan socrú GPS — d'fhéadfadh sé nach gcuirfear léimneacha eolaire ar líne ar an léarscáil. Cuir rochtain ar an suíomh ar chumas chun réiteach iomlán an chosáin a fháil.",
+    "value": "Gan socrú GPS: d'fhéadfadh sé nach gcuirfear léimneacha eolaire ar líne ar an léarscáil. Cuir rochtain ar an suíomh ar chumas chun réiteach iomlán an chosáin a fháil.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Greamú eochair heicsa-charachtair 64 nó 128 charachtar chun féiniúlacht a bhfuil cúltaca aici a athchóiriú — sábháilte go háitiúil agus brúite chuig an gcomhpháirtí nasctha. Nochtann easpórtáil eochair an nóid seo ionas gur féidir leat cúltaca a dhéanamh di.",
+    "value": "Greamú eochair heicsa-charachtair 64 nó 128 charachtar chun féiniúlacht a bhfuil cúltaca aici a athchóiriú, sábháilte go háitiúil agus brúite chuig an gcomhpháirtí nasctha. Nochtann easpórtáil eochair an nóid seo ionas gur féidir leat cúltaca a dhéanamh di.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Foinse réamhshocraithe sheasta — tá an críochphointe agus socruithe eile seasta; is féidir leat é a athainmniú anseo.",
+    "value": "Foinse réamhshocraithe sheasta: tá an críochphointe agus socruithe eile seasta; is féidir leat é a athainmniú anseo.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "D'fhreagair an freastalaí — tá an URL bailí",
+    "value": "D'fhreagair an freastalaí: tá an URL bailí",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Seo eochair d'fhéiniúlachta rúnda nóid — is féidir le haon duine a bhfuil sí aige aithris a dhéanamh ar do nóid. Stóráil in áit shábháilte í agus ná roinn riamh í.",
+    "value": "Seo eochair d'fhéiniúlachta rúnda nóid: is féidir le haon duine a bhfuil sí aige aithris a dhéanamh ar do nóid. Stóráil in áit shábháilte í agus ná roinn riamh í.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Nuair a bhíonn seo air, féadfaidh KiekR cuardaí eolaire a dhéanamh go huathoibríoch ar chomhthéacs atá ar iarraidh a thugann an aip faoi deara go passivach — hops anaithnide i gcosán, athsheachadáin a chualathas nach bhfuil san eolaire fós, línte comharsan ar iarraidh, agus réigiúin ar iarraidh le linn aimsithe. Nuair a bhíonn seo múchta (réamhshocrú), tá tapa de dhíth do gach cuardach eolaire.",
+    "value": "Nuair a bhíonn seo air, féadfaidh KiekR cuardaí eolaire a dhéanamh go huathoibríoch ar chomhthéacs atá ar iarraidh a thugann an aip faoi deara go passivach: hops anaithnide i gcosán, athsheachadáin a chualathas nach bhfuil san eolaire fós, línte comharsan ar iarraidh, agus réigiúin ar iarraidh le linn aimsithe. Nuair a bhíonn seo múchta (réamhshocrú), tá tapa de dhíth do gach cuardach eolaire.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Ní théann cuardaí ach chuig eolaire KiekR — riamh chuig óstach tríú páirtí. Fanann léamha taisce saor in aisce; rialaíonn an scoránach seo an leath líonra.",
+    "value": "Ní théann cuardaí ach chuig eolaire KiekR, riamh chuig óstach tríú páirtí. Fanann léamha taisce saor in aisce; rialaíonn an scoránach seo an leath líonra.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "NÍ é seo do PIN péireála BLE, agus NÍ é do phasfhrása aitheantais. Ní chosnaíonn sé ach an comhad cúltaca seo. Roghnaigh rud a bheidh éasca le cuimhneamh air — ní féidir le KiekR é a aisghabháil duit.",
+    "value": "NÍ é seo do PIN péireála BLE, agus NÍ é do phasfhrása aitheantais. Ní chosnaíonn sé ach an comhad cúltaca seo. Roghnaigh rud a bheidh éasca le cuimhneamh air. Ní féidir le KiekR é a aisghabháil duit.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Cuir in iúl nuair a thiteann an gléas nasctha faoi bhun an chéatadáin rabhaidh. Léiríonn an bhearna athairmeála an méid céatadáin a chaithfidh dul os cionn na tairsí sula bhféadfaidh an chéad rabhadh eile lasadh — leathnaigh í má bhíonn plátá i gcuar do cheallra (LiFePO4, AA).",
+    "value": "Cuir in iúl nuair a thiteann an gléas nasctha faoi bhun an chéatadáin rabhaidh. Léiríonn an bhearna athairmeála an méid céatadáin a chaithfidh dul os cionn na tairsí sula bhféadfaidh an chéad rabhadh eile lasadh. Leathnaigh í má bhíonn plátá i gcuar do cheallra (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Swipeáil chun an bac a bhaint. Tagann a chuid teachtaireachtaí roimhe seo ar ais i ngach cainéal a luaithe a bhaintear an bac. Meaitseálann an bacadh leis an ainm cruinn a thaispeántar — is féidir le duine ar bith an ainm sin a roghnú, mar sin ní chuirfidh seo cosc ar phostálaí diongbháilte é féin a athainmniú.",
+    "value": "Swipeáil chun an bac a bhaint. Tagann a chuid teachtaireachtaí roimhe seo ar ais i ngach cainéal a luaithe a bhaintear an bac. Meaitseálann an bacadh leis an ainm cruinn a thaispeántar. Is féidir le duine ar bith an ainm sin a roghnú, mar sin ní chuirfidh seo cosc ar phostálaí diongbháilte é féin a athainmniú.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Ceangailte le nód caighdeánach — ní féidir ach le cainéil atá suiteáilte ar an ghléas tarchur a dhéanamh. Swipeáil ar dheis chun cainéal a chur leis an ghléas nó a bhaint de. Swipeáil ar chlé chun cainéal a bhaint — coinníonn cainéil #-cainéal a n-eochair, sa chaoi is gur féidir leat iad a chur leis arís de réir ainm; scriosann cainéil le eochair shaincheaptha go buan.",
+    "value": "Ceangailte le nód caighdeánach: ní féidir ach le cainéil atá suiteáilte ar an ghléas tarchur a dhéanamh. Swipeáil ar dheis chun cainéal a chur leis an ghléas nó a bhaint de. Swipeáil ar chlé chun cainéal a bhaint: coinníonn cainéil #-cainéal a n-eochair, sa chaoi is gur féidir leat iad a chur leis arís de réir ainm; scriosann cainéil le eochair shaincheaptha go buan.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Ní mór réigiún a shannadh do chainéil sula ndéanfar iad a athsheachadadh ar an mórchuid líonraí. Tapáil ar chainéal chun é a shannadh. Swipeáil ar chlé chun é a bhaint — coinníonn cainéil #-cainéal a n-eochair, sa chaoi is gur féidir leat iad a chur leis arís de réir ainm; scriosann cainéil le eochair shaincheaptha go buan.",
+    "value": "Ní mór réigiún a shannadh do chainéil sula ndéanfar iad a athsheachadadh ar an mórchuid líonraí. Tapáil ar chainéal chun é a shannadh. Swipeáil ar chlé chun é a bhaint: coinníonn cainéil #-cainéal a n-eochair, sa chaoi is gur féidir leat iad a chur leis arís de réir ainm; scriosann cainéil le eochair shaincheaptha go buan.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Rochtain aíonna — inléite amháin",
+    "value": "Rochtain aíonna (inléite amháin)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Tá an eolaire ar líne múchta — cumasaigh foinse in Socruithe → Comhroinnt → Eolaire.",
+    "value": "Tá an eolaire ar líne múchta. Cumasaigh foinse in Socruithe → Comhroinnt → Eolaire.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Meaitseálann roinnt athsheachadán le réimír chosán ghairid an hop seo. Ní féidir linn an ceann ceart a roghnú go huathoibríoch — roghnaigh an ceann a bhí ar do chosán.",
+    "value": "Meaitseálann roinnt athsheachadán le réimír chosán ghairid an hop seo. Ní féidir linn an ceann ceart a roghnú go huathoibríoch. Roghnaigh an ceann a bhí ar do chosán.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Níl aon heicseagáin mapáilte fós — tiomáin thart leis an raidió ar siúl agus feicfidh tú anseo iad.",
+    "value": "Níl aon heicseagáin mapáilte fós. Tiomáin thart leis an raidió ar siúl agus feicfidh tú anseo iad.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Sos — ar líonra soghluaiste",
+    "value": "Sos: ar líonra soghluaiste",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Ábhar — paicéid",
+    "value": "Ábhar (paicéid)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Ábhar — stádas",
+    "value": "Ábhar (stádas)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Ábhar — dífhabhtú",
+    "value": "Ábhar (dífhabhtú)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Ábhar — amh",
+    "value": "Ábhar (amh)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Sábhálann sé an aitheantas go logánta. Má tá an eochair bunaithe ar shíol agus companion nasctha, seoltar an síol freisin chuig an ghléas trí CMD_IMPORT_PRIVATE_KEY — forscríobhann seo aitheantas reatha an ghléis.",
+    "value": "Sábhálann sé an aitheantas go logánta. Má tá an eochair bunaithe ar shíol agus companion nasctha, seoltar an síol freisin chuig an ghléas trí CMD_IMPORT_PRIVATE_KEY. Forscríobhann seo aitheantas reatha an ghléis.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Sceabhadh cloig an bhunúdair — ag baint úsáide as an am glactha logánta",
+    "value": "Sceabhadh cloig an bhunúdair: ag baint úsáide as an am glactha logánta",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Tá an focal faire teoranta do 15 carachtar — gearrtar aon rud níos faide nuair a logálann tú isteach.",
+    "value": "Tá an focal faire teoranta do 15 carachtar. Gearrtar aon rud níos faide nuair a logálann tú isteach.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Cuir in iúl faoi gach DM isteach. Tá DManna fíordheimhnithe go cripteagrafach — nuair a mhúchtar seo ní chuirtear ach an fógra faoi chois; sroicheann an teachtaireacht do liosta Comhráite fós.",
+    "value": "Cuir in iúl faoi gach DM isteach. Tá DManna fíordheimhnithe go cripteagrafach. Nuair a mhúchtar seo ní chuirtear ach an fógra faoi chois; sroicheann an teachtaireacht do liosta Comhráite fós.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Tá firmware companion v1.15.0 nó níos nuaí de dhíth do hops il-bheart. Tuairiscíonn do companion leagan níos sine — glasáilte ag 1 Bheart go dtí go ndéanann tú uasghrádú. Caomhnaítear do rogha roimhe seo agus athghníomhóidh sí tar éis an uasghrádaithe.",
+    "value": "Tá firmware companion v1.15.0 nó níos nuaí de dhíth do hops il-bheart. Tuairiscíonn do companion leagan níos sine: glasáilte ag 1 Bheart go dtí go ndéanann tú uasghrádú. Caomhnaítear do rogha roimhe seo agus athghníomhóidh sí tar éis an uasghrádaithe.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Swipeáil réigiún chun é a bhaint. Fanann sé sa bhunachar sonraí (agus leanann sé de bheith ag nótáil trácht isteach) ach imíonn sé ón liosta seo agus ó roghnóirí cainéal — cuir leis arís de réir ainm chun é a thabhairt ar ais.",
+    "value": "Swipeáil réigiún chun é a bhaint. Fanann sé sa bhunachar sonraí (agus leanann sé de bheith ag nótáil trácht isteach) ach imíonn sé ón liosta seo agus ó roghnóirí cainéal. Cuir leis arís de réir ainm chun é a thabhairt ar ais.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Níl ceangailte le gléas companion — ceangail nód ar dtús.",
+    "value": "Níl ceangailte le gléas companion. Ceangail nód ar dtús.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Athchóirigh ó chomhad `.json` nó `.mcbackup`. Bíonn Ionadú mar réamhshocrú ag iompórtálacha — glantar do chainéil, teagmhálaithe, agus réigiúin atá ann, agus cuirtear an beart isteach ansin. Coinnigh do mhéar ar Deimhnigh ar feadh 5 soicind.",
+    "value": "Athchóirigh ó chomhad `.json` nó `.mcbackup`. Bíonn Ionadú mar réamhshocrú ag iompórtálacha: glantar do chainéil, teagmhálaithe, agus réigiúin atá ann, agus cuirtear an beart isteach ansin. Coinnigh do mhéar ar Deimhnigh ar feadh 5 soicind.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Níor chuala aon bhreathnóir í fós — ní chiallaíonn sé sin go dteip ar an seoladh.",
+    "value": "Níor chuala aon bhreathnóir í fós. Ní chiallaíonn sé sin go dteip ar an seoladh.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Cuala i réigiún breathnóra amháin go dtí seo — is dócha nach bhfuil sé ach in aice láimhe.",
+    "value": "Cuala i réigiún breathnóra amháin go dtí seo, is dócha nach bhfuil sé ach in aice láimhe.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Cuala i %1$d réigiún — d'iompair an mogalra an teachtaireacht seo.",
+    "value": "Cuala i %1$d réigiún: d'iompair an mogalra an teachtaireacht seo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Theip ar an seiceáil — bain triail eile as níos déanaí.",
+    "value": "Theip ar an seiceáil. Bain triail eile as níos déanaí.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Chuala %1$d breathnóir í — d'iompair an mogalra an teachtaireacht seo.",
+    "value": "Chuala %1$d breathnóir í: d'iompair an mogalra an teachtaireacht seo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Tá an nód seo ag cur gach cineál fógra leis go huathoibríoch faoi láthair (“Auto add all”) — níl aon éifeacht ag na scagairí thíos. Seans gur athraigh aip eile é seo.",
+    "value": "Tá an nód seo ag cur gach cineál fógra leis go huathoibríoch faoi láthair (“Auto add all”). Níl aon éifeacht ag na scagairí thíos. Seans gur athraigh aip eile é seo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Níor seoladh — níl sé suiteáilte ar do nód",
+    "value": "Níor seoladh: níl sé suiteáilte ar do nód",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Mapálann sé heicseagáin freisin nach bhfuarthas aon trácht orthu — úsáideann sé GPS agus níos mó ceallra.",
+    "value": "Mapálann sé heicseagáin freisin nach bhfuarthas aon trácht orthu. Úsáideann sé GPS agus níos mó ceallra.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Tá liosta teagmhálaithe an nóid seo lán — ní féidir leis teagmhálaithe nua a chluineann sé a ghlacadh. Scrios cuid acu chun spás a dhéanamh.",
+    "value": "Tá liosta teagmhálaithe an nóid seo lán: ní féidir leis teagmhálaithe nua a chluineann sé a ghlacadh. Scrios cuid acu chun spás a dhéanamh.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Sos — níl rochtain suímh ach \"While Using the App\"",
+    "value": "Sos: níl rochtain suímh ach \"While Using the App\"",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Sos — stopadh an seisiún suímh",
+    "value": "Sos: stopadh an seisiún suímh",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Gan \"Always\", ní bhaileoidh Coverage ach fad a bhíonn KiekR oscailte — cuireann iOS an seisiún suímh ar sos a luaithe a chuirtear an aip sa chúlra. Le \"Always\", leanann KiekR de bheith ag bailiú i do phóca ag baint úsáide ach as an suíomh atá ar eolas ag do fhón cheana féin, gan GPS breise.",
+    "value": "Gan \"Always\", ní bhaileoidh Coverage ach fad a bhíonn KiekR oscailte. Cuireann iOS an seisiún suímh ar sos a luaithe a chuirtear an aip sa chúlra. Le \"Always\", leanann KiekR de bheith ag bailiú i do phóca ag baint úsáide ach as an suíomh atá ar eolas ag do fhón cheana féin, gan GPS breise.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Baintear %@ de do liosta comhrá agus socruithe cainéil. Is féidir leat é a chur leis arís níos déanaí trí an ainm a chlóscríobh in Socruithe → Cainéil → Cuir cainéal leis de réir ainm — díorthaítear an eochair SHA-256 ar an dóigh chéanna.",
+    "value": "Baintear %@ de do liosta comhrá agus socruithe cainéil. Is féidir leat é a chur leis arís níos déanaí trí an ainm a chlóscríobh in Socruithe → Cainéil → Cuir cainéal leis de réir ainm. Díorthaítear an eochair SHA-256 ar an dóigh chéanna.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "%@ a scriosadh? Tá seo buan — ní féidir an eochair a dhíorthú arís ón ainm.",
+    "value": "%@ a scriosadh? Tá seo buan: ní féidir an eochair a dhíorthú arís ón ainm.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Áis foghlama bhuan do imbhuailtí réimíre: nuair a roghnaíonn an roghnóir cinntitheach buaiteoir, ardaítear an (réimír, hop, eochair phoiblí) sa chaoi is go réitíonn an chéad chomhscór eile ag an réimír chéanna ar an dóigh chéanna.\n\nTTL an taisce — cé chomh fada is a mhaireann iontráil gan a bheith athúsáidte. Réamhshocrú 30 lá, teorainn 1..=180.\n\nCorrlach réitigh comhscóir — cé chomh gar is a chaithfidh méadrachtaí dhá iarrthóir a bheith dá chéile (mar %) sula réitíonn an taisce an comhscór. Díchumasaíonn 0 an taisce mar chúltaca (níl ach comhscór beacht incháilithe); 20 an uasteorainn. Réamhshocrú 5 %.",
+    "value": "Áis foghlama bhuan do imbhuailtí réimíre: nuair a roghnaíonn an roghnóir cinntitheach buaiteoir, ardaítear an (réimír, hop, eochair phoiblí) sa chaoi is go réitíonn an chéad chomhscór eile ag an réimír chéanna ar an dóigh chéanna.\n\nTTL an taisce: cé chomh fada is a mhaireann iontráil gan a bheith athúsáidte. Réamhshocrú 30 lá, teorainn 1..=180.\n\nCorrlach réitigh comhscóir: cé chomh gar is a chaithfidh méadrachtaí dhá iarrthóir a bheith dá chéile (mar %) sula réitíonn an taisce an comhscór. Díchumasaíonn 0 an taisce mar chúltaca (níl ach comhscór beacht incháilithe); 20 an uasteorainn. Réamhshocrú 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Tá Bluetooth múchta — tapáil chun é a chur ar siúl",
+    "value": "Tá Bluetooth múchta: tapáil chun é a chur ar siúl",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Ar sos — níl suíomh líonra ar an bhfón seo. Ní thagann suíomhanna GPS isteach ach amháin nuair a úsáideann aip eile GPS nó le linn luchtaithe.",
+    "value": "Ar sos: níl suíomh líonra ar an bhfón seo. Ní thagann suíomhanna GPS isteach ach amháin nuair a úsáideann aip eile GPS nó le linn luchtaithe.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Níl suíomh líonra ar an bhfón seo. Nuair atá sé ar siúl, cuireann KiekR an GPS ar siúl é féin fad a ghlactar trácht mogaill — ar an gceallraí freisin, agus stopann sé nuair a fhanann tú i do sheasamh. Úsáideann sé níos mó ceallraí.",
+    "value": "Níl suíomh líonra ar an bhfón seo. Nuair atá sé ar siúl, cuireann KiekR an GPS ar siúl é féin fad a ghlactar trácht mogaill (ar an gceallraí freisin, agus stopann sé nuair a fhanann tú i do sheasamh). Úsáideann sé níos mó ceallraí.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Carachtair heics 0–9, a–f amháin. Baintear spásanna agus idirstadanna nuair a ghreamaítear. Teastaíonn an eochair iomlán ón athdhéantóir chun í a chur leis.",
+    "value": "Carachtair heics 0-9, a-f amháin. Baintear spásanna agus idirstadanna nuair a ghreamaítear. Teastaíonn an eochair iomlán ón athdhéantóir chun í a chur leis.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d iontrálacha – d'fhéadfadh an liosta a bheith neamhiomlán",
+    "value": "%1$d iontrálacha (d'fhéadfadh an liosta a bheith neamhiomlán)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Carachtair heics 0–9, a–f amháin. Baintear spásanna agus idirstadanna nuair a ghreamaítear. Teastaíonn an eochair iomlán ón bhfreastalaí seomra chun í a chur leis.",
+    "value": "Carachtair heics 0-9, a-f amháin. Baintear spásanna agus idirstadanna nuair a ghreamaítear. Teastaíonn an eochair iomlán ón bhfreastalaí seomra chun í a chur leis.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "Ciallaíonn \"Gach duine\" gach teagmháil atá stóráilte ar an nód seo — agus an cur leis go huathoibríoch ar siúl, beagnach aon duine atá laistigh de raon.",
+    "value": "Ciallaíonn \"Gach duine\" gach teagmháil atá stóráilte ar an nód seo: agus an cur leis go huathoibríoch ar siúl, beagnach aon duine atá laistigh de raon.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Tá an roinnt as ar do nód — cuir ar siúl é faoi Mo nód → Roinnt teileimpeireachta.",
+    "value": "Tá an roinnt as ar do nód. Cuir ar siúl é faoi Mo nód → Roinnt teileimpeireachta.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Níorbh fhéidir na ceadanna a nuashonrú — caithfidh an teagmhálaí a bheith ar do nód.",
+    "value": "Níorbh fhéidir na ceadanna a nuashonrú: caithfidh an teagmhálaí a bheith ar do nód.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Tá iarratas eile ar siúl cheana ar an nód seo — bain triail as arís i gceann nóiméid.",
+    "value": "Tá iarratas eile ar siúl cheana ar an nód seo. Bain triail as arís i gceann nóiméid.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Suíomh gan athrú — b'fhéidir nach bhfuil réiteach GPS reatha ag an ngléas.",
+    "value": "Suíomh gan athrú: b'fhéidir nach bhfuil réiteach GPS reatha ag an ngléas.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Níl aon suíomh sa fhreagra — gan GPS, GPS as, nó suíomh nach bhfuil roinnte leat.",
+    "value": "Níl aon suíomh sa fhreagra: gan GPS, GPS as, nó suíomh nach bhfuil roinnte leat.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Gan freagra — lasmuigh de raon, nó níor thug an teagmhálaí seo cead duit é a iarraidh.",
+    "value": "Gan freagra: lasmuigh de raon, nó níor thug an teagmhálaí seo cead duit é a iarraidh.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Suas le 16 iarratas thar 15 nóim, tríd an gconair aitheanta nó díreach laistigh de raon amháin — gan tuile eangaí.",
+    "value": "Suas le 16 iarratas thar 15 nóim, tríd an gconair aitheanta nó díreach laistigh de raon amháin (gan tuile eangaí).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Tá deireadh leis an aimsiú beo — tá na 15 nóim caite.",
+    "value": "Tá deireadh leis an aimsiú beo: tá na 15 nóim caite.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Gan freagra — lasmuigh de raon díreach? Bain úsáid as \"Cuardaigh an eangach\" chun triail a bhaint as trí athsheachadáin.",
+    "value": "Gan freagra. Lasmuigh de raon díreach? Bain úsáid as \"Cuardaigh an eangach\" chun triail a bhaint as trí athsheachadáin.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Cailleadh an nasc leis an nód — cuireadh stad leis an aimsiú beo.",
+    "value": "Cailleadh an nasc leis an nód. Cuireadh stad leis an aimsiú beo.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Tá rochtain ar shuíomh múchta — tá sé ag teastáil chun do shuíomh agus an fad a thaispeáint.",
+    "value": "Tá rochtain ar shuíomh múchta. Tá sé ag teastáil chun do shuíomh agus an fad a thaispeáint.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

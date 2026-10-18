@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Del loggen først — rydning sletter netop de data, vi skal bruge til diagnosen.",
+    "value": "Del loggen først: rydning sletter netop de data, vi skal bruge til diagnosen.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Ingen node forbundet — forbind en companion for at sende.",
+    "value": "Ingen node forbundet. Forbind en companion for at sende.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Afbrudt — opret forbindelse igen for at sende",
+    "value": "Afbrudt: opret forbindelse igen for at sende",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Beskeder i kanalen er ikke underskrevet — afsenderen kan være hvem som helst i kanalen.",
+    "value": "Beskeder i kanalen er ikke underskrevet: afsenderen kan være hvem som helst i kanalen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Online-adressebogen er slået fra — aktiver en kilde under Indstillinger → Deling → Adressebog.",
+    "value": "Online-adressebogen er slået fra. Aktiver en kilde under Indstillinger → Deling → Adressebog.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Flere repeatere matcher dette hops præfiks for den korte rute. Vi kan ikke automatisk vælge den rigtige — vælg den, der lå på din rute.",
+    "value": "Flere repeatere matcher dette hops præfiks for den korte rute. Vi kan ikke automatisk vælge den rigtige. Vælg den, der lå på din rute.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "intet fundet — mappen indeholdt ingen post med dette præfiks",
+    "value": "intet fundet: mappen indeholdt ingen post med dette præfiks",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "intet match — de nærmeste online-resultater ligger uden for fornuftsradiusen",
+    "value": "intet match: de nærmeste online-resultater ligger uden for fornuftsradiusen",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Hvert hop er de første %1$d byte(r) af en repeaters offentlige nøgle. Korte nøgler kan matche flere repeatere — tryk på globussen for at slå manglende hop op i online-registeret.",
+    "value": "Hvert hop er de første %1$d byte(r) af en repeaters offentlige nøgle. Korte nøgler kan matche flere repeatere. Tryk på globussen for at slå manglende hop op i online-registeret.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "ukendt — fra enhed",
+    "value": "ukendt (fra enhed)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Antallet er en nedre grænse — ved travl trafik kan kopier gå tabt, før de når appen.",
+    "value": "Antallet er en nedre grænse: ved travl trafik kan kopier gå tabt, før de når appen.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(ingen — fra enheden)",
+    "value": "(ingen, fra enheden)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Opdagede kanaler — tryk for at se dem",
+    "value": "Opdagede kanaler (tryk for at se dem)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Tryk på nøglen for at kopiere. Kanaler matches efter nøgle, ikke efter navn — det sker ofte, at der opstår sammenfald.",
+    "value": "Tryk på nøglen for at kopiere. Kanaler matches efter nøgle, ikke efter navn: det sker ofte, at der opstår sammenfald.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d hop",
+    "value": "%1$d-%2$d hop",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Din node har allerede udsendt denne besked. Der kom ingen bekræftelse tilbage, men modtagere inden for rækkevidde kan alligevel have fået den — sender du igen, ser de den to gange.",
+    "value": "Din node har allerede udsendt denne besked. Der kom ingen bekræftelse tilbage, men modtagere inden for rækkevidde kan alligevel have fået den. Sender du igen, ser de den to gange.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Gæsteadgang — skrivebeskyttet",
+    "value": "Gæsteadgang (skrivebeskyttet)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Hvert frame din node hører, dukker op her — intet filtreres fra.",
+    "value": "Hvert frame din node hører, dukker op her. Intet filtreres fra.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Ufiltreret — dekodede, fremmed-krypterede, ukendte og beskadigede frames vises alle.",
+    "value": "Ufiltreret: dekodede, fremmed-krypterede, ukendte og beskadigede frames vises alle.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "krypteret — ikke til denne enhed",
+    "value": "krypteret, ikke til denne enhed",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "viser hvert modtaget frame — også det, der ikke kan læses",
+    "value": "viser hvert modtaget frame, også det, der ikke kan læses",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d gemt i cachen · delvis — tryk for at opdatere",
+    "value": "%1$d gemt i cachen · delvis, tryk for at opdatere",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Der er ingen naboer i cachen — tryk på »Opdater«.",
+    "value": "Der er ingen naboer i cachen. Tryk på »Opdater«.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Ingen af denne beskedens videresendere — og heller ikke afsenderen — har gemte GPS-koordinater. Luk denne visning, tryk på globusikonet i afsnittet om beskedens rute, og kom derefter tilbage.",
+    "value": "Ingen af denne beskedens videresendere (og heller ikke afsenderen) har gemte GPS-koordinater. Luk denne visning, tryk på globusikonet i afsnittet om beskedens rute, og kom derefter tilbage.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f til %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Andre noder skal have vores annonce i deres kontakttabel, før de kan dekryptere vores DM’er. Tryk for at vælge rækkevidde — »zero-hop« er diskret (kun naboer); »flood« er vidtgående (hele nettet).",
+    "value": "Andre noder skal have vores annonce i deres kontakttabel, før de kan dekryptere vores DM’er. Tryk for at vælge rækkevidde: »zero-hop« er diskret (kun naboer); »flood« er vidtgående (hele nettet).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Denne enhed har et RTC med batteribackup. Det kan ikke nulstilles via software — man skal enten opdatere firmwaren eller fjerne RTC-backupbatteriet for at gendanne det.",
+    "value": "Denne enhed har et RTC med batteribackup. Det kan ikke nulstilles via software. Man skal enten opdatere firmwaren eller fjerne RTC-backupbatteriet for at gendanne det.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Med »Reboot« genstartes den parrede node. Med »Factory reset« slettes enhedens kontakter, kanaler og indstillinger — appens lokale data berøres ikke.",
+    "value": "Med »Reboot« genstartes den parrede node. Med »Factory reset« slettes enhedens kontakter, kanaler og indstillinger. Appens lokale data berøres ikke.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Med »Afbryd« afbrydes forbindelsen, men den cachelagrede forbindelse bevares — tryk på »Tilslut« for at genoprette forbindelsen uden at skulle parre enheden igen. Med »Glem« afbrydes parringen, og cachen ryddes; enheden skal parres igen for at kunne genoprette forbindelsen.",
+    "value": "Med »Afbryd« afbrydes forbindelsen, men den cachelagrede forbindelse bevares. Tryk på »Tilslut« for at genoprette forbindelsen uden at skulle parre enheden igen. Med »Glem« afbrydes parringen, og cachen ryddes; enheden skal parres igen for at kunne genoprette forbindelsen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Sletter kontakter, kanaler, regioner, indstillinger og identitet på enheden. Dette kan ikke fortrydes — der er ingen mulighed for at fortryde. Eksporter alt, hvad du vil beholde, inden du fortsætter.",
+    "value": "Sletter kontakter, kanaler, regioner, indstillinger og identitet på enheden. Dette kan ikke fortrydes: der er ingen mulighed for at fortryde. Eksporter alt, hvad du vil beholde, inden du fortsætter.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Hele netværket. Høj lydstyrke — hver repeater sender signalet videre. Brug det med måde; oversvømmende reklamer betaler for sendetid pr. repeater.",
+    "value": "Hele netværket. Høj lydstyrke: hver repeater sender signalet videre. Brug det med måde; oversvømmende reklamer betaler for sendetid pr. repeater.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Avanceret indstilling: indtastning af rå frekvens, båndbredde, sidefrekvens og kanalkode. Firmware-intervaller: 400–2500 MHz, 7,8–500 kHz, sidefrekvens 5–12, kanalkode 4/5–4/8.",
+    "value": "Avanceret indstilling: indtastning af rå frekvens, båndbredde, sidefrekvens og kanalkode. Firmware-intervaller: 400-2500 MHz, 7,8-500 kHz, sidefrekvens 5-12, kanalkode 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Det, som den parrede node rapporterer lige nu. Nedenstående forudindstillinger stammer fra MeshCore-fællesskabets katalog — vælg den, som dit lokale mesh kører.",
+    "value": "Det, som den parrede node rapporterer lige nu. Nedenstående forudindstillinger stammer fra MeshCore-fællesskabets katalog. Vælg den, som dit lokale mesh kører.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Baseret på din enheds sprogindstilling. Bekræft for at anvende ændringen — der sker ikke noget, før du gør det.",
+    "value": "Baseret på din enheds sprogindstilling. Bekræft for at anvende ændringen. Der sker ikke noget, før du gør det.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Opret forbindelse til den node, der tidligere er blevet parret. Der vises ingen PIN-prompt — forbindelsen er stadig gemt i cachen.",
+    "value": "Opret forbindelse til den node, der tidligere er blevet parret. Der vises ingen PIN-prompt: forbindelsen er stadig gemt i cachen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Kun naboer. Stille — ingen oversvømmelse. Brug kun, når nærliggende noder skal modtage din annonce.",
+    "value": "Kun naboer. Stille: ingen oversvømmelse. Brug kun, når nærliggende noder skal modtage din annonce.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "»Secret« er kanalens fælles 16-byte AES-nøgle, angivet som 32 hex-tegn. For kanaler i hashtag-format udledes »secret« automatisk af navnet — lad hashtagget stå, hvis du foretrækker denne fremgangsmåde.",
+    "value": "»Secret« er kanalens fælles 16-byte AES-nøgle, angivet som 32 hex-tegn. For kanaler i hashtag-format udledes »secret« automatisk af navnet. Lad hashtagget stå, hvis du foretrækker denne fremgangsmåde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Uret er stillet frem. Standardfirmwaren tillader ikke synkronisering bagud. Løsning: Kør `clkreboot` fra kommandolinjen nedenfor — det nulstiller RTC til 15. maj 2024 og genstarter enheden — tryk derefter på »synkroniser« for at indstille det aktuelle klokkeslæt.",
+    "value": "Uret er stillet frem. Standardfirmwaren tillader ikke synkronisering bagud. Løsning: Kør `clkreboot` fra kommandolinjen nedenfor (det nulstiller RTC til 15. maj 2024 og genstarter enheden), tryk derefter på »synkroniser« for at indstille det aktuelle klokkeslæt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Enheden synkroniserer stadig — prøv igen om et øjeblik.",
+    "value": "Enheden synkroniserer stadig. Prøv igen om et øjeblik.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Online-adressebogen er slået fra — aktiver en kilde under Indstillinger → Deling → Adressebog.",
+    "value": "Online-adressebogen er slået fra. Aktiver en kilde under Indstillinger → Deling → Adressebog.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "En repeater-adgangskode må højst bestå af 15 tegn — alt, hvad der er længere, bliver afkortet, når du logger ind.",
+    "value": "En repeater-adgangskode må højst bestå af 15 tegn. Alt, hvad der er længere, bliver afkortet, når du logger ind.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d gemt i cachen · delvis — tryk for at opdatere",
+    "value": "%1$d gemt i cachen · delvis, tryk for at opdatere",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Hastighedsbegrænset — %1$d s",
+    "value": "Hastighedsbegrænset: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Kan ikke slettes — regionen har underregioner.",
+    "value": "Kan ikke slettes: regionen har underregioner.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Hvert hop er 3 byte. Der er i alt %1$d — enten udfyldt eller beskåret.",
+    "value": "Hvert hop er 3 byte. Der er i alt %1$d. Enten udfyldt eller beskåret.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(der er endnu ikke oprettet en rute — direkte forsendelser vil foregå uden mellemstationer)",
+    "value": "(der er endnu ikke oprettet en rute: direkte forsendelser vil foregå uden mellemstationer)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Baseret på din nuværende position — der blev ikke gemt nogen position for denne besked.",
+    "value": "Baseret på din nuværende position: der blev ikke gemt nogen position for denne besked.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Ingen ACL-poster — tryk på »Opdater« for at indlæse.",
+    "value": "Ingen ACL-poster. Tryk på »Opdater« for at indlæse.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Ugyldig hexadecimal offentlig nøgle — skal bestå af nøjagtigt 64 hexadecimale tegn",
+    "value": "Ugyldig hexadecimal offentlig nøgle: skal bestå af nøjagtigt 64 hexadecimale tegn",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 hex-tegn — nodens fulde offentlige nøgle.",
+    "value": "64 hex-tegn (nodens fulde offentlige nøgle).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Administrationsværktøjerne indlæses her — CLI og ACL-editoren kommer med den næste opdatering.",
+    "value": "Administrationsværktøjerne indlæses her. CLI og ACL-editoren kommer med den næste opdatering.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Der er en anden anmodning under behandling — prøv venligst igen.",
+    "value": "Der er en anden anmodning under behandling. Prøv venligst igen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Login mislykkedes — forkert adgangskode eller rummet kan ikke nås.",
+    "value": "Login mislykkedes: forkert adgangskode eller rummet kan ikke nås.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Adgangskoden må højst bestå af 15 tegn — alt, hvad der er længere, bliver afkortet, når du logger ind.",
+    "value": "Adgangskoden må højst bestå af 15 tegn. Alt, hvad der er længere, bliver afkortet, når du logger ind.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Når den tilsluttede enhed modtager en annonce af en aktiveret type, gemmer den noden i sin kontakttabel — denne opbevares selv efter genstart og sendes til appen ved næste dataoverførsel.",
+    "value": "Når den tilsluttede enhed modtager en annonce af en aktiveret type, gemmer den noden i sin kontakttabel. Denne opbevares selv efter genstart og sendes til appen ved næste dataoverførsel.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Når funktionen er aktiveret, kan KiekR automatisk foretage katalogopslag for manglende kontekst, som appen passivt registrerer — ukendte hop i en rute, opfangede repeatere, der endnu ikke er i kataloget, manglende naborækker og manglende regioner ved en opdagelse. Når funktionen er deaktiveret (standard), kræver hvert katalogopslag et tryk.",
+    "value": "Når funktionen er aktiveret, kan KiekR automatisk foretage katalogopslag for manglende kontekst, som appen passivt registrerer: ukendte hop i en rute, opfangede repeatere, der endnu ikke er i kataloget, manglende naborækker og manglende regioner ved en opdagelse. Når funktionen er deaktiveret (standard), kræver hvert katalogopslag et tryk.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Opslag foretages udelukkende i KiekR-mappen — aldrig på en tredjepartshost. Cache-læsninger forbliver gratis; denne indstilling styrer netværksdelen.",
+    "value": "Opslag foretages udelukkende i KiekR-mappen, aldrig på en tredjepartshost. Cache-læsninger forbliver gratis; denne indstilling styrer netværksdelen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importen er afsluttet — %1$d identiteter, %2$d kanaler, %3$d regioner, %4$d kontakter, %5$d repeater-loginoplysninger.",
+    "value": "Importen er afsluttet: %1$d identiteter, %2$d kanaler, %3$d regioner, %4$d kontakter, %5$d repeater-loginoplysninger.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importen er afsluttet — %1$d identiteter, %2$d kanaler, %3$d regioner, %4$d kontakter, %5$d repeater-loginoplysninger, %6$d favoritter, %7$d blokerede afsendere, %8$d indstillinger.",
+    "value": "Importen er afsluttet: %1$d identiteter, %2$d kanaler, %3$d regioner, %4$d kontakter, %5$d repeater-loginoplysninger, %6$d favoritter, %7$d blokerede afsendere, %8$d indstillinger.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Gendan fra en .json- eller .mcbackup-fil. Importen er som standard indstillet til »Erstat« — dine eksisterende kanaler, kontakter og regioner slettes, hvorefter pakken indsættes. Tryk på »Bekræft« og hold den nede i 5 sekunder.",
+    "value": "Gendan fra en .json- eller .mcbackup-fil. Importen er som standard indstillet til »Erstat«: dine eksisterende kanaler, kontakter og regioner slettes, hvorefter pakken indsættes. Tryk på »Bekræft« og hold den nede i 5 sekunder.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Dette er IKKE din BLE-parrings-PIN-kode. Den beskytter kun denne sikkerhedskopifil — vælg noget, du nemt kan huske; KiekR kan ikke gendanne den.",
+    "value": "Dette er IKKE din BLE-parrings-PIN-kode. Den beskytter kun denne sikkerhedskopifil. Vælg noget, du nemt kan huske; KiekR kan ikke gendanne den.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Sikkerhedskopien er oprettet med en nyere app-version (skema %1$s) — anvendt efter bedste evne.",
+    "value": "Sikkerhedskopien er oprettet med en nyere app-version (skema %1$s), anvendt efter bedste evne.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Fuldt optrukket linje = den kurve, du gemmer. Stiplet linje = standardkemikurven for denne variant. X-aksen: 2800–4400 mV. Y-aksen: 0–100 %%.",
+    "value": "Fuldt optrukket linje = den kurve, du gemmer. Stiplet linje = standardkemikurven for denne variant. X-aksen: 2800-4400 mV. Y-aksen: 0-100 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Giv besked, når den tilsluttede enhed falder til advarselsprocenten. Genaktiveringsintervallet angiver, hvor meget procenten skal stige tilbage over tærsklen, før den næste advarsel kan udløses — udvid det, hvis din batterikurve flader ud (LiFePO4, AA).",
+    "value": "Giv besked, når den tilsluttede enhed falder til advarselsprocenten. Genaktiveringsintervallet angiver, hvor meget procenten skal stige tilbage over tærsklen, før den næste advarsel kan udløses. Udvid det, hvis din batterikurve flader ud (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Tryk på papirkurv-ikonet for at ophæve blokeringen. Deres tidligere beskeder vises igen i alle kanaler. Blokeringen gælder kun det nøjagtige navn, der vises — enhver kan vælge det navn, så dette vil ikke forhindre en ihærdig bruger i at skifte navn.",
+    "value": "Tryk på papirkurv-ikonet for at ophæve blokeringen. Deres tidligere beskeder vises igen i alle kanaler. Blokeringen gælder kun det nøjagtige navn, der vises. Enhver kan vælge det navn, så dette vil ikke forhindre en ihærdig bruger i at skifte navn.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Din node har denne kanal med navnet »%1$s«, men lokalt hedder den »%2$s«. De bruger den samme krypteringsnøgle, så beskederne fungerer stadig — vælg et navn, du vil beholde.",
+    "value": "Din node har denne kanal med navnet »%1$s«, men lokalt hedder den »%2$s«. De bruger den samme krypteringsnøgle, så beskederne fungerer stadig. Vælg et navn, du vil beholde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Både din lokale liste og din node har en kanal ved navn »%1$s«, men med forskellige krypteringsnøgler. Beskederne kan ikke dekrypteres på tværs af dem — vælg den rigtige nøgle.",
+    "value": "Både din lokale liste og din node har en kanal ved navn »%1$s«, men med forskellige krypteringsnøgler. Beskederne kan ikke dekrypteres på tværs af dem. Vælg den rigtige nøgle.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Fjerner kanalen og dens nøgle fra databasen. Denne kanal bruger en brugerdefineret nøgle, så den kan ikke genoprettes ud fra navnet — sletningen er permanent, medmindre du importerer nøglen igen (f.eks. via QR-kode).",
+    "value": "Fjerner kanalen og dens nøgle fra databasen. Denne kanal bruger en brugerdefineret nøgle, så den kan ikke genoprettes ud fra navnet. Sletningen er permanent, medmindre du importerer nøglen igen (f.eks. via QR-kode).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Skjuler %1$s fra din chatliste og dine kanalindstillinger. Du kan tilføje den igen senere ved at indtaste navnet under Indstillinger → Kanaler → Tilføj kanal efter navn — SHA-256-nøglen udledes på samme måde.",
+    "value": "Skjuler %1$s fra din chatliste og dine kanalindstillinger. Du kan tilføje den igen senere ved at indtaste navnet under Indstillinger → Kanaler → Tilføj kanal efter navn. SHA-256-nøglen udledes på samme måde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Det var ikke muligt at tilføje kanalen — den findes muligvis allerede, eller navnet/nøglen er ugyldig.",
+    "value": "Det var ikke muligt at tilføje kanalen: den findes muligvis allerede, eller navnet/nøglen er ugyldig.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Bruger den faste offentlige kanalnøgle — der kræves ingen nøgle.",
+    "value": "Bruger den faste offentlige kanalnøgle. Der kræves ingen nøgle.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Nøgle påkrævet — kanaler med brugerdefinerede navne kræver en hex-nøgle på 32 tegn.",
+    "value": "Nøgle påkrævet: kanaler med brugerdefinerede navne kræver en hex-nøgle på 32 tegn.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Din node og din lokale liste er uenige om en kanal — vælg, hvilken side der skal vinde.",
+    "value": "Din node og din lokale liste er uenige om en kanal. Vælg, hvilken side der skal vinde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Nøglen er gemt. Vis den igen for at modtage den endnu en gang — eller slet den permanent.",
+    "value": "Nøglen er gemt. Vis den igen for at modtage den endnu en gang, eller slet den permanent.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonym forbindelse — fungerer for udviklingsmæglere uden godkendelse.",
+    "value": "Anonym forbindelse: fungerer for udviklingsmæglere uden godkendelse.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Når KiekR er tændt, registrerer den, hvilke regioner (og, hvor det er muligt, hvilke repeatere) den kan høre inden for en grov kortcelle på cirka en halv kilometer, og uploader med jævne mellemrum de samlede tal pr. celle via Wi-Fi. Din nøjagtige position forbliver altid på telefonen — kun cellen — og kortet viser kun, hvad der blev opfanget dér, aldrig hvem der opfangede det. Funktionen er pseudonym og adskilt fra din KiekR-identitet; du kan slå den fra når som helst.",
+    "value": "Når KiekR er tændt, registrerer den, hvilke regioner (og, hvor det er muligt, hvilke repeatere) den kan høre inden for en grov kortcelle på cirka en halv kilometer, og uploader med jævne mellemrum de samlede tal pr. celle via Wi-Fi. Din nøjagtige position forbliver altid på telefonen (kun cellen) og kortet viser kun, hvad der blev opfanget dér, aldrig hvem der opfangede det. Funktionen er pseudonym og adskilt fra din KiekR-identitet; du kan slå den fra når som helst.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Dækningen kræver en præcis placering for at kunne placere det, du hører, i den rigtige kortcelle. Tillad præcis placering for KiekR — ellers indsamler dækningen ingen data på denne telefon.",
+    "value": "Dækningen kræver en præcis placering for at kunne placere det, du hører, i den rigtige kortcelle. Tillad præcis placering for KiekR. Ellers indsamler dækningen ingen data på denne telefon.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT videresender kun, mens du er parret med din enhed via Bluetooth. Din enheds mesh-identitet uploades aldrig — hver broker bruger sit eget genererede nøglepar. Observatørnavne starter altid med »KiekR_«.",
+    "value": "MQTT videresender kun, mens du er parret med din enhed via Bluetooth. Din enheds mesh-identitet uploades aldrig: hver broker bruger sit eget genererede nøglepar. Observatørnavne starter altid med »KiekR_«.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "En lufthavnskode på 3 bogstaver angiver din region på analysatorsiden (f.eks. HAM, JFK, MUC). Observatørens navn vises ved siden af dine pakker — præfikset »KiekR_« er fast.",
+    "value": "En lufthavnskode på 3 bogstaver angiver din region på analysatorsiden (f.eks. HAM, JFK, MUC). Observatørens navn vises ved siden af dine pakker. Præfikset »KiekR_« er fast.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Sat på pause — via mobilnetværk",
+    "value": "Sat på pause: via mobilnetværk",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Sat på pause — via mobil · »%1$d« står i kø",
+    "value": "Sat på pause: via mobil · »%1$d« står i kø",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT-upload videresender alle rå LoRa-pakker, som din enhed modtager — herunder krypterede bytes, som du ikke selv kan læse — til den broker, du har konfigureret. Standardindstillingen er slået fra; du skal aktivere funktionen for hver enkelt broker. Hver broker bruger sit eget genererede nøglepar, så din enheds mesh-identitet aldrig forlader enheden.",
+    "value": "MQTT-upload videresender alle rå LoRa-pakker, som din enhed modtager (herunder krypterede bytes, som du ikke selv kan læse) til den broker, du har konfigureret. Standardindstillingen er slået fra; du skal aktivere funktionen for hver enkelt broker. Hver broker bruger sit eget genererede nøglepar, så din enheds mesh-identitet aldrig forlader enheden.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Emne — fejlfinding",
+    "value": "Emne (fejlfinding)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Emne — pakker",
+    "value": "Emne (pakker)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Emne — rå",
+    "value": "Emne (rå)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Emne — status",
+    "value": "Emne (status)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Slået fra som standard. Når det er slået til, uploader KiekR de nedbruds-, fastfrysnings- og CPU-rapporter, iOS giver den, til api.kiekr.app: appversion, iOS-version, enhedsmodel, systemets fejlkoder og kaldstakken. Ingen beskeder, kontakter, nøgler eller placeringer — og det er den eneste vej, en fejl på din telefon når frem til udvikleren.",
+    "value": "Slået fra som standard. Når det er slået til, uploader KiekR de nedbruds-, fastfrysnings- og CPU-rapporter, iOS giver den, til api.kiekr.app: appversion, iOS-version, enhedsmodel, systemets fejlkoder og kaldstakken. Ingen beskeder, kontakter, nøgler eller placeringer. Og det er den eneste vej, en fejl på din telefon når frem til udvikleren.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Forudkonfigurerede rækker kan hverken omdøbes eller få ændret deres URL — deaktiver dem, hvis du ikke ønsker at bruge dem, eller tilføj en ny kilde.",
+    "value": "Forudkonfigurerede rækker kan hverken omdøbes eller få ændret deres URL. Deaktiver dem, hvis du ikke ønsker at bruge dem, eller tilføj en ny kilde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Søgninger gennemgår alle aktiverede kilder i rangorden; den første kilde, der returnerer en kandidat, vinder. api.kiekr.app beskytter privatlivet (kun tier-A-repeatere). Meshcorenetz Analyzer har et bredere anvendelsesområde — den falder naturligt igennem for noder, som KiekR-backend’et ikke har. Omordn med pilene op/ned; tryk på blyanten for at redigere den maksimale afstand pr. hop for hver kilde.",
+    "value": "Søgninger gennemgår alle aktiverede kilder i rangorden; den første kilde, der returnerer en kandidat, vinder. api.kiekr.app beskytter privatlivet (kun tier-A-repeatere). Meshcorenetz Analyzer har et bredere anvendelsesområde: den falder naturligt igennem for noder, som KiekR-backend’et ikke har. Omordn med pilene op/ned; tryk på blyanten for at redigere den maksimale afstand pr. hop for hver kilde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnostisk sammenhæng —",
+    "value": "Diagnostisk sammenhæng:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Android-logfiler — %1$s %2$s — %3$s",
+    "value": "KiekR Android-logfiler, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Få besked om hver indgående DM. DM’er er kryptografisk godkendt — hvis du slår denne funktion fra, undertrykkes kun notifikationen; beskeden vises stadig på din chatliste.",
+    "value": "Få besked om hver indgående DM. DM’er er kryptografisk godkendt. Hvis du slår denne funktion fra, undertrykkes kun notifikationen; beskeden vises stadig på din chatliste.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Vedvarende læringsmekanisme ved præfiks-uafgjort: Når den deterministiske udvælger har valgt en vinder, justeres (præfiks, hop, pubkey), så den næste uafgjort-situation med samme præfiks afgøres på samme måde.\n\nCache-TTL — hvor længe en post forbliver aktiv uden at blive genbrugt. Standard 30 dage, begrænsning 1..=180.\n\nUafgjort-margen — hvor tæt to kandidaters målinger skal være (i %%) før cachen afgør uafgjort. 0 deaktiverer cache-fallback (kun nøjagtige uafgjorte kvalificerer sig); 20 er den øvre grænse. Standard 5 %%.",
+    "value": "Vedvarende læringsmekanisme ved præfiks-uafgjort: Når den deterministiske udvælger har valgt en vinder, justeres (præfiks, hop, pubkey), så den næste uafgjort-situation med samme præfiks afgøres på samme måde.\n\nCache-TTL: hvor længe en post forbliver aktiv uden at blive genbrugt. Standard 30 dage, begrænsning 1..=180.\n\nUafgjort-margen: hvor tæt to kandidaters målinger skal være (i %%) før cachen afgør uafgjort. 0 deaktiverer cache-fallback (kun nøjagtige uafgjorte kvalificerer sig); 20 er den øvre grænse. Standard 5 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Multi-byte-hops kræver Companion-firmware v1.15.0 eller nyere. Din Companion viser en ældre version — den er låst til 1 byte, indtil du opgraderer. Din tidligere indstilling bevares og genaktiveres efter opgraderingen.",
+    "value": "Multi-byte-hops kræver Companion-firmware v1.15.0 eller nyere. Din Companion viser en ældre version: den er låst til 1 byte, indtil du opgraderer. Din tidligere indstilling bevares og genaktiveres efter opgraderingen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Antal byte pr. hop, der tilføjes til ruten for nye udgående pakker, som vi selv genererer. Højere værdier mindsker navnekollisioner, men kan muligvis ikke videresendes af ældre repeater-firmware. Indlærte ruter til kendte kontakter bevarer den bredde, de blev modtaget med — denne indstilling påvirker kun flood- og anon-reply-ruter. 3 byte anbefales til unikke ruter (2 fungerer også); firmwarens standardværdi er 1.",
+    "value": "Antal byte pr. hop, der tilføjes til ruten for nye udgående pakker, som vi selv genererer. Højere værdier mindsker navnekollisioner, men kan muligvis ikke videresendes af ældre repeater-firmware. Indlærte ruter til kendte kontakter bevarer den bredde, de blev modtaget med. Denne indstilling påvirker kun flood- og anon-reply-ruter. 3 byte anbefales til unikke ruter (2 fungerer også); firmwarens standardværdi er 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Online-adressebogen er slået fra — aktiver en kilde under Indstillinger → Deling → Adressebog.",
+    "value": "Online-adressebogen er slået fra. Aktiver en kilde under Indstillinger → Deling → Adressebog.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Regionen »%1$s« er allerede på din liste — vis den igen",
+    "value": "Regionen »%1$s« er allerede på din liste: vis den igen",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Android afbryder appens netværksforbindelse, når skærmen er slukket. Undtag KiekR fra batterioptimeringen — og fra telefonproducentens begrænsninger for automatisk opstart — så Companion Link forbliver aktiv i baggrunden.",
+    "value": "Android afbryder appens netværksforbindelse, når skærmen er slukket. Undtag KiekR fra batterioptimeringen (og fra telefonproducentens begrænsninger for automatisk opstart) så Companion Link forbliver aktiv i baggrunden.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "»Retries« angiver, hvor mange ekstra forsøg core-lib foretager pr. GET_NEIGHBOURS-side, hvis firmwaren ikke svarer inden for tidsvinduet pr. forsøg — praktisk ved ustabile BLE-/radioforbindelser, hvor en side går i timeout. Vinduet skaleres i forhold til sidestørrelsen, så ved at øge det får de ekstra forsøg den tid, de har brug for. Selve sidestørrelsen er fastsat til firmwareens bufferloft. Standard%1$d.",
+    "value": "»Retries« angiver, hvor mange ekstra forsøg core-lib foretager pr. GET_NEIGHBOURS-side, hvis firmwaren ikke svarer inden for tidsvinduet pr. forsøg, praktisk ved ustabile BLE-/radioforbindelser, hvor en side går i timeout. Vinduet skaleres i forhold til sidestørrelsen, så ved at øge det får de ekstra forsøg den tid, de har brug for. Selve sidestørrelsen er fastsat til firmwareens bufferloft. Standard %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Intet svar — stien er muligvis ikke tilgængelig.",
+    "value": "Intet svar: stien er muligvis ikke tilgængelig.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Den første repeater skal kunne høre dig, og du skal kunne høre den sidstes svar — vælg en sti, du ved kan nås.",
+    "value": "Den første repeater skal kunne høre dig, og du skal kunne høre den sidstes svar. Vælg en sti, du ved kan nås.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Der er ingen node tilsluttet — tryk for at parre",
+    "value": "Der er ingen node tilsluttet: tryk for at parre",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR kan slå en ukendt repeater op ved hjælp af dens hash i online-registre — det er praktisk, når et hop i ruten vises som et rent hex-præfiks. Funktionen er slået fra, indtil du aktiverer den under Indstillinger → Deling → Register.",
+    "value": "KiekR kan slå en ukendt repeater op ved hjælp af dens hash i online-registre (det er praktisk, når et hop i ruten vises som et rent hex-præfiks). Funktionen er slået fra, indtil du aktiverer den under Indstillinger → Deling → Register.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Log ind via kontrolpanelet øverst til højre — gæst for statistik, naboer, telemetri og firmware; administrator for konfiguration, regioner og CLI.",
+    "value": "Log ind via kontrolpanelet øverst til højre: gæst for statistik, naboer, telemetri og firmware; administrator for konfiguration, regioner og CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pakker, som radioen ikke kunne aflæse korrekt — stiger ved interferens eller et svagt signal.",
+    "value": "Pakker, som radioen ikke kunne aflæse korrekt. Stiger ved interferens eller et svagt signal.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Når denne funktion er aktiveret, deler KiekR oplysninger om, hvilke kortceller der har mesh-dækning, med mapme.sh — et dækningskort fra brugerfællesskabet. Hver prøve indeholder kortcellen, signalstyrken og hop-stien, men aldrig din nøjagtige position eller identitet. Uploads følger dine indstillinger for »kun Wi-Fi« og upload-interval.",
+    "value": "Når denne funktion er aktiveret, deler KiekR oplysninger om, hvilke kortceller der har mesh-dækning, med mapme.sh, et dækningskort fra brugerfællesskabet. Hver prøve indeholder kortcellen, signalstyrken og hop-stien, men aldrig din nøjagtige position eller identitet. Uploads følger dine indstillinger for »kun Wi-Fi« og upload-interval.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Ingen GPS-position — online-vejledninger vises muligvis ikke på kortet. Aktivér adgang til placering for fuldstændig ruteoplysning.",
+    "value": "Ingen GPS-position: online-vejledninger vises muligvis ikke på kortet. Aktivér adgang til placering for fuldstændig ruteoplysning.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Indsæt en privat nøgle på 64 eller 128 hex-tegn for at gendanne en sikkerhedskopieret identitet — gemmes lokalt og overføres til den tilsluttede ledsager. Eksport afslører denne nodes nøgle, så du kan sikkerhedskopiere den.",
+    "value": "Indsæt en privat nøgle på 64 eller 128 hex-tegn for at gendanne en sikkerhedskopieret identitet. Den gemmes lokalt og overføres til den tilsluttede ledsager. Eksport afslører denne nodes nøgle, så du kan sikkerhedskopiere den.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Fast standardkilde – slutpunktet og andre indstillinger er faste; du kan omdøbe den her.",
+    "value": "Fast standardkilde: slutpunktet og andre indstillinger er faste; du kan omdøbe den her.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Serveren svarede – URL'en er gyldig",
+    "value": "Serveren svarede: URL'en er gyldig",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Dette er din nodes hemmelige identitetsnøgle — enhver, der har den, kan udgive sig for at være din node. Opbevar den et sikkert sted, og del den aldrig med andre.",
+    "value": "Dette er din nodes hemmelige identitetsnøgle: enhver, der har den, kan udgive sig for at være din node. Opbevar den et sikkert sted, og del den aldrig med andre.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Når dette er aktiveret, kan KiekR automatisk udføre katalogopslag for manglende kontekst, som appen bemærker passivt — ukendte hop i en sti, hørte repeatere, der endnu ikke er i kataloget, manglende naborækker og manglende regioner ved en discover. Når det er slået fra (standard), kræver hvert katalogopslag et tryk.",
+    "value": "Når dette er aktiveret, kan KiekR automatisk udføre katalogopslag for manglende kontekst, som appen bemærker passivt: ukendte hop i en sti, hørte repeatere, der endnu ikke er i kataloget, manglende naborækker og manglende regioner ved en discover. Når det er slået fra (standard), kræver hvert katalogopslag et tryk.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Opslag går kun til KiekR-kataloget — aldrig til en tredjepartsserver. Cache-læsninger er fortsat gratis; denne kontakt styrer kun netværksdelen.",
+    "value": "Opslag går kun til KiekR-kataloget, aldrig til en tredjepartsserver. Cache-læsninger er fortsat gratis; denne kontakt styrer kun netværksdelen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Dette er IKKE din BLE-koblings-PIN, og IKKE din identitets-passphrase. Den beskytter kun denne backup-fil. Vælg noget, du kan huske — KiekR kan ikke gendanne den for dig.",
+    "value": "Dette er IKKE din BLE-koblings-PIN, og IKKE din identitets-passphrase. Den beskytter kun denne backup-fil. Vælg noget, du kan huske. KiekR kan ikke gendanne den for dig.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Giv besked, når den tilsluttede enhed falder til advarselsprocenten. Genaktiveringsafstanden angiver, hvor meget procenten skal stige tilbage over grænsen, før næste advarsel kan udløses — øg den, hvis din batterikurve flader ud (LiFePO4, AA).",
+    "value": "Giv besked, når den tilsluttede enhed falder til advarselsprocenten. Genaktiveringsafstanden angiver, hvor meget procenten skal stige tilbage over grænsen, før næste advarsel kan udløses. Øg den, hvis din batterikurve flader ud (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Stryg for at fjerne blokering. Deres tidligere beskeder vises igen i alle kanaler, når blokeringen er fjernet. Blokering matcher det viste navn helt nøjagtigt — alle kan vælge det navn, så det stopper ikke en vedholdende afsender fra at omdøbe sig.",
+    "value": "Stryg for at fjerne blokering. Deres tidligere beskeder vises igen i alle kanaler, når blokeringen er fjernet. Blokering matcher det viste navn helt nøjagtigt. Alle kan vælge det navn, så det stopper ikke en vedholdende afsender fra at omdøbe sig.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Forbundet til en standardnode — kun kanaler, der er installeret på enheden, kan sende. Stryg til højre for at tilføje eller fjerne en kanal fra enheden. Stryg til venstre for at fjerne en kanal — #-kanaler bevarer deres nøgle, så du kan tilføje dem igen ved navn; kanaler med brugerdefineret nøgle bliver slettet permanent.",
+    "value": "Forbundet til en standardnode: kun kanaler, der er installeret på enheden, kan sende. Stryg til højre for at tilføje eller fjerne en kanal fra enheden. Stryg til venstre for at fjerne en kanal: #-kanaler bevarer deres nøgle, så du kan tilføje dem igen ved navn; kanaler med brugerdefineret nøgle bliver slettet permanent.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanaler skal have en region tildelt for at blive gentaget på de fleste netværk. Tryk på en kanal for at tildele. Stryg til venstre for at fjerne — #-kanaler bevarer deres nøgle, så du kan tilføje dem igen ved navn; kanaler med brugerdefineret nøgle bliver slettet permanent.",
+    "value": "Kanaler skal have en region tildelt for at blive gentaget på de fleste netværk. Tryk på en kanal for at tildele. Stryg til venstre for at fjerne: #-kanaler bevarer deres nøgle, så du kan tilføje dem igen ved navn; kanaler med brugerdefineret nøgle bliver slettet permanent.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Gæsteadgang — kun læsning",
+    "value": "Gæsteadgang (kun læsning)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Online-kataloget er slået fra — aktiver en kilde under Indstillinger → Deling → Katalog.",
+    "value": "Online-kataloget er slået fra. Aktiver en kilde under Indstillinger → Deling → Katalog.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Flere repeatere matcher dette hops korte sti-præfiks. Vi kan ikke automatisk vælge den rigtige — vælg den, der var på din sti.",
+    "value": "Flere repeatere matcher dette hops korte sti-præfiks. Vi kan ikke automatisk vælge den rigtige. Vælg den, der var på din sti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Ingen hexagoner kortlagt endnu — kør omkring med radioen tændt, og de vises her.",
+    "value": "Ingen hexagoner kortlagt endnu. Kør omkring med radioen tændt, og de vises her.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pauset — på mobildata",
+    "value": "Pauset: på mobildata",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Emne — pakker",
+    "value": "Emne (pakker)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Emne — status",
+    "value": "Emne (status)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Emne — debug",
+    "value": "Emne (debug)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Emne — raw",
+    "value": "Emne (raw)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Gemmer identiteten lokalt. Hvis nøglen er seed-baseret, og en companion er forbundet, sendes seedet også til enheden via CMD_IMPORT_PRIVATE_KEY — dette overskriver enhedens nuværende identitet.",
+    "value": "Gemmer identiteten lokalt. Hvis nøglen er seed-baseret, og en companion er forbundet, sendes seedet også til enheden via CMD_IMPORT_PRIVATE_KEY. Dette overskriver enhedens nuværende identitet.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Afsenderens klokkeafvigelse — bruger lokal modtagetid",
+    "value": "Afsenderens klokkeafvigelse: bruger lokal modtagetid",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Adgangskoden er begrænset til 15 tegn — alt derover afkortes, når du logger ind.",
+    "value": "Adgangskoden er begrænset til 15 tegn. Alt derover afkortes, når du logger ind.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Giv besked ved hver indgående DM. DM'er er kryptografisk autentificeret — hvis du slår dette fra, undertrykkes kun notifikationen; beskeden ankommer stadig i din chatliste.",
+    "value": "Giv besked ved hver indgående DM. DM'er er kryptografisk autentificeret. Hvis du slår dette fra, undertrykkes kun notifikationen; beskeden ankommer stadig i din chatliste.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Multi-byte-hop kræver companion-firmware v1.15.0 eller nyere. Din companion rapporterer en ældre version — låst til 1 byte, indtil du opgraderer. Din tidligere indstilling er bevaret og genaktiveres efter opgraderingen.",
+    "value": "Multi-byte-hop kræver companion-firmware v1.15.0 eller nyere. Din companion rapporterer en ældre version: låst til 1 byte, indtil du opgraderer. Din tidligere indstilling er bevaret og genaktiveres efter opgraderingen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Stryg en region for at fjerne den. Den forbliver i databasen (og fortsætter med at annotere indgående trafik), men forsvinder fra denne liste og fra kanalvælgere — tilføj den igen ved navn for at få den tilbage.",
+    "value": "Stryg en region for at fjerne den. Den forbliver i databasen (og fortsætter med at annotere indgående trafik), men forsvinder fra denne liste og fra kanalvælgere. Tilføj den igen ved navn for at få den tilbage.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Ikke forbundet til en companion-enhed — forbind en node først.",
+    "value": "Ikke forbundet til en companion-enhed. Forbind en node først.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Gendan fra en `.json`- eller `.mcbackup`-fil. Import bruger som standard Erstat — dine eksisterende kanaler, kontakter og regioner slettes, hvorefter pakken indsættes. Tryk og hold Bekræft nede i 5 sekunder.",
+    "value": "Gendan fra en `.json`- eller `.mcbackup`-fil. Import bruger som standard Erstat: dine eksisterende kanaler, kontakter og regioner slettes, hvorefter pakken indsættes. Tryk og hold Bekræft nede i 5 sekunder.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Ingen observer har hørt den endnu — det betyder aldrig, at afsendelsen mislykkedes.",
+    "value": "Ingen observer har hørt den endnu. Det betyder aldrig, at afsendelsen mislykkedes.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Hørt i én observer-region hidtil — sandsynligvis kun i nærheden.",
+    "value": "Hørt i én observer-region hidtil, sandsynligvis kun i nærheden.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Hørt i %1$d regioner — meshet bar denne besked videre.",
+    "value": "Hørt i %1$d regioner: meshet bar denne besked videre.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Tjek mislykkedes — prøv igen senere.",
+    "value": "Tjek mislykkedes. Prøv igen senere.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Hørt af %1$d observere — meshet bar denne besked videre.",
+    "value": "Hørt af %1$d observere: meshet bar denne besked videre.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Denne node tilføjer i øjeblikket automatisk alle annoncetyper („Auto add all“) — filtrene nedenfor har ingen effekt. En anden app kan have ændret dette.",
+    "value": "Denne node tilføjer i øjeblikket automatisk alle annoncetyper („Auto add all“). Filtrene nedenfor har ingen effekt. En anden app kan have ændret dette.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Ikke sendt — ikke installeret på din node",
+    "value": "Ikke sendt: ikke installeret på din node",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Kortlægger også hexagoner, hvor der ikke blev modtaget trafik — bruger GPS og mere batteri.",
+    "value": "Kortlægger også hexagoner, hvor der ikke blev modtaget trafik. Bruger GPS og mere batteri.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Denne nodes kontaktliste er fuld — den kan ikke tage nye kontakter, den hører. Slet nogle for at gøre plads.",
+    "value": "Denne nodes kontaktliste er fuld: den kan ikke tage nye kontakter, den hører. Slet nogle for at gøre plads.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pauset — placeringsadgang er kun \"Når appen bruges\"",
+    "value": "Pauset: placeringsadgang er kun \"Når appen bruges\"",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pauset — placeringssessionen stoppet",
+    "value": "Pauset: placeringssessionen stoppet",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Uden \"Altid\" indsamler coverage kun, mens KiekR er åben — iOS pauser placeringssessionen, når appen sendes til baggrunden. Med \"Altid\" fortsætter KiekR med at indsamle i din lomme, kun med den position, din telefon allerede kender, uden ekstra GPS.",
+    "value": "Uden \"Altid\" indsamler coverage kun, mens KiekR er åben. iOS pauser placeringssessionen, når appen sendes til baggrunden. Med \"Altid\" fortsætter KiekR med at indsamle i din lomme, kun med den position, din telefon allerede kender, uden ekstra GPS.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Fjerner %@ fra din chatliste og kanalindstillinger. Du kan tilføje den igen senere ved at skrive navnet under Indstillinger → Kanaler → Tilføj kanal ved navn — SHA-256-nøglen udledes på samme måde.",
+    "value": "Fjerner %@ fra din chatliste og kanalindstillinger. Du kan tilføje den igen senere ved at skrive navnet under Indstillinger → Kanaler → Tilføj kanal ved navn. SHA-256-nøglen udledes på samme måde.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Slet %@? Dette er permanent — nøglen kan ikke udledes fra navnet igen.",
+    "value": "Slet %@? Dette er permanent: nøglen kan ikke udledes fra navnet igen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Permanent læringshjælp til præfikskollisioner: når den deterministiske vælger har valgt en vinder, opdateres (præfiks, hop, offentlig nøgle), så det næste uafgjorte ved samme præfiks afgøres på samme måde.\n\nCache-TTL — hvor lang tid en post overlever uden at blive genbrugt. Standard 30 dage, begrænsning 1..=180.\n\nTiebreaker-margin — hvor tæt to kandidaters metrikker skal være (i %), før cachen afgør uafgjort. 0 deaktiverer cache-fallback (kun eksakte uafgjorte tæller); 20 er den øvre grænse. Standard 5 %.",
+    "value": "Permanent læringshjælp til præfikskollisioner: når den deterministiske vælger har valgt en vinder, opdateres (præfiks, hop, offentlig nøgle), så det næste uafgjorte ved samme præfiks afgøres på samme måde.\n\nCache-TTL: hvor lang tid en post overlever uden at blive genbrugt. Standard 30 dage, begrænsning 1..=180.\n\nTiebreaker-margin: hvor tæt to kandidaters metrikker skal være (i %), før cachen afgør uafgjort. 0 deaktiverer cache-fallback (kun eksakte uafgjorte tæller); 20 er den øvre grænse. Standard 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth er slået fra — tryk for at slå det til",
+    "value": "Bluetooth er slået fra: tryk for at slå det til",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Sat på pause — ingen netværksbaseret placering på denne telefon. GPS-positioner kommer kun, mens en anden app bruger GPS eller under opladning.",
+    "value": "Sat på pause: ingen netværksbaseret placering på denne telefon. GPS-positioner kommer kun, mens en anden app bruger GPS eller under opladning.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Denne telefon har ingen netværksbaseret placering. Når slået til, kører KiekR selv GPS, mens der modtages mesh-trafik — også på batteri, og stopper, når du står stille. Bruger mere batteri.",
+    "value": "Denne telefon har ingen netværksbaseret placering. Når slået til, kører KiekR selv GPS, mens der modtages mesh-trafik (også på batteri, og stopper, når du står stille). Bruger mere batteri.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Kun hex-tegn 0–9, a–f. Mellemrum og kolon fjernes ved indsætning. Repeateren skal bruge hele nøglen for at tilføje den.",
+    "value": "Kun hex-tegn 0-9, a-f. Mellemrum og kolon fjernes ved indsætning. Repeateren skal bruge hele nøglen for at tilføje den.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d poster – listen kan være ufuldstændig",
+    "value": "%1$d poster (listen kan være ufuldstændig)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Kun hex-tegn 0–9, a–f. Mellemrum og kolon fjernes ved indsætning. Rumserveren skal bruge hele nøglen for at tilføje den.",
+    "value": "Kun hex-tegn 0-9, a-f. Mellemrum og kolon fjernes ved indsætning. Rumserveren skal bruge hele nøglen for at tilføje den.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "»Alle« betyder hver kontakt, der er gemt på denne node — med automatisk tilføjelse slået til, praktisk talt alle inden for rækkevidde.",
+    "value": "»Alle« betyder hver kontakt, der er gemt på denne node: med automatisk tilføjelse slået til, praktisk talt alle inden for rækkevidde.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Deling er slået fra på din node — slå den til under Min node → Telemetrideling.",
+    "value": "Deling er slået fra på din node. Slå den til under Min node → Telemetrideling.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Tilladelserne kunne ikke opdateres — kontakten skal være på din node.",
+    "value": "Tilladelserne kunne ikke opdateres: kontakten skal være på din node.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Der er allerede en anden anmodning i gang på denne node — prøv igen om et øjeblik.",
+    "value": "Der er allerede en anden anmodning i gang på denne node. Prøv igen om et øjeblik.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Position uændret — enheden har muligvis ingen aktuel GPS-position.",
+    "value": "Position uændret: enheden har muligvis ingen aktuel GPS-position.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Ingen position i svaret — intet GPS, GPS slået fra, eller beliggenheden er ikke delt med dig.",
+    "value": "Ingen position i svaret: intet GPS, GPS slået fra, eller beliggenheden er ikke delt med dig.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Intet svar — uden for rækkevidde, eller denne kontakt har ikke tilladt dig at forespørge det.",
+    "value": "Intet svar: uden for rækkevidde, eller denne kontakt har ikke tilladt dig at forespørge det.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Op til 16 anmodninger over 15 minutter, kun via en kendt rute eller direkte rækkevidde — ingen mesh-oversvømmelse.",
+    "value": "Op til 16 anmodninger over 15 minutter, kun via en kendt rute eller direkte rækkevidde (ingen mesh-oversvømmelse).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Live-lokalisering afsluttet — de 15 minutter er gået.",
+    "value": "Live-lokalisering afsluttet: de 15 minutter er gået.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Intet svar — uden for direkte rækkevidde? Brug »Søg mesh« for at prøve via repeatere.",
+    "value": "Intet svar. Uden for direkte rækkevidde? Brug »Søg mesh« for at prøve via repeatere.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Forbindelsen til noden blev afbrudt — live-lokalisering stoppet.",
+    "value": "Forbindelsen til noden blev afbrudt. Live-lokalisering stoppet.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Adgang til placering er slået fra — det er nødvendigt for at vise din position og afstanden.",
+    "value": "Adgang til placering er slået fra. Det er nødvendigt for at vise din position og afstanden.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

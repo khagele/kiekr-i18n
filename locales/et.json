@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Jaga esmalt logi — tühjendamine kustutab just need andmed, mida diagnoosiks vajame.",
+    "value": "Jaga esmalt logi: tühjendamine kustutab just need andmed, mida diagnoosiks vajame.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Ühtegi sõlme pole ühendatud — saatmiseks ühenda companion-seade.",
+    "value": "Ühtegi sõlme pole ühendatud. Saatmiseks ühenda companion-seade.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Ühendus katkenud — ühendage uuesti, et saata",
+    "value": "Ühendus katkenud: ühendage uuesti, et saata",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanali sõnumid on allkirjastamata – saatja võib olla ükskõik kes kanalist.",
+    "value": "Kanali sõnumid on allkirjastamata: saatja võib olla ükskõik kes kanalist.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Veebikataloog on välja lülitatud — lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
+    "value": "Veebikataloog on välja lülitatud. Lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Mitmed repiiterid vastavad selle hüppe lühima tee eelosa tingimustele. Me ei saa õiget automaatselt valida – vali see, mis oli sinu marsruudil.",
+    "value": "Mitmed repiiterid vastavad selle hüppe lühima tee eelosa tingimustele. Me ei saa õiget automaatselt valida. Vali see, mis oli sinu marsruudil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "ei leitud vastet — kataloogis puudus selle eesliite jaoks kanne",
+    "value": "ei leitud vastet: kataloogis puudus selle eesliite jaoks kanne",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "ei leitud vasteid — lähimad veebitulemused jäävad mõistlikkuse piiridest väljapoole",
+    "value": "ei leitud vasteid: lähimad veebitulemused jäävad mõistlikkuse piiridest väljapoole",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Iga hüpe on korduja avaliku võtme esimene %1$d bait (või baitid). Lühikesed võtmed võivad vastata mitmele kordujale — puudutage maakera ikooni, et otsida puuduvaid hüppeid veebikataloogist.",
+    "value": "Iga hüpe on korduja avaliku võtme esimene %1$d bait (või baitid). Lühikesed võtmed võivad vastata mitmele kordujale. Puudutage maakera ikooni, et otsida puuduvaid hüppeid veebikataloogist.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "teadmata — seadmest",
+    "value": "teadmata (seadmest)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Arv on alampiir — tiheda liikluse korral võivad koopiad kaduda enne rakendusse jõudmist.",
+    "value": "Arv on alampiir: tiheda liikluse korral võivad koopiad kaduda enne rakendusse jõudmist.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(puudub — seadmest)",
+    "value": "(puudub, seadmest)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Leitud kanalid — puuduta, et vaadata",
+    "value": "Leitud kanalid (puuduta, et vaadata)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Kopeerimiseks puuduta võtit. Kanaleid sobitatakse võtme, mitte nime järgi — kokkupõrked on tavalised.",
+    "value": "Kopeerimiseks puuduta võtit. Kanaleid sobitatakse võtme, mitte nime järgi: kokkupõrked on tavalised.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d hüpet",
+    "value": "%1$d-%2$d hüpet",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Sinu sõlm on selle sõnumi juba edastanud. Kinnitust ei tulnud, kuid leviala piires olevad vastuvõtjad võisid selle siiski kätte saada — uuesti saates näevad nad seda kaks korda.",
+    "value": "Sinu sõlm on selle sõnumi juba edastanud. Kinnitust ei tulnud, kuid leviala piires olevad vastuvõtjad võisid selle siiski kätte saada. Uuesti saates näevad nad seda kaks korda.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Külaliskasutus — ainult lugemisõigus",
+    "value": "Külaliskasutus (ainult lugemisõigus)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Iga kaader, mida su sõlm kuuleb, ilmub siia — midagi ei filtreerita välja.",
+    "value": "Iga kaader, mida su sõlm kuuleb, ilmub siia. Midagi ei filtreerita välja.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Filtreerimata — kuvatakse nii dekodeeritud, teistele krüptitud, tundmatud kui ka vigased kaadrid.",
+    "value": "Filtreerimata: kuvatakse nii dekodeeritud, teistele krüptitud, tundmatud kui ka vigased kaadrid.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "krüptitud — pole selle seadme jaoks",
+    "value": "krüptitud, pole selle seadme jaoks",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "näitab iga vastuvõetud kaadrit — ka seda, mida ei saa lugeda",
+    "value": "näitab iga vastuvõetud kaadrit, ka seda, mida ei saa lugeda",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d vahemällu salvestatud · osaline — puuduta, et värskendada",
+    "value": "%1$d vahemällu salvestatud · osaline, puuduta, et värskendada",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Naabrite andmeid pole vahemällu salvestatud — puuduta värskendamiseks.",
+    "value": "Naabrite andmeid pole vahemällu salvestatud. Puuduta värskendamiseks.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Ühegi selle sõnumi edastaja – ega ka saatja – GPS-koordinaate pole salvestatud. Sulge see vaade, puuduta sõnumi marsruudi osas asuvat maakera ikooni ja tule siis tagasi.",
+    "value": "Ühegi selle sõnumi edastaja (ega ka saatja) GPS-koordinaate pole salvestatud. Sulge see vaade, puuduta sõnumi marsruudi osas asuvat maakera ikooni ja tule siis tagasi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f kuni %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Teised sõlmed peavad lisama meie reklaami oma kontaktide tabelisse, enne kui nad saavad meie DM-sid dešifreerida. Puuduta, et valida leviala – „zero-hop“ on vaiksem (ainult naabrid); „flood“ on valjem (kogu võrk).",
+    "value": "Teised sõlmed peavad lisama meie reklaami oma kontaktide tabelisse, enne kui nad saavad meie DM-sid dešifreerida. Puuduta, et valida leviala: „zero-hop“ on vaiksem (ainult naabrid); „flood“ on valjem (kogu võrk).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Sellel seadmel on patareitoitega RTC. Tarkvara abil ei ole seda võimalik nullida — taastamiseks tuleb tarkvara uuendada või eemaldada RTC varupatarei.",
+    "value": "Sellel seadmel on patareitoitega RTC. Tarkvara abil ei ole seda võimalik nullida. Taastamiseks tuleb tarkvara uuendada või eemaldada RTC varupatarei.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "„Reboot“ taaskäivitab seotud sõlme. Tehase seadete taastamine kustutab seadme kontaktid, kanalid ja eelistused – rakenduse kohalikke andmeid see ei mõjuta.",
+    "value": "„Reboot“ taaskäivitab seotud sõlme. Tehase seadete taastamine kustutab seadme kontaktid, kanalid ja eelistused. Rakenduse kohalikke andmeid see ei mõjuta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Valik „Disconnect“ katkestab ühenduse, kuid säilitab vahemällu salvestatud sideme – puuduta valikut „Connect“, et ühendus taastada ilma uuesti sidumata. Valik „Forget“ tühistab sidumise ja tühjendab vahemälu; sõlme taastamiseks tuleb see uuesti siduda.",
+    "value": "Valik „Disconnect“ katkestab ühenduse, kuid säilitab vahemällu salvestatud sideme. Puuduta valikut „Connect“, et ühendus taastada ilma uuesti sidumata. Valik „Forget“ tühistab sidumise ja tühjendab vahemälu; sõlme taastamiseks tuleb see uuesti siduda.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Kustutab seadmelt kontaktid, kanalid, piirkonnad, eelistused ja identiteedi. Pöördumatu toiming – seda ei saa tagasi võtta. Ekspordi kõik, mida soovid säilitada, enne jätkamist.",
+    "value": "Kustutab seadmelt kontaktid, kanalid, piirkonnad, eelistused ja identiteedi. Pöördumatu toiming: seda ei saa tagasi võtta. Ekspordi kõik, mida soovid säilitada, enne jätkamist.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Täisvõrk. Valju – iga repiiter edastab signaali edasi. Kasutage mõõdukalt; massreklaamid maksavad eetriaega iga repiitri kohta.",
+    "value": "Täisvõrk. Valju: iga repiiter edastab signaali edasi. Kasutage mõõdukalt; massreklaamid maksavad eetriaega iga repiitri kohta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Täpsemad seaded võimaldavad sisestada sageduse, ribalaiuse, sagedussuhet ja kanali suhet. Firmware’i vahemikud: 400–2500 MHz, 7,8–500 kHz, sagedussuhe 5–12, kanali suhe 4/5–4/8.",
+    "value": "Täpsemad seaded võimaldavad sisestada sageduse, ribalaiuse, sagedussuhet ja kanali suhet. Firmware’i vahemikud: 400-2500 MHz, 7,8-500 kHz, sagedussuhe 5-12, kanali suhe 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Mida ühendatud sõlm hetkel edastab. Allpool toodud eelseadistused pärinevad MeshCore’i kogukonna kataloogist – vali see, mida sinu kohalik võrk kasutab.",
+    "value": "Mida ühendatud sõlm hetkel edastab. Allpool toodud eelseadistused pärinevad MeshCore’i kogukonna kataloogist. Vali see, mida sinu kohalik võrk kasutab.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Võetakse aluseks teie seadme keeleseade. Kinnitage, et muudatus jõustuks – enne seda ei muutu midagi.",
+    "value": "Võetakse aluseks teie seadme keeleseade. Kinnitage, et muudatus jõustuks. Enne seda ei muutu midagi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Ühenda uuesti varem sidestatud sõlme. PIN-koodi ei küsita – ühendus on endiselt vahemälus.",
+    "value": "Ühenda uuesti varem sidestatud sõlme. PIN-koodi ei küsita: ühendus on endiselt vahemälus.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Ainult naabrid. Vaikne — üleujutusi ei esine. Kasuta seda juhul, kui ainult lähedal asuvad sõlmed peavad sinu kuulutust teadma saama.",
+    "value": "Ainult naabrid. Vaikne: üleujutusi ei esine. Kasuta seda juhul, kui ainult lähedal asuvad sõlmed peavad sinu kuulutust teadma saama.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "„Secret“ on kanali ühine 16-baidine AES-võti, mis on kirjutatud 32 kuueteistkümnendsüsteemi märgina. Hashtag-tüüpi kanalite puhul tuletatakse salajane võti automaatselt nimest – jäta hashtag-märk alles, kui soovid seda meetodit kasutada.",
+    "value": "„Secret“ on kanali ühine 16-baidine AES-võti, mis on kirjutatud 32 kuueteistkümnendsüsteemi märgina. Hashtag-tüüpi kanalite puhul tuletatakse salajane võti automaatselt nimest. Jäta hashtag-märk alles, kui soovid seda meetodit kasutada.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Kell on edasi seatud. Tarkvara vaikimisi versioon ei toeta tagasiulatuvat sünkroniseerimist. Lahendus: käivita allpool toodud käsurealt käsk `clkreboot` – see seab RTC-kella kuupäevaks 2024-05-15 ja taaskäivitab seadme – seejärel puuduta sünkroniseerimise nuppu, et laadida sisse praegune kellaaeg.",
+    "value": "Kell on edasi seatud. Tarkvara vaikimisi versioon ei toeta tagasiulatuvat sünkroniseerimist. Lahendus: käivita allpool toodud käsurealt käsk `clkreboot` (see seab RTC-kella kuupäevaks 2024-05-15 ja taaskäivitab seadme), seejärel puuduta sünkroniseerimise nuppu, et laadida sisse praegune kellaaeg.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Seade sünkroniseerib end veel — palun proovi hetke pärast uuesti.",
+    "value": "Seade sünkroniseerib end veel. Palun proovi hetke pärast uuesti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Veebikataloog on välja lülitatud — lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
+    "value": "Veebikataloog on välja lülitatud. Lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Repeateri parooli pikkus on piiratud 15 tähemärgiga – sisselogimisel lõigatakse kõik, mis on pikem, ära.",
+    "value": "Repeateri parooli pikkus on piiratud 15 tähemärgiga. Sisselogimisel lõigatakse kõik, mis on pikem, ära.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d vahemällu salvestatud · osaline — puuduta, et värskendada",
+    "value": "%1$d vahemällu salvestatud · osaline, puuduta, et värskendada",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Kiiruspiirang — %1$d s",
+    "value": "Kiiruspiirang: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Kustutamine ei ole võimalik — piirkonnal on allpiirkonnad.",
+    "value": "Kustutamine ei ole võimalik: piirkonnal on allpiirkonnad.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Iga hüpe on 3 baiti. Kokku on neid %1$d – kas täiendada või kärpida.",
+    "value": "Iga hüpe on 3 baiti. Kokku on neid %1$d. Kas täiendada või kärpida.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(veel pole teadaolevat marsruuti — otsesaadetised toimuksid null-hopina)",
+    "value": "(veel pole teadaolevat marsruuti: otsesaadetised toimuksid null-hopina)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3894,7 +3894,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_qr_error_contact": {
-    "value": "Avalik võti peab olema 32 baiti pikk ja selle tüüp peab olema vahemikus 1–4.",
+    "value": "Avalik võti peab olema 32 baiti pikk ja selle tüüp peab olema vahemikus 1-4.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Põhineb teie praegusel asukohal — selle sõnumi jaoks ei salvestatud asukohta.",
+    "value": "Põhineb teie praegusel asukohal: selle sõnumi jaoks ei salvestatud asukohta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "ACL-kirjeid pole — laadimiseks puuduta nuppu „Värskenda”.",
+    "value": "ACL-kirjeid pole. Laadimiseks puuduta nuppu „Värskenda”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Kehtetu avalik võti heksadesimaalses vormingus — peab koosnema täpselt 64 heksadesimaalsest märgist",
+    "value": "Kehtetu avalik võti heksadesimaalses vormingus: peab koosnema täpselt 64 heksadesimaalsest märgist",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 kuueteistkümnendsüsteemi märki — sõlme täielik avalik võti.",
+    "value": "64 kuueteistkümnendsüsteemi märki (sõlme täielik avalik võti).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Siin laaditakse haldustööriistad — CLI ja ACL-redaktor lisatakse järgmises värskenduses.",
+    "value": "Siin laaditakse haldustööriistad. CLI ja ACL-redaktor lisatakse järgmises värskenduses.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Veel üks päring on töös — palun proovi uuesti.",
+    "value": "Veel üks päring on töös. Palun proovi uuesti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Sisselogimine ebaõnnestus — vale parool või ruum pole kättesaadav.",
+    "value": "Sisselogimine ebaõnnestus: vale parool või ruum pole kättesaadav.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Parool võib olla maksimaalselt 15 tähemärki pikk – kui see on pikem, lõigatakse ülejäänud osa sisselogimisel ära.",
+    "value": "Parool võib olla maksimaalselt 15 tähemärki pikk. Kui see on pikem, lõigatakse ülejäänud osa sisselogimisel ära.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Kui ühendatud seade kuuleb toetatud tüüpi reklaami, salvestab ta selle sõlme oma kontaktide tabelisse – see säilib ka taaskäivitamise järel ja jõuab rakenduseni järgmise andmeedastuse ajal.",
+    "value": "Kui ühendatud seade kuuleb toetatud tüüpi reklaami, salvestab ta selle sõlme oma kontaktide tabelisse. See säilib ka taaskäivitamise järel ja jõuab rakenduseni järgmise andmeedastuse ajal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Kui funktsioon on sisse lülitatud, võib KiekR automaatselt teostada kataloogipäringuid puuduva konteksti leidmiseks, mida rakendus passiivsel viisil märkab – teel olevad tundmatud hüpped, tuvastatud repiiterid, mis pole veel kataloogis, puuduvad naabriridad ja avastamise käigus puuduvad piirkonnad. Kui funktsioon on välja lülitatud (vaikimisi), tuleb iga kataloogipäringu tegemiseks ekraanile puudutada.",
+    "value": "Kui funktsioon on sisse lülitatud, võib KiekR automaatselt teostada kataloogipäringuid puuduva konteksti leidmiseks, mida rakendus passiivsel viisil märkab: teel olevad tundmatud hüpped, tuvastatud repiiterid, mis pole veel kataloogis, puuduvad naabriridad ja avastamise käigus puuduvad piirkonnad. Kui funktsioon on välja lülitatud (vaikimisi), tuleb iga kataloogipäringu tegemiseks ekraanile puudutada.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Otsingud suunatakse ainult KiekR-kataloogi – mitte kunagi kolmanda osapoole serverisse. Vahemälust lugemine jääb tasuta; see lüliti reguleerib võrguosa.",
+    "value": "Otsingud suunatakse ainult KiekR-kataloogi, mitte kunagi kolmanda osapoole serverisse. Vahemälust lugemine jääb tasuta; see lüliti reguleerib võrguosa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importimine lõpetatud — %1$d identiteedid, %2$d kanalid, %3$d piirkonnad, %4$d kontaktid, %5$d repeateri sisselogimised.",
+    "value": "Importimine lõpetatud: %1$d identiteedid, %2$d kanalid, %3$d piirkonnad, %4$d kontaktid, %5$d repeateri sisselogimised.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importimine lõpetatud — %1$d identiteedid, %2$d kanalid, %3$d piirkonnad, %4$d kontaktid, %5$d repeateri sisselogimised, %6$d lemmikud, %7$d blokeeritud saatjad, %8$d seaded.",
+    "value": "Importimine lõpetatud: %1$d identiteedid, %2$d kanalid, %3$d piirkonnad, %4$d kontaktid, %5$d repeateri sisselogimised, %6$d lemmikud, %7$d blokeeritud saatjad, %8$d seaded.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Taasta .json- või .mcbackup-failist. Importimisel on vaikimisi valitud „Asenda“ – olemasolevad kanalid, kontaktid ja piirkonnad kustutatakse ning seejärel lisatakse pakett. Puuduta nuppu „Kinnita“ ja hoia seda 5 sekundit all.",
+    "value": "Taasta .json- või .mcbackup-failist. Importimisel on vaikimisi valitud „Asenda“: olemasolevad kanalid, kontaktid ja piirkonnad kustutatakse ning seejärel lisatakse pakett. Puuduta nuppu „Kinnita“ ja hoia seda 5 sekundit all.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "See EI OLE teie BLE-paaritamise PIN-kood. See kaitseb ainult seda varukoopiat – valige midagi, mida on lihtne meeles pidada; KiekR ei suuda seda taastada.",
+    "value": "See EI OLE teie BLE-paaritamise PIN-kood. See kaitseb ainult seda varukoopiat. Valige midagi, mida on lihtne meeles pidada; KiekR ei suuda seda taastada.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Varukoopia on loodud rakenduse uuema versiooniga (skeem %1$s) — rakendati võimaluste piires.",
+    "value": "Varukoopia on loodud rakenduse uuema versiooniga (skeem %1$s), rakendati võimaluste piires.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Täisjoon = salvestatav kõver. Katkendjoon = selle variandi vaikimisi keemiline kõver. X-telg: 2800–4400 mV. Y-telg: 0–100%%.",
+    "value": "Täisjoon = salvestatav kõver. Katkendjoon = selle variandi vaikimisi keemiline kõver. X-telg: 2800-4400 mV. Y-telg: 0-100%%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Saada teade, kui ühendatud seadme laetuse tase langeb hoiatusprotsendini. Taaskäivitusvahemik näitab, kui palju protsent peab tõusma üle künnise, enne kui järgmine hoiatus käivitub – suurenda seda, kui aku laetuse kõver jääb stabiilseks (LiFePO4, AA).",
+    "value": "Saada teade, kui ühendatud seadme laetuse tase langeb hoiatusprotsendini. Taaskäivitusvahemik näitab, kui palju protsent peab tõusma üle künnise, enne kui järgmine hoiatus käivitub. Suurenda seda, kui aku laetuse kõver jääb stabiilseks (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Blokeeringu tühistamiseks puuduta prügikasti ikooni. Nende varasemad sõnumid ilmuvad uuesti kõigis kanalites. Blokeerimine toimub täpselt kuvatud nime järgi – igaüks võib selle nime valida, seega ei takista see otsustavat postitajat nime muutmast.",
+    "value": "Blokeeringu tühistamiseks puuduta prügikasti ikooni. Nende varasemad sõnumid ilmuvad uuesti kõigis kanalites. Blokeerimine toimub täpselt kuvatud nime järgi. Igaüks võib selle nime valida, seega ei takista see otsustavat postitajat nime muutmast.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Sinu sõlmel on kanal nimega „%1$s”, kuid kohalikult on selle nimi „%2$s”. Neil on sama krüpteerimisvõti, seega sõnumite saatmine toimib endiselt – vali üks neist nimedest, mida soovid säilitada.",
+    "value": "Sinu sõlmel on kanal nimega „%1$s”, kuid kohalikult on selle nimi „%2$s”. Neil on sama krüpteerimisvõti, seega sõnumite saatmine toimib endiselt. Vali üks neist nimedest, mida soovid säilitada.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Nii teie kohalikul nimekirjal kui ka sõlmel on kanal nimega „%1$s”, kuid neil on erinevad krüpteerimisvõtmed. Sõnumeid ei ole võimalik nende vahel dekodeerida — valige, milline võti on õige.",
+    "value": "Nii teie kohalikul nimekirjal kui ka sõlmel on kanal nimega „%1$s”, kuid neil on erinevad krüpteerimisvõtmed. Sõnumeid ei ole võimalik nende vahel dekodeerida. Valige, milline võti on õige.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Kustutab kanali ja selle võtme andmebaasist. Kuna see kanal kasutab kohandatud võtit, ei ole seda võimalik nime põhjal uuesti tuletada – kustutamine on lõplik, välja arvatud juhul, kui võti uuesti sisse imporditakse (nt QR-koodi kaudu).",
+    "value": "Kustutab kanali ja selle võtme andmebaasist. Kuna see kanal kasutab kohandatud võtit, ei ole seda võimalik nime põhjal uuesti tuletada. Kustutamine on lõplik, välja arvatud juhul, kui võti uuesti sisse imporditakse (nt QR-koodi kaudu).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Peidab „%1$s“ su vestlusnimekirjast ja kanali seadetest. Saad selle hiljem uuesti lisada, kirjutades nime valikus „Seaded → Kanalid → Lisa kanal nime järgi“ — SHA-256-võti tuletatakse samal viisil.",
+    "value": "Peidab „%1$s“ su vestlusnimekirjast ja kanali seadetest. Saad selle hiljem uuesti lisada, kirjutades nime valikus „Seaded → Kanalid → Lisa kanal nime järgi“. SHA-256-võti tuletatakse samal viisil.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Kanalit ei õnnestunud lisada – see võib juba olemas olla või nimi/võti on kehtetu.",
+    "value": "Kanalit ei õnnestunud lisada: see võib juba olemas olla või nimi/võti on kehtetu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Kasutab fikseeritud avalikku kanali võtit — võtit ei ole vaja.",
+    "value": "Kasutab fikseeritud avalikku kanali võtit, võtit ei ole vaja.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Vajalik võti — kohandatud nimega kanalid vajavad 32-tähemärgilist kuueteistkümnendsüsteemi võtit.",
+    "value": "Vajalik võti: kohandatud nimega kanalid vajavad 32-tähemärgilist kuueteistkümnendsüsteemi võtit.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Teie sõlm ja teie kohalik nimekiri ei ole ühel meelel ühe kanali osas – valige, kumb pool võidab.",
+    "value": "Teie sõlm ja teie kohalik nimekiri ei ole ühel meelel ühe kanali osas. Valige, kumb pool võidab.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Võti on alles. Näita uuesti, et seda uuesti saada — või kustuta lõplikult.",
+    "value": "Võti on alles. Näita uuesti, et seda uuesti saada, või kustuta lõplikult.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonüümne ühendus — sobib arendusmaakleritele, kes ei vaja autentimist.",
+    "value": "Anonüümne ühendus: sobib arendusmaakleritele, kes ei vaja autentimist.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Kui rakendus on sisse lülitatud, salvestab KiekR, milliseid piirkondi (ja võimaluse korral ka milliseid repiitereid) ta umbes poole kilomeetri suuruses kaardirakus kuuleb, ning laadib perioodiliselt üles rakkude kaupa kogutud andmed Wi-Fi-ühenduse kaudu. Teie täpne asukoht ei lahku kunagi telefonist – vaid ainult kaardirakust – ning kaart näitab alati ainult seda, mida seal kuulati, mitte kunagi seda, kes seda kuulis. See on pseudonüümne ja teie KiekR-identiteedist eraldiseisev; võite selle igal ajal välja lülitada.",
+    "value": "Kui rakendus on sisse lülitatud, salvestab KiekR, milliseid piirkondi (ja võimaluse korral ka milliseid repiitereid) ta umbes poole kilomeetri suuruses kaardirakus kuuleb, ning laadib perioodiliselt üles rakkude kaupa kogutud andmed Wi-Fi-ühenduse kaudu. Teie täpne asukoht ei lahku kunagi telefonist (vaid ainult kaardirakust) ning kaart näitab alati ainult seda, mida seal kuulati, mitte kunagi seda, kes seda kuulis. See on pseudonüümne ja teie KiekR-identiteedist eraldiseisev; võite selle igal ajal välja lülitada.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Andmete kogumiseks on vaja täpset asukohta, et paigutada kuuldud heli õigesse kaardirakku. Luba KiekR-ile täpse asukoha kasutamine – vastasel juhul ei kogu andmete kogumise funktsioon sellel telefonil midagi.",
+    "value": "Andmete kogumiseks on vaja täpset asukohta, et paigutada kuuldud heli õigesse kaardirakku. Luba KiekR-ile täpse asukoha kasutamine. Vastasel juhul ei kogu andmete kogumise funktsioon sellel telefonil midagi.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT edastab andmeid ainult siis, kui oled seadmega Bluetoothi kaudu ühendatud. Seadme võrgustiku identiteeti ei laadita kunagi üles – iga vahendaja kasutab omaenda genereeritud võtmepaari. Vaatlejate nimed algavad alati tähtedega „KiekR_”.",
+    "value": "MQTT edastab andmeid ainult siis, kui oled seadmega Bluetoothi kaudu ühendatud. Seadme võrgustiku identiteeti ei laadita kunagi üles: iga vahendaja kasutab omaenda genereeritud võtmepaari. Vaatlejate nimed algavad alati tähtedega „KiekR_”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "3-täheline lennujaamakood tähistab teie piirkonda analüsaatori lehel (nt HAM, JFK, MUC). Vaatleja nimi kuvatakse teie pakettide kõrval – eesliide „KiekR_” on kindlaks määratud.",
+    "value": "3-täheline lennujaamakood tähistab teie piirkonda analüsaatori lehel (nt HAM, JFK, MUC). Vaatleja nimi kuvatakse teie pakettide kõrval. Eesliide „KiekR_” on kindlaks määratud.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Peatatud — mobiilsidevõrgus",
+    "value": "Peatatud: mobiilsidevõrgus",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Peatatud — mobiilvõrgus · „%1$d” on järjekorras",
+    "value": "Peatatud: mobiilvõrgus · „%1$d” on järjekorras",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT-üleslaadimine edastab iga töötlemata LoRa-paketi, mida teie seade vastu võtab – sealhulgas krüpteeritud baitid, mida te ise lugeda ei saa –, teie poolt konfigureeritud vahendajale. Vaikimisi on see funktsioon välja lülitatud; selle saab sisse lülitada iga vahendaja puhul eraldi. Iga vahendaja kasutab omaenda genereeritud võtmepaari, mistõttu teie seadme võrgustiku identiteet ei lahku kunagi seadmest.",
+    "value": "MQTT-üleslaadimine edastab iga töötlemata LoRa-paketi, mida teie seade vastu võtab (sealhulgas krüpteeritud baitid, mida te ise lugeda ei saa), teie poolt konfigureeritud vahendajale. Vaikimisi on see funktsioon välja lülitatud; selle saab sisse lülitada iga vahendaja puhul eraldi. Iga vahendaja kasutab omaenda genereeritud võtmepaari, mistõttu teie seadme võrgustiku identiteet ei lahku kunagi seadmest.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Teema — veaotsing",
+    "value": "Teema (veaotsing)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Teema — paketid",
+    "value": "Teema (paketid)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Teema — toores",
+    "value": "Teema (toores)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Teema — staatus",
+    "value": "Teema (staatus)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6104,7 +6104,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Port peab olema vahemikus 1–65535",
+    "value": "Port peab olema vahemikus 1 kuni 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Vaikimisi väljas. Sisselülitatuna laadib KiekR api.kiekr.app-i üles krahhi-, hangumis- ja protsessoriaruanded, mille iOS talle annab: rakenduse versioon, iOS-i versioon, seadme mudel, süsteemi veakoodid ja väljakutsete pinu. Ühtegi sõnumit, kontakti, võtit ega asukohta — ja see on ainus tee, kuidas sinu telefoni viga arendajani jõuab.",
+    "value": "Vaikimisi väljas. Sisselülitatuna laadib KiekR api.kiekr.app-i üles krahhi-, hangumis- ja protsessoriaruanded, mille iOS talle annab: rakenduse versioon, iOS-i versioon, seadme mudel, süsteemi veakoodid ja väljakutsete pinu. Ühtegi sõnumit, kontakti, võtit ega asukohta. See on ainus tee, kuidas sinu telefoni viga arendajani jõuab.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Eelkonfigureeritud ridade nime ega URL-i ei saa muuta – lülita need välja, kui sa neid kasutada ei soovi, või lisa uus allikas.",
+    "value": "Eelkonfigureeritud ridade nime ega URL-i ei saa muuta. Lülita need välja, kui sa neid kasutada ei soovi, või lisa uus allikas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Otsingud läbivad kõik aktiveeritud allikad järjestuse järgi; võidab esimene allikas, mis tagastab sobiva kandidaadi. api.kiekr.app tagab privaatsuse (ainult A-taseme repiiterid). Meshcorenetz Analyzer on laiem – suunab päringu loomulikult edasi sõlmede puhul, mida KiekR-i tagapõhisüsteemil pole. Järjestust saab muuta üles- ja allanooltega; puuduta pliiatsi ikooni, et muuta allika maksimaalset vahekaugust hüppe kohta.",
+    "value": "Otsingud läbivad kõik aktiveeritud allikad järjestuse järgi; võidab esimene allikas, mis tagastab sobiva kandidaadi. api.kiekr.app tagab privaatsuse (ainult A-taseme repiiterid). Meshcorenetz Analyzer on laiem, suunab päringu loomulikult edasi sõlmede puhul, mida KiekR-i tagapõhisüsteemil pole. Järjestust saab muuta üles- ja allanooltega; puuduta pliiatsi ikooni, et muuta allika maksimaalset vahekaugust hüppe kohta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnoosikontekst —",
+    "value": "Diagnoosikontekst:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Androidi logid — %1$s %2$s — %3$s",
+    "value": "KiekR Androidi logid, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Saada teade iga sissetuleva DM-i kohta. DM-id on krüptograafiliselt autentimitud – selle funktsiooni väljalülitamine tühistab vaid teate kuvamise; sõnum jõuab ikkagi sinu vestluste loendisse.",
+    "value": "Saada teade iga sissetuleva DM-i kohta. DM-id on krüptograafiliselt autentimitud. Selle funktsiooni väljalülitamine tühistab vaid teate kuvamise; sõnum jõuab ikkagi sinu vestluste loendisse.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Püsiv õppimisabi eelneva osa kokkupõrgete puhul: kui deterministlik valija on võitja välja valinud, muudetakse (eelneva osa, hüpe, avalik võti) väärtust, nii et järgmine viik sama eelneva osaga lahendatakse samamoodi.\n\nVahemälu TTL — kui kaua kirje säilib ilma uuesti kasutamiseta. Vaikimisi 30 päeva, piir 1..=180.\n\nViigi lahendamise marginaal — kui lähedased peavad kahe kandidaadi näitajad olema (protsentides), enne kui vahemälu viigi lahendab. 0 lülitab vahemälu tagavaralahenduse välja (kvalifitseeruvad ainult täpsed viigid); 20 on ülempiir. Vaikimisi 5 %.",
+    "value": "Püsiv õppimisabi eelneva osa kokkupõrgete puhul: kui deterministlik valija on võitja välja valinud, muudetakse (eelneva osa, hüpe, avalik võti) väärtust, nii et järgmine viik sama eelneva osaga lahendatakse samamoodi.\n\nVahemälu TTL: kui kaua kirje säilib ilma uuesti kasutamiseta. Vaikimisi 30 päeva, piir 1..=180.\n\nViigi lahendamise marginaal: kui lähedased peavad kahe kandidaadi näitajad olema (protsentides), enne kui vahemälu viigi lahendab. 0 lülitab vahemälu tagavaralahenduse välja (kvalifitseeruvad ainult täpsed viigid); 20 on ülempiir. Vaikimisi 5 %.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Mitmebaidiliste hüppede jaoks on vaja Companion-i püsivara versiooni v1.15.0 või uuemat. Teie Companion näitab vanemat versiooni – seade on lukustatud 1-baidilisele režiimile, kuni te seda uuendate. Teie varasemad seaded säilivad ja aktiveeritakse uuesti pärast uuendamist.",
+    "value": "Mitmebaidiliste hüppede jaoks on vaja Companion-i püsivara versiooni v1.15.0 või uuemat. Teie Companion näitab vanemat versiooni: seade on lukustatud 1-baidilisele režiimile, kuni te seda uuendate. Teie varasemad seaded säilivad ja aktiveeritakse uuesti pärast uuendamist.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Meie poolt algatatud uute väljaminevate pakettide marsruudile lisatakse hüppe kohta baitide arv. Suuremad väärtused vähendavad nimede kokkupõrkeid, kuid vanemad korduvate seadmete tarkvaraversioonid ei pruugi neid edasi suunata. Teadaolevate kontaktide puhul säilitatakse saadud marsruutide laius – see seade mõjutab ainult üleujutus- ja anonüümsete vastuste marsruute. Kordumatute marsruutide jaoks on soovitatav 3 baiti (2 töötab samuti); püsivara vaikeväärtus on 1.",
+    "value": "Meie poolt algatatud uute väljaminevate pakettide marsruudile lisatakse hüppe kohta baitide arv. Suuremad väärtused vähendavad nimede kokkupõrkeid, kuid vanemad korduvate seadmete tarkvaraversioonid ei pruugi neid edasi suunata. Teadaolevate kontaktide puhul säilitatakse saadud marsruutide laius. See seade mõjutab ainult üleujutus- ja anonüümsete vastuste marsruute. Kordumatute marsruutide jaoks on soovitatav 3 baiti (2 töötab samuti); püsivara vaikeväärtus on 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Veebikataloog on välja lülitatud — lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
+    "value": "Veebikataloog on välja lülitatud. Lülita allikas sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Piirkond „%1$s“ on juba sinu nimekirjas — tee see jälle nähtavaks",
+    "value": "Piirkond „%1$s“ on juba sinu nimekirjas: tee see jälle nähtavaks",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Android peatab rakenduste võrguside, kui ekraan on välja lülitatud. Vabasta KiekR akuoptimeerimisest – ja oma telefoni tootja poolt kehtestatud automaatse käivitamise piirangutest –, et kaasrakenduse ühendus püsiks taustal.",
+    "value": "Android peatab rakenduste võrguside, kui ekraan on välja lülitatud. Vabasta KiekR akuoptimeerimisest (ja oma telefoni tootja poolt kehtestatud automaatse käivitamise piirangutest), et kaasrakenduse ühendus püsiks taustal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "„Retries“ näitab, mitu lisakatseid teeb core-lib iga GET_NEIGHBOURS-lehekülje kohta, kui püsivara ei vasta ühe katse ajavahemiku jooksul — see on kasulik ebastabiilsete BLE- või raadioühenduste puhul, kus lehekülje saatmine aegub. Ajaaken sõltub lehekülje suurusest, seega selle suurendamine annab lisakatsetele vajaliku aja. Lehekülje suurus ise on fikseeritud püsivara puhvri ülempiirile. Vaikimisi on väärtuseks %1$d.",
+    "value": "„Retries“ näitab, mitu lisakatseid teeb core-lib iga GET_NEIGHBOURS-lehekülje kohta, kui püsivara ei vasta ühe katse ajavahemiku jooksul. See on kasulik ebastabiilsete BLE- või raadioühenduste puhul, kus lehekülje saatmine aegub. Ajaaken sõltub lehekülje suurusest, seega selle suurendamine annab lisakatsetele vajaliku aja. Lehekülje suurus ise on fikseeritud püsivara puhvri ülempiirile. Vaikimisi on väärtuseks %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Vastust pole — tee ei pruugi olla kättesaadav.",
+    "value": "Vastust pole: tee ei pruugi olla kättesaadav.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Esimene repiiter peab sind kuulma ja sina pead kuulma viimase vastust — vali tee, mille toimimises oled kindel.",
+    "value": "Esimene repiiter peab sind kuulma ja sina pead kuulma viimase vastust. Vali tee, mille toimimises oled kindel.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Ühtegi seadet pole ühendatud — puuduta, et seadmed ühendada",
+    "value": "Ühtegi seadet pole ühendatud: puuduta, et seadmed ühendada",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR suudab tundmatut repiiterit selle hash-väärtuse järgi veebikataloogidest üles otsida – see on kasulik juhul, kui marsruudihüpe kuvatakse pelgalt kuueteistkümnendsüsteemis esitatud eelneva osana. See funktsioon on vaikimisi välja lülitatud, kuni lülitate selle sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
+    "value": "KiekR suudab tundmatut repiiterit selle hash-väärtuse järgi veebikataloogidest üles otsida (see on kasulik juhul, kui marsruudihüpe kuvatakse pelgalt kuueteistkümnendsüsteemis esitatud eelneva osana). See funktsioon on vaikimisi välja lülitatud, kuni lülitate selle sisse menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Logi sisse paremas ülanurgas oleva juhtnuppu abil — külalisena statistika, naabrite, telemeetria ja püsivara vaatamiseks; administraatorina seadistuste, piirkondade ja CLI-ks kasutamiseks.",
+    "value": "Logi sisse paremas ülanurgas oleva juhtnuppu abil: külalisena statistika, naabrite, telemeetria ja püsivara vaatamiseks; administraatorina seadistuste, piirkondade ja CLI-ks kasutamiseks.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Paketid, mida raadio ei suutnud korrektselt lugeda – suureneb häirete või nõrga signaali korral.",
+    "value": "Paketid, mida raadio ei suutnud korrektselt lugeda. Suureneb häirete või nõrga signaali korral.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Kui see on sisse lülitatud, jagab KiekR teavet selle kohta, millistel kaardirakkudel on võrgukate, veebisaidiga mapme.sh – see on kogukonna katvuskart. Iga proov sisaldab kaardirakku, signaali tugevust ja hüppeteed, kuid mitte kunagi teie täpset asukohta ega isikut. Üleslaadimised toimuvad vastavalt teie „Ainult Wi-Fi” ja üleslaadimisintervalli seadistustele.",
+    "value": "Kui see on sisse lülitatud, jagab KiekR teavet selle kohta, millistel kaardirakkudel on võrgukate, veebisaidiga mapme.sh (see on kogukonna katvuskart). Iga proov sisaldab kaardirakku, signaali tugevust ja hüppeteed, kuid mitte kunagi teie täpset asukohta ega isikut. Üleslaadimised toimuvad vastavalt teie „Ainult Wi-Fi” ja üleslaadimisintervalli seadistustele.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "GPS-asukohta ei leitud — veebikataloogi hüppeid ei pruugita kaardile kanda. Luba asukoha juurdepääs täieliku marsruudi määramiseks.",
+    "value": "GPS-asukohta ei leitud: veebikataloogi hüppeid ei pruugita kaardile kanda. Luba asukoha juurdepääs täieliku marsruudi määramiseks.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Kopeeri 64- või 128-märgiline kuueteistkümnendsüsteemis esitatud privaatvõti, et taastada varundatud identiteet — salvestatakse kohalikult ja edastatakse ühendatud kaasrakendusele. Eksportimisel kuvatakse selle sõlme võti, et saaksid sellest varukoopia teha.",
+    "value": "Kopeeri 64- või 128-märgiline kuueteistkümnendsüsteemis esitatud privaatvõti, et taastada varundatud identiteet. Salvestatakse kohalikult ja edastatakse ühendatud kaasrakendusele. Eksportimisel kuvatakse selle sõlme võti, et saaksid sellest varukoopia teha.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Fikseeritud vaikimisi allikas – lõpppunkt ja muud seaded on fikseeritud; siin saate seda ümber nimetada.",
+    "value": "Fikseeritud vaikimisi allikas: lõpppunkt ja muud seaded on fikseeritud; siin saate seda ümber nimetada.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Server vastas – URL on kehtiv",
+    "value": "Server vastas: URL on kehtiv",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "See on sinu sõlme salajane identiteedivõti – igaüks, kellel see on, võib end sinu sõlmena esitada. Hoia seda turvalises kohas ja ära kunagi seda kellelegi avalda.",
+    "value": "See on sinu sõlme salajane identiteedivõti: igaüks, kellel see on, võib end sinu sõlmena esitada. Hoia seda turvalises kohas ja ära kunagi seda kellelegi avalda.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Kui see on sees, võib KiekR automaatselt esitada kataloogipäringuid puuduva konteksti kohta, mida rakendus passiivselt märkab — tundmatud hopid teel, kuuldud repeaterid, mida kataloogis veel ei ole, puuduvad naabrite read ja puuduvad piirkonnad avastamisel. Kui see on väljas (vaikimisi), vajab iga kataloogipäring puudutust.",
+    "value": "Kui see on sees, võib KiekR automaatselt esitada kataloogipäringuid puuduva konteksti kohta, mida rakendus passiivselt märkab: tundmatud hopid teel, kuuldud repeaterid, mida kataloogis veel ei ole, puuduvad naabrite read ja puuduvad piirkonnad avastamisel. Kui see on väljas (vaikimisi), vajab iga kataloogipäring puudutust.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Päringud lähevad ainult KiekR kataloogi — mitte kunagi kolmanda osapoole hostile. Vahemälust lugemine jääb tasuta; see lüliti reguleerib võrgupoolt.",
+    "value": "Päringud lähevad ainult KiekR kataloogi, mitte kunagi kolmanda osapoole hostile. Vahemälust lugemine jääb tasuta; see lüliti reguleerib võrgupoolt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "See EI OLE sinu BLE paaristamise PIN ja EI OLE sinu identiteedi salafraas. See kaitseb ainult seda varukoopia faili. Vali midagi meeldejäävat — KiekR ei saa sulle seda taastada.",
+    "value": "See EI OLE sinu BLE paaristamise PIN ja EI OLE sinu identiteedi salafraas. See kaitseb ainult seda varukoopia faili. Vali midagi meeldejäävat. KiekR ei saa sulle seda taastada.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Teavita, kui ühendatud seadme aku langeb hoiatuse protsendini. Taasaktiveerimise vahe näitab, kui palju protsenti peab tase enne järgmist hoiatust üle piiri tõusma — suurenda seda, kui sinu aku kõver jääb platoole (LiFePO4, AA).",
+    "value": "Teavita, kui ühendatud seadme aku langeb hoiatuse protsendini. Taasaktiveerimise vahe näitab, kui palju protsenti peab tase enne järgmist hoiatust üle piiri tõusma. Suurenda seda, kui sinu aku kõver jääb platoole (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Pühi, et blokeering eemaldada. Nende varasemad sõnumid ilmuvad taas kõigis kanalites, kui blokeering on eemaldatud. Blokeerimine vastab täpselt kuvatud nimele — igaüks saab valida sama nime, seega ei peata see sihikindlat postitajat ennast ümber nimetamast.",
+    "value": "Pühi, et blokeering eemaldada. Nende varasemad sõnumid ilmuvad taas kõigis kanalites, kui blokeering on eemaldatud. Blokeerimine vastab täpselt kuvatud nimele. Igaüks saab valida sama nime, seega ei peata see sihikindlat postitajat ennast ümber nimetamast.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Ühendatud standardse sõlmega — saata saavad vaid kanalid, mis on seadmele installitud. Pühi paremale, et kanal seadmele lisada või seadmelt eemaldada. Pühi vasakule, et kanal eemaldada — #-kanalid hoiavad oma võtit, nii et saad need nime järgi uuesti lisada; kohandatud võtmega kanalid kustutatakse jäädavalt.",
+    "value": "Ühendatud standardse sõlmega: saata saavad vaid kanalid, mis on seadmele installitud. Pühi paremale, et kanal seadmele lisada või seadmelt eemaldada. Pühi vasakule, et kanal eemaldada: #-kanalid hoiavad oma võtit, nii et saad need nime järgi uuesti lisada; kohandatud võtmega kanalid kustutatakse jäädavalt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanalile tuleb määrata piirkond, et see enamikus võrkudes edasi saadetaks. Puuduta kanalit, et see määrata. Pühi vasakule, et eemaldada — #-kanalid hoiavad oma võtit, nii et saad need nime järgi uuesti lisada; kohandatud võtmega kanalid kustutatakse jäädavalt.",
+    "value": "Kanalile tuleb määrata piirkond, et see enamikus võrkudes edasi saadetaks. Puuduta kanalit, et see määrata. Pühi vasakule, et eemaldada: #-kanalid hoiavad oma võtit, nii et saad need nime järgi uuesti lisada; kohandatud võtmega kanalid kustutatakse jäädavalt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Külalisjuurdepääs – ainult lugemiseks",
+    "value": "Külalisjuurdepääs (ainult lugemiseks)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Veebikataloog on väljas — luba allikas menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
+    "value": "Veebikataloog on väljas. Luba allikas menüüs „Seaded“ → „Jagamine“ → „Kataloog“.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Selle hopi lühikese tee prefiksiga sobib mitu repeaterit. Me ei saa õiget automaatselt valida — vali see, mis oli sinu teel.",
+    "value": "Selle hopi lühikese tee prefiksiga sobib mitu repeaterit. Me ei saa õiget automaatselt valida. Vali see, mis oli sinu teel.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Hekseid ei ole veel kaardistatud — sõida ringi, raadio sees, ja need ilmuvad siia.",
+    "value": "Hekseid ei ole veel kaardistatud. Sõida ringi, raadio sees, ja need ilmuvad siia.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Peatatud – mobiilsidel",
+    "value": "Peatatud: mobiilsidel",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Teema – paketid",
+    "value": "Teema (paketid)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Teema – staatus",
+    "value": "Teema (staatus)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Teema – silumine",
+    "value": "Teema (silumine)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Teema – toores",
+    "value": "Teema (toores)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Salvestab identiteedi kohalikult. Kui võti põhineb seemnel ja companion on ühendatud, saadetakse seeme ka seadmesse käsuga CMD_IMPORT_PRIVATE_KEY — see kirjutab üle seadme praeguse identiteedi.",
+    "value": "Salvestab identiteedi kohalikult. Kui võti põhineb seemnel ja companion on ühendatud, saadetakse seeme ka seadmesse käsuga CMD_IMPORT_PRIVATE_KEY. See kirjutab üle seadme praeguse identiteedi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Saatja kella nihe – kasutatakse kohalikku vastuvõtuaega",
+    "value": "Saatja kella nihe: kasutatakse kohalikku vastuvõtuaega",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Parool on piiratud 15 tähemärgiga — kõik pikem lühendatakse sisselogimisel.",
+    "value": "Parool on piiratud 15 tähemärgiga. Kõik pikem lühendatakse sisselogimisel.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Teavita igast saabuvast otsesõnumist. Otsesõnumid on krüptograafiliselt autenditud – selle väljalülitamine ainult varjab teavituse; sõnum jõuab sellegipoolest sinu vestluste loendisse.",
+    "value": "Teavita igast saabuvast otsesõnumist. Otsesõnumid on krüptograafiliselt autenditud. Selle väljalülitamine ainult varjab teavituse; sõnum jõuab sellegipoolest sinu vestluste loendisse.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Mitmebaidised hopid vajavad companion-püsivara versiooni v1.15.0 või uuemat. Sinu companion näitab vanemat versiooni — kuni uuenduseni on lukustatud 1 baidile. Sinu varasem eelistus on säilitatud ja aktiveerub uuesti pärast uuendamist.",
+    "value": "Mitmebaidised hopid vajavad companion-püsivara versiooni v1.15.0 või uuemat. Sinu companion näitab vanemat versiooni: kuni uuenduseni on lukustatud 1 baidile. Sinu varasem eelistus on säilitatud ja aktiveerub uuesti pärast uuendamist.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Pühi üle piirkonna, et see eemaldada. See jääb andmebaasi (ja märgib jätkuvalt sissetulevat liiklust), kuid kaob sellest loendist ja kanalivalijatest — lisa see nime järgi tagasi, et see taastada.",
+    "value": "Pühi üle piirkonna, et see eemaldada. See jääb andmebaasi (ja märgib jätkuvalt sissetulevat liiklust), kuid kaob sellest loendist ja kanalivalijatest. Lisa see nime järgi tagasi, et see taastada.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Ei ole ühendatud companion-seadmega — ühenda esmalt sõlm.",
+    "value": "Ei ole ühendatud companion-seadmega. Ühenda esmalt sõlm.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Taasta `.json`- või `.mcbackup`-failist. Importimine on vaikimisi „Asenda“ — sinu olemasolevad kanalid, kontaktid ja piirkonnad kustutatakse, misjärel pakett sisestatakse. Hoia „Kinnita“ 5 sekundit all.",
+    "value": "Taasta `.json`- või `.mcbackup`-failist. Importimine on vaikimisi „Asenda“: sinu olemasolevad kanalid, kontaktid ja piirkonnad kustutatakse, misjärel pakett sisestatakse. Hoia „Kinnita“ 5 sekundit all.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Ükski vaatleja ei ole seda veel kuulnud — see ei tähenda kunagi, et saatmine ebaõnnestus.",
+    "value": "Ükski vaatleja ei ole seda veel kuulnud. See ei tähenda kunagi, et saatmine ebaõnnestus.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Seni kuuldud ühes vaatleja piirkonnas — tõenäoliselt vaid lähedal.",
+    "value": "Seni kuuldud ühes vaatleja piirkonnas, tõenäoliselt vaid lähedal.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Kuuldud %1$d piirkonnas — mesh kandis selle sõnumi edasi.",
+    "value": "Kuuldud %1$d piirkonnas: mesh kandis selle sõnumi edasi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Kontroll ebaõnnestus — proovi hiljem uuesti.",
+    "value": "Kontroll ebaõnnestus. Proovi hiljem uuesti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Kuulnud %1$d vaatlejat — mesh kandis selle sõnumi edasi.",
+    "value": "Kuulnud %1$d vaatlejat: mesh kandis selle sõnumi edasi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "See sõlm lisab praegu automaatselt kõiki teadete tüüpe („Auto add all“) — allolevatel filtritel ei ole mõju. Mõni teine rakendus võib olla selle sisse lülitanud.",
+    "value": "See sõlm lisab praegu automaatselt kõiki teadete tüüpe („Auto add all“). Allolevatel filtritel ei ole mõju. Mõni teine rakendus võib olla selle sisse lülitanud.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Ei saadetud — pole teie sõlme installitud",
+    "value": "Ei saadetud: pole teie sõlme installitud",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Kaardistab ka heksagoone, kus liiklust ei võetud vastu — kasutab GPS-i ja rohkem akut.",
+    "value": "Kaardistab ka heksagoone, kus liiklust ei võetud vastu. Kasutab GPS-i ja rohkem akut.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Selle sõlme kontaktiloend on täis — see ei saa vastu võtta uusi kuuldud kontakte. Kustuta mõned, et teha ruumi.",
+    "value": "Selle sõlme kontaktiloend on täis: see ei saa vastu võtta uusi kuuldud kontakte. Kustuta mõned, et teha ruumi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Peatatud — asukohale on juurdepääs vaid „Rakenduse kasutamise ajal“",
+    "value": "Peatatud: asukohale on juurdepääs vaid „Rakenduse kasutamise ajal“",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Peatatud — asukohaseanss lõpetatud",
+    "value": "Peatatud: asukohaseanss lõpetatud",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Ilma „Alati“ valikuta kogub kaetus andmeid vaid siis, kui KiekR on avatud — iOS peatab asukohaseansi, kui rakendus läheb taustale. „Alati“ valikuga kogub KiekR jätkuvalt andmeid taskus, kasutades ainult asukohta, mida sinu telefon juba teab, lisa-GPS-i kasutamata.",
+    "value": "Ilma „Alati“ valikuta kogub kaetus andmeid vaid siis, kui KiekR on avatud. iOS peatab asukohaseansi, kui rakendus läheb taustale. „Alati“ valikuga kogub KiekR jätkuvalt andmeid taskus, kasutades ainult asukohta, mida sinu telefon juba teab, lisa-GPS-i kasutamata.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Eemaldab %@ sinu vestluste loendist ja kanaliseadetest. Saad selle hiljem uuesti lisada, sisestades nime menüüs „Seaded“ → „Kanalid“ → „Lisa kanal nime järgi“ — SHA-256 võti tuletatakse samal viisil.",
+    "value": "Eemaldab %@ sinu vestluste loendist ja kanaliseadetest. Saad selle hiljem uuesti lisada, sisestades nime menüüs „Seaded“ → „Kanalid“ → „Lisa kanal nime järgi“. SHA-256 võti tuletatakse samal viisil.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Kustutada %@? See on jäädav — võtit ei saa nimest uuesti tuletada.",
+    "value": "Kustutada %@? See on jäädav: võtit ei saa nimest uuesti tuletada.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Püsiv õppimisabi prefiksikonfliktide jaoks: kui deterministlik valija on võitja välja selgitanud, uuendatakse (prefiks, hop, pubkey) kirjet, nii et järgmine viik samal prefiksil laheneb samal moel.\n\nVahemälu TTL — kui kaua kirje püsib, kui seda uuesti ei kasutata. Vaikimisi 30 päeva, piir 1..=180.\n\nViigimurdmise piirmäär — kui lähedal peavad kahe kandidaadi mõõdikud olema (protsentides), enne kui vahemälu viigi lahendab. 0 keelab vahemälu varulahenduse (ainult täpsed viigid kvalifitseeruvad); 20 on ülempiir. Vaikimisi 5 %.",
+    "value": "Püsiv õppimisabi prefiksikonfliktide jaoks: kui deterministlik valija on võitja välja selgitanud, uuendatakse (prefiks, hop, pubkey) kirjet, nii et järgmine viik samal prefiksil laheneb samal moel.\n\nVahemälu TTL: kui kaua kirje püsib, kui seda uuesti ei kasutata. Vaikimisi 30 päeva, piir 1..=180.\n\nViigimurdmise piirmäär: kui lähedal peavad kahe kandidaadi mõõdikud olema (protsentides), enne kui vahemälu viigi lahendab. 0 keelab vahemälu varulahenduse (ainult täpsed viigid kvalifitseeruvad); 20 on ülempiir. Vaikimisi 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth on välja lülitatud — puuduta sisselülitamiseks",
+    "value": "Bluetooth on välja lülitatud: puuduta sisselülitamiseks",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Peatatud — sellel telefonil pole võrgupõhist asukohta. GPS-positsioonid saabuvad ainult siis, kui mõni teine rakendus kasutab GPS-i või laadimise ajal.",
+    "value": "Peatatud: sellel telefonil pole võrgupõhist asukohta. GPS-positsioonid saabuvad ainult siis, kui mõni teine rakendus kasutab GPS-i või laadimise ajal.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Sellel telefonil pole võrgupõhist asukohta. Kui see on sisse lülitatud, käivitab KiekR GPS-i ise, kuni võrguliiklust vastu võetakse — ka akutoitel, ja peatub paigal seistes. Kulutab rohkem akut.",
+    "value": "Sellel telefonil pole võrgupõhist asukohta. Kui see on sisse lülitatud, käivitab KiekR GPS-i ise, kuni võrguliiklust vastu võetakse (ka akutoitel, ja peatub paigal seistes). Kulutab rohkem akut.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Ainult HEX-märgid 0–9, a–f. Tühikud ja koolonid eemaldatakse kleepimisel. Repeater vajab lisamiseks kogu võtit.",
+    "value": "Ainult HEX-märgid 0-9, a-f. Tühikud ja koolonid eemaldatakse kleepimisel. Repeater vajab lisamiseks kogu võtit.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d kirjet – loend võib olla puudulik",
+    "value": "%1$d kirjet (loend võib olla puudulik)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Ainult HEX-märgid 0–9, a–f. Tühikud ja koolonid eemaldatakse kleepimisel. Toaserver vajab lisamiseks kogu võtit.",
+    "value": "Ainult HEX-märgid 0-9, a-f. Tühikud ja koolonid eemaldatakse kleepimisel. Toaserver vajab lisamiseks kogu võtit.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Kõik“ tähendab kõiki sellel sõlmel salvestatud kontakte — automaatse lisamise korral praktiliselt kõiki levialas olijaid.",
+    "value": "„Kõik“ tähendab kõiki sellel sõlmel salvestatud kontakte: automaatse lisamise korral praktiliselt kõiki levialas olijaid.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Jagamine on sinu sõlmel väljas — lülita see sisse: Minu sõlm → Telemeetria jagamine.",
+    "value": "Jagamine on sinu sõlmel väljas. Lülita see sisse: Minu sõlm → Telemeetria jagamine.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Õigusi ei õnnestunud muuta — kontakt peab olema sinu sõlmel.",
+    "value": "Õigusi ei õnnestunud muuta: kontakt peab olema sinu sõlmel.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Sellel sõlmel on juba pooleli teine päring — proovi hetke pärast uuesti.",
+    "value": "Sellel sõlmel on juba pooleli teine päring. Proovi hetke pärast uuesti.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Asend muutumatu — seadmel ei pruugi hetkel kehtivat GPS-asukohta olla.",
+    "value": "Asend muutumatu: seadmel ei pruugi hetkel kehtivat GPS-asukohta olla.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Vastuses pole asukohta — GPS puudub, GPS on väljas, või asukohta ei jagata sinuga.",
+    "value": "Vastuses pole asukohta: GPS puudub, GPS on väljas, või asukohta ei jagata sinuga.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Vastust ei tulnud — levialast väljas, või see kontakt pole sul lubanud seda küsida.",
+    "value": "Vastust ei tulnud: levialast väljas, või see kontakt pole sul lubanud seda küsida.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Kuni 16 päringut 15 minuti jooksul, ainult tuntud marsruudi kaudu või otseses levialas — võrku ei täideta.",
+    "value": "Kuni 16 päringut 15 minuti jooksul, ainult tuntud marsruudi kaudu või otseses levialas (võrku ei täideta).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Reaalajas jälgimine lõppes — 15 minutit said täis.",
+    "value": "Reaalajas jälgimine lõppes: 15 minutit said täis.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Vastust ei tulnud — väljaspool otsest levialat? Kasuta nuppu „Otsi võrgust“, et proovida kordajate kaudu.",
+    "value": "Vastust ei tulnud. Väljaspool otsest levialat? Kasuta nuppu „Otsi võrgust“, et proovida kordajate kaudu.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Ühendus sõlmega katkes — reaalajas jälgimine peatati.",
+    "value": "Ühendus sõlmega katkes. Reaalajas jälgimine peatati.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Juurdepääs asukohale on välja lülitatud — see on vajalik sinu asukoha ja kauguse kuvamiseks.",
+    "value": "Juurdepääs asukohale on välja lülitatud. See on vajalik sinu asukoha ja kauguse kuvamiseks.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Jaa loki ensin — tyhjennys poistaa juuri ne tiedot, joita tarvitsemme diagnoosiin.",
+    "value": "Jaa loki ensin: tyhjennys poistaa juuri ne tiedot, joita tarvitsemme diagnoosiin.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Ei yhdistettyä solmua — yhdistä companion-laite lähettääksesi.",
+    "value": "Ei yhdistettyä solmua. Yhdistä companion-laite lähettääksesi.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Yhteys katkaistu — muodosta yhteys uudelleen lähettämistä varten",
+    "value": "Yhteys katkaistu: muodosta yhteys uudelleen lähettämistä varten",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanavan viestit ovat nimettömiä — lähettäjänä voi olla kuka tahansa kanavalla oleva henkilö.",
+    "value": "Kanavan viestit ovat nimettömiä: lähettäjänä voi olla kuka tahansa kanavalla oleva henkilö.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Verkkohakemisto on pois käytöstä — ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
+    "value": "Verkkohakemisto on pois käytöstä. Ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Useat toistimet vastaavat tämän hyppyn lyhyen reitin etuliitettä. Emme voi valita oikeaa toistinta automaattisesti — valitse se, joka oli reitilläsi.",
+    "value": "Useat toistimet vastaavat tämän hyppyn lyhyen reitin etuliitettä. Emme voi valita oikeaa toistinta automaattisesti. Valitse se, joka oli reitilläsi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "ei vastaavuutta — hakemistossa ei ollut tätä etuliitettä vastaavaa merkintää",
+    "value": "ei vastaavuutta: hakemistossa ei ollut tätä etuliitettä vastaavaa merkintää",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "ei osumia — lähimmät verkosta löytyvät osumat sijaitsevat järjen rajojen ulkopuolella",
+    "value": "ei osumia: lähimmät verkosta löytyvät osumat sijaitsevat järjen rajojen ulkopuolella",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Jokainen välipiste on toistimen julkisen avaimen ensimmäiset %1$d tavua. Lyhyet avaimet voivat vastata useita toistimia — napauta maapalloa, jos haluat etsiä puuttuvia välipisteitä verkkohakemistosta.",
+    "value": "Jokainen välipiste on toistimen julkisen avaimen ensimmäiset %1$d tavua. Lyhyet avaimet voivat vastata useita toistimia. Napauta maapalloa, jos haluat etsiä puuttuvia välipisteitä verkkohakemistosta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "tuntematon — laitteesta",
+    "value": "tuntematon (laitteesta)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Määrä on alaraja — vilkkaassa liikenteessä kopioita voi kadota ennen sovellukseen saapumista.",
+    "value": "Määrä on alaraja: vilkkaassa liikenteessä kopioita voi kadota ennen sovellukseen saapumista.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(ei mitään — laitteesta)",
+    "value": "(ei mitään, laitteesta)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Löydetyt kanavat — napauta nähdäksesi ne",
+    "value": "Löydetyt kanavat (napauta nähdäksesi ne)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Napauta avainta kopioidaksesi. Kanavat tunnistetaan avaimen perusteella, ei nimen perusteella — nimien päällekkäisyydet ovat yleisiä.",
+    "value": "Napauta avainta kopioidaksesi. Kanavat tunnistetaan avaimen perusteella, ei nimen perusteella: nimien päällekkäisyydet ovat yleisiä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,12 +616,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d hyppyä",
+    "value": "%1$d-%2$d hyppyä",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
   "chat_hops_range_a11y": {
-    "value": "vastaanotettu %1$d–%2$d hypyn kautta",
+    "value": "vastaanotettu %1$d ja %2$d hypyn välillä",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Solmusi on jo lähettänyt tämän viestin. Vahvistusta ei kuulunut, mutta kantaman sisällä olevat vastaanottajat ovat silti voineet saada sen — uudelleen lähettäminen näyttää viestin heille kahdesti.",
+    "value": "Solmusi on jo lähettänyt tämän viestin. Vahvistusta ei kuulunut, mutta kantaman sisällä olevat vastaanottajat ovat silti voineet saada sen. Uudelleen lähettäminen näyttää viestin heille kahdesti.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Vieraskäyttöoikeus — vain lukuoikeus",
+    "value": "Vieraskäyttöoikeus (vain lukuoikeus)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Jokainen kehys, jonka solmusi kuulee, näkyy täällä — mitään ei suodateta pois.",
+    "value": "Jokainen kehys, jonka solmusi kuulee, näkyy täällä. Mitään ei suodateta pois.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Suodattamaton — dekoodatut, muille salatut, tuntemattomat ja vialliset kehykset näkyvät kaikki.",
+    "value": "Suodattamaton: dekoodatut, muille salatut, tuntemattomat ja vialliset kehykset näkyvät kaikki.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "salattu — ei tälle laitteelle",
+    "value": "salattu, ei tälle laitteelle",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "näyttää jokaisen vastaanotetun kehyksen — myös sen, mitä ei voi lukea",
+    "value": "näyttää jokaisen vastaanotetun kehyksen, myös sen, mitä ei voi lukea",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d välimuistissa · osittainen — napauta päivittää",
+    "value": "%1$d välimuistissa · osittainen, napauta päivittää",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Naapureita ei ole välimuistissa — napauta päivitä.",
+    "value": "Naapureita ei ole välimuistissa. Napauta päivitä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Tämän viestin välittäjistä — eikä sen lähettäjästä — kenellekään ei ole tallennettu GPS-koordinaatteja. Sulje tämä näkymä, napauta maapallokuvaketta viestin reittiosassa ja palaa sitten takaisin.",
+    "value": "Tämän viestin välittäjistä (eikä sen lähettäjästä) kenellekään ei ole tallennettu GPS-koordinaatteja. Sulje tämä näkymä, napauta maapallokuvaketta viestin reittiosassa ja palaa sitten takaisin.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f ja %2$.0f dB välillä",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Muiden solmujen on lisättävä ilmoituksemme yhteystietotaulukkoonsa, ennen kuin ne voivat purkaa salauksen yksityisviesteistämme. Napauta valitaksesi levitystavan — ”zero-hop” on hiljainen (vain naapurit); ”flood” on äänekäs (koko verkko).",
+    "value": "Muiden solmujen on lisättävä ilmoituksemme yhteystietotaulukkoonsa, ennen kuin ne voivat purkaa salauksen yksityisviesteistämme. Napauta valitaksesi levitystavan: ”zero-hop” on hiljainen (vain naapurit); ”flood” on äänekäs (koko verkko).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Tässä laitteessa on akkukäyttöinen RTC. Ohjelmistolla sitä ei voi nollata — palauta asetukset päivittämällä laiteohjelmisto tai irrottamalla RTC:n varakku.",
+    "value": "Tässä laitteessa on akkukäyttöinen RTC. Ohjelmistolla sitä ei voi nollata. Palauta asetukset päivittämällä laiteohjelmisto tai irrottamalla RTC:n varakku.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "”Reboot” käynnistää paritetun solmun uudelleen. ”Factory reset” poistaa laitteen yhteystiedot, kanavat ja asetukset — sovelluksen paikallisiin tietoihin ei kosketa.",
+    "value": "”Reboot” käynnistää paritetun solmun uudelleen. ”Factory reset” poistaa laitteen yhteystiedot, kanavat ja asetukset. Sovelluksen paikallisiin tietoihin ei kosketa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "”Disconnect” katkaisee yhteyden, mutta säilyttää välimuistissa olevan sidoksen — napauta ”Connect”, jos haluat muodostaa yhteyden uudelleen ilman uutta pariliitosta. ”Forget” poistaa pariliitoksen ja tyhjentää välimuistin; solmu on liitettävä uudelleen, jotta se palaa käyttöön.",
+    "value": "”Disconnect” katkaisee yhteyden, mutta säilyttää välimuistissa olevan sidoksen. Napauta ”Connect”, jos haluat muodostaa yhteyden uudelleen ilman uutta pariliitosta. ”Forget” poistaa pariliitoksen ja tyhjentää välimuistin; solmu on liitettävä uudelleen, jotta se palaa käyttöön.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Poistaa laitteelta yhteystiedot, kanavat, alueet, asetukset ja tunnistetiedot. Toimenpide on peruuttamaton — sitä ei voi kumota. Vie kaikki tiedot, jotka haluat säilyttää, ennen kuin jatkat.",
+    "value": "Poistaa laitteelta yhteystiedot, kanavat, alueet, asetukset ja tunnistetiedot. Toimenpide on peruuttamaton: sitä ei voi kumota. Vie kaikki tiedot, jotka haluat säilyttää, ennen kuin jatkat.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Koko verkko. Meluisaa — jokainen toistaja lähettää viestin uudelleen. Käytä säästeliäästi; tulvamainokset maksavat lähetysaikaa toistajakohtaisesti.",
+    "value": "Koko verkko. Meluisaa: jokainen toistaja lähettää viestin uudelleen. Käytä säästeliäästi; tulvamainokset maksavat lähetysaikaa toistajakohtaisesti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Advanced-tilassa tallennetaan raakatiedot: taajuus (freq), kaistanleveys (BW), alikytkentäsuhde (SF) ja kanavaväli (CR). Laiteohjelmiston taajuusalueet: 400–2500 MHz, 7,8–500 kHz, alikytkentäsuhde 5–12, kanavaväli 4/5–4/8.",
+    "value": "Advanced-tilassa tallennetaan raakatiedot: taajuus (freq), kaistanleveys (BW), alikytkentäsuhde (SF) ja kanavaväli (CR). Laiteohjelmiston taajuusalueet: 400-2500 MHz, 7,8-500 kHz, alikytkentäsuhde 5-12, kanavaväli 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Mitä pariksi liitetty solmu ilmoittaa tällä hetkellä. Alla olevat esiasetukset ovat peräisin MeshCore-yhteisön luettelosta — valitse se, jota paikallinen verkostosi käyttää.",
+    "value": "Mitä pariksi liitetty solmu ilmoittaa tällä hetkellä. Alla olevat esiasetukset ovat peräisin MeshCore-yhteisön luettelosta. Valitse se, jota paikallinen verkostosi käyttää.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Perustuu laitteesi kieliasetuksiin. Vahvista muutokset — mitään ei muutu, ennen kuin vahvistat ne.",
+    "value": "Perustuu laitteesi kieliasetuksiin. Vahvista muutokset. Mitään ei muutu, ennen kuin vahvistat ne.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Muodosta yhteys uudelleen aiemmin pariksi liitettyyn solmuun. PIN-koodia ei pyydetä — yhteys on edelleen välimuistissa.",
+    "value": "Muodosta yhteys uudelleen aiemmin pariksi liitettyyn solmuun. PIN-koodia ei pyydetä: yhteys on edelleen välimuistissa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Vain naapurit. Hiljainen — ei tulvia. Käytä tätä vain silloin, kun vain lähellä olevien solmujen on opittava mainoksesi.",
+    "value": "Vain naapurit. Hiljainen: ei tulvia. Käytä tätä vain silloin, kun vain lähellä olevien solmujen on opittava mainoksesi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "Secret on kanavan yhteinen 16-tavun AES-avain, joka on kirjoitettu 32 heksadesimaalimerkkinä. Hashtag-tyyppisissä kanavissa salasanana käytetään automaattisesti kanavan nimeä — jätä hash-merkki paikalleen, jos haluat käyttää tätä menetelmää.",
+    "value": "Secret on kanavan yhteinen 16-tavun AES-avain, joka on kirjoitettu 32 heksadesimaalimerkkinä. Hashtag-tyyppisissä kanavissa salasanana käytetään automaattisesti kanavan nimeä. Jätä hash-merkki paikalleen, jos haluat käyttää tätä menetelmää.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Kello on siirretty eteenpäin. Laitteen oletusohjelmisto ei salli synkronointia taaksepäin. Ratkaisu: suorita alla oleva `clkreboot`-komento komentoriviltä — se nollaa RTC:n päivämääräksi 15.5.2024 ja käynnistää laitteen uudelleen — napauta sitten ”synkronoi”, jotta nykyinen kellonaika otetaan käyttöön.",
+    "value": "Kello on siirretty eteenpäin. Laitteen oletusohjelmisto ei salli synkronointia taaksepäin. Ratkaisu: suorita alla oleva `clkreboot`-komento komentoriviltä (se nollaa RTC:n päivämääräksi 15.5.2024 ja käynnistää laitteen uudelleen), napauta sitten ”synkronoi”, jotta nykyinen kellonaika otetaan käyttöön.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Laite synkronoi edelleen — yritä uudelleen hetken kuluttua.",
+    "value": "Laite synkronoi edelleen. Yritä uudelleen hetken kuluttua.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Verkkohakemisto on pois käytöstä — ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
+    "value": "Verkkohakemisto on pois käytöstä. Ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Toistimen salasana saa olla enintään 15 merkkiä — pidempi salasana katkaistaan kirjautumisen yhteydessä.",
+    "value": "Toistimen salasana saa olla enintään 15 merkkiä. Pidempi salasana katkaistaan kirjautumisen yhteydessä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d välimuistissa · osittainen — napauta päivittää",
+    "value": "%1$d välimuistissa · osittainen, napauta päivittää",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Nopeuden rajoitus — %1$d s",
+    "value": "Nopeuden rajoitus: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Ei voi poistaa — alueella on alialueita.",
+    "value": "Ei voi poistaa: alueella on alialueita.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Jokainen hyppy on 3 tavua. Yhteensä on %1$d — joko täytetään tai lyhennetään.",
+    "value": "Jokainen hyppy on 3 tavua. Yhteensä on %1$d. Joko täytetään tai lyhennetään.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(polkua ei ole vielä määritetty — suorat lähetykset kulkisivat ilman välipysäkkejä)",
+    "value": "(polkua ei ole vielä määritetty: suorat lähetykset kulkisivat ilman välipysäkkejä)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3894,7 +3894,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_qr_error_contact": {
-    "value": "Julkisen avaimen pituuden on oltava 32 tavua ja tyypin on oltava välillä 1–4.",
+    "value": "Julkisen avaimen pituuden on oltava 32 tavua ja tyypin on oltava välillä 1-4.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Perustuu nykyiseen sijaintiisi — tämän viestin sijaintia ei ole tallennettu.",
+    "value": "Perustuu nykyiseen sijaintiisi: tämän viestin sijaintia ei ole tallennettu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "ACL-merkintöjä ei ole — napauta Päivitä ladataksesi ne.",
+    "value": "ACL-merkintöjä ei ole. Napauta Päivitä ladataksesi ne.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Virheellinen julkisen avaimen heksadesimaaliarvo — sen on oltava tarkalleen 64 heksadesimaalimerkkiä",
+    "value": "Virheellinen julkisen avaimen heksadesimaaliarvo: sen on oltava tarkalleen 64 heksadesimaalimerkkiä",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 heksadesimaalimerkkiä — solmun täydellinen julkinen avain.",
+    "value": "64 heksadesimaalimerkkiä (solmun täydellinen julkinen avain).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Hallintatyökalut latautuvat tähän — komentoriviliittymä ja ACL-editori tulossa seuraavassa päivityksessä.",
+    "value": "Hallintatyökalut latautuvat tähän. Komentoriviliittymä ja ACL-editori tulossa seuraavassa päivityksessä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Toinen pyyntö on käsiteltävänä — yritä uudelleen.",
+    "value": "Toinen pyyntö on käsiteltävänä. Yritä uudelleen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Kirjautuminen epäonnistui — salasana on väärä tai huoneeseen ei saada yhteyttä.",
+    "value": "Kirjautuminen epäonnistui: salasana on väärä tai huoneeseen ei saada yhteyttä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Salasana saa olla enintään 15 merkkiä — pidempi salasana katkaistaan kirjautumisen yhteydessä.",
+    "value": "Salasana saa olla enintään 15 merkkiä. Pidempi salasana katkaistaan kirjautumisen yhteydessä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Kun verkkoon kytketty laite havaitsee ilmoituksen, joka vastaa sallittua tyyppiä, se tallentaa solmun yhteystietotaulukkoonsa — tieto säilyy uudelleenkäynnistyksistä huolimatta ja välittyy sovellukselle seuraavan tiedonsiirron yhteydessä.",
+    "value": "Kun verkkoon kytketty laite havaitsee ilmoituksen, joka vastaa sallittua tyyppiä, se tallentaa solmun yhteystietotaulukkoonsa. Tieto säilyy uudelleenkäynnistyksistä huolimatta ja välittyy sovellukselle seuraavan tiedonsiirron yhteydessä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Kun KiekR on päällä, se voi automaattisesti suorittaa hakemistohakuja puuttuvan kontekstin osalta, jonka sovellus havaitsee passiivisesti — polun tuntemattomat hyppyt, havaitut toistimet, joita ei vielä ole hakemistossa, puuttuvat naapuririvit sekä puuttuvat alueet löydöksessä. Kun toiminto on pois päältä (oletusasetus), jokainen hakemistohaku vaatii napautuksen.",
+    "value": "Kun KiekR on päällä, se voi automaattisesti suorittaa hakemistohakuja puuttuvan kontekstin osalta, jonka sovellus havaitsee passiivisesti: polun tuntemattomat hyppyt, havaitut toistimet, joita ei vielä ole hakemistossa, puuttuvat naapuririvit sekä puuttuvat alueet löydöksessä. Kun toiminto on pois päältä (oletusasetus), jokainen hakemistohaku vaatii napautuksen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Hakutoiminnot kohdistuvat ainoastaan KiekR-hakemistoon — eivät koskaan kolmannen osapuolen palvelimelle. Välimuistin lukeminen on edelleen ilmaista; tämä kytkin ohjaa verkkopuolen toimintaa.",
+    "value": "Hakutoiminnot kohdistuvat ainoastaan KiekR-hakemistoon, eivät koskaan kolmannen osapuolen palvelimelle. Välimuistin lukeminen on edelleen ilmaista; tämä kytkin ohjaa verkkopuolen toimintaa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Tuonti valmis — %1$d-tunnukset, %2$d-kanavat, %3$d-alueet, %4$d-yhteystiedot, %5$d-toistimen kirjautumistiedot.",
+    "value": "Tuonti valmis: %1$d-tunnukset, %2$d-kanavat, %3$d-alueet, %4$d-yhteystiedot, %5$d-toistimen kirjautumistiedot.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Tuonti valmis — %1$d tunnukset, %2$d kanavat, %3$d alueet, %4$d yhteystiedot, %5$d toistimen kirjautumistiedot, %6$d suosikit, %7$d estetyt lähettäjät, %8$d asetukset.",
+    "value": "Tuonti valmis: %1$d tunnukset, %2$d kanavat, %3$d alueet, %4$d yhteystiedot, %5$d toistimen kirjautumistiedot, %6$d suosikit, %7$d estetyt lähettäjät, %8$d asetukset.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Palauta .json- tai .mcbackup-tiedostosta. Tuonnin oletusasetuksena on ”Korvaa” — olemassa olevat kanavasi, yhteystietosi ja alueesi poistetaan, minkä jälkeen paketti lisätään. Paina ”Vahvista”-painiketta ja pidä sitä painettuna 5 sekunnin ajan.",
+    "value": "Palauta .json- tai .mcbackup-tiedostosta. Tuonnin oletusasetuksena on ”Korvaa”: olemassa olevat kanavasi, yhteystietosi ja alueesi poistetaan, minkä jälkeen paketti lisätään. Paina ”Vahvista”-painiketta ja pidä sitä painettuna 5 sekunnin ajan.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Tämä EI ole BLE-pariliitoksen PIN-koodi. Se suojaa ainoastaan tätä varmuuskopiotiedostoa — valitse jotain, jonka muistat helposti; KiekR ei voi palauttaa sitä.",
+    "value": "Tämä EI ole BLE-pariliitoksen PIN-koodi. Se suojaa ainoastaan tätä varmuuskopiotiedostoa. Valitse jotain, jonka muistat helposti; KiekR ei voi palauttaa sitä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Varmuuskopio on tehty uudemmalla sovellusversiolla (skeema %1$s) — otettiin käyttöön mahdollisuuksien mukaan.",
+    "value": "Varmuuskopio on tehty uudemmalla sovellusversiolla (skeema %1$s), otettiin käyttöön mahdollisuuksien mukaan.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Yhtenäinen viiva = tallennettava käyrä. Katkoviiva = tämän variantin oletusarvoinen kemian käyrä. X-akseli: 2800–4400 mV. Y-akseli: 0–100 %%.",
+    "value": "Yhtenäinen viiva = tallennettava käyrä. Katkoviiva = tämän variantin oletusarvoinen kemian käyrä. X-akseli: 2800-4400 mV. Y-akseli: 0-100 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Ilmoita, kun kytketyn laitteen varoitusprosentti laskee. Uudelleenkäynnistysväli määrittää, kuinka paljon prosenttiarvon on noustava takaisin kynnyksen yläpuolelle, ennen kuin seuraava varoitus voi laueta — laajenna sitä, jos akun jännitteekäyrä tasaantuu (LiFePO4, AA).",
+    "value": "Ilmoita, kun kytketyn laitteen varoitusprosentti laskee. Uudelleenkäynnistysväli määrittää, kuinka paljon prosenttiarvon on noustava takaisin kynnyksen yläpuolelle, ennen kuin seuraava varoitus voi laueta. Laajenna sitä, jos akun jännitteekäyrä tasaantuu (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Napauta roskakorikuvaketta poistaaksesi eston. Hänen aiemmat viestinsä näkyvät jälleen kaikissa kanavissa. Estäminen perustuu tarkalleen näkyvään nimeen — kuka tahansa voi valita kyseisen nimen, joten tämä ei estä päättäväistä kirjoittajaa muuttamasta nimeään.",
+    "value": "Napauta roskakorikuvaketta poistaaksesi eston. Hänen aiemmat viestinsä näkyvät jälleen kaikissa kanavissa. Estäminen perustuu tarkalleen näkyvään nimeen. Kuka tahansa voi valita kyseisen nimen, joten tämä ei estä päättäväistä kirjoittajaa muuttamasta nimeään.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Solmussasi on kanava nimeltä ”%1$s”, mutta paikallisesti sen nimi on ”%2$s”. Niillä on sama salausavain, joten viestit toimivat edelleen — valitse yksi nimi, jonka haluat säilyttää.",
+    "value": "Solmussasi on kanava nimeltä ”%1$s”, mutta paikallisesti sen nimi on ”%2$s”. Niillä on sama salausavain, joten viestit toimivat edelleen. Valitse yksi nimi, jonka haluat säilyttää.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Sekä paikallisessa luettelossasi että solmussasi on kanava nimeltä ”%1$s”, mutta niissä on eri salausavaimet. Viestejä ei voida purkaa näiden välillä — valitse, kumpi avain on oikea.",
+    "value": "Sekä paikallisessa luettelossasi että solmussasi on kanava nimeltä ”%1$s”, mutta niissä on eri salausavaimet. Viestejä ei voida purkaa näiden välillä. Valitse, kumpi avain on oikea.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Poistaa kanavan ja sen avaimen tietokannasta. Tämä kanava käyttää mukautettua avainta, joten sitä ei voida johtaa uudelleen nimestä — poisto on lopullinen, ellet tuo avainta uudelleen (esim. QR-koodin avulla).",
+    "value": "Poistaa kanavan ja sen avaimen tietokannasta. Tämä kanava käyttää mukautettua avainta, joten sitä ei voida johtaa uudelleen nimestä. Poisto on lopullinen, ellet tuo avainta uudelleen (esim. QR-koodin avulla).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Piilottaa %1$s:n chat-luettelostasi ja kanava-asetuksistasi. Voit lisätä sen uudelleen myöhemmin kirjoittamalla nimen kohtaan Asetukset → Kanavat → Lisää kanava nimen perusteella — SHA-256-avain lasketaan samalla tavalla.",
+    "value": "Piilottaa %1$s:n chat-luettelostasi ja kanava-asetuksistasi. Voit lisätä sen uudelleen myöhemmin kirjoittamalla nimen kohtaan Asetukset → Kanavat → Lisää kanava nimen perusteella. SHA-256-avain lasketaan samalla tavalla.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Kanavaa ei voitu lisätä — se saattaa jo olla olemassa tai nimi/avain on virheellinen.",
+    "value": "Kanavaa ei voitu lisätä: se saattaa jo olla olemassa tai nimi/avain on virheellinen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Käyttää kiinteää julkista kanava-avainta — avainta ei tarvita.",
+    "value": "Käyttää kiinteää julkista kanava-avainta, avainta ei tarvita.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Avain vaaditaan — mukautetun nimen kanaville tarvitaan 32-merkkinen heksadesimaaliavain.",
+    "value": "Avain vaaditaan: mukautetun nimen kanaville tarvitaan 32-merkkinen heksadesimaaliavain.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Solmusi ja paikallinen luettelosi ovat eri mieltä kanavasta — valitse, kumpi osapuoli voittaa.",
+    "value": "Solmusi ja paikallinen luettelosi ovat eri mieltä kanavasta. Valitse, kumpi osapuoli voittaa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Avain on tallennettu. Näytä se uudelleen, jos haluat vastaanottaa sen uudelleen — tai poista se pysyvästi.",
+    "value": "Avain on tallennettu. Näytä se uudelleen, jos haluat vastaanottaa sen uudelleen, tai poista se pysyvästi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonyymi yhteys — toimii kehitystyön välittäjille ilman todennusta.",
+    "value": "Anonyymi yhteys: toimii kehitystyön välittäjille ilman todennusta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Kun KiekR on päällä, se tallentaa, mitkä alueet (ja mahdollisuuksien mukaan mitkä toistimet) se havaitsee noin puolen kilometrin kokoisessa karkeassa karttakennoissa, ja lähettää säännöllisin väliajoin kennokohtaiset kokonaismäärät Wi-Fi-yhteyden kautta. Tarkka sijaintisi ei koskaan poistu puhelimesta – vain solusta – ja kartalla näkyy aina vain se, mitä kyseisessä solussa on kuultu, ei koskaan se, kuka sen on kuullut. Toiminto on nimimerkkipohjainen ja erillinen KiekR-tunnuksestasi; voit kytkeä sen pois päältä milloin tahansa.",
+    "value": "Kun KiekR on päällä, se tallentaa, mitkä alueet (ja mahdollisuuksien mukaan mitkä toistimet) se havaitsee noin puolen kilometrin kokoisessa karkeassa karttakennoissa, ja lähettää säännöllisin väliajoin kennokohtaiset kokonaismäärät Wi-Fi-yhteyden kautta. Tarkka sijaintisi ei koskaan poistu puhelimesta (vain solusta) ja kartalla näkyy aina vain se, mitä kyseisessä solussa on kuultu, ei koskaan se, kuka sen on kuullut. Toiminto on nimimerkkipohjainen ja erillinen KiekR-tunnuksestasi; voit kytkeä sen pois päältä milloin tahansa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Kattavuus vaatii tarkan sijainnin, jotta kuulemasi äänet voidaan sijoittaa oikeaan karttaruutuun. Salli KiekR:n käyttää tarkkaa sijaintitietoa — muuten kattavuus ei kerää mitään tietoja tältä puhelimelta.",
+    "value": "Kattavuus vaatii tarkan sijainnin, jotta kuulemasi äänet voidaan sijoittaa oikeaan karttaruutuun. Salli KiekR:n käyttää tarkkaa sijaintitietoa, muuten kattavuus ei kerää mitään tietoja tältä puhelimelta.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT välittää viestejä vain silloin, kun laite on yhdistetty Bluetoothin kautta. Laitteen mesh-tunnistetta ei ladata koskaan — jokainen välityspalvelin käyttää omaa, itse luomaansa avainparia. Tarkkailijoiden nimet alkavat aina merkkijonolla ”KiekR_”.",
+    "value": "MQTT välittää viestejä vain silloin, kun laite on yhdistetty Bluetoothin kautta. Laitteen mesh-tunnistetta ei ladata koskaan: jokainen välityspalvelin käyttää omaa, itse luomaansa avainparia. Tarkkailijoiden nimet alkavat aina merkkijonolla ”KiekR_”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "Kolmikirjaiminen lentokenttäkoodi määrittää alueesi analysointisivulla (esim. HAM, JFK, MUC). Tarkkailijan nimi näkyy pakettiesi vieressä — etuliite ”KiekR_” on kiinteä.",
+    "value": "Kolmikirjaiminen lentokenttäkoodi määrittää alueesi analysointisivulla (esim. HAM, JFK, MUC). Tarkkailijan nimi näkyy pakettiesi vieressä. Etuliite ”KiekR_” on kiinteä.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Keskeytetty — matkapuhelinverkossa",
+    "value": "Keskeytetty: matkapuhelinverkossa",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Keskeytetty — matkapuhelimella · %1$d jonossa",
+    "value": "Keskeytetty: matkapuhelimella · %1$d jonossa",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT-lähetystoiminto välittää kaikki laitteesi vastaanottamat raakamuotoiset LoRa-paketit — mukaan lukien salatut tavut, joita et itse pysty lukemaan — määrittämällesi välityspalvelimelle. Oletusasetuksena toiminto on pois päältä; voit ottaa sen käyttöön välityspalvelinkohtaisesti. Jokainen välityspalvelin käyttää omaa luomaansa avainparia, joten laitteesi verkko-tunnus pysyy aina laitteessa.",
+    "value": "MQTT-lähetystoiminto välittää kaikki laitteesi vastaanottamat raakamuotoiset LoRa-paketit (mukaan lukien salatut tavut, joita et itse pysty lukemaan) määrittämällesi välityspalvelimelle. Oletusasetuksena toiminto on pois päältä; voit ottaa sen käyttöön välityspalvelinkohtaisesti. Jokainen välityspalvelin käyttää omaa luomaansa avainparia, joten laitteesi verkko-tunnus pysyy aina laitteessa.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Aihe — virheenkorjaus",
+    "value": "Aihe (virheenkorjaus)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Aihe — paketit",
+    "value": "Aihe (paketit)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Aihe — raaka",
+    "value": "Aihe (raaka)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Aihe — tilanne",
+    "value": "Aihe (tilanne)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6104,7 +6104,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Portin on oltava 1–65535",
+    "value": "Portin on oltava 1 ja 65535 välillä",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Oletuksena pois päältä. Päällä ollessaan KiekR lähettää api.kiekr.app-palveluun iOS:n antamat kaatumis-, jumitus- ja CPU-raportit: sovellusversion, iOS-version, laitemallin, järjestelmän virhekoodit ja kutsupinon. Ei viestejä, yhteystietoja, avaimia eikä sijainteja — ja tämä on ainoa tapa, jolla puhelimesi vika päätyy kehittäjälle.",
+    "value": "Oletuksena pois päältä. Päällä ollessaan KiekR lähettää api.kiekr.app-palveluun iOS:n antamat kaatumis-, jumitus- ja CPU-raportit: sovellusversion, iOS-version, laitemallin, järjestelmän virhekoodit ja kutsupinon. Ei viestejä, yhteystietoja, avaimia eikä sijainteja. Tämä on ainoa tapa, jolla puhelimesi vika päätyy kehittäjälle.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Esiasetettujen rivien nimeä tai URL-osoitetta ei voi muuttaa — poista ne käytöstä, jos et halua käyttää niitä, tai lisää uusi lähde.",
+    "value": "Esiasetettujen rivien nimeä tai URL-osoitetta ei voi muuttaa. Poista ne käytöstä, jos et halua käyttää niitä, tai lisää uusi lähde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Hakutoiminnot käyvät läpi kaikki käytössä olevat lähteet järjestysnumeron mukaan; ensimmäinen lähde, joka palauttaa ehdokkaan, voittaa. api.kiekr.app on yksityisyyttä suojaava (vain A-tason toistimet). Meshcorenetz Analyzer on laajempi — se siirtyy luonnollisesti eteenpäin solmuihin, joita KiekR-taustapalvelimella ei ole. Järjestä uudelleen ylös-/alasnuolilla; napauta kynää muokataksesi lähdekohtaista enimmäisetäisyyttä hyppyä kohti.",
+    "value": "Hakutoiminnot käyvät läpi kaikki käytössä olevat lähteet järjestysnumeron mukaan; ensimmäinen lähde, joka palauttaa ehdokkaan, voittaa. api.kiekr.app on yksityisyyttä suojaava (vain A-tason toistimet). Meshcorenetz Analyzer on laajempi: se siirtyy luonnollisesti eteenpäin solmuihin, joita KiekR-taustapalvelimella ei ole. Järjestä uudelleen ylös-/alasnuolilla; napauta kynää muokataksesi lähdekohtaista enimmäisetäisyyttä hyppyä kohti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnoosikonteksti —",
+    "value": "Diagnoosikonteksti:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR:n Android-lokit — %1$s %2$s — %3$s",
+    "value": "KiekR:n Android-lokit, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Ilmoita jokaisesta saapuvasta suoraviestistä. Suoraviestit todennetaan salaustekniikan avulla — tämän toiminnon poistaminen käytöstä poistaa vain ilmoituksen; viesti näkyy edelleen Keskustelut-luettelossasi.",
+    "value": "Ilmoita jokaisesta saapuvasta suoraviestistä. Suoraviestit todennetaan salaustekniikan avulla. Tämän toiminnon poistaminen käytöstä poistaa vain ilmoituksen; viesti näkyy edelleen Keskustelut-luettelossasi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Pysyvä apukeino etuliitteiden päällekkäisyyksien ratkaisemiseksi: kun deterministinen valitsija on valinnut voittajan, (etuliite, hyppy, julkinen avain) -paria päivitetään siten, että seuraava tasatilanne samalla etuliitteellä ratkeaa samalla tavalla.\n\nVälimuistin TTL — kuinka kauan merkintä säilyy ilman, että sitä käytetään uudelleen. Oletusarvo 30 päivää, raja-arvo 1..=180.\n\nTasatilanteen ratkaisumarginaali — kuinka lähellä kahden ehdokkaan mittareiden on oltava toisiaan (prosentteina), ennen kuin välimuisti ratkaisee tasatilanteen. Arvo 0 poistaa välimuistin varajärjestelmän käytöstä (vain täsmälleen samat tulokset kelpaavat); 20 on yläraja. Oletusarvo 5 %.",
+    "value": "Pysyvä apukeino etuliitteiden päällekkäisyyksien ratkaisemiseksi: kun deterministinen valitsija on valinnut voittajan, (etuliite, hyppy, julkinen avain) -paria päivitetään siten, että seuraava tasatilanne samalla etuliitteellä ratkeaa samalla tavalla.\n\nVälimuistin TTL: kuinka kauan merkintä säilyy ilman, että sitä käytetään uudelleen. Oletusarvo 30 päivää, raja-arvo 1..=180.\n\nTasatilanteen ratkaisumarginaali: kuinka lähellä kahden ehdokkaan mittareiden on oltava toisiaan (prosentteina), ennen kuin välimuisti ratkaisee tasatilanteen. Arvo 0 poistaa välimuistin varajärjestelmän käytöstä (vain täsmälleen samat tulokset kelpaavat); 20 on yläraja. Oletusarvo 5 %.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Monibittiset hyppyt edellyttävät Companion-laiteohjelmiston versiota v1.15.0 tai uudempaa. Companion-laitteesi ilmoittaa, että käytössä on vanhempi versio — laite on lukittu 1-bittiseen tilaan, kunnes päivität sen. Aiemmat asetuksesi säilyvät ja ne aktivoituvat uudelleen päivityksen jälkeen.",
+    "value": "Monibittiset hyppyt edellyttävät Companion-laiteohjelmiston versiota v1.15.0 tai uudempaa. Companion-laitteesi ilmoittaa, että käytössä on vanhempi versio: laite on lukittu 1-bittiseen tilaan, kunnes päivität sen. Aiemmat asetuksesi säilyvät ja ne aktivoituvat uudelleen päivityksen jälkeen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Tämä asetus määrittää, kuinka monta tavua reitityshyppyä kohti lisätään polkuun uusissa, meidän lähettämissämme lähtevissä paketeissa. Suuremmat arvot vähentävät nimien päällekkäisyyksiä, mutta vanhemmat toistimien laiteohjelmistot eivät välttämättä välitä niitä eteenpäin. Tunnettuihin yhteyskohteisiin opitut polut säilyttävät sen leveyden, jolla ne vastaanotettiin — tämä asetus vaikuttaa vain flood- ja anon-reply-polkuihin. Ainutlaatuisille poluille suositellaan 3 tavua (myös 2 toimii); laiteohjelmiston oletusarvo on 1.",
+    "value": "Tämä asetus määrittää, kuinka monta tavua reitityshyppyä kohti lisätään polkuun uusissa, meidän lähettämissämme lähtevissä paketeissa. Suuremmat arvot vähentävät nimien päällekkäisyyksiä, mutta vanhemmat toistimien laiteohjelmistot eivät välttämättä välitä niitä eteenpäin. Tunnettuihin yhteyskohteisiin opitut polut säilyttävät sen leveyden, jolla ne vastaanotettiin. Tämä asetus vaikuttaa vain flood- ja anon-reply-polkuihin. Ainutlaatuisille poluille suositellaan 3 tavua (myös 2 toimii); laiteohjelmiston oletusarvo on 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Verkkohakemisto on pois käytöstä — ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
+    "value": "Verkkohakemisto on pois käytöstä. Ota lähde käyttöön kohdassa Asetukset → Jakaminen → Hakemisto.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Alue %1$s on jo luettelossasi — palauta se näkyviin",
+    "value": "Alue %1$s on jo luettelossasi: palauta se näkyviin",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Android keskeyttää sovellusten verkkoyhteydet, kun näyttö on pois päältä. Poista KiekR akkuoptimoinnin piiristä — sekä puhelimen valmistajan asettamista automaattisen käynnistyksen rajoituksista — jotta Companion Link pysyy käynnissä taustalla.",
+    "value": "Android keskeyttää sovellusten verkkoyhteydet, kun näyttö on pois päältä. Poista KiekR akkuoptimoinnin piiristä (sekä puhelimen valmistajan asettamista automaattisen käynnistyksen rajoituksista), jotta Companion Link pysyy käynnissä taustalla.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "”Retries” tarkoittaa sitä, kuinka monta ylimääräistä yritystä core-lib tekee kutakin GET_NEIGHBOURS-sivua kohti, jos laiteohjelmisto ei vastaa yrityskohtaisen aikarajan kuluessa — tämä on kätevää epävakaissa BLE- tai radiolinkkeissä, joissa sivun lähetys aikakatkaistaan. Aikaraja skaalautuu sivun koon mukaan, joten sen pidentäminen antaa lisäyrityksille tarvittavan ajan. Sivun koko itsessään on kiinteä ja määräytyy laiteohjelmiston puskurin ylärajan mukaan. Oletusarvo on %1$d.",
+    "value": "”Retries” tarkoittaa sitä, kuinka monta ylimääräistä yritystä core-lib tekee kutakin GET_NEIGHBOURS-sivua kohti, jos laiteohjelmisto ei vastaa yrityskohtaisen aikarajan kuluessa. Tämä on kätevää epävakaissa BLE- tai radiolinkkeissä, joissa sivun lähetys aikakatkaistaan. Aikaraja skaalautuu sivun koon mukaan, joten sen pidentäminen antaa lisäyrityksille tarvittavan ajan. Sivun koko itsessään on kiinteä ja määräytyy laiteohjelmiston puskurin ylärajan mukaan. Oletusarvo on %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Ei vastausta — polku ei ehkä ole tavoitettavissa.",
+    "value": "Ei vastausta: polku ei ehkä ole tavoitettavissa.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Ensimmäisen toistimen on kuultava sinut ja sinun on kuultava viimeisen vastaus — valitse polku, jonka tiedät toimivan.",
+    "value": "Ensimmäisen toistimen on kuultava sinut ja sinun on kuultava viimeisen vastaus. Valitse polku, jonka tiedät toimivan.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Solmua ei ole kytketty — napauta pariksi liittämiseksi",
+    "value": "Solmua ei ole kytketty: napauta pariksi liittämiseksi",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR voi etsiä tuntemattoman toistimen sen hash-arvon perusteella verkkohakemistoista — tämä on kätevää, kun reitin välipiste näkyy pelkästään heksadesimaali-etuliitteenä. Toiminto on oletuksena pois päältä, kunnes kytket sen päälle kohdassa Asetukset → Jakaminen → Hakemisto.",
+    "value": "KiekR voi etsiä tuntemattoman toistimen sen hash-arvon perusteella verkkohakemistoista (tämä on kätevää, kun reitin välipiste näkyy pelkästään heksadesimaali-etuliitteenä). Toiminto on oletuksena pois päältä, kunnes kytket sen päälle kohdassa Asetukset → Jakaminen → Hakemisto.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Kirjaudu sisään oikeassa yläkulmassa olevalla ohjauspainikkeella — vieras tilastoja, naapureita, telemetriaa ja laiteohjelmistoa varten; järjestelmänvalvoja asetuksia, alueita ja CLI:tä varten.",
+    "value": "Kirjaudu sisään oikeassa yläkulmassa olevalla ohjauspainikkeella: vieras tilastoja, naapureita, telemetriaa ja laiteohjelmistoa varten; järjestelmänvalvoja asetuksia, alueita ja CLI:tä varten.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Paketit, joita radio ei pystynyt lukemaan virheettömästi — määrä kasvaa häiriöiden tai heikon signaalin vuoksi.",
+    "value": "Paketit, joita radio ei pystynyt lukemaan virheettömästi. Määrä kasvaa häiriöiden tai heikon signaalin vuoksi.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Kun tämä on päällä, KiekR jakaa tiedot siitä, mitkä karttakennoilla on mesh-kattavuus, sivustolle mapme.sh — yhteisön kattavuuskartalle. Jokainen näyte sisältää karttakennoa, signaalin voimakkuuden ja hyppyreitin, mutta ei koskaan tarkkaa sijaintiasi tai henkilöllisyyttäsi. Lähetykset noudattavat Wi-Fi-vain- ja lähetysväliasetuksiasi.",
+    "value": "Kun tämä on päällä, KiekR jakaa tiedot siitä, mitkä karttakennoilla on mesh-kattavuus, sivustolle mapme.sh, yhteisön kattavuuskartalle. Jokainen näyte sisältää karttakennoa, signaalin voimakkuuden ja hyppyreitin, mutta ei koskaan tarkkaa sijaintiasi tai henkilöllisyyttäsi. Lähetykset noudattavat Wi-Fi-vain- ja lähetysväliasetuksiasi.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "GPS-sijaintia ei löydy — online-hakemistojen sijainteja ei välttämättä voida merkitä kartalle. Ota sijaintiasetukset käyttöön, jotta reitti voidaan määrittää kokonaan.",
+    "value": "GPS-sijaintia ei löydy: online-hakemistojen sijainteja ei välttämättä voida merkitä kartalle. Ota sijaintiasetukset käyttöön, jotta reitti voidaan määrittää kokonaan.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Liitä 64- tai 128-merkkinen heksadesimaali-yksityinen avain varmuuskopioidun identiteetin palauttamiseksi — tallennetaan paikallisesti ja lähetetään liitettyyn kumppanisovellukseen. Vienti paljastaa tämän solmun avaimen, jotta voit varmuuskopioida sen.",
+    "value": "Liitä 64- tai 128-merkkinen heksadesimaali-yksityinen avain varmuuskopioidun identiteetin palauttamiseksi. Tallennetaan paikallisesti ja lähetetään liitettyyn kumppanisovellukseen. Vienti paljastaa tämän solmun avaimen, jotta voit varmuuskopioida sen.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Kiinteä oletuslähde – päätepiste ja muut asetukset ovat kiinteitä; voit nimetä sen uudelleen tässä.",
+    "value": "Kiinteä oletuslähde: päätepiste ja muut asetukset ovat kiinteitä; voit nimetä sen uudelleen tässä.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Palvelin vastasi – URL-osoite on kelvollinen",
+    "value": "Palvelin vastasi: URL-osoite on kelvollinen",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Tämä on solmusi salainen tunnistusavain — kuka tahansa, jolla se on, voi esiintyä solmusi nimissä. Säilytä se turvallisessa paikassa äläkä koskaan jaa sitä kenellekään.",
+    "value": "Tämä on solmusi salainen tunnistusavain: kuka tahansa, jolla se on, voi esiintyä solmusi nimissä. Säilytä se turvallisessa paikassa äläkä koskaan jaa sitä kenellekään.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Kun tämä on käytössä, KiekR voi tehdä automaattisesti hakemistohakuja puuttuvasta kontekstista, jonka sovellus havaitsee passiivisesti — tuntemattomat hypyt reitissä, kuullut toistimet, joita ei ole vielä hakemistossa, puuttuvat naapuririvit ja puuttuvat alueet löydön yhteydessä. Kun tämä on pois käytöstä (oletus), jokainen hakemistohaku vaatii napautuksen.",
+    "value": "Kun tämä on käytössä, KiekR voi tehdä automaattisesti hakemistohakuja puuttuvasta kontekstista, jonka sovellus havaitsee passiivisesti: tuntemattomat hypyt reitissä, kuullut toistimet, joita ei ole vielä hakemistossa, puuttuvat naapuririvit ja puuttuvat alueet löydön yhteydessä. Kun tämä on pois käytöstä (oletus), jokainen hakemistohaku vaatii napautuksen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Haut kohdistuvat vain KiekR-hakemistoon — eivät koskaan kolmannen osapuolen palvelimeen. Välimuistista lukeminen pysyy ilmaisena; tämä kytkin säätelee verkko-osuutta.",
+    "value": "Haut kohdistuvat vain KiekR-hakemistoon, eivät koskaan kolmannen osapuolen palvelimeen. Välimuistista lukeminen pysyy ilmaisena; tämä kytkin säätelee verkko-osuutta.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Tämä EI ole BLE-laiteparin PIN-koodisi eikä identiteettitunnuslauseesi. Se suojaa vain tätä varmuuskopiotiedostoa. Valitse jotain helposti muistettavaa — KiekR ei voi palauttaa sitä puolestasi.",
+    "value": "Tämä EI ole BLE-laiteparin PIN-koodisi eikä identiteettitunnuslauseesi. Se suojaa vain tätä varmuuskopiotiedostoa. Valitse jotain helposti muistettavaa. KiekR ei voi palauttaa sitä puolestasi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Ilmoita, kun yhdistetyn laitteen akku laskee varoitusprosenttiin. Uudelleenlaukaisuväli määrittää, kuinka paljon prosentin on noustava takaisin kynnysarvon yläpuolelle, ennen kuin seuraava varoitus voi laueta — kasvata sitä, jos akkukäyräsi tasaantuu (LiFePO4, AA).",
+    "value": "Ilmoita, kun yhdistetyn laitteen akku laskee varoitusprosenttiin. Uudelleenlaukaisuväli määrittää, kuinka paljon prosentin on noustava takaisin kynnysarvon yläpuolelle, ennen kuin seuraava varoitus voi laueta. Kasvata sitä, jos akkukäyräsi tasaantuu (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Pyyhkäise poistaaksesi eston. Heidän aiemmat viestinsä ilmestyvät takaisin kaikkiin kanaviin, kun esto on poistettu. Esto kohdistuu tarkalleen näytettyyn nimeen — kuka tahansa voi valita saman nimen, niin ettei tämä estä päättäväistä kirjoittajaa nimeämästä itseään uudelleen.",
+    "value": "Pyyhkäise poistaaksesi eston. Heidän aiemmat viestinsä ilmestyvät takaisin kaikkiin kanaviin, kun esto on poistettu. Esto kohdistuu tarkalleen näytettyyn nimeen. Kuka tahansa voi valita saman nimen, niin ettei tämä estä päättäväistä kirjoittajaa nimeämästä itseään uudelleen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Yhdistetty vakiosolmuun — vain laitteeseen asennetut kanavat voivat lähettää. Pyyhkäise oikealle lisätäksesi tai poistaaksesi kanavan laitteesta. Pyyhkäise vasemmalle poistaaksesi kanavan — #-kanavat säilyttävät avaimensa, niin että voit lisätä ne uudelleen nimellä; mukautetun avaimen kanavat poistetaan pysyvästi.",
+    "value": "Yhdistetty vakiosolmuun: vain laitteeseen asennetut kanavat voivat lähettää. Pyyhkäise oikealle lisätäksesi tai poistaaksesi kanavan laitteesta. Pyyhkäise vasemmalle poistaaksesi kanavan: #-kanavat säilyttävät avaimensa, niin että voit lisätä ne uudelleen nimellä; mukautetun avaimen kanavat poistetaan pysyvästi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanaville on määritettävä alue, jotta ne toistuvat useimmissa verkoissa. Napauta kanavaa määrittääksesi sen. Pyyhkäise vasemmalle poistaaksesi — #-kanavat säilyttävät avaimensa, niin että voit lisätä ne uudelleen nimellä; mukautetun avaimen kanavat poistetaan pysyvästi.",
+    "value": "Kanaville on määritettävä alue, jotta ne toistuvat useimmissa verkoissa. Napauta kanavaa määrittääksesi sen. Pyyhkäise vasemmalle poistaaksesi: #-kanavat säilyttävät avaimensa, niin että voit lisätä ne uudelleen nimellä; mukautetun avaimen kanavat poistetaan pysyvästi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Vierailijapääsy — vain luku",
+    "value": "Vierailijapääsy (vain luku)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Verkkohakemisto on pois käytöstä — ota käyttöön lähde kohdassa Asetukset → Jakaminen → Hakemisto.",
+    "value": "Verkkohakemisto on pois käytöstä. Ota käyttöön lähde kohdassa Asetukset → Jakaminen → Hakemisto.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Useat toistimet vastaavat tämän hypyn lyhyen reitin etuliitettä. Emme voi valita oikeaa automaattisesti — valitse se, joka oli reitilläsi.",
+    "value": "Useat toistimet vastaavat tämän hypyn lyhyen reitin etuliitettä. Emme voi valita oikeaa automaattisesti. Valitse se, joka oli reitilläsi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Ei kartoitettuja heksoja vielä — aja ympäriinsä radio päällä, ja niitä ilmestyy tähän.",
+    "value": "Ei kartoitettuja heksoja vielä. Aja ympäriinsä radio päällä, ja niitä ilmestyy tähän.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pysäytetty — mobiiliverkossa",
+    "value": "Pysäytetty: mobiiliverkossa",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Aihe — paketit",
+    "value": "Aihe (paketit)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Aihe — tila",
+    "value": "Aihe (tila)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Aihe — debug",
+    "value": "Aihe (debug)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Aihe — raaka",
+    "value": "Aihe (raaka)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Tallentaa identiteetin paikallisesti. Jos avain perustuu siemeneen (seed) ja companion on yhdistetty, siemen lähetetään myös laitteeseen komennolla CMD_IMPORT_PRIVATE_KEY — tämä korvaa laitteen nykyisen identiteetin.",
+    "value": "Tallentaa identiteetin paikallisesti. Jos avain perustuu siemeneen (seed) ja companion on yhdistetty, siemen lähetetään myös laitteeseen komennolla CMD_IMPORT_PRIVATE_KEY. Tämä korvaa laitteen nykyisen identiteetin.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Lähettäjän kellopoikkeama — käytetään paikallista vastaanottoaikaa",
+    "value": "Lähettäjän kellopoikkeama: käytetään paikallista vastaanottoaikaa",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Salasana on rajattu 15 merkkiin — kaikki pidemmät katkaistaan kirjautuessa.",
+    "value": "Salasana on rajattu 15 merkkiin. Kaikki pidemmät katkaistaan kirjautuessa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Ilmoita joka saapuvasta yksityisviestistä. Yksityisviestit on kryptografisesti todennettu — tämän poistaminen käytöstä vaimentaa vain ilmoituksen; viesti saapuu edelleen Keskustelut-listalle.",
+    "value": "Ilmoita joka saapuvasta yksityisviestistä. Yksityisviestit on kryptografisesti todennettu. Tämän poistaminen käytöstä vaimentaa vain ilmoituksen; viesti saapuu edelleen Keskustelut-listalle.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Monitavuiset hypyt vaativat companion-laiteohjelmiston v1.15.0 tai uudemman. Companionisi ilmoittaa vanhemman version — lukittu 1 tavuun, kunnes päivität. Aiempi asetuksesi säilyy ja aktivoituu uudelleen päivityksen jälkeen.",
+    "value": "Monitavuiset hypyt vaativat companion-laiteohjelmiston v1.15.0 tai uudemman. Companionisi ilmoittaa vanhemman version: lukittu 1 tavuun, kunnes päivität. Aiempi asetuksesi säilyy ja aktivoituu uudelleen päivityksen jälkeen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Pyyhkäise aluetta poistaaksesi sen. Se pysyy tietokannassa (ja jatkaa saapuvan liikenteen merkitsemistä), mutta katoaa tästä listasta ja kanavavalitsimista — lisää se uudelleen nimellä tuodaksesi sen takaisin.",
+    "value": "Pyyhkäise aluetta poistaaksesi sen. Se pysyy tietokannassa (ja jatkaa saapuvan liikenteen merkitsemistä), mutta katoaa tästä listasta ja kanavavalitsimista. Lisää se uudelleen nimellä tuodaksesi sen takaisin.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Ei yhdistetty companion-laitteeseen — yhdistä solmu ensin.",
+    "value": "Ei yhdistetty companion-laitteeseen. Yhdistä solmu ensin.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Palauta `.json`- tai `.mcbackup`-tiedostosta. Tuonti käyttää oletuksena Korvaa-toimintoa — nykyiset kanavasi, yhteystietosi ja alueesi pyyhitään, ja sen jälkeen paketti lisätään. Paina ja pidä painettuna Vahvista 5 sekuntia.",
+    "value": "Palauta `.json`- tai `.mcbackup`-tiedostosta. Tuonti käyttää oletuksena Korvaa-toimintoa: nykyiset kanavasi, yhteystietosi ja alueesi pyyhitään, ja sen jälkeen paketti lisätään. Paina ja pidä painettuna Vahvista 5 sekuntia.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Yksikään tarkkailija ei ole kuullut sitä vielä — se ei koskaan tarkoita, että lähetys epäonnistui.",
+    "value": "Yksikään tarkkailija ei ole kuullut sitä vielä. Se ei koskaan tarkoita, että lähetys epäonnistui.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Kuultu toistaiseksi yhdellä tarkkailualueella — todennäköisesti vain lähistöllä.",
+    "value": "Kuultu toistaiseksi yhdellä tarkkailualueella, todennäköisesti vain lähistöllä.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Kuultu %1$d alueella — mesh kuljetti tämän viestin.",
+    "value": "Kuultu %1$d alueella: mesh kuljetti tämän viestin.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Tarkistus epäonnistui — yritä myöhemmin uudelleen.",
+    "value": "Tarkistus epäonnistui. Yritä myöhemmin uudelleen.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "%1$d tarkkailijan kuulema — mesh kuljetti tämän viestin.",
+    "value": "%1$d tarkkailijan kuulema: mesh kuljetti tämän viestin.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Tämä solmu lisää tällä hetkellä automaattisesti kaikki ilmoitustyypit („Lisää kaikki automaattisesti“) — alla olevat suodattimet eivät vaikuta. Toinen sovellus on voinut muuttaa tätä asetusta.",
+    "value": "Tämä solmu lisää tällä hetkellä automaattisesti kaikki ilmoitustyypit („Lisää kaikki automaattisesti“). Alla olevat suodattimet eivät vaikuta. Toinen sovellus on voinut muuttaa tätä asetusta.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Ei lähetetty — ei asennettu solmuusi",
+    "value": "Ei lähetetty: ei asennettu solmuusi",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Kartoittaa myös heksagonit, joissa ei vastaanotettu liikennettä — käyttää GPS:ää ja enemmän akkua.",
+    "value": "Kartoittaa myös heksagonit, joissa ei vastaanotettu liikennettä. Käyttää GPS:ää ja enemmän akkua.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Tämän solmun yhteystietoluettelo on täynnä — se ei voi ottaa vastaan uusia kuulemiaan yhteystietoja. Poista joitakin tehdäksesi tilaa.",
+    "value": "Tämän solmun yhteystietoluettelo on täynnä: se ei voi ottaa vastaan uusia kuulemiaan yhteystietoja. Poista joitakin tehdäksesi tilaa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pysäytetty — sijaintioikeus on vain „Sovellusta käytettäessä“",
+    "value": "Pysäytetty: sijaintioikeus on vain „Sovellusta käytettäessä“",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pysäytetty — sijaintiistunto pysäytetty",
+    "value": "Pysäytetty: sijaintiistunto pysäytetty",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Ilman „Aina“-asetusta kattavuus kerätään vain, kun KiekR on auki — iOS pysäyttää sijaintiistunnon, kun sovellus siirtyy taustalle. „Aina“-asetuksella KiekR jatkaa keräämistä taskussasi käyttäen vain sijaintia, jonka puhelimesi jo tietää, ei lisä-GPS:ää.",
+    "value": "Ilman „Aina“-asetusta kattavuus kerätään vain, kun KiekR on auki. iOS pysäyttää sijaintiistunnon, kun sovellus siirtyy taustalle. „Aina“-asetuksella KiekR jatkaa keräämistä taskussasi käyttäen vain sijaintia, jonka puhelimesi jo tietää, ei lisä-GPS:ää.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Poistaa %@ keskustelulistaltasi ja kanava-asetuksista. Voit lisätä sen myöhemmin uudelleen kirjoittamalla nimen kohdassa Asetukset → Kanavat → Lisää kanava nimellä — SHA-256-avain johdetaan samalla tavalla.",
+    "value": "Poistaa %@ keskustelulistaltasi ja kanava-asetuksista. Voit lisätä sen myöhemmin uudelleen kirjoittamalla nimen kohdassa Asetukset → Kanavat → Lisää kanava nimellä. SHA-256-avain johdetaan samalla tavalla.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Poistetaanko %@? Tämä on pysyvää — avainta ei voi johtaa uudelleen nimestä.",
+    "value": "Poistetaanko %@? Tämä on pysyvää: avainta ei voi johtaa uudelleen nimestä.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Pysyvä oppimisapu etuliitekonflikteille: kun deterministinen valitsin on valinnut voittajan, (etuliite, hyppy, julkinen avain) päivitetään, jotta seuraava tasapeli samalla etuliitteellä ratkeaa samalla tavalla.\n\nVälimuistin TTL — kuinka pitkään merkintä säilyy käyttämättömänä. Oletus 30 päivää, rajoitus 1..=180.\n\nTasapelin ratkaisumarginaali — kuinka lähellä kahden ehdokkaan mittarit on oltava toisiaan (prosentteina), ennen kuin välimuisti ratkaisee tasapelin. 0 poistaa välimuistin varajärjestelmän käytöstä (vain täydelliset tasapelit kelpaavat); 20 on yläraja. Oletus 5 %.",
+    "value": "Pysyvä oppimisapu etuliitekonflikteille: kun deterministinen valitsin on valinnut voittajan, (etuliite, hyppy, julkinen avain) päivitetään, jotta seuraava tasapeli samalla etuliitteellä ratkeaa samalla tavalla.\n\nVälimuistin TTL: kuinka pitkään merkintä säilyy käyttämättömänä. Oletus 30 päivää, rajoitus 1..=180.\n\nTasapelin ratkaisumarginaali: kuinka lähellä kahden ehdokkaan mittarit on oltava toisiaan (prosentteina), ennen kuin välimuisti ratkaisee tasapelin. 0 poistaa välimuistin varajärjestelmän käytöstä (vain täydelliset tasapelit kelpaavat); 20 on yläraja. Oletus 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth on pois päältä — napauta ottaaksesi sen käyttöön",
+    "value": "Bluetooth on pois päältä: napauta ottaaksesi sen käyttöön",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Keskeytetty — tässä puhelimessa ei ole verkkosijaintia. GPS-sijainteja tulee vain, kun toinen sovellus käyttää GPS:ää tai latauksen aikana.",
+    "value": "Keskeytetty: tässä puhelimessa ei ole verkkosijaintia. GPS-sijainteja tulee vain, kun toinen sovellus käyttää GPS:ää tai latauksen aikana.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Tässä puhelimessa ei ole verkkosijaintia. Kun tämä on päällä, KiekR käyttää GPS:ää itse, kun mesh-liikennettä vastaanotetaan — myös akulla, ja pysähtyy, kun seisot paikallasi. Kuluttaa enemmän akkua.",
+    "value": "Tässä puhelimessa ei ole verkkosijaintia. Kun tämä on päällä, KiekR käyttää GPS:ää itse, kun mesh-liikennettä vastaanotetaan (myös akulla, ja pysähtyy, kun seisot paikallasi). Kuluttaa enemmän akkua.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Vain heksamerkit 0–9, a–f. Välilyönnit ja kaksoispisteet poistetaan liitettäessä. Repeater tarvitsee koko avaimen lisätäkseen sen.",
+    "value": "Vain heksamerkit 0-9, a-f. Välilyönnit ja kaksoispisteet poistetaan liitettäessä. Repeater tarvitsee koko avaimen lisätäkseen sen.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d merkintää – luettelo voi olla puutteellinen",
+    "value": "%1$d merkintää (luettelo voi olla puutteellinen)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Vain heksamerkit 0–9, a–f. Välilyönnit ja kaksoispisteet poistetaan liitettäessä. Huonepalvelin tarvitsee koko avaimen lisätäkseen sen.",
+    "value": "Vain heksamerkit 0-9, a-f. Välilyönnit ja kaksoispisteet poistetaan liitettäessä. Huonepalvelin tarvitsee koko avaimen lisätäkseen sen.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "”Kaikki” tarkoittaa jokaista tähän solmuun tallennettua kontaktia — jos automaattinen lisäys on päällä, käytännössä kuka tahansa kantaman sisällä.",
+    "value": "”Kaikki” tarkoittaa jokaista tähän solmuun tallennettua kontaktia: jos automaattinen lisäys on päällä, käytännössä kuka tahansa kantaman sisällä.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Jakaminen on pois päältä solmussasi — ota se käyttöön kohdassa Oma solmu → Telemetrian jakaminen.",
+    "value": "Jakaminen on pois päältä solmussasi. Ota se käyttöön kohdassa Oma solmu → Telemetrian jakaminen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Käyttöoikeuksia ei voitu päivittää — kontaktin on oltava solmussasi.",
+    "value": "Käyttöoikeuksia ei voitu päivittää: kontaktin on oltava solmussasi.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Tällä solmulla on jo käynnissä toinen pyyntö — yritä uudelleen hetken kuluttua.",
+    "value": "Tällä solmulla on jo käynnissä toinen pyyntö. Yritä uudelleen hetken kuluttua.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Sijainti muuttumaton — laitteella ei ehkä ole nykyistä GPS-sijaintia.",
+    "value": "Sijainti muuttumaton: laitteella ei ehkä ole nykyistä GPS-sijaintia.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Vastauksessa ei ole sijaintia — ei GPS:ää, GPS pois päältä, tai sijaintia ei ole jaettu kanssasi.",
+    "value": "Vastauksessa ei ole sijaintia: ei GPS:ää, GPS pois päältä, tai sijaintia ei ole jaettu kanssasi.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Ei vastausta — kantaman ulkopuolella, tai tämä kontakti ei ole sallinut sinun pyytää sitä.",
+    "value": "Ei vastausta: kantaman ulkopuolella, tai tämä kontakti ei ole sallinut sinun pyytää sitä.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Enintään 16 pyyntöä 15 minuutin aikana, vain tunnetun reitin tai suoran kantaman kautta — ei mesh-tulvaa.",
+    "value": "Enintään 16 pyyntöä 15 minuutin aikana, vain tunnetun reitin tai suoran kantaman kautta (ei mesh-tulvaa).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Live-paikannus päättyi — 15 minuuttia on kulunut.",
+    "value": "Live-paikannus päättyi: 15 minuuttia on kulunut.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Ei vastausta — suoran kantaman ulkopuolella? Kokeile ”Etsi meshistä” toistimien kautta.",
+    "value": "Ei vastausta. Suoran kantaman ulkopuolella? Kokeile ”Etsi meshistä” toistimien kautta.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Yhteys solmuun katkesi — live-paikannus pysäytettiin.",
+    "value": "Yhteys solmuun katkesi. Live-paikannus pysäytettiin.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Sijainnin käyttö on pois päältä — sitä tarvitaan sijaintisi ja etäisyyden näyttämiseen.",
+    "value": "Sijainnin käyttö on pois päältä. Sitä tarvitaan sijaintisi ja etäisyyden näyttämiseen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

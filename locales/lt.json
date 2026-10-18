@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Pirmiau pasidalykite žurnalu — valymas ištrina būtent tuos duomenis, kurių reikia diagnozei.",
+    "value": "Pirmiau pasidalykite žurnalu: valymas ištrina būtent tuos duomenis, kurių reikia diagnozei.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Neprijungtas joks mazgas — norėdami siųsti, prijunkite companion įrenginį.",
+    "value": "Neprijungtas joks mazgas. Norėdami siųsti, prijunkite companion įrenginį.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Atsijungta — prisijunkite iš naujo, kad galėtumėte siųsti",
+    "value": "Atsijungta: prisijunkite iš naujo, kad galėtumėte siųsti",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanalo pranešimai nėra pasirašyti — siuntėjo vardas gali būti bet kuris kanalo dalyvis.",
+    "value": "Kanalo pranešimai nėra pasirašyti: siuntėjo vardas gali būti bet kuris kanalo dalyvis.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Internetinis katalogas išjungtas — įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
+    "value": "Internetinis katalogas išjungtas. Įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Šio tarpinio mazgo trumpiausio kelio prefiksą atitinka keli retransliatoriai. Negalime automatiškai pasirinkti tinkamojo — pasirinkite tą, kuris buvo jūsų kelyje.",
+    "value": "Šio tarpinio mazgo trumpiausio kelio prefiksą atitinka keli retransliatoriai. Negalime automatiškai pasirinkti tinkamojo. Pasirinkite tą, kuris buvo jūsų kelyje.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "nerasta atitikmens — kataloge nebuvo įrašo su šiuo priešdėliu",
+    "value": "nerasta atitikmens: kataloge nebuvo įrašo su šiuo priešdėliu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "nerasta atitikmenų — artimiausi rasti rezultatai internete yra už „sveiko proto“ ribų",
+    "value": "nerasta atitikmenų: artimiausi rasti rezultatai internete yra už „sveiko proto“ ribų",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,12 +346,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Kiekvienas tarpinis mazgas atitinka pirmuosius „%1$d“ baitus kartotuvo viešojo rakto. Trumpi raktai gali atitikti kelis kartotuvus — palieskite žemėlapį, kad internetiniame kataloge surastumėte trūkstamus tarpinio mazgo duomenis.",
+    "value": "Kiekvienas tarpinis mazgas atitinka pirmuosius „%1$d“ baitus kartotuvo viešojo rakto. Trumpi raktai gali atitikti kelis kartotuvus. Palieskite žemėlapį, kad internetiniame kataloge surastumėte trūkstamus tarpinio mazgo duomenis.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_header_bytes": {
-    "value": "Kelias · „%1$d“ – baitų raktų",
+    "value": "Kelias · „%1$d“ baitų raktų",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "nežinoma — iš įrenginio",
+    "value": "nežinoma (iš įrenginio)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Skaičius yra apatinė riba — esant intensyviam srautui kopijos gali pasimesti nepasiekusios programėlės.",
+    "value": "Skaičius yra apatinė riba: esant intensyviam srautui kopijos gali pasimesti nepasiekusios programėlės.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(nėra — iš įrenginio)",
+    "value": "(nėra, iš įrenginio)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Atrasti kanalai — bakstelėkite, kad peržiūrėtumėte",
+    "value": "Atrasti kanalai (bakstelėkite, kad peržiūrėtumėte)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Bakstelėkite raktą, kad jį nukopijuotumėte. Kanalai atpažįstami pagal raktą, o ne pagal pavadinimą — dažnai pasitaiko sutapimų.",
+    "value": "Bakstelėkite raktą, kad jį nukopijuotumėte. Kanalai atpažįstami pagal raktą, o ne pagal pavadinimą: dažnai pasitaiko sutapimų.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d šuolių",
+    "value": "%1$d-%2$d šuolių",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Jūsų mazgas šią žinutę jau perdavė. Patvirtinimo negauta, tačiau ryšio zonoje esantys gavėjai vis tiek galėjo ją gauti — išsiuntus dar kartą, jie ją matys du kartus.",
+    "value": "Jūsų mazgas šią žinutę jau perdavė. Patvirtinimo negauta, tačiau ryšio zonoje esantys gavėjai vis tiek galėjo ją gauti. Išsiuntus dar kartą, jie ją matys du kartus.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Svečių prieiga — tik skaitymo teisėmis",
+    "value": "Svečių prieiga (tik skaitymo teisėmis)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Kiekvienas kadras, kurį išgirsta jūsų mazgas, rodomas čia — niekas nefiltruojama.",
+    "value": "Kiekvienas kadras, kurį išgirsta jūsų mazgas, rodomas čia. Niekas nefiltruojama.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Be filtro — rodomi dekoduoti, kitiems šifruoti, nežinomi ir sugadinti kadrai.",
+    "value": "Be filtro: rodomi dekoduoti, kitiems šifruoti, nežinomi ir sugadinti kadrai.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "šifruota — ne šiam įrenginiui",
+    "value": "šifruota, ne šiam įrenginiui",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "rodo kiekvieną gautą kadrą — net tai, ko negalima perskaityti",
+    "value": "rodo kiekvieną gautą kadrą, net tai, ko negalima perskaityti",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d išsaugota talpykloje · dalinė — bakstelėkite, kad atnaujintumėte",
+    "value": "%1$d išsaugota talpykloje · dalinė, bakstelėkite, kad atnaujintumėte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Kaimynų duomenų talpykloje nėra — bakstelėkite „Atnaujinti“.",
+    "value": "Kaimynų duomenų talpykloje nėra. Bakstelėkite „Atnaujinti“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Nė viename iš šio pranešimo retransliatorių – taip pat ir jo siuntėjo – nėra išsaugotų GPS koordinačių. Uždarykite šį langą, bakstelėkite žemėlapio piktogramą pranešimo maršruto skyriuje, tada grįžkite atgal.",
+    "value": "Nė viename iš šio pranešimo retransliatorių (taip pat ir jo siuntėjo) nėra išsaugotų GPS koordinačių. Uždarykite šį langą, bakstelėkite žemėlapio piktogramą pranešimo maršruto skyriuje, tada grįžkite atgal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "nuo %1$.0f iki %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Kad kiti mazgai galėtų iššifruoti mūsų privačias žinutes, jų kontaktų sąraše turi būti mūsų skelbimas. Bakstelėkite, kad pasirinkite pasiekiamumą — „zero-hop“ yra tylus (tik kaimynai); „flood“ yra triukšmingas (visas tinklas).",
+    "value": "Kad kiti mazgai galėtų iššifruoti mūsų privačias žinutes, jų kontaktų sąraše turi būti mūsų skelbimas. Bakstelėkite, kad pasirinkite pasiekiamumą: „zero-hop“ yra tylus (tik kaimynai); „flood“ yra triukšmingas (visas tinklas).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Šiame įrenginyje yra baterija maitinamas RTC. Programinė įranga negali jo iš naujo nustatyti — norint atkurti veikimą, reikia atnaujinti programinę įrangą arba išimti RTC atsarginę bateriją.",
+    "value": "Šiame įrenginyje yra baterija maitinamas RTC. Programinė įranga negali jo iš naujo nustatyti. Norint atkurti veikimą, reikia atnaujinti programinę įrangą arba išimti RTC atsarginę bateriją.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Funkcija „Reboot“ iš naujo paleidžia susietą mazgą. Funkcija „Factory reset“ ištrina įrenginio kontaktus, kanalus ir nustatymus — programėlės vietiniai duomenys lieka nepakitę.",
+    "value": "Funkcija „Reboot“ iš naujo paleidžia susietą mazgą. Funkcija „Factory reset“ ištrina įrenginio kontaktus, kanalus ir nustatymus. Programėlės vietiniai duomenys lieka nepakitę.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Pasirinkus „Atsijungti“ ryšys nutraukiamas, tačiau išsaugomas tarpinėje atmintyje esantis ryšys — bakstelėkite „Prisijungti“, kad vėl prisijungtumėte be pakartotinio suporavimo. Pasirinkus „Pamiršti“ ryšys nutraukiamas ir išvaloma tarpinė atmintis; norint vėl prisijungti, mazgą reikia suporuoti iš naujo.",
+    "value": "Pasirinkus „Atsijungti“ ryšys nutraukiamas, tačiau išsaugomas tarpinėje atmintyje esantis ryšys. Bakstelėkite „Prisijungti“, kad vėl prisijungtumėte be pakartotinio suporavimo. Pasirinkus „Pamiršti“ ryšys nutraukiamas ir išvaloma tarpinė atmintis; norint vėl prisijungti, mazgą reikia suporuoti iš naujo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Ištrina įrenginyje esančius kontaktus, kanalus, regionus, nustatymus ir tapatybę. Šis veiksmas negrįžtamas — jo negalima atšaukti. Prieš tęsdami, eksportuokite viską, ką norite išsaugoti.",
+    "value": "Ištrina įrenginyje esančius kontaktus, kanalus, regionus, nustatymus ir tapatybę. Šis veiksmas negrįžtamas: jo negalima atšaukti. Prieš tęsdami, eksportuokite viską, ką norite išsaugoti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Visiškas tinklas. Garsus — kiekvienas retransliatorius perduoda signalą. Naudokite saikingai; už masines reklamas mokama už transliacijos laiką kiekvienam retransliatoriui.",
+    "value": "Visiškas tinklas. Garsus: kiekvienas retransliatorius perduoda signalą. Naudokite saikingai; už masines reklamas mokama už transliacijos laiką kiekvienam retransliatoriui.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Išplėstinis režimas įrašo neapdorotus dažnio, juostos pločio, SF ir CR parametrus. Programinės įrangos diapazonai: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "Išplėstinis režimas įrašo neapdorotus dažnio, juostos pločio, SF ir CR parametrus. Programinės įrangos diapazonai: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Ką šiuo metu praneša susietas mazgas. Toliau pateikti išankstiniai nustatymai paimti iš „MeshCore“ bendruomenės katalogo — pasirinkite tą, kurį naudoja jūsų vietinis tinklas.",
+    "value": "Ką šiuo metu praneša susietas mazgas. Toliau pateikti išankstiniai nustatymai paimti iš „MeshCore“ bendruomenės katalogo. Pasirinkite tą, kurį naudoja jūsų vietinis tinklas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Remiantis jūsų įrenginio regiono nustatymais. Patvirtinkite, kad pakeitimai įsigaliotų — kol to nepadarysite, niekas nepasikeis.",
+    "value": "Remiantis jūsų įrenginio regiono nustatymais. Patvirtinkite, kad pakeitimai įsigaliotų. Kol to nepadarysite, niekas nepasikeis.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Vėl prisijunkite prie anksčiau susietos įrangos. PIN kodo nereikalaujama — ryšys vis dar saugomas atmintyje.",
+    "value": "Vėl prisijunkite prie anksčiau susietos įrangos. PIN kodo nereikalaujama: ryšys vis dar saugomas atmintyje.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Tik kaimynams. Ramu — be užtvindymo. Naudokite tik tada, kai jūsų skelbimą turi gauti tik artimiausi mazgai.",
+    "value": "Tik kaimynams. Ramu: be užtvindymo. Naudokite tik tada, kai jūsų skelbimą turi gauti tik artimiausi mazgai.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "„Secret“ – tai kanalo bendras 16 baitų AES raktas, užrašytas kaip 32 šešioliktainiai simboliai. Hashtag tipo kanalų atveju „secret“ automatiškai gaunamas iš pavadinimo – jei norite pasinaudoti šiuo būdu, palikite „#“ ženklą savo vietoje.",
+    "value": "„Secret“ yra kanalo bendras 16 baitų AES raktas, užrašytas kaip 32 šešioliktainiai simboliai. Hashtag tipo kanalų atveju „secret“ automatiškai gaunamas iš pavadinimo. Jei norite pasinaudoti šiuo būdu, palikite „#“ ženklą savo vietoje.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2166,7 +2166,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_contact_pubkey_footer": {
-    "value": "Viešasis raktas – tai kontakto 32 baitų „Ed25519“ identifikatorius, užrašytas kaip 64 šešioliktainiai simboliai. Vėlesniuose pranešimuose bus pateikiami GPS duomenys, signalo stiprumas ir bet kokie vardo atnaujinimai.",
+    "value": "Viešasis raktas yra kontakto 32 baitų „Ed25519“ identifikatorius, užrašytas kaip 64 šešioliktainiai simboliai. Vėlesniuose pranešimuose bus pateikiami GPS duomenys, signalo stiprumas ir bet kokie vardo atnaujinimai.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Laikrodis nustatytas į priekį. Standartinė programinė įranga neleidžia sinchronizuoti atgal. Sprendimas: paleiskite komandą `clkreboot` iš žemiau pateiktos komandinės eilutės — ji iš naujo nustatys RTC į 2024-05-15 ir perkraus sistemą — tada bakstelėkite „sinchronizuoti“, kad būtų įrašytas dabartinis laikas.",
+    "value": "Laikrodis nustatytas į priekį. Standartinė programinė įranga neleidžia sinchronizuoti atgal. Sprendimas: paleiskite komandą `clkreboot` iš žemiau pateiktos komandinės eilutės (ji iš naujo nustatys RTC į 2024-05-15 ir perkraus sistemą), tada bakstelėkite „sinchronizuoti“, kad būtų įrašytas dabartinis laikas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Įrenginys vis dar sinchronizuojamas — prašome pabandyti dar kartą po akimirkos.",
+    "value": "Įrenginys vis dar sinchronizuojamas. Prašome pabandyti dar kartą po akimirkos.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Internetinis katalogas išjungtas — įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
+    "value": "Internetinis katalogas išjungtas. Įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Pakartotinio prisijungimo slaptažodis negali būti ilgesnis nei 15 simbolių — jei jis ilgesnis, prisijungiant jis bus sutrumpintas.",
+    "value": "Pakartotinio prisijungimo slaptažodis negali būti ilgesnis nei 15 simbolių. Jei jis ilgesnis, prisijungiant jis bus sutrumpintas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d išsaugota talpykloje · dalinė — bakstelėkite, kad atnaujintumėte",
+    "value": "%1$d išsaugota talpykloje · dalinė, bakstelėkite, kad atnaujintumėte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Ribotas dažnis — %1$d s",
+    "value": "Ribotas dažnis: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3655,7 +3655,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Negaliu ištrinti — regione yra pavaldžių regionų.",
+    "value": "Negaliu ištrinti: regione yra pavaldžių regionų.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3725,7 +3725,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Kiekvienas šuolis sudaro 3 baitus. Iš viso gaunasi „%1$d“ — reikia arba papildyti, arba sutrumpinti.",
+    "value": "Kiekvienas šuolis sudaro 3 baitus. Iš viso gaunasi „%1$d“. Reikia arba papildyti, arba sutrumpinti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3760,7 +3760,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(dar nėra išmokto maršruto — tiesioginiai siuntimai vyktų be persiuntimų)",
+    "value": "(dar nėra išmokto maršruto: tiesioginiai siuntimai vyktų be persiuntimų)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3895,7 +3895,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_qr_error_contact": {
-    "value": "Viešasis raktas turi būti 32 baitų ilgio, o jo tipas turi būti vienas iš 1–4.",
+    "value": "Viešasis raktas turi būti 32 baitų ilgio, o jo tipas turi būti vienas iš 1-4.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4190,7 +4190,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Remiantis jūsų dabartine buvimo vieta — šio pranešimo vieta nebuvo išsaugota.",
+    "value": "Remiantis jūsų dabartine buvimo vieta: šio pranešimo vieta nebuvo išsaugota.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4400,12 +4400,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "ACL įrašų nėra — norėdami juos įkelti, bakstelėkite „Atnaujinti“.",
+    "value": "ACL įrašų nėra. Norėdami juos įkelti, bakstelėkite „Atnaujinti“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Neteisingas viešojo rakto šešioliktainis kodas — turi būti lygiai 64 šešioliktainiai simboliai",
+    "value": "Neteisingas viešojo rakto šešioliktainis kodas: turi būti lygiai 64 šešioliktainiai simboliai",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4425,7 +4425,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 šešioliktainiai simboliai — visą mazgo viešąjį raktą.",
+    "value": "64 šešioliktainiai simboliai (visą mazgo viešąjį raktą).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4455,7 +4455,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Čia įkeliami administravimo įrankiai — CLI ir ACL redaktorius bus įtraukti kitame atnaujinime.",
+    "value": "Čia įkeliami administravimo įrankiai. CLI ir ACL redaktorius bus įtraukti kitame atnaujinime.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4465,7 +4465,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Šiuo metu apdorojamas kitas užklausimas — prašome pabandyti dar kartą.",
+    "value": "Šiuo metu apdorojamas kitas užklausimas. Prašome pabandyti dar kartą.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4495,12 +4495,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Prisijungti nepavyko — įvestas neteisingas slaptažodis arba kambarys nepasiekiamas.",
+    "value": "Prisijungti nepavyko: įvestas neteisingas slaptažodis arba kambarys nepasiekiamas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Slaptažodis negali būti ilgesnis nei 15 simbolių — jei jis ilgesnis, prisijungiant jis bus sutrumpintas.",
+    "value": "Slaptažodis negali būti ilgesnis nei 15 simbolių. Jei jis ilgesnis, prisijungiant jis bus sutrumpintas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4660,7 +4660,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Kai prijungtas įrenginys aptinka atitinkamo tipo skelbimą, jis įrašo mazgą į savo kontaktų lentelę — šis įrašas išlieka po perkrovimo ir perduodamas programėlei kitą kartą, kai įrenginys išeina į budėjimo režimą.",
+    "value": "Kai prijungtas įrenginys aptinka atitinkamo tipo skelbimą, jis įrašo mazgą į savo kontaktų lentelę. Šis įrašas išlieka po perkrovimo ir perduodamas programėlei kitą kartą, kai įrenginys išeina į budėjimo režimą.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4735,7 +4735,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Kai funkcija „KiekR“ įjungta, ji gali automatiškai inicijuoti katalogų paiešką, jei programa pasyviai aptinka trūkstamą kontekstą — nežinomus maršruto tarpininkus, aptiktus kartotuvus, kurie dar nėra įtraukti į katalogą, trūkstamas kaimynų eilutes ir trūkstamus regionus atradimo metu. Kai funkcija išjungta (numatyta), kiekvienai katalogo paieškai reikia vieno bakstelėjimo.",
+    "value": "Kai funkcija „KiekR“ įjungta, ji gali automatiškai inicijuoti katalogų paiešką, jei programa pasyviai aptinka trūkstamą kontekstą: nežinomus maršruto tarpininkus, aptiktus kartotuvus, kurie dar nėra įtraukti į katalogą, trūkstamas kaimynų eilutes ir trūkstamus regionus atradimo metu. Kai funkcija išjungta (numatyta), kiekvienai katalogo paieškai reikia vieno bakstelėjimo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4770,7 +4770,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Paieškos atliekamos tik „KiekR“ kataloge — niekada trečiųjų šalių serveriuose. Skaitymas iš talpyklos lieka nemokamas; šis jungiklis kontroliuoja tinklo dalį.",
+    "value": "Paieškos atliekamos tik „KiekR“ kataloge, niekada trečiųjų šalių serveriuose. Skaitymas iš talpyklos lieka nemokamas; šis jungiklis kontroliuoja tinklo dalį.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4865,7 +4865,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_export_footer": {
-    "value": "Su „MeshCore“ suderinamas JSON. Standartinė „MeshCore“ programa šį failą atidaro be problemų. Kanalai + kontaktai + tapatybės duomenys; pranešimai – ne.",
+    "value": "Su „MeshCore“ suderinamas JSON. Standartinė „MeshCore“ programa šį failą atidaro be problemų. Kanalai + kontaktai + tapatybės duomenys; pranešimai ne.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4890,12 +4890,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importavimas baigtas — „%1$d“ tapatybės, „%2$d“ kanalai, „%3$d“ regionai, „%4$d“ kontaktai, „%5$d“ kartotuvų prisijungimai.",
+    "value": "Importavimas baigtas: „%1$d“ tapatybės, „%2$d“ kanalai, „%3$d“ regionai, „%4$d“ kontaktai, „%5$d“ kartotuvų prisijungimai.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importavimas baigtas — %1$d tapatybės, %2$d kanalai, %3$d regionai, %4$d kontaktai, %5$d kartotuvų prisijungimai, %6$d parankiniai, %7$d užblokuoti siuntėjai, %8$d nustatymai.",
+    "value": "Importavimas baigtas: %1$d tapatybės, %2$d kanalai, %3$d regionai, %4$d kontaktai, %5$d kartotuvų prisijungimai, %6$d parankiniai, %7$d užblokuoti siuntėjai, %8$d nustatymai.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4910,7 +4910,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Atkurkite iš .json arba .mcbackup failo. Importuojant numatyta parinktis yra „Pakeisti“ – esami kanalai, kontaktai ir regionai bus ištrinti, o tada bus įterptas paketas. Palieskite ir 5 sekundes palaikykite mygtuką „Patvirtinti“.",
+    "value": "Atkurkite iš .json arba .mcbackup failo. Importuojant numatyta parinktis yra „Pakeisti“: esami kanalai, kontaktai ir regionai bus ištrinti, o tada bus įterptas paketas. Palieskite ir 5 sekundes palaikykite mygtuką „Patvirtinti“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4965,7 +4965,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Tai NĖRA jūsų BLE suporavimo PIN kodas. Jis skirtas tik šiam atsarginės kopijos failui apsaugoti — pasirinkite kažką, ką lengvai prisiminsite; „KiekR“ jo atkurti negalės.",
+    "value": "Tai NĖRA jūsų BLE suporavimo PIN kodas. Jis skirtas tik šiam atsarginės kopijos failui apsaugoti. Pasirinkite kažką, ką lengvai prisiminsite; „KiekR“ jo atkurti negalės.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5010,7 +5010,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Atsarginė kopija sukurta naujesne programos versija (schema %1$s) — pritaikyta kiek įmanoma.",
+    "value": "Atsarginė kopija sukurta naujesne programos versija (schema %1$s), pritaikyta kiek įmanoma.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5050,7 +5050,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_anchors_footer": {
-    "value": "Įtampos turi būti griežtai didėjančios; procentinės dalys – nemažėjančios. Įterpkite atskaitos taškus didžiausio tarpo viduryje.",
+    "value": "Įtampos turi būti griežtai didėjančios; procentinės dalys nemažėjančios. Įterpkite atskaitos taškus didžiausio tarpo viduryje.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5120,7 +5120,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Ištisinė linija = kreivė, kurią išsaugojate. Brūkšninė linija = numatytoji cheminė kreivė šiam variantui. X ašis: 2800–4400 mV. Y ašis: 0–100 %%.",
+    "value": "Ištisinė linija = kreivė, kurią išsaugojate. Brūkšninė linija = numatytoji cheminė kreivė šiam variantui. X ašis: 2800-4400 mV. Y ašis: 0-100 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5175,7 +5175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Pranešti, kai prijungto įrenginio įkrovos lygis nukrenta iki įspėjamojo procento. Pakartotinio įjungimo intervalas – tai, kiek procentais įkrovos lygis turi pakilti virš ribos, kad būtų galima suaktyvinti kitą įspėjimą – jį padidinkite, jei akumuliatoriaus įkrovos kreivė pasiekia stabilų lygį (LiFePO4, AA).",
+    "value": "Pranešti, kai prijungto įrenginio įkrovos lygis nukrenta iki įspėjamojo procento. Pakartotinio įjungimo intervalas yra tai, kiek procentais įkrovos lygis turi pakilti virš ribos, kad būtų galima suaktyvinti kitą įspėjimą. Jį padidinkite, jei akumuliatoriaus įkrovos kreivė pasiekia stabilų lygį (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5205,7 +5205,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Norėdami atblokuoti, bakstelėkite šiukšlės piktogramą. Ankstesnės jų žinutės vėl pasirodys visuose kanaluose. Blokavimas taikomas tiksliai nurodytam vardui — bet kas gali pasirinkti tą vardą, todėl tai nesustabdys ryžtingo vartotojo nuo vardo pakeitimo.",
+    "value": "Norėdami atblokuoti, bakstelėkite šiukšlės piktogramą. Ankstesnės jų žinutės vėl pasirodys visuose kanaluose. Blokavimas taikomas tiksliai nurodytam vardui. Bet kas gali pasirinkti tą vardą, todėl tai nesustabdys ryžtingo vartotojo nuo vardo pakeitimo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5235,12 +5235,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Jūsų mazge yra kanalas, pavadintas „%1$s“, tačiau lokaliai jis vadinasi „%2$s“. Jie naudoja tą patį šifravimo raktą, todėl pranešimai vis tiek veikia — pasirinkite vieną pavadinimą, kurį norite išlaikyti.",
+    "value": "Jūsų mazge yra kanalas, pavadintas „%1$s“, tačiau lokaliai jis vadinasi „%2$s“. Jie naudoja tą patį šifravimo raktą, todėl pranešimai vis tiek veikia. Pasirinkite vieną pavadinimą, kurį norite išlaikyti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Tiek jūsų vietiniame sąraše, tiek jūsų mazge yra kanalas pavadinimu „%1$s“, tačiau juose naudojami skirtingi šifravimo raktai. Pranešimai tarp jų nebus iššifruoti — pasirinkite, kuris raktas yra tikrasis.",
+    "value": "Tiek jūsų vietiniame sąraše, tiek jūsų mazge yra kanalas pavadinimu „%1$s“, tačiau juose naudojami skirtingi šifravimo raktai. Pranešimai tarp jų nebus iššifruoti. Pasirinkite, kuris raktas yra tikrasis.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5340,7 +5340,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Iš duomenų bazės pašalina kanalą ir jo raktą. Šis kanalas naudoja pasirinktinį raktą, todėl jo neįmanoma atkurti pagal pavadinimą — pašalinimas yra negrįžtamas, nebent raktą importuotumėte iš naujo (pvz., naudodami QR kodą).",
+    "value": "Iš duomenų bazės pašalina kanalą ir jo raktą. Šis kanalas naudoja pasirinktinį raktą, todėl jo neįmanoma atkurti pagal pavadinimą. Pašalinimas yra negrįžtamas, nebent raktą importuotumėte iš naujo (pvz., naudodami QR kodą).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5350,7 +5350,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Paslepia „%1$s“ iš jūsų pokalbių sąrašo ir kanalų nustatymų. Vėliau galite jį vėl pridėti, įvedę pavadinimą meniu „Nustatymai“ → „Kanalai“ → „Pridėti kanalą pagal pavadinimą“ — SHA-256 raktas gaunamas tuo pačiu būdu.",
+    "value": "Paslepia „%1$s“ iš jūsų pokalbių sąrašo ir kanalų nustatymų. Vėliau galite jį vėl pridėti, įvedę pavadinimą meniu „Nustatymai“ → „Kanalai“ → „Pridėti kanalą pagal pavadinimą“. SHA-256 raktas gaunamas tuo pačiu būdu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5485,7 +5485,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Nepavyko pridėti kanalo — galbūt jis jau egzistuoja arba pavadinimas/raktas yra neteisingas.",
+    "value": "Nepavyko pridėti kanalo: galbūt jis jau egzistuoja arba pavadinimas/raktas yra neteisingas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5495,12 +5495,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Naudoja fiksuotą viešąjį kanalo raktą — rakto nereikia.",
+    "value": "Naudoja fiksuotą viešąjį kanalo raktą, rakto nereikia.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Reikalingas raktas — kanalams su pasirinktu pavadinimu reikalingas 32 simbolių šešioliktainis raktas.",
+    "value": "Reikalingas raktas: kanalams su pasirinktu pavadinimu reikalingas 32 simbolių šešioliktainis raktas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5570,7 +5570,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Jūsų mazgas ir jūsų vietinis sąrašas nesutaria dėl kanalo — pasirinkite, kuri pusė laimi.",
+    "value": "Jūsų mazgas ir jūsų vietinis sąrašas nesutaria dėl kanalo. Pasirinkite, kuri pusė laimi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5620,7 +5620,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Raktas išsaugotas. Atidengti, jei norite gauti dar kartą — arba ištrinti visam laikui.",
+    "value": "Raktas išsaugotas. Atidengti, jei norite gauti dar kartą, arba ištrinti visam laikui.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5700,7 +5700,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anoniminis prisijungimas — tinka programavimo tarpininkams be autentifikavimo.",
+    "value": "Anoniminis prisijungimas: tinka programavimo tarpininkams be autentifikavimo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5780,7 +5780,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Kai programa įjungta, „KiekR“ fiksuoja, kuriuos regionus (ir, jei įmanoma, kuriuos retransliatorius) ji aptinka apytikriai pusės kilometro ploto žemėlapio ląstelėje, ir periodiškai per „Wi-Fi“ siunčia kiekvienos ląstelės duomenų sumas. Jūsų tiksli buvimo vieta niekada neišeina už telefono ribų — tik ląstelės ribos — o žemėlapyje visada rodoma tik tai, kas ten buvo priimta, bet niekada neatskleidžiama, kas tai priėmė. Ši funkcija veikia pseudonimu ir yra atskirta nuo jūsų „KiekR“ tapatybės; ją galite išjungti bet kuriuo metu.",
+    "value": "Kai programa įjungta, „KiekR“ fiksuoja, kuriuos regionus (ir, jei įmanoma, kuriuos retransliatorius) ji aptinka apytikriai pusės kilometro ploto žemėlapio ląstelėje, ir periodiškai per „Wi-Fi“ siunčia kiekvienos ląstelės duomenų sumas. Jūsų tiksli buvimo vieta niekada neišeina už telefono ribų (tik ląstelės ribos), o žemėlapyje visada rodoma tik tai, kas ten buvo priimta, bet niekada neatskleidžiama, kas tai priėmė. Ši funkcija veikia pseudonimu ir yra atskirta nuo jūsų „KiekR“ tapatybės; ją galite išjungti bet kuriuo metu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5820,7 +5820,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Norint, kad duomenys būtų įrašyti į tinkamą žemėlapio langelį, reikia nurodyti tikslią buvimo vietą. Leiskite „KiekR“ nustatyti tikslią buvimo vietą – priešingu atveju ši programa nerenka jokių duomenų iš šio telefono.",
+    "value": "Norint, kad duomenys būtų įrašyti į tinkamą žemėlapio langelį, reikia nurodyti tikslią buvimo vietą. Leiskite „KiekR“ nustatyti tikslią buvimo vietą. Priešingu atveju ši programa nerenka jokių duomenų iš šio telefono.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5885,7 +5885,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT perduoda duomenis tik tada, kai esate susietas su savo įrenginiu per „Bluetooth“. Jūsų įrenginio tinklo identifikatorius niekada nėra įkeltas — kiekvienas tarpininkas naudoja savo pačio sukurtą raktų porą. Stebėtojų pavadinimai visada prasideda žodžiu „KiekR_“.",
+    "value": "MQTT perduoda duomenis tik tada, kai esate susietas su savo įrenginiu per „Bluetooth“. Jūsų įrenginio tinklo identifikatorius niekada nėra įkeltas: kiekvienas tarpininkas naudoja savo pačio sukurtą raktų porą. Stebėtojų pavadinimai visada prasideda žodžiu „KiekR_“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5900,7 +5900,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "3 raidžių oro uosto kodas nurodo jūsų regioną analizatoriaus puslapyje (pvz., HAM, JFK, MUC). Stebėtojo vardas rodomas šalia jūsų paketų — priešdėlis „KiekR_“ yra nekintamas.",
+    "value": "3 raidžių oro uosto kodas nurodo jūsų regioną analizatoriaus puslapyje (pvz., HAM, JFK, MUC). Stebėtojo vardas rodomas šalia jūsų paketų. Priešdėlis „KiekR_“ yra nekintamas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5920,12 +5920,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Sustabdyta — naudojant mobilųjį ryšį",
+    "value": "Sustabdyta: naudojant mobilųjį ryšį",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Sustabdyta — mobiliajame tinkle · „%1$d“ įtraukta į eilę",
+    "value": "Sustabdyta: mobiliajame tinkle · „%1$d“ įtraukta į eilę",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5975,7 +5975,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT įkėlimo funkcija persiunčia kiekvieną neapdorotą „LoRa“ paketą, kurį gauna jūsų įrenginys — įskaitant užšifruotus baitus, kurių jūs patys negalite perskaityti — į jūsų nustatytą tarpininką. Numatytasis nustatymas – išjungta; šią funkciją įjungiate atskirai kiekvienam tarpininkui. Kiekvienas tarpininkas naudoja savo pačio sukurtą raktų porą, todėl jūsų įrenginio tinklo tapatybė niekada neišeina už įrenginio ribų.",
+    "value": "MQTT įkėlimo funkcija persiunčia kiekvieną neapdorotą „LoRa“ paketą, kurį gauna jūsų įrenginys (įskaitant užšifruotus baitus, kurių jūs patys negalite perskaityti) į jūsų nustatytą tarpininką. Numatytasis nustatymas: išjungta; šią funkciją įjungiate atskirai kiekvienam tarpininkui. Kiekvienas tarpininkas naudoja savo pačio sukurtą raktų porą, todėl jūsų įrenginio tinklo tapatybė niekada neišeina už įrenginio ribų.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6020,22 +6020,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Tema — klaidų šalinimas",
+    "value": "Tema (klaidų šalinimas)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Tema — paketai",
+    "value": "Tema (paketai)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Tema — žaliaviniai produktai",
+    "value": "Tema (žaliaviniai produktai)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Tema — būsena",
+    "value": "Tema (būsena)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6105,7 +6105,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Portas turi būti 1–65535",
+    "value": "Portas turi būti nuo 1 iki 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6210,7 +6210,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Pagal numatytuosius išjungta. Įjungus KiekR į api.kiekr.app įkelia strigčių, užstrigimų ir procesoriaus ataskaitas, kurias jai perduoda iOS: programėlės versiją, iOS versiją, įrenginio modelį, sistemos klaidų kodus ir kvietimų dėklą. Jokių žinučių, kontaktų, raktų ar vietovių — ir tai vienintelis būdas telefono gedimui pasiekti kūrėją.",
+    "value": "Pagal numatytuosius išjungta. Įjungus KiekR į api.kiekr.app įkelia strigčių, užstrigimų ir procesoriaus ataskaitas, kurias jai perduoda iOS: programėlės versiją, iOS versiją, įrenginio modelį, sistemos klaidų kodus ir kvietimų dėklą. Jokių žinučių, kontaktų, raktų ar vietovių. Ir tai vienintelis būdas telefono gedimui pasiekti kūrėją.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6250,7 +6250,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Iš anksto sukonfigūruotų eilučių pavadinimų ar URL adresų pakeisti negalima — jei nenorite jų naudoti, išjunkite jas arba pridėkite naują šaltinį.",
+    "value": "Iš anksto sukonfigūruotų eilučių pavadinimų ar URL adresų pakeisti negalima. Jei nenorite jų naudoti, išjunkite jas arba pridėkite naują šaltinį.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6355,7 +6355,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Paieškos apdoroja visus įjungtus šaltinius pagal reitingą; laimi pirmasis šaltinis, kuris pateikia kandidatą. „api.kiekr.app“ užtikrina privatumą (tik A lygio retransliatoriai). „Meshcorenetz Analyzer“ veikia plačiau — natūraliai perkelia užklausą į mazgus, kurių „KiekR“ užkulisiai neturi. Pakeiskite tvarką naudodami rodykles „aukštyn“ ir „žemyn“; bakstelėkite pieštuką, kad redaguotumėte maksimalų atstumą per šuolį kiekvienam šaltiniui.",
+    "value": "Paieškos apdoroja visus įjungtus šaltinius pagal reitingą; laimi pirmasis šaltinis, kuris pateikia kandidatą. „api.kiekr.app“ užtikrina privatumą (tik A lygio retransliatoriai). „Meshcorenetz Analyzer“ veikia plačiau, natūraliai perkelia užklausą į mazgus, kurių „KiekR“ užkulisiai neturi. Pakeiskite tvarką naudodami rodykles „aukštyn“ ir „žemyn“; bakstelėkite pieštuką, kad redaguotumėte maksimalų atstumą per šuolį kiekvienam šaltiniui.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6455,7 +6455,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnostinis kontekstas —",
+    "value": "Diagnostinis kontekstas:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6475,7 +6475,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "„KiekR“ „Android“ žurnalai — %1$s „%2$s“ — %3$s",
+    "value": "„KiekR“ „Android“ žurnalai, %1$s „%2$s“, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6695,7 +6695,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Pranešti apie kiekvieną gautą privačią žinutę. Privačios žinutės yra kriptografiškai patvirtintos — išjungus šią funkciją, bus išjungtas tik pranešimas; žinutė vis tiek pasirodys jūsų „Pokalbių“ sąraše.",
+    "value": "Pranešti apie kiekvieną gautą privačią žinutę. Privačios žinutės yra kriptografiškai patvirtintos. Išjungus šią funkciją, bus išjungtas tik pranešimas; žinutė vis tiek pasirodys jūsų „Pokalbių“ sąraše.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6760,7 +6760,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Nuolatinė mokymosi pagalba prefiksų kolizijų atveju: kai deterministinis atrankos mechanizmas išrenka nugalėtoją, (prefiksas, šuolis, viešasis raktas) yra perrašomas taip, kad kitas lygiagretus atvejis su tuo pačiu prefiksų deriniu būtų išspręstas tokiu pačiu būdu.\n\nTarpinės atminties TTL — kiek laiko įrašas išlieka, kol bus pakartotinai panaudotas. Numatytasis nustatymas – 30 dienų, ribos: 1..=180.\n\nLygybės išsprendimo riba — kiek artimi turi būti dviejų kandidatų rodikliai (procentais), kad talpyklė išspręstų lygybę. 0 išjungia talpyklos atsarginį variantą (tinka tik tikslios lygybės); 20 yra viršutinė riba. Numatytasis nustatymas — 5 %.",
+    "value": "Nuolatinė mokymosi pagalba prefiksų kolizijų atveju: kai deterministinis atrankos mechanizmas išrenka nugalėtoją, (prefiksas, šuolis, viešasis raktas) yra perrašomas taip, kad kitas lygiagretus atvejis su tuo pačiu prefiksų deriniu būtų išspręstas tokiu pačiu būdu.\n\nTarpinės atminties TTL: kiek laiko įrašas išlieka, kol bus pakartotinai panaudotas. Numatytasis nustatymas: 30 dienų, ribos: 1..=180.\n\nLygybės išsprendimo riba: kiek artimi turi būti dviejų kandidatų rodikliai (procentais), kad talpyklė išspręstų lygybę. 0 išjungia talpyklos atsarginį variantą (tinka tik tikslios lygybės); 20 yra viršutinė riba. Numatytasis nustatymas: 5 %.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6815,12 +6815,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Daugiabaitiniams šuoliams reikalinga „Companion“ programinė įranga v1.15.0 ar naujesnė versija. Jūsų „Companion“ rodo senesnę versiją – kol neatnaujinsite, bus naudojamas tik 1 baitas. Jūsų ankstesni nustatymai išsaugomi ir bus vėl aktyvuoti po atnaujinimo.",
+    "value": "Daugiabaitiniams šuoliams reikalinga „Companion“ programinė įranga v1.15.0 ar naujesnė versija. Jūsų „Companion“ rodo senesnę versiją: kol neatnaujinsite, bus naudojamas tik 1 baitas. Jūsų ankstesni nustatymai išsaugomi ir bus vėl aktyvuoti po atnaujinimo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Baitai per šuolį, pridedami prie maršruto naujuose išeinančiuose paketuose, kuriuos mes siunčiame. Didesnės reikšmės sumažina vardų kolizijas, tačiau senesnės kartotuvų programinės įrangos versijos gali jų neperduoti. Išmokti maršrutai į žinomus kontaktus išlaiko tą patį plotį, kokį turėjo gavimo metu — šis nustatymas veikia tik „flood“ ir „anon-reply“ maršrutus. Unikaliems maršrutams rekomenduojami 3 baitai (2 taip pat veikia); programinės įrangos numatytoji reikšmė – 1.",
+    "value": "Baitai per šuolį, pridedami prie maršruto naujuose išeinančiuose paketuose, kuriuos mes siunčiame. Didesnės reikšmės sumažina vardų kolizijas, tačiau senesnės kartotuvų programinės įrangos versijos gali jų neperduoti. Išmokti maršrutai į žinomus kontaktus išlaiko tą patį plotį, kokį turėjo gavimo metu. Šis nustatymas veikia tik „flood“ ir „anon-reply“ maršrutus. Unikaliems maršrutams rekomenduojami 3 baitai (2 taip pat veikia); programinės įrangos numatytoji reikšmė: 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6855,7 +6855,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Internetinis katalogas išjungtas — įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
+    "value": "Internetinis katalogas išjungtas. Įjunkite šaltinį meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7175,7 +7175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Regionas „%1$s“ jau yra jūsų sąraše — atskleiskite jį",
+    "value": "Regionas „%1$s“ jau yra jūsų sąraše: atskleiskite jį",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7255,7 +7255,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_retries_region_discovery_footer": {
-    "value": "Kiek kartų programa pakartotinai siunčia regiono paieškos užklausą, jei negauna atsakymo, ir kiek laiko ji laukia tarp bandymų. Numatytasis nustatymas – 2 bandymai, 8 s intervalas. Triukšminguose tinkluose padidinkite bandymų skaičių; lėtuose ar perkrautuose ryšiuose padidinkite intervalą.",
+    "value": "Kiek kartų programa pakartotinai siunčia regiono paieškos užklausą, jei negauna atsakymo, ir kiek laiko ji laukia tarp bandymų. Numatytasis nustatymas: 2 bandymai, 8 s intervalas. Triukšminguose tinkluose padidinkite bandymų skaičių; lėtuose ar perkrautuose ryšiuose padidinkite intervalą.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7335,7 +7335,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "„Android“ sustabdo programų ryšį su tinklu, kai ekranas išjungtas. Išskirkite „KiekR“ iš baterijos taupymo nustatymų – ir iš jūsų telefono gamintojo nustatytų automatinio paleidimo apribojimų – kad „Companion Link“ veiktų fone.",
+    "value": "„Android“ sustabdo programų ryšį su tinklu, kai ekranas išjungtas. Išskirkite „KiekR“ iš baterijos taupymo nustatymų (ir iš jūsų telefono gamintojo nustatytų automatinio paleidimo apribojimų), kad „Companion Link“ veiktų fone.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7395,7 +7395,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "„Retries“ – tai papildomų bandymų skaičius, kurį „core-lib“ atlieka kiekvienam „GET_NEIGHBOURS“ puslapiui, jei programinė įranga neatsako per nustatytą bandymo laikotarpį – tai praverčia esant nestabiliems BLE / radijo ryšiams, kai puslapio užklausos laikas baigiasi. Šis laiko tarpas kinta proporcingai puslapio dydžiui, todėl jį padidinus papildomiems bandymams suteikiama reikalinga laiko atsarga. Pats puslapio dydis yra fiksuotas ir priklauso nuo programinės įrangos buferio ribos. Numatytasis dydis – „%1$d“.",
+    "value": "„Retries“ yra papildomų bandymų skaičius, kurį „core-lib“ atlieka kiekvienam „GET_NEIGHBOURS“ puslapiui, jei programinė įranga neatsako per nustatytą bandymo laikotarpį, tai praverčia esant nestabiliems BLE / radijo ryšiams, kai puslapio užklausos laikas baigiasi. Šis laiko tarpas kinta proporcingai puslapio dydžiui, todėl jį padidinus papildomiems bandymams suteikiama reikalinga laiko atsarga. Pats puslapio dydis yra fiksuotas ir priklauso nuo programinės įrangos buferio ribos. Numatytasis dydis: „%1$d“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7465,12 +7465,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Nėra atsakymo — kelias gali būti nepasiekiamas.",
+    "value": "Nėra atsakymo: kelias gali būti nepasiekiamas.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Pirmasis retransliatorius turi jus girdėti, o jūs turite girdėti paskutiniojo atsakymą — rinkitės kelią, kuris tikrai pasiekiamas.",
+    "value": "Pirmasis retransliatorius turi jus girdėti, o jūs turite girdėti paskutiniojo atsakymą. Rinkitės kelią, kuris tikrai pasiekiamas.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7530,7 +7530,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Nėra prijungto mazgo — bakstelėkite, kad susietumėte",
+    "value": "Nėra prijungto mazgo: bakstelėkite, kad susietumėte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7550,7 +7550,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "„KiekR“ gali ieškoti nežinomo retransliatoriaus pagal jo hash kodą internetiniuose kataloguose — tai praverčia, kai maršruto tarpinė stotelė rodoma kaip paprastas šešioliktainis prefiksas. Ši funkcija išjungta, kol jos neįjungsite meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
+    "value": "„KiekR“ gali ieškoti nežinomo retransliatoriaus pagal jo hash kodą internetiniuose kataloguose (tai praverčia, kai maršruto tarpinė stotelė rodoma kaip paprastas šešioliktainis prefiksas). Ši funkcija išjungta, kol jos neįjungsite meniu „Nustatymai“ → „Dalijimasis“ → „Katalogas“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7615,7 +7615,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_pathhash_reconcile_body": {
-    "value": "Jūsų programoje nustatyta reikšmė „%1$d“ baitų, o šiame mazge – „%2$d“ baitų. Pasirinkite, kuri reikšmė turėtų būti taikoma.",
+    "value": "Jūsų programoje nustatyta reikšmė „%1$d“ baitų, o šiame mazge „%2$d“ baitų. Pasirinkite, kuri reikšmė turėtų būti taikoma.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7645,7 +7645,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_region_reconcile_body": {
-    "value": "Jūsų programėlė nustatyta į „%1$s“, o šis mazgas – į „%2$s“. Pasirinkite, kuris variantas turėtų būti taikomas.",
+    "value": "Jūsų programėlė nustatyta į „%1$s“, o šis mazgas į „%2$s“. Pasirinkite, kuris variantas turėtų būti taikomas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8105,7 +8105,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Prisijunkite naudodami valdymo elementą viršuje dešinėje — „svečias“ (guest) statistikai, kaimynams, telemetrijai ir programinei įrangai; „administratorius“ (admin) konfigūracijai, regionams ir CLI.",
+    "value": "Prisijunkite naudodami valdymo elementą viršuje dešinėje: „svečias“ (guest) statistikai, kaimynams, telemetrijai ir programinei įrangai; „administratorius“ (admin) konfigūracijai, regionams ir CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8360,7 +8360,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Paketai, kurių radijas negalėjo tinkamai perskaityti — skaičius didėja esant trukdžiams arba silpnam signalui.",
+    "value": "Paketai, kurių radijas negalėjo tinkamai perskaityti. Skaičius didėja esant trukdžiams arba silpnam signalui.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8620,7 +8620,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Kai ši funkcija įjungta, „KiekR“ dalijasi informacija apie žemėlapio ląsteles, kuriose yra tinklo aprėptis, su „mapme.sh“ – bendruomenės aprėpties žemėlapiu. Kiekvienas duomenų rinkinys apima žemėlapio ląstelę, signalo stiprumą ir perdavimo maršrutą, tačiau niekada neapima jūsų tikslios buvimo vietos ar tapatybės. Duomenų siuntimas vyksta pagal jūsų nustatymus „Tik Wi-Fi“ ir „Siuntimo intervalas“.",
+    "value": "Kai ši funkcija įjungta, „KiekR“ dalijasi informacija apie žemėlapio ląsteles, kuriose yra tinklo aprėptis, su „mapme.sh“, bendruomenės aprėpties žemėlapiu. Kiekvienas duomenų rinkinys apima žemėlapio ląstelę, signalo stiprumą ir perdavimo maršrutą, tačiau niekada neapima jūsų tikslios buvimo vietos ar tapatybės. Duomenų siuntimas vyksta pagal jūsų nustatymus „Tik Wi-Fi“ ir „Siuntimo intervalas“.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8852,7 +8852,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Nėra GPS koordinatų — internetinio katalogo nuorodos gali būti nepažymėtos žemėlapyje. Įjunkite prieigą prie buvimo vietos, kad būtų nustatytas pilnas maršrutas.",
+    "value": "Nėra GPS koordinatų: internetinio katalogo nuorodos gali būti nepažymėtos žemėlapyje. Įjunkite prieigą prie buvimo vietos, kad būtų nustatytas pilnas maršrutas.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8867,7 +8867,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Įklijuokite 64 arba 128 simbolių šešioliktainį privatų raktą, kad atkurtumėte atsarginėje kopijoje išsaugotą tapatybę — ji bus išsaugota lokaliai ir perduota prijungtam papildomam įrenginiui. Eksportuojant atskleidžiamas šio mazgo raktas, kad galėtumėte jį atsargiai išsaugoti.",
+    "value": "Įklijuokite 64 arba 128 simbolių šešioliktainį privatų raktą, kad atkurtumėte atsarginėje kopijoje išsaugotą tapatybę. Ji bus išsaugota lokaliai ir perduota prijungtam papildomam įrenginiui. Eksportuojant atskleidžiamas šio mazgo raktas, kad galėtumėte jį atsargiai išsaugoti.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8902,7 +8902,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Fiksuotas numatytasis šaltinis – galinis taškas ir kiti nustatymai yra fiksuoti; čia galite jį pervardyti.",
+    "value": "Fiksuotas numatytasis šaltinis: galinis taškas ir kiti nustatymai yra fiksuoti; čia galite jį pervardyti.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8927,7 +8927,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Serveris atsakė – URL yra galiojantis",
+    "value": "Serveris atsakė: URL yra galiojantis",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8967,7 +8967,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Tai yra jūsų mazgo slaptasis identifikavimo raktas — bet kas, turintis jį, gali apsimesti jūsų mazgu. Laikykite jį saugioje vietoje ir niekada jo niekam neatskleiskite.",
+    "value": "Tai yra jūsų mazgo slaptasis identifikavimo raktas: bet kas, turintis jį, gali apsimesti jūsų mazgu. Laikykite jį saugioje vietoje ir niekada jo niekam neatskleiskite.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9032,7 +9032,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Kai įjungta, KiekR gali automatiškai atlikti katalogo paieškas dėl trūkstamo konteksto, kurį programa pastebi pasyviai — nežinomus kelio hopus, išgirstus repeaterius, kurių dar nėra kataloge, trūkstamas kaimynų eilutes ir trūkstamus regionus aptikimo metu. Kai išjungta (numatytoji nuostata), kiekviena katalogo paieška reikalauja bakstelėjimo.",
+    "value": "Kai įjungta, KiekR gali automatiškai atlikti katalogo paieškas dėl trūkstamo konteksto, kurį programa pastebi pasyviai: nežinomus kelio hopus, išgirstus repeaterius, kurių dar nėra kataloge, trūkstamas kaimynų eilutes ir trūkstamus regionus aptikimo metu. Kai išjungta (numatytoji nuostata), kiekviena katalogo paieška reikalauja bakstelėjimo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9062,7 +9062,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Paieškos vyksta tik į KiekR katalogą — niekada į trečiosios šalies serverį. Talpyklos skaitymai lieka nemokami; šis jungiklis valdo tinklo dalį.",
+    "value": "Paieškos vyksta tik į KiekR katalogą, niekada į trečiosios šalies serverį. Talpyklos skaitymai lieka nemokami; šis jungiklis valdo tinklo dalį.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9072,7 +9072,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_plain_json_the_stock_meshcore_app_reads_": {
-    "value": "Grynas JSON. Standartinė MeshCore programa šį failą skaito be problemų. Perkeliami kanalai + kontaktai + identitetas; žinutės — ne.",
+    "value": "Grynas JSON. Standartinė MeshCore programa šį failą skaito be problemų. Perkeliami kanalai + kontaktai + identitetas; žinutės ne.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9097,7 +9097,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Tai NĖRA jūsų BLE susiejimo PIN kodas ir NĖRA jūsų identiteto slaptafrazė. Ji saugo tik šį atsarginės kopijos failą. Pasirinkite ką nors lengvai įsimenamo — KiekR jums jos atkurti negalės.",
+    "value": "Tai NĖRA jūsų BLE susiejimo PIN kodas ir NĖRA jūsų identiteto slaptafrazė. Ji saugo tik šį atsarginės kopijos failą. Pasirinkite ką nors lengvai įsimenamo. KiekR jums jos atkurti negalės.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9172,7 +9172,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_how_often_the_app_asks_the_device_for_ba": {
-    "value": "Kaip dažnai programa klausia įrenginio baterijos įtampos. „Matoma“ veikia, kol programa atidaryta; „Fonas“ — kol ji paslėpta. Dažnesnis atnaujinimas = švieženi rodmenys, daugiau BLE srauto.",
+    "value": "Kaip dažnai programa klausia įrenginio baterijos įtampos. „Matoma“ veikia, kol programa atidaryta; „Fonas“, kol ji paslėpta. Dažnesnis atnaujinimas = švieženi rodmenys, daugiau BLE srauto.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9192,7 +9192,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Pranešama, kai prijungto įrenginio lygis nukrenta iki perspėjimo procento. Pakartotinio įjungimo tarpas nurodo, kiek procentų lygis turi vėl pakilti virš slenksčio, kol gali nuskambėti kitas įspėjimas — padidinkite jį, jei jūsų baterijos kreivė turi plokščią atkarpą (LiFePO4, AA).",
+    "value": "Pranešama, kai prijungto įrenginio lygis nukrenta iki perspėjimo procento. Pakartotinio įjungimo tarpas nurodo, kiek procentų lygis turi vėl pakilti virš slenksčio, kol gali nuskambėti kitas įspėjimas. Padidinkite jį, jei jūsų baterijos kreivė turi plokščią atkarpą (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9252,7 +9252,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Perbraukite, kad atblokuotumėte. Atblokavus, jų senesnės žinutės vėl pasirodys visuose kanaluose. Blokavimas atitinka tiksliai rodomą vardą — tą vardą gali pasirinkti bet kas, todėl tai nesustabdys ryžtingo rašančiojo tiesiog pasivadinus kitaip.",
+    "value": "Perbraukite, kad atblokuotumėte. Atblokavus, jų senesnės žinutės vėl pasirodys visuose kanaluose. Blokavimas atitinka tiksliai rodomą vardą. Tą vardą gali pasirinkti bet kas, todėl tai nesustabdys ryžtingo rašančiojo tiesiog pasivadinus kitaip.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9262,12 +9262,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Prijungta prie standartinio mazgo — siųsti gali tik įrenginyje įdiegti kanalai. Perbraukite dešinėn, kad pridėtumėte arba pašalintumėte kanalą iš įrenginio. Perbraukite kairėn, kad pašalintumėte kanalą — #-kanalai išsaugo savo raktą, todėl galite juos vėl pridėti pagal vardą; kanalai su tinkintu raktu ištrinami visam laikui.",
+    "value": "Prijungta prie standartinio mazgo: siųsti gali tik įrenginyje įdiegti kanalai. Perbraukite dešinėn, kad pridėtumėte arba pašalintumėte kanalą iš įrenginio. Perbraukite kairėn, kad pašalintumėte kanalą: #-kanalai išsaugo savo raktą, todėl galite juos vėl pridėti pagal vardą; kanalai su tinkintu raktu ištrinami visam laikui.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanalams turi būti priskirtas regionas, kad jie būtų perduodami toliau daugumoje tinklų. Bakstelėkite kanalą, kad priskirtumėte. Perbraukite kairėn, kad pašalintumėte — #-kanalai išsaugo savo raktą, todėl galite juos vėl pridėti pagal vardą; kanalai su tinkintu raktu ištrinami visam laikui.",
+    "value": "Kanalams turi būti priskirtas regionas, kad jie būtų perduodami toliau daugumoje tinklų. Bakstelėkite kanalą, kad priskirtumėte. Perbraukite kairėn, kad pašalintumėte: #-kanalai išsaugo savo raktą, todėl galite juos vėl pridėti pagal vardą; kanalai su tinkintu raktu ištrinami visam laikui.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9387,7 +9387,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Svečio prieiga — tik skaitymui",
+    "value": "Svečio prieiga (tik skaitymui)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9467,17 +9467,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Internetinis katalogas išjungtas — įjunkite šaltinį per „Nustatymai“ → „Bendrinimas“ → „Katalogas“.",
+    "value": "Internetinis katalogas išjungtas. Įjunkite šaltinį per „Nustatymai“ → „Bendrinimas“ → „Katalogas“.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Keli repeateriai atitinka šio hopo trumpojo kelio prefiksą. Automatiškai teisingo pasirinkti negalime — pasirinkite tą, kuris buvo jūsų kelyje.",
+    "value": "Keli repeateriai atitinka šio hopo trumpojo kelio prefiksą. Automatiškai teisingo pasirinkti negalime. Pasirinkite tą, kuris buvo jūsų kelyje.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Kol kas nėra sužymėtų šešiakampių — pavažiuokite su įjungtu radijo ryšiu, ir jie čia atsiras.",
+    "value": "Kol kas nėra sužymėtų šešiakampių. Pavažiuokite su įjungtu radijo ryšiu, ir jie čia atsiras.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9577,7 +9577,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pristabdyta — naudojant mobilųjį ryšį",
+    "value": "Pristabdyta: naudojant mobilųjį ryšį",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9647,22 +9647,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Tema — paketai",
+    "value": "Tema (paketai)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Tema — būsena",
+    "value": "Tema (būsena)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Tema — derinimas",
+    "value": "Tema (derinimas)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Tema — neapdoroti",
+    "value": "Tema (neapdoroti)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9767,7 +9767,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Išsaugo identitetą lokaliai. Jei raktas paremtas sėkla ir yra prijungtas companion įrenginys, sėkla taip pat perduodama įrenginiui naudojant CMD_IMPORT_PRIVATE_KEY — tai perrašo dabartinį įrenginio identitetą.",
+    "value": "Išsaugo identitetą lokaliai. Jei raktas paremtas sėkla ir yra prijungtas companion įrenginys, sėkla taip pat perduodama įrenginiui naudojant CMD_IMPORT_PRIVATE_KEY. Tai perrašo dabartinį įrenginio identitetą.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9912,7 +9912,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Siuntėjo laikrodžio nuokrypis — naudojamas vietinis gavimo laikas",
+    "value": "Siuntėjo laikrodžio nuokrypis: naudojamas vietinis gavimo laikas",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10052,7 +10052,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Slaptažodis ribojamas 15 simbolių — ilgesnis tekstas bus nukirptas jums prisijungiant.",
+    "value": "Slaptažodis ribojamas 15 simbolių. Ilgesnis tekstas bus nukirptas jums prisijungiant.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10077,7 +10077,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Pranešama apie kiekvieną gaunamą tiesioginę žinutę. Tiesioginės žinutės yra kriptografiškai patvirtintos — šios funkcijos išjungimas tik nuslopina pranešimą; žinutė vis tiek pasirodys jūsų pokalbių sąraše.",
+    "value": "Pranešama apie kiekvieną gaunamą tiesioginę žinutę. Tiesioginės žinutės yra kriptografiškai patvirtintos. Šios funkcijos išjungimas tik nuslopina pranešimą; žinutė vis tiek pasirodys jūsų pokalbių sąraše.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10127,7 +10127,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Kelių baitų hopams reikalinga companion programinė aparatinė įranga v1.15.0 ar naujesnė. Jūsų companion praneša senesnę versiją — kol neatnaujinsite, apribota iki 1 baito. Jūsų ankstesnis pasirinkimas išsaugotas ir bus vėl aktyvuotas po atnaujinimo.",
+    "value": "Kelių baitų hopams reikalinga companion programinė aparatinė įranga v1.15.0 ar naujesnė. Jūsų companion praneša senesnę versiją: kol neatnaujinsite, apribota iki 1 baito. Jūsų ankstesnis pasirinkimas išsaugotas ir bus vėl aktyvuotas po atnaujinimo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10157,7 +10157,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Perbraukite regioną, kad jį pašalintumėte. Jis paliekamas duomenų bazėje (ir toliau žymi gaunamą srautą), tačiau pranyksta iš šio sąrašo ir kanalų pasirinkimų — pridėkite jį iš naujo pagal vardą, kad jį atgautumėte.",
+    "value": "Perbraukite regioną, kad jį pašalintumėte. Jis paliekamas duomenų bazėje (ir toliau žymi gaunamą srautą), tačiau pranyksta iš šio sąrašo ir kanalų pasirinkimų. Pridėkite jį iš naujo pagal vardą, kad jį atgautumėte.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10367,7 +10367,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Neprijungtas companion įrenginys — pirmiausia prijunkite mazgą.",
+    "value": "Neprijungtas companion įrenginys. Pirmiausia prijunkite mazgą.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10392,7 +10392,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Atkurkite iš `.json` arba `.mcbackup` failo. Importai numatytai pakeičia — jūsų esami kanalai, kontaktai ir regionai išvalomi, tada įterpiamas rinkinys. Palaikykite nuspaudę „Patvirtinti“ 5 sekundes.",
+    "value": "Atkurkite iš `.json` arba `.mcbackup` failo. Importai numatytai pakeičia: jūsų esami kanalai, kontaktai ir regionai išvalomi, tada įterpiamas rinkinys. Palaikykite nuspaudę „Patvirtinti“ 5 sekundes.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10492,17 +10492,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Kol kas jos negirdėjo joks observeris — tai niekada nereiškia, kad siuntimas nepavyko.",
+    "value": "Kol kas jos negirdėjo joks observeris. Tai niekada nereiškia, kad siuntimas nepavyko.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Kol kas išgirsta viename observer regione — tikriausiai tik netoliese.",
+    "value": "Kol kas išgirsta viename observer regione, tikriausiai tik netoliese.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Išgirsta %1$d regionuose — mesh perdavė šią žinutę.",
+    "value": "Išgirsta %1$d regionuose: mesh perdavė šią žinutę.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10517,7 +10517,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Patikra nepavyko — bandykite vėliau.",
+    "value": "Patikra nepavyko. Bandykite vėliau.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10527,7 +10527,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Išgirdo %1$d observeriai — mesh perdavė šią žinutę.",
+    "value": "Išgirdo %1$d observeriai: mesh perdavė šią žinutę.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10537,7 +10537,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Šis mazgas šiuo metu automatiškai priima visų tipų skelbimus („Auto add all“) — žemiau esantys filtrai neveikia. Tai galėjo pakeisti kita programa.",
+    "value": "Šis mazgas šiuo metu automatiškai priima visų tipų skelbimus („Auto add all“). Žemiau esantys filtrai neveikia. Tai galėjo pakeisti kita programa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10555,7 +10555,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Neišsiųsta — neįdiegta jūsų mazge",
+    "value": "Neišsiųsta: neįdiegta jūsų mazge",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10577,7 +10577,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Taip pat žymi šešiakampius, kuriuose srauto nebuvo gauta — naudoja GPS ir daugiau baterijos.",
+    "value": "Taip pat žymi šešiakampius, kuriuose srauto nebuvo gauta. Naudoja GPS ir daugiau baterijos.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10622,7 +10622,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Šio mazgo kontaktų sąrašas pilnas — jis negali priimti naujų išgirstų kontaktų. Ištrinkite kelis, kad atsirastų vietos.",
+    "value": "Šio mazgo kontaktų sąrašas pilnas: jis negali priimti naujų išgirstų kontaktų. Ištrinkite kelis, kad atsirastų vietos.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10632,17 +10632,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pristabdyta — vietos prieiga nustatyta tik „Naudojant programą“",
+    "value": "Pristabdyta: vietos prieiga nustatyta tik „Naudojant programą“",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pristabdyta — vietos sesija sustabdyta",
+    "value": "Pristabdyta: vietos sesija sustabdyta",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Be „Visada“, aprėptis renkama tik kol KiekR yra atidaryta — iOS pristabdo vietos sesiją, kai programa perkeliama į foną. Su „Visada“ KiekR toliau renka duomenis kišenėje, naudodama tik tą poziciją, kurią telefonas jau žino, be papildomo GPS.",
+    "value": "Be „Visada“, aprėptis renkama tik kol KiekR yra atidaryta. iOS pristabdo vietos sesiją, kai programa perkeliama į foną. Su „Visada“ KiekR toliau renka duomenis kišenėje, naudodama tik tą poziciją, kurią telefonas jau žino, be papildomo GPS.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10742,12 +10742,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Pašalina %@ iš jūsų pokalbių sąrašo ir kanalų nustatymų. Vėliau galite jį vėl pridėti įvesdami vardą per „Nustatymai“ → „Kanalai“ → „Pridėti kanalą pagal vardą“ — SHA-256 raktas išvedamas tuo pačiu būdu.",
+    "value": "Pašalina %@ iš jūsų pokalbių sąrašo ir kanalų nustatymų. Vėliau galite jį vėl pridėti įvesdami vardą per „Nustatymai“ → „Kanalai“ → „Pridėti kanalą pagal vardą“. SHA-256 raktas išvedamas tuo pačiu būdu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Ištrinti %@? Tai negrįžtama — rakto iš vardo iš naujo išvesti nebegalima.",
+    "value": "Ištrinti %@? Tai negrįžtama: rakto iš vardo iš naujo išvesti nebegalima.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10792,7 +10792,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Nuolatinė mokymosi priemonė prefiksų kolizijoms: kai deterministinis rinkiklis pasirenka laimėtoją, (prefiksas, hopas, viešasis raktas) pažymimas, kad kitas lygiųjų atvejis tuo pačiu prefiksu būtų išsprendžiamas taip pat.\n\nTalpyklos TTL — kiek laiko įrašas išlieka nepakartotinai panaudotas. Numatyta 30 dienų, riba 1..=180.\n\nLygiųjų sprendimo paklaida — kiek arti turi būti dviejų kandidatų metrikos (procentais), kad talpykla išsprendžia lygiąsias. 0 išjungia talpyklos atsarginį variantą (kvalifikuojasi tik tikslūs lygiaisiai); 20 yra viršutinė riba. Numatyta 5 %.",
+    "value": "Nuolatinė mokymosi priemonė prefiksų kolizijoms: kai deterministinis rinkiklis pasirenka laimėtoją, (prefiksas, hopas, viešasis raktas) pažymimas, kad kitas lygiųjų atvejis tuo pačiu prefiksu būtų išsprendžiamas taip pat.\n\nTalpyklos TTL: kiek laiko įrašas išlieka nepakartotinai panaudotas. Numatyta 30 dienų, riba 1..=180.\n\nLygiųjų sprendimo paklaida: kiek arti turi būti dviejų kandidatų metrikos (procentais), kad talpykla išsprendžia lygiąsias. 0 išjungia talpyklos atsarginį variantą (kvalifikuojasi tik tikslūs lygiaisiai); 20 yra viršutinė riba. Numatyta 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10827,7 +10827,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth išjungtas — bakstelėkite, kad įjungtumėte",
+    "value": "Bluetooth išjungtas: bakstelėkite, kad įjungtumėte",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10842,7 +10842,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Pristabdyta — šiame telefone nėra tinklo vietos nustatymo. GPS pozicijos gaunamos tik tada, kai kita programa naudoja GPS arba kraunant.",
+    "value": "Pristabdyta: šiame telefone nėra tinklo vietos nustatymo. GPS pozicijos gaunamos tik tada, kai kita programa naudoja GPS arba kraunant.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10852,7 +10852,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Šiame telefone nėra tinklo vietos nustatymo. Įjungus, KiekR pats įjungia GPS, kol gaunamas mesh srautas — ir iš baterijos, o sustoja, kai stovite vietoje. Naudoja daugiau baterijos.",
+    "value": "Šiame telefone nėra tinklo vietos nustatymo. Įjungus, KiekR pats įjungia GPS, kol gaunamas mesh srautas (ir iš baterijos, o sustoja, kai stovite vietoje). Naudoja daugiau baterijos.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11132,7 +11132,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Tik šešioliktainiai simboliai 0–9, a–f. Įklijuojant tarpai ir dvitaškiai pašalinami. Kad pridėtų, Repeater reikia viso rakto.",
+    "value": "Tik šešioliktainiai simboliai 0-9, a-f. Įklijuojant tarpai ir dvitaškiai pašalinami. Kad pridėtų, Repeater reikia viso rakto.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11262,7 +11262,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d įrašai – sąrašas gali būti nepilnas",
+    "value": "%1$d įrašai (sąrašas gali būti nepilnas)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11347,7 +11347,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Tik šešioliktainiai simboliai 0–9, a–f. Įklijuojant tarpai ir dvitaškiai pašalinami. Kad pridėtų, kambario serveriui reikia viso rakto.",
+    "value": "Tik šešioliktainiai simboliai 0-9, a-f. Įklijuojant tarpai ir dvitaškiai pašalinami. Kad pridėtų, kambario serveriui reikia viso rakto.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11397,7 +11397,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Visi“ reiškia kiekvieną šiame mazge išsaugotą kontaktą — kai įjungtas automatinis pridėjimas, praktiškai bet ką, esantį aprėpties zonoje.",
+    "value": "„Visi“ reiškia kiekvieną šiame mazge išsaugotą kontaktą: kai įjungtas automatinis pridėjimas, praktiškai bet ką, esantį aprėpties zonoje.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11412,7 +11412,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Jūsų mazge dalijimasis išjungtas — įjunkite jį skiltyje Mano mazgas → Telemetrijos dalijimasis.",
+    "value": "Jūsų mazge dalijimasis išjungtas. Įjunkite jį skiltyje Mano mazgas → Telemetrijos dalijimasis.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11422,7 +11422,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Nepavyko atnaujinti leidimų — kontaktas turi būti jūsų mazge.",
+    "value": "Nepavyko atnaujinti leidimų: kontaktas turi būti jūsų mazge.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11442,7 +11442,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Šiame mazge jau vykdoma kita užklausa — pabandykite dar kartą po akimirkos.",
+    "value": "Šiame mazge jau vykdoma kita užklausa. Pabandykite dar kartą po akimirkos.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11467,7 +11467,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Padėtis nepakitusi — įrenginys galbūt šiuo metu neturi galiojančios GPS padėties.",
+    "value": "Padėtis nepakitusi: įrenginys galbūt šiuo metu neturi galiojančios GPS padėties.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11477,12 +11477,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Atsakyme nėra vietos — nėra GPS, GPS išjungtas arba vieta su jumis nesidalijama.",
+    "value": "Atsakyme nėra vietos: nėra GPS, GPS išjungtas arba vieta su jumis nesidalijama.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Atsakymo nėra — už veikimo zonos ribų arba šis kontaktas neleido jums to užklausti.",
+    "value": "Atsakymo nėra: už veikimo zonos ribų arba šis kontaktas neleido jums to užklausti.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11507,7 +11507,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Iki 16 užklausų per 15 minučių, tik žinomu maršrutu arba tiesioginiu veikimo spinduliu — tinklas neužtvindomas.",
+    "value": "Iki 16 užklausų per 15 minučių, tik žinomu maršrutu arba tiesioginiu veikimo spinduliu (tinklas neužtvindomas).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11522,17 +11522,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Tiesioginis sekimas baigėsi — 15 minučių pasibaigė.",
+    "value": "Tiesioginis sekimas baigėsi: 15 minučių pasibaigė.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Atsakymo nėra — už tiesioginio veikimo spindulio ribų? Naudokite „Ieškoti tinkle“, kad pabandytumėte per pakartotuvus.",
+    "value": "Atsakymo nėra. Už tiesioginio veikimo spindulio ribų? Naudokite „Ieškoti tinkle“, kad pabandytumėte per pakartotuvus.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Ryšys su mazgu nutrūko — tiesioginis sekimas sustabdytas.",
+    "value": "Ryšys su mazgu nutrūko. Tiesioginis sekimas sustabdytas.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11597,7 +11597,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Prieiga prie vietos išjungta — ji reikalinga jūsų vietai ir atstumui rodyti.",
+    "value": "Prieiga prie vietos išjungta. Ji reikalinga jūsų vietai ir atstumui rodyti.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

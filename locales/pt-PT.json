@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Partilhe primeiro o registo — apagar remove os dados de que precisamos para o diagnóstico.",
+    "value": "Partilhe primeiro o registo: apagar remove os dados de que precisamos para o diagnóstico.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Nenhum nó ligado — ligue um companion para enviar.",
+    "value": "Nenhum nó ligado. Ligue um companion para enviar.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Desligado — volte a ligar para enviar",
+    "value": "Desligado: volte a ligar para enviar",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "As mensagens do canal não são assinadas — o nome do remetente pode ser qualquer pessoa do canal.",
+    "value": "As mensagens do canal não são assinadas: o nome do remetente pode ser qualquer pessoa do canal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "O diretório online está desativado — ative uma fonte em Definições → Partilha → Diretório.",
+    "value": "O diretório online está desativado. Ative uma fonte em Definições → Partilha → Diretório.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Vários repetidores correspondem ao prefixo do caminho mais curto deste salto. Não é possível selecionar automaticamente o repetidor correto — escolha aquele que se encontrava no seu caminho.",
+    "value": "Vários repetidores correspondem ao prefixo do caminho mais curto deste salto. Não é possível selecionar automaticamente o repetidor correto. Escolha aquele que se encontrava no seu caminho.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "sem correspondência — o diretório não continha nenhuma entrada para este prefixo",
+    "value": "sem correspondência: o diretório não continha nenhuma entrada para este prefixo",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "sem correspondência — os resultados online mais próximos situam-se fora do raio de sanidade",
+    "value": "sem correspondência: os resultados online mais próximos situam-se fora do raio de sanidade",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Cada salto corresponde ao(s) primeiro(s) byte(s) %1$d da chave pública de um repetidor. As chaves curtas podem corresponder a vários repetidores — toque no globo para procurar os saltos em falta no diretório online.",
+    "value": "Cada salto corresponde ao(s) primeiro(s) byte(s) %1$d da chave pública de um repetidor. As chaves curtas podem corresponder a vários repetidores. Toque no globo para procurar os saltos em falta no diretório online.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "desconhecido — proveniente do dispositivo",
+    "value": "desconhecido (proveniente do dispositivo)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "A contagem é um limite inferior — com tráfego intenso, podem perder-se cópias antes de chegarem à app.",
+    "value": "A contagem é um limite inferior: com tráfego intenso, podem perder-se cópias antes de chegarem à app.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(nenhum — proveniente do dispositivo)",
+    "value": "(nenhum, proveniente do dispositivo)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Canais descobertos — toque para ver",
+    "value": "Canais descobertos (toque para ver)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Toque na chave para copiar. Os canais são associados pela chave, e não pelo nome — é comum que haja colisões.",
+    "value": "Toque na chave para copiar. Os canais são associados pela chave, e não pelo nome: é comum que haja colisões.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d saltos",
+    "value": "%1$d-%2$d saltos",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "O seu nó já transmitiu esta mensagem. Não chegou nenhuma confirmação, mas os recetores ao alcance podem tê-la recebido na mesma — ao enviar novamente, vê-la-ão duas vezes.",
+    "value": "O seu nó já transmitiu esta mensagem. Não chegou nenhuma confirmação, mas os recetores ao alcance podem tê-la recebido na mesma. Ao enviar novamente, vê-la-ão duas vezes.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Acesso de convidado — apenas leitura",
+    "value": "Acesso de convidado (apenas leitura)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Cada frame que o seu nó ouve aparece aqui — nada é filtrado.",
+    "value": "Cada frame que o seu nó ouve aparece aqui. Nada é filtrado.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Sem filtro — aparecem frames descodificados, cifrados para outros, desconhecidos e malformados.",
+    "value": "Sem filtro: aparecem frames descodificados, cifrados para outros, desconhecidos e malformados.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "cifrado — não é para este dispositivo",
+    "value": "cifrado, não é para este dispositivo",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "mostra cada frame recebido — mesmo o que não se consegue ler",
+    "value": "mostra cada frame recebido, mesmo o que não se consegue ler",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d em cache · parcial — toque para atualizar",
+    "value": "%1$d em cache · parcial, toque para atualizar",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Não há vizinhos em cache — toque em «Atualizar».",
+    "value": "Não há vizinhos em cache. Toque em «Atualizar».",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Nenhum dos repetidores desta mensagem — nem a origem — tem coordenadas GPS guardadas. Fecha esta visualização, toca no ícone do globo na secção do percurso da mensagem e, em seguida, volta aqui.",
+    "value": "Nenhum dos repetidores desta mensagem (nem a origem) tem coordenadas GPS guardadas. Fecha esta visualização, toca no ícone do globo na secção do percurso da mensagem e, em seguida, volta aqui.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f a %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Os outros nós precisam de ter o nosso anúncio na sua tabela de contactos para poderem descodificar as nossas mensagens privadas. Toque para escolher o alcance — o «zero-hop» é discreto (apenas vizinhos); o «flood» é abrangente (toda a malha).",
+    "value": "Os outros nós precisam de ter o nosso anúncio na sua tabela de contactos para poderem descodificar as nossas mensagens privadas. Toque para escolher o alcance: o «zero-hop» é discreto (apenas vizinhos); o «flood» é abrangente (toda a malha).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Este dispositivo possui um RTC com bateria de reserva. O software não consegue reiniciá-lo — para o recuperar, é necessário atualizar o firmware ou remover a bateria de reserva do RTC.",
+    "value": "Este dispositivo possui um RTC com bateria de reserva. O software não consegue reiniciá-lo. Para o recuperar, é necessário atualizar o firmware ou remover a bateria de reserva do RTC.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "A opção «Reiniciar» reinicia o nó emparelhado. A opção «Redefinir para as predefinições de fábrica» apaga os contactos, canais e preferências do dispositivo — os dados locais da aplicação não são afetados.",
+    "value": "A opção «Reiniciar» reinicia o nó emparelhado. A opção «Redefinir para as predefinições de fábrica» apaga os contactos, canais e preferências do dispositivo. Os dados locais da aplicação não são afetados.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "A opção «Desligar» interrompe a ligação, mas mantém a ligação em cache — toque em «Ligar» para restabelecer a ligação sem necessidade de voltar a emparelhar. A opção «Esquecer» anula o emparelhamento e limpa a cache; o nó terá de ser emparelhado novamente para voltar a funcionar.",
+    "value": "A opção «Desligar» interrompe a ligação, mas mantém a ligação em cache. Toque em «Ligar» para restabelecer a ligação sem necessidade de voltar a emparelhar. A opção «Esquecer» anula o emparelhamento e limpa a cache; o nó terá de ser emparelhado novamente para voltar a funcionar.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Apaga os contactos, canais, regiões, preferências e identidade do dispositivo. Processo irreversível — não é possível voltar atrás. Exporta tudo o que quiseres guardar antes de continuares.",
+    "value": "Apaga os contactos, canais, regiões, preferências e identidade do dispositivo. Processo irreversível: não é possível voltar atrás. Exporta tudo o que quiseres guardar antes de continuares.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Rede completa. Muito visível — todos os repetidores retransmitem. Utilize com moderação; os anúncios em massa pagam pelo tempo de antena por repetidor.",
+    "value": "Rede completa. Muito visível: todos os repetidores retransmitem. Utilize com moderação; os anúncios em massa pagam pelo tempo de antena por repetidor.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "O modo avançado permite definir diretamente a frequência, a largura de banda, o SF e o CR. Intervalos do firmware: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "O modo avançado permite definir diretamente a frequência, a largura de banda, o SF e o CR. Intervalos do firmware: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "O que o nó emparelhado está a comunicar neste momento. As predefinições abaixo provêm do catálogo da comunidade MeshCore — escolha aquela que a sua rede em malha local utiliza.",
+    "value": "O que o nó emparelhado está a comunicar neste momento. As predefinições abaixo provêm do catálogo da comunidade MeshCore. Escolha aquela que a sua rede em malha local utiliza.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Com base nas definições regionais do seu dispositivo. Confirme para aplicar — nada muda até o fazer.",
+    "value": "Com base nas definições regionais do seu dispositivo. Confirme para aplicar. Nada muda até o fazer.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Volte a ligar-se ao nó com o qual já tinha estabelecido emparelhamento. Não é solicitado o PIN — a ligação ainda se encontra na cache.",
+    "value": "Volte a ligar-se ao nó com o qual já tinha estabelecido emparelhamento. Não é solicitado o PIN: a ligação ainda se encontra na cache.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Apenas vizinhos. Silencioso — sem inundação. Utilize esta opção apenas quando os nós próximos precisarem de receber o seu anúncio.",
+    "value": "Apenas vizinhos. Silencioso: sem inundação. Utilize esta opção apenas quando os nós próximos precisarem de receber o seu anúncio.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "O «segredo» é a chave AES de 16 bytes partilhada pelo canal, escrita como 32 caracteres hexadecimais. No caso dos canais do tipo hashtag, o segredo é derivado automaticamente do nome — mantenha o símbolo de hashtag se preferir utilizar essa opção.",
+    "value": "O «segredo» é a chave AES de 16 bytes partilhada pelo canal, escrita como 32 caracteres hexadecimais. No caso dos canais do tipo hashtag, o segredo é derivado automaticamente do nome. Mantenha o símbolo de hashtag se preferir utilizar essa opção.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "O relógio está adiantado. O firmware de fábrica não permite a sincronização retroativa. Solução: execute o comando `clkreboot` a partir da CLI abaixo — isto redefine o RTC para 15/05/2024 e reinicia o sistema — e, em seguida, toque em «sincronizar» para aplicar a hora atual.",
+    "value": "O relógio está adiantado. O firmware de fábrica não permite a sincronização retroativa. Solução: execute o comando `clkreboot` a partir da CLI abaixo (isto redefine o RTC para 15/05/2024 e reinicia o sistema) e, em seguida, toque em «sincronizar» para aplicar a hora atual.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "O dispositivo ainda está a sincronizar — por favor, tente novamente daqui a pouco.",
+    "value": "O dispositivo ainda está a sincronizar. Por favor, tente novamente daqui a pouco.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "O diretório online está desativado — ative uma fonte em Definições → Partilha → Diretório.",
+    "value": "O diretório online está desativado. Ative uma fonte em Definições → Partilha → Diretório.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "A palavra-passe do repetidor está limitada a 15 caracteres — qualquer palavra-passe mais longa é truncada quando iniciar sessão.",
+    "value": "A palavra-passe do repetidor está limitada a 15 caracteres. Qualquer palavra-passe mais longa é truncada quando iniciar sessão.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d em cache · parcial — toque para atualizar",
+    "value": "%1$d em cache · parcial, toque para atualizar",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Limitação de taxa — %1$d s",
+    "value": "Limitação de taxa: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Não é possível eliminar — a região tem regiões secundárias.",
+    "value": "Não é possível eliminar: a região tem regiões secundárias.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Cada salto tem 3 bytes. No total, são-%1$ds — quer se trate de preenchimento ou de corte.",
+    "value": "Cada salto tem 3 bytes. No total, são %1$d. Ajuste por preenchimento ou por corte.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(ainda não existe um caminho aprendido — as transmissões diretas seriam de zero saltos)",
+    "value": "(ainda não existe um caminho aprendido: as transmissões diretas seriam de zero saltos)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Baseado na sua localização atual — não foi guardada qualquer posição para esta mensagem.",
+    "value": "Baseado na sua localização atual: não foi guardada qualquer posição para esta mensagem.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Não existem entradas na ACL — toque em «Atualizar» para carregar.",
+    "value": "Não existem entradas na ACL. Toque em «Atualizar» para carregar.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Chave pública hexadecimal inválida — deve ter exatamente 64 caracteres hexadecimais",
+    "value": "Chave pública hexadecimal inválida: deve ter exatamente 64 caracteres hexadecimais",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 caracteres hexadecimais — a chave pública completa do nó.",
+    "value": "64 caracteres hexadecimais (a chave pública completa do nó).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "As ferramentas de administração carregam-se aqui — a CLI e o editor de ACL estarão disponíveis na próxima atualização.",
+    "value": "As ferramentas de administração carregam-se aqui. A CLI e o editor de ACL estarão disponíveis na próxima atualização.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Está a ser processado outro pedido — por favor, tente novamente.",
+    "value": "Está a ser processado outro pedido. Por favor, tente novamente.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Falha no início de sessão — palavra-passe incorreta ou sala inacessível.",
+    "value": "Falha no início de sessão: palavra-passe incorreta ou sala inacessível.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "A palavra-passe está limitada a 15 caracteres — qualquer palavra-passe mais longa é truncada quando iniciar sessão.",
+    "value": "A palavra-passe está limitada a 15 caracteres. Qualquer palavra-passe mais longa é truncada quando iniciar sessão.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Quando o dispositivo ligado deteta um anúncio de um tipo compatível, armazena o nó na sua tabela de contactos — esta informação mantém-se após reinicializações e é transmitida à aplicação na próxima atualização.",
+    "value": "Quando o dispositivo ligado deteta um anúncio de um tipo compatível, armazena o nó na sua tabela de contactos. Esta informação mantém-se após reinicializações e é transmitida à aplicação na próxima atualização.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Quando está ativado, o KiekR pode efetuar automaticamente pesquisas no diretório para identificar contextos em falta que a aplicação deteta de forma passiva — saltos desconhecidos num percurso, repetidores detetados que ainda não constam do diretório, linhas de vizinhos em falta e regiões em falta durante uma deteção. Quando está desativado (por predefinição), cada pesquisa no diretório requer um toque.",
+    "value": "Quando está ativado, o KiekR pode efetuar automaticamente pesquisas no diretório para identificar contextos em falta que a aplicação deteta de forma passiva: saltos desconhecidos num percurso, repetidores detetados que ainda não constam do diretório, linhas de vizinhos em falta e regiões em falta durante uma deteção. Quando está desativado (por predefinição), cada pesquisa no diretório requer um toque.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "As consultas são direcionadas apenas para o diretório KiekR — nunca para um servidor de terceiros. As leituras da cache continuam a ser gratuitas; esta opção controla a parte relacionada com a rede.",
+    "value": "As consultas são direcionadas apenas para o diretório KiekR, nunca para um servidor de terceiros. As leituras da cache continuam a ser gratuitas; esta opção controla a parte relacionada com a rede.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importação concluída — identidades em %1$d, canais em %2$d, regiões em %3$d, contactos em %4$d e inícios de sessão no repetidor em %5$d.",
+    "value": "Importação concluída: identidades em %1$d, canais em %2$d, regiões em %3$d, contactos em %4$d e inícios de sessão no repetidor em %5$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importação concluída — %1$d identidade, %2$d canais, %3$d regiões, %4$d contactos, %5$d inícios de sessão no repetidor, %6$d favoritos, %7$d remetentes bloqueados, %8$d definições.",
+    "value": "Importação concluída: %1$d identidade, %2$d canais, %3$d regiões, %4$d contactos, %5$d inícios de sessão no repetidor, %6$d favoritos, %7$d remetentes bloqueados, %8$d definições.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Restaurar a partir de um ficheiro .json ou .mcbackup. Por predefinição, a importação é feita em modo «Substituir» — os seus canais, contactos e regiões existentes são eliminados e, em seguida, o pacote é inserido. Toque e mantenha premido «Confirmar» durante 5 segundos.",
+    "value": "Restaurar a partir de um ficheiro .json ou .mcbackup. Por predefinição, a importação é feita em modo «Substituir»: os seus canais, contactos e regiões existentes são eliminados e, em seguida, o pacote é inserido. Toque e mantenha premido «Confirmar» durante 5 segundos.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Este NÃO é o seu PIN de emparelhamento BLE. Serve apenas para proteger este ficheiro de cópia de segurança — escolha algo fácil de memorizar; o KiekR não o consegue recuperar.",
+    "value": "Este NÃO é o seu PIN de emparelhamento BLE. Serve apenas para proteger este ficheiro de cópia de segurança. Escolha algo fácil de memorizar; o KiekR não o consegue recuperar.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "A cópia de segurança foi criada por uma versão mais recente da app (esquema %1$s) — aplicada na medida do possível.",
+    "value": "A cópia de segurança foi criada por uma versão mais recente da app (esquema %1$s), aplicada na medida do possível.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Linha contínua = curva que está a guardar. Linha tracejada = curva química predefinida para esta variante. Eixo X: 2800–4400 mV. Eixo Y: 0–100%%.",
+    "value": "Linha contínua = curva que está a guardar. Linha tracejada = curva química predefinida para esta variante. Eixo X: 2800-4400 mV. Eixo Y: 0-100%%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Notificar quando o dispositivo ligado atingir a percentagem de aviso. O intervalo de reativação corresponde ao valor em que a percentagem tem de subir acima do limiar antes de o próximo aviso poder ser acionado — aumente-o se a curva da bateria atingir um patamar estável (LiFePO4, AA).",
+    "value": "Notificar quando o dispositivo ligado atingir a percentagem de aviso. O intervalo de reativação corresponde ao valor em que a percentagem tem de subir acima do limiar antes de o próximo aviso poder ser acionado. Aumente-o se a curva da bateria atingir um patamar estável (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Toque no ícone do caixote do lixo para desbloquear. As mensagens anteriores dessa pessoa voltam a aparecer em todos os canais. O bloqueio corresponde ao nome exato apresentado — qualquer pessoa pode escolher esse nome, pelo que isto não impedirá um utilizador determinado de mudar de nome.",
+    "value": "Toque no ícone do caixote do lixo para desbloquear. As mensagens anteriores dessa pessoa voltam a aparecer em todos os canais. O bloqueio corresponde ao nome exato apresentado. Qualquer pessoa pode escolher esse nome, pelo que isto não impedirá um utilizador determinado de mudar de nome.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "O teu nó tem este canal chamado «%1$s», mas, localmente, chama-se «%2$s». Ambos partilham a mesma chave de encriptação, pelo que as mensagens continuam a funcionar — escolhe um nome para manter.",
+    "value": "O teu nó tem este canal chamado «%1$s», mas, localmente, chama-se «%2$s». Ambos partilham a mesma chave de encriptação, pelo que as mensagens continuam a funcionar. Escolhe um nome para manter.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Tanto a sua lista local como o seu nó têm um canal chamado «%1$s», mas com chaves de encriptação diferentes. As mensagens não serão desencriptadas entre eles — escolha qual é a chave correta.",
+    "value": "Tanto a sua lista local como o seu nó têm um canal chamado «%1$s», mas com chaves de encriptação diferentes. As mensagens não serão desencriptadas entre eles. Escolha qual é a chave correta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Remove o canal e a sua chave da base de dados. Este canal utiliza uma chave personalizada, pelo que não é possível deduzi-la a partir do nome — a remoção é permanente, a menos que volte a importar a chave (por exemplo, através de um QR).",
+    "value": "Remove o canal e a sua chave da base de dados. Este canal utiliza uma chave personalizada, pelo que não é possível deduzi-la a partir do nome. A remoção é permanente, a menos que volte a importar a chave (por exemplo, através de um QR).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Oculta o %1$s da sua lista de conversas e das definições dos canais. Pode voltar a adicioná-lo mais tarde, digitando o nome em Definições → Canais → Adicionar canal pelo nome — a chave SHA-256 é gerada da mesma forma.",
+    "value": "Oculta o %1$s da sua lista de conversas e das definições dos canais. Pode voltar a adicioná-lo mais tarde, digitando o nome em Definições → Canais → Adicionar canal pelo nome. A chave SHA-256 é gerada da mesma forma.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Não foi possível adicionar o canal — talvez já exista ou o nome/chave seja inválido.",
+    "value": "Não foi possível adicionar o canal: talvez já exista ou o nome/chave seja inválido.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Utiliza a chave pública fixa do canal — não é necessária nenhuma chave.",
+    "value": "Utiliza a chave pública fixa do canal, não é necessária nenhuma chave.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Chave necessária — os canais com nomes personalizados requerem uma chave hexadecimal de 32 caracteres.",
+    "value": "Chave necessária: os canais com nomes personalizados requerem uma chave hexadecimal de 32 caracteres.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "O teu nó e a tua lista local apresentam discrepâncias relativamente a um canal — escolhe qual das partes prevalece.",
+    "value": "O teu nó e a tua lista local apresentam discrepâncias relativamente a um canal. Escolhe qual das partes prevalece.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Chave guardada. Desoculte para receber novamente — ou elimine definitivamente.",
+    "value": "Chave guardada. Desoculte para receber novamente, ou elimine definitivamente.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Ligação anónima — funciona para corretores de desenvolvimento sem autenticação.",
+    "value": "Ligação anónima: funciona para corretores de desenvolvimento sem autenticação.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Quando está ativado, o KiekR regista quais as regiões (e, sempre que possível, quais os repetidores) que capta numa célula de mapa com uma resolução aproximada de meio quilómetro e envia periodicamente os totais por célula através de Wi-Fi. A sua posição exata nunca sai do telemóvel — apenas a célula — e o mapa mostra apenas o que foi captado nesse local, nunca quem o captou. É pseudónimo e independente da sua identidade no KiekR; pode desativá-lo a qualquer momento.",
+    "value": "Quando está ativado, o KiekR regista quais as regiões (e, sempre que possível, quais os repetidores) que capta numa célula de mapa com uma resolução aproximada de meio quilómetro e envia periodicamente os totais por célula através de Wi-Fi. A sua posição exata nunca sai do telemóvel (apenas a célula) e o mapa mostra apenas o que foi captado nesse local, nunca quem o captou. É pseudónimo e independente da sua identidade no KiekR; pode desativá-lo a qualquer momento.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "A cobertura necessita de uma localização precisa para atribuir o que ouve à célula correta do mapa. Permita a localização precisa para o KiekR — caso contrário, a cobertura não recolhe quaisquer dados neste telemóvel.",
+    "value": "A cobertura necessita de uma localização precisa para atribuir o que ouve à célula correta do mapa. Permita a localização precisa para o KiekR. Caso contrário, a cobertura não recolhe quaisquer dados neste telemóvel.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "O MQTT apenas transmite enquanto estiver emparelhado com o seu dispositivo através de Bluetooth. A identidade de malha do seu dispositivo nunca é enviada — cada broker utiliza o seu próprio par de chaves gerado. Os nomes dos observadores começam sempre por «KiekR_».",
+    "value": "O MQTT apenas transmite enquanto estiver emparelhado com o seu dispositivo através de Bluetooth. A identidade de malha do seu dispositivo nunca é enviada: cada broker utiliza o seu próprio par de chaves gerado. Os nomes dos observadores começam sempre por «KiekR_».",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "O código de aeroporto de 3 letras identifica a sua região na página do analisador (por exemplo, HAM, JFK, MUC). O nome do observador aparece ao lado dos seus pacotes — o prefixo «KiekR_» é fixo.",
+    "value": "O código de aeroporto de 3 letras identifica a sua região na página do analisador (por exemplo, HAM, JFK, MUC). O nome do observador aparece ao lado dos seus pacotes. O prefixo «KiekR_» é fixo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Em pausa — no telemóvel",
+    "value": "Em pausa: no telemóvel",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Em pausa — no telemóvel · «%1$d» na fila",
+    "value": "Em pausa: no telemóvel · «%1$d» na fila",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "O upload MQTT reencaminha todos os pacotes LoRa em bruto que o seu dispositivo recebe — incluindo bytes encriptados que o próprio utilizador não consegue ler — para o broker que configurar. Por predefinição, esta funcionalidade está desativada; deve ativá-la individualmente para cada broker. Cada broker utiliza o seu próprio par de chaves gerado, pelo que a identidade de malha do seu dispositivo nunca sai do próprio dispositivo.",
+    "value": "O upload MQTT reencaminha todos os pacotes LoRa em bruto que o seu dispositivo recebe (incluindo bytes encriptados que o próprio utilizador não consegue ler) para o broker que configurar. Por predefinição, esta funcionalidade está desativada; deve ativá-la individualmente para cada broker. Cada broker utiliza o seu próprio par de chaves gerado, pelo que a identidade de malha do seu dispositivo nunca sai do próprio dispositivo.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Tema — depuração",
+    "value": "Tema (depuração)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Tema — pacotes",
+    "value": "Tema (pacotes)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Tema — em bruto",
+    "value": "Tema (em bruto)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Tema — estado",
+    "value": "Tema (estado)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Desativado por predefinição. Quando ativo, o KiekR envia para api.kiekr.app os relatórios de falha, bloqueio e CPU que o iOS lhe entrega: versão da aplicação, versão do iOS, modelo do dispositivo, os códigos de erro do sistema e a pilha de chamadas. Nenhuma mensagem, contacto, chave ou localização — e é a única forma de uma falha no seu telemóvel chegar ao programador.",
+    "value": "Desativado por predefinição. Quando ativo, o KiekR envia para api.kiekr.app os relatórios de falha, bloqueio e CPU que o iOS lhe entrega: versão da aplicação, versão do iOS, modelo do dispositivo, os códigos de erro do sistema e a pilha de chamadas. Nenhuma mensagem, contacto, chave ou localização. É a única forma de uma falha no seu telemóvel chegar ao programador.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "As linhas pré-configuradas não podem ser renomeadas nem ter o seu URL alterado — desative-as se não quiser utilizá-las ou adicione uma nova fonte.",
+    "value": "As linhas pré-configuradas não podem ser renomeadas nem ter o seu URL alterado. Desative-as se não quiser utilizá-las ou adicione uma nova fonte.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "As pesquisas percorrem todas as fontes ativadas por ordem de classificação; a primeira fonte que devolver um candidato é a vencedora. O api.kiekr.app preserva a privacidade (apenas repetidores de nível A). O Meshcorenetz Analyzer tem um alcance mais amplo — recorre naturalmente aos nós que o backend do KiekR não possui. Reordene com as setas para cima/para baixo; toque no lápis para editar a distância máxima por salto para cada fonte.",
+    "value": "As pesquisas percorrem todas as fontes ativadas por ordem de classificação; a primeira fonte que devolver um candidato é a vencedora. O api.kiekr.app preserva a privacidade (apenas repetidores de nível A). O Meshcorenetz Analyzer tem um alcance mais amplo e recorre naturalmente aos nós que o backend do KiekR não possui. Reordene com as setas para cima/para baixo; toque no lápis para editar a distância máxima por salto para cada fonte.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— contexto de diagnóstico —",
+    "value": "Contexto de diagnóstico:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "Registos do KiekR para Android — %1$s %2$s — %3$s",
+    "value": "Registos do KiekR para Android, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Notificar sempre que receber uma mensagem direta. As mensagens diretas são autenticadas criptograficamente — desativar esta opção apenas suprime a notificação; a mensagem continua a chegar à sua lista de conversas.",
+    "value": "Notificar sempre que receber uma mensagem direta. As mensagens diretas são autenticadas criptograficamente. Desativar esta opção apenas suprime a notificação; a mensagem continua a chegar à sua lista de conversas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Ajuda de aprendizagem persistente para colisões de prefixos: assim que o seletor determinístico tiver escolhido um vencedor, o trio (prefixo, salto, chave pública) é alterado para que o próximo empate no mesmo prefixo seja resolvido da mesma forma.\n\nTTL da cache — durante quanto tempo uma entrada permanece ativa sem ser reutilizada. Valor predefinido: 30 dias; intervalo: 1..=180.\n\nMargem de desempate — quão próximas as métricas de dois candidatos têm de estar (em %%) para que a cache desempate. 0 desativa o recurso de fallback da cache (apenas empates exatos são elegíveis); 20 é o limite superior. Padrão: 5 %%.",
+    "value": "Ajuda de aprendizagem persistente para colisões de prefixos: assim que o seletor determinístico tiver escolhido um vencedor, o trio (prefixo, salto, chave pública) é alterado para que o próximo empate no mesmo prefixo seja resolvido da mesma forma.\n\nTTL da cache: durante quanto tempo uma entrada permanece ativa sem ser reutilizada. Valor predefinido: 30 dias; intervalo: 1..=180.\n\nMargem de desempate: quão próximas as métricas de dois candidatos têm de estar (em %%) para que a cache desempate. 0 desativa o recurso de fallback da cache (apenas empates exatos são elegíveis); 20 é o limite superior. Padrão: 5 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Os saltos multibyte requerem o firmware do Companion v1.15.0 ou mais recente. O seu Companion indica uma versão mais antiga — ficará limitado a 1 byte até efetuar a atualização. A sua preferência anterior é mantida e será reativada após a atualização.",
+    "value": "Os saltos multibyte requerem o firmware do Companion v1.15.0 ou mais recente. O seu Companion indica uma versão mais antiga: ficará limitado a 1 byte até efetuar a atualização. A sua preferência anterior é mantida e será reativada após a atualização.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Bytes por salto adicionados ao percurso nos novos pacotes de saída que originamos. Valores mais elevados reduzem as colisões de nomes, mas podem não ser encaminhados por firmware de repetidores mais antigo. Os percursos aprendidos para contactos conhecidos mantêm a largura com que foram recebidos — esta configuração afeta apenas os percursos de inundação e de resposta anónima. Recomendam-se 3 Bytes para percursos exclusivos (2 também funciona); o valor predefinido do firmware é 1.",
+    "value": "Bytes por salto adicionados ao percurso nos novos pacotes de saída que originamos. Valores mais elevados reduzem as colisões de nomes, mas podem não ser encaminhados por firmware de repetidores mais antigo. Os percursos aprendidos para contactos conhecidos mantêm a largura com que foram recebidos. Esta configuração afeta apenas os percursos de inundação e de resposta anónima. Recomendam-se 3 Bytes para percursos exclusivos (2 também funciona); o valor predefinido do firmware é 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "O diretório online está desativado — ative uma fonte em Definições → Partilha → Diretório.",
+    "value": "O diretório online está desativado. Ative uma fonte em Definições → Partilha → Diretório.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "A região «%1$s» já consta da sua lista — revele-a",
+    "value": "A região «%1$s» já consta da sua lista: voltou a ser mostrada",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "O Android suspende a ligação à rede das aplicações quando o ecrã está desligado. Isenta o KiekR da otimização da bateria — e dos limites de arranque automático impostos pelo fabricante do teu telemóvel — para que a ligação complementar se mantenha ativa em segundo plano.",
+    "value": "O Android suspende a ligação à rede das aplicações quando o ecrã está desligado. Isenta o KiekR da otimização da bateria (e dos limites de arranque automático impostos pelo fabricante do teu telemóvel) para que a ligação complementar se mantenha ativa em segundo plano.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "«Retries» refere-se ao número de tentativas adicionais que a core-lib efetua por cada página GET_NEIGHBOURS, caso o firmware não responda dentro do intervalo de tempo por tentativa — o que é útil em ligações BLE/rádio instáveis, em que uma página atinge o tempo limite. A janela varia de acordo com o tamanho da página, pelo que aumentá-la dá às tentativas adicionais o tempo de que necessitam. O tamanho da página, por sua vez, é fixado no limite máximo do buffer do firmware. Valor predefinido: %1$d.",
+    "value": "«Retries» refere-se ao número de tentativas adicionais que a core-lib efetua por cada página GET_NEIGHBOURS, caso o firmware não responda dentro do intervalo de tempo por tentativa, o que é útil em ligações BLE/rádio instáveis, em que uma página atinge o tempo limite. A janela varia de acordo com o tamanho da página, pelo que aumentá-la dá às tentativas adicionais o tempo de que necessitam. O tamanho da página, por sua vez, é fixado no limite máximo do buffer do firmware. Valor predefinido: %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Sem resposta — o caminho pode não estar acessível.",
+    "value": "Sem resposta: o caminho pode não estar acessível.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "O primeiro repetidor tem de o ouvir e você tem de ouvir a resposta do último — escolha um caminho que saiba estar acessível.",
+    "value": "O primeiro repetidor tem de o ouvir e você tem de ouvir a resposta do último. Escolha um caminho que saiba estar acessível.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Nenhum dispositivo ligado — toque para emparelhar",
+    "value": "Nenhum dispositivo ligado: toque para emparelhar",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "O KiekR pode pesquisar um repetidor desconhecido através do seu hash em diretórios online — o que é útil quando um salto de percurso aparece apenas como um prefixo hexadecimal. Esta funcionalidade permanece desativada até que a ative em Definições → Partilha → Diretório.",
+    "value": "O KiekR pode pesquisar um repetidor desconhecido através do seu hash em diretórios online (o que é útil quando um salto de percurso aparece apenas como um prefixo hexadecimal). Esta funcionalidade permanece desativada até que a ative em Definições → Partilha → Diretório.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Inicie sessão através do controlo no canto superior direito — «convidado» para estatísticas, vizinhos, telemetria e firmware; «administrador» para configuração, regiões e CLI.",
+    "value": "Inicie sessão através do controlo no canto superior direito: «convidado» para estatísticas, vizinhos, telemetria e firmware; «administrador» para configuração, regiões e CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pacotes que o rádio não conseguiu ler corretamente — aumentam com interferência ou um sinal fraco.",
+    "value": "Pacotes que o rádio não conseguiu ler corretamente. Aumentam com interferência ou um sinal fraco.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Quando ativado, o KiekR partilha quais as células do mapa que têm cobertura de rede em malha com o mapme.sh — um mapa de cobertura da comunidade. Cada amostra inclui a célula do mapa, a intensidade do sinal e o percurso de saltos, mas nunca a sua posição exata nem a sua identidade. Os envios seguem as suas definições de «apenas Wi-Fi» e de intervalo de envio.",
+    "value": "Quando ativado, o KiekR partilha quais as células do mapa que têm cobertura de rede em malha com o mapme.sh, um mapa de cobertura da comunidade. Cada amostra inclui a célula do mapa, a intensidade do sinal e o percurso de saltos, mas nunca a sua posição exata nem a sua identidade. Os envios seguem as suas definições de «apenas Wi-Fi» e de intervalo de envio.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Sem localização GPS — os pontos de passagem do diretório online podem não ser colocados no mapa. Ative o acesso à localização para obter a resolução completa do percurso.",
+    "value": "Sem localização GPS: os pontos de passagem do diretório online podem não ser colocados no mapa. Ative o acesso à localização para obter a resolução completa do percurso.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Cole uma chave privada hexadecimal de 64 ou 128 caracteres para restaurar uma identidade da qual existe uma cópia de segurança — guardada localmente e enviada para o dispositivo associado ligado. A exportação revela a chave deste nó para que possa fazer uma cópia de segurança.",
+    "value": "Cole uma chave privada hexadecimal de 64 ou 128 caracteres para restaurar uma identidade da qual existe uma cópia de segurança. Guardada localmente e enviada para o dispositivo associado ligado. A exportação revela a chave deste nó para que possa fazer uma cópia de segurança.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Fonte predefinida fixa — o ponto final e outras definições são fixos; pode renomeá-la aqui.",
+    "value": "Fonte predefinida fixa: o ponto final e outras definições são fixos; pode renomeá-la aqui.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "O servidor respondeu — a URL é válida",
+    "value": "O servidor respondeu: a URL é válida",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Esta é a chave de identidade secreta do seu nó — qualquer pessoa que a possua pode fazer-se passar pelo seu nó. Guarde-a num local seguro e nunca a partilhe.",
+    "value": "Esta é a chave de identidade secreta do seu nó: qualquer pessoa que a possua pode fazer-se passar pelo seu nó. Guarde-a num local seguro e nunca a partilhe.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Quando ativado, o KiekR pode emitir automaticamente consultas ao diretório para contexto em falta que a aplicação deteta de forma passiva — hops desconhecidos num caminho, repetidores ouvidos que ainda não estão no diretório, linhas de vizinhos em falta e regiões em falta numa descoberta. Quando desativado (predefinição), cada consulta ao diretório requer um toque.",
+    "value": "Quando ativado, o KiekR pode emitir automaticamente consultas ao diretório para contexto em falta que a aplicação deteta de forma passiva: hops desconhecidos num caminho, repetidores ouvidos que ainda não estão no diretório, linhas de vizinhos em falta e regiões em falta numa descoberta. Quando desativado (predefinição), cada consulta ao diretório requer um toque.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "As consultas vão apenas para o diretório do KiekR — nunca para um servidor de terceiros. As leituras da cache continuam a ser gratuitas; este interruptor controla a parte de rede.",
+    "value": "As consultas vão apenas para o diretório do KiekR, nunca para um servidor de terceiros. As leituras da cache continuam a ser gratuitas; este interruptor controla a parte de rede.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Isto NÃO é o teu PIN de emparelhamento BLE, nem a tua frase-passe de identidade. Protege apenas este ficheiro de cópia de segurança. Escolhe algo memorável — o KiekR não pode recuperá-lo por ti.",
+    "value": "Isto NÃO é o teu PIN de emparelhamento BLE, nem a tua frase-passe de identidade. Protege apenas este ficheiro de cópia de segurança. Escolhe algo memorável. O KiekR não pode recuperá-lo por ti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Notificar quando a percentagem do dispositivo ligado cair para o valor de aviso. O intervalo de reativação indica quanto a percentagem tem de voltar a subir acima do limiar antes de o próximo aviso poder ser disparado — aumenta-o se a curva da tua bateria formar um planalto (LiFePO4, AA).",
+    "value": "Notificar quando a percentagem do dispositivo ligado cair para o valor de aviso. O intervalo de reativação indica quanto a percentagem tem de voltar a subir acima do limiar antes de o próximo aviso poder ser disparado. Aumenta-o se a curva da tua bateria formar um planalto (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Deslizar para desbloquear. As mensagens anteriores desta pessoa voltam a aparecer em todos os canais depois de desbloqueada. O bloqueio corresponde exatamente ao nome mostrado — qualquer pessoa pode escolher esse nome, por isso isto não impede um remetente determinado de mudar de nome.",
+    "value": "Deslizar para desbloquear. As mensagens anteriores desta pessoa voltam a aparecer em todos os canais depois de desbloqueada. O bloqueio corresponde exatamente ao nome mostrado. Qualquer pessoa pode escolher esse nome, por isso isto não impede um remetente determinado de mudar de nome.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Ligado a um nó padrão — só os canais instalados no dispositivo conseguem transmitir. Deslizar para a direita para adicionar ou remover um canal do dispositivo. Deslizar para a esquerda para remover um canal — os canais # mantêm a sua chave, para que possas voltar a adicioná-los pelo nome; os canais com chave personalizada são eliminados permanentemente.",
+    "value": "Ligado a um nó padrão: só os canais instalados no dispositivo conseguem transmitir. Deslizar para a direita para adicionar ou remover um canal do dispositivo. Deslizar para a esquerda para remover um canal: os canais # mantêm a sua chave, para que possas voltar a adicioná-los pelo nome; os canais com chave personalizada são eliminados permanentemente.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Os canais têm de ter uma região atribuída para serem repetidos na maioria das redes. Toca num canal para o atribuir. Deslizar para a esquerda para remover — os canais # mantêm a sua chave, para que possas voltar a adicioná-los pelo nome; os canais com chave personalizada são eliminados permanentemente.",
+    "value": "Os canais têm de ter uma região atribuída para serem repetidos na maioria das redes. Toca num canal para o atribuir. Deslizar para a esquerda para remover: os canais # mantêm a sua chave, para que possas voltar a adicioná-los pelo nome; os canais com chave personalizada são eliminados permanentemente.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Acesso de visitante — apenas leitura",
+    "value": "Acesso de visitante (apenas leitura)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "O diretório online está desativado — ativa uma origem em Definições → Partilha → Diretório.",
+    "value": "O diretório online está desativado. Ativa uma origem em Definições → Partilha → Diretório.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Vários repetidores correspondem ao prefixo de caminho curto deste hop. Não conseguimos escolher automaticamente o correto — seleciona aquele que estava no teu caminho.",
+    "value": "Vários repetidores correspondem ao prefixo de caminho curto deste hop. Não conseguimos escolher automaticamente o correto. Seleciona aquele que estava no teu caminho.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Ainda não há hexágonos mapeados — desloca-te com o rádio ligado e eles aparecerão aqui.",
+    "value": "Ainda não há hexágonos mapeados. Desloca-te com o rádio ligado e eles aparecerão aqui.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Em pausa — em rede móvel",
+    "value": "Em pausa: em rede móvel",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Tópico — pacotes",
+    "value": "Tópico (pacotes)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Tópico — estado",
+    "value": "Tópico (estado)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Tópico — depuração",
+    "value": "Tópico (depuração)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Tópico — raw",
+    "value": "Tópico (raw)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Guarda a identidade localmente. Se a chave for baseada numa seed e houver um companion ligado, a seed também é enviada para o dispositivo via CMD_IMPORT_PRIVATE_KEY — isto substitui a identidade atual do dispositivo.",
+    "value": "Guarda a identidade localmente. Se a chave for baseada numa seed e houver um companion ligado, a seed também é enviada para o dispositivo via CMD_IMPORT_PRIVATE_KEY. Isto substitui a identidade atual do dispositivo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Desvio do relógio de origem — a usar a hora de receção local",
+    "value": "Desvio do relógio de origem: a usar a hora de receção local",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "A palavra-passe está limitada a 15 caracteres — o que exceder é truncado ao iniciar sessão.",
+    "value": "A palavra-passe está limitada a 15 caracteres. O que exceder é truncado ao iniciar sessão.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Notificar em cada mensagem direta recebida. As mensagens diretas são autenticadas criptograficamente — desativar isto apenas suprime a notificação; a mensagem continua a chegar à tua lista de conversas.",
+    "value": "Notificar em cada mensagem direta recebida. As mensagens diretas são autenticadas criptograficamente. Desativar isto apenas suprime a notificação; a mensagem continua a chegar à tua lista de conversas.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Os hops multi-byte requerem firmware do companion v1.15.0 ou mais recente. O teu companion indica uma versão mais antiga — limitado a 1 byte até atualizares. A tua preferência anterior é preservada e será reativada após a atualização.",
+    "value": "Os hops multi-byte requerem firmware do companion v1.15.0 ou mais recente. O teu companion indica uma versão mais antiga: limitado a 1 byte até atualizares. A tua preferência anterior é preservada e será reativada após a atualização.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Desliza sobre uma região para a remover. Ela permanece na base de dados (e continua a anotar o tráfego recebido), mas desaparece desta lista e dos seletores de canal — volta a adicioná-la pelo nome para a recuperar.",
+    "value": "Desliza sobre uma região para a remover. Ela permanece na base de dados (e continua a anotar o tráfego recebido), mas desaparece desta lista e dos seletores de canal. Volta a adicioná-la pelo nome para a recuperar.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Não ligado a um dispositivo companion — liga primeiro um nó.",
+    "value": "Não ligado a um dispositivo companion. Liga primeiro um nó.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Restaurar a partir de um ficheiro `.json` ou `.mcbackup`. As importações substituem por predefinição — os teus canais, contactos e regiões existentes são eliminados e depois o pacote é inserido. Toca e mantém premido Confirmar durante 5 segundos.",
+    "value": "Restaurar a partir de um ficheiro `.json` ou `.mcbackup`. As importações substituem por predefinição: os teus canais, contactos e regiões existentes são eliminados e depois o pacote é inserido. Toca e mantém premido Confirmar durante 5 segundos.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Ainda nenhum observador a ouviu — isso nunca significa que o envio falhou.",
+    "value": "Ainda nenhum observador a ouviu. Isso nunca significa que o envio falhou.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Ouvida numa região de observador até agora — provavelmente apenas nas proximidades.",
+    "value": "Ouvida numa região de observador até agora, provavelmente apenas nas proximidades.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Ouvida em %1$d regiões — o mesh transportou esta mensagem.",
+    "value": "Ouvida em %1$d regiões: o mesh transportou esta mensagem.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "A verificação falhou — tenta novamente mais tarde.",
+    "value": "A verificação falhou. Tenta novamente mais tarde.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Ouvida por %1$d observadores — o mesh transportou esta mensagem.",
+    "value": "Ouvida por %1$d observadores: o mesh transportou esta mensagem.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Este nó está atualmente a adicionar automaticamente todos os tipos de anúncio (\"Auto add all\") — os filtros abaixo não têm efeito. Outra aplicação pode ter alterado isto.",
+    "value": "Este nó está atualmente a adicionar automaticamente todos os tipos de anúncio (\"Auto add all\"). Os filtros abaixo não têm efeito. Outra aplicação pode ter alterado isto.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Não enviado — não instalado no seu nó",
+    "value": "Não enviado: não instalado no seu nó",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-08-19"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Também mapeia hexágonos onde não foi recebido tráfego — usa GPS e mais bateria.",
+    "value": "Também mapeia hexágonos onde não foi recebido tráfego. Usa GPS e mais bateria.",
     "_ai": true,
     "_seeded": "2026-08-19"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "A lista de contactos deste nó está cheia — não pode receber novos contactos que ouve. Elimina alguns para abrir espaço.",
+    "value": "A lista de contactos deste nó está cheia: não pode receber novos contactos que ouve. Elimina alguns para abrir espaço.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Em pausa — o acesso à localização é apenas \"Ao usar a aplicação\"",
+    "value": "Em pausa: o acesso à localização é apenas \"Ao usar a aplicação\"",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Em pausa — sessão de localização interrompida",
+    "value": "Em pausa: sessão de localização interrompida",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Sem \"Sempre\", a cobertura só recolhe enquanto o KiekR está aberto — o iOS pausa a sessão de localização quando a aplicação passa para segundo plano. Com \"Sempre\", o KiekR continua a recolher no teu bolso, usando apenas a posição que o telemóvel já conhece, sem GPS extra.",
+    "value": "Sem \"Sempre\", a cobertura só recolhe enquanto o KiekR está aberto. O iOS pausa a sessão de localização quando a aplicação passa para segundo plano. Com \"Sempre\", o KiekR continua a recolher no teu bolso, usando apenas a posição que o telemóvel já conhece, sem GPS extra.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Remove %@ da tua lista de conversas e das definições de canais. Podes voltar a adicioná-lo mais tarde escrevendo o nome em Definições → Canais → Adicionar canal pelo nome — a chave SHA-256 é derivada da mesma forma.",
+    "value": "Remove %@ da tua lista de conversas e das definições de canais. Podes voltar a adicioná-lo mais tarde escrevendo o nome em Definições → Canais → Adicionar canal pelo nome. A chave SHA-256 é derivada da mesma forma.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Eliminar %@? Isto é permanente — a chave não pode ser derivada novamente a partir do nome.",
+    "value": "Eliminar %@? Isto é permanente: a chave não pode ser derivada novamente a partir do nome.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Auxiliar de aprendizagem persistente para colisões de prefixo: depois de o seletor determinístico ter escolhido um vencedor, o (prefixo, hop, chave pública) é registado, para que o próximo empate no mesmo prefixo se resolva da mesma forma.\n\nTTL da cache — quanto tempo uma entrada sobrevive sem ser reutilizada. Predefinição 30 dias, limite 1..=180.\n\nMargem de desempate — quão próximas as métricas de dois candidatos têm de estar (em %) antes de a cache resolver o empate. 0 desativa o recurso à cache (só empates exatos contam); 20 é o limite superior. Predefinição 5 %.",
+    "value": "Auxiliar de aprendizagem persistente para colisões de prefixo: depois de o seletor determinístico ter escolhido um vencedor, o (prefixo, hop, chave pública) é registado, para que o próximo empate no mesmo prefixo se resolva da mesma forma.\n\nTTL da cache: quanto tempo uma entrada sobrevive sem ser reutilizada. Predefinição 30 dias, limite 1..=180.\n\nMargem de desempate: quão próximas as métricas de dois candidatos têm de estar (em %) antes de a cache resolver o empate. 0 desativa o recurso à cache (só empates exatos contam); 20 é o limite superior. Predefinição 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "O Bluetooth está desligado — toque para o ligar",
+    "value": "O Bluetooth está desligado: toque para o ligar",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Em pausa — este telemóvel não tem localização por rede. As posições GPS só chegam enquanto outra app usa o GPS ou durante o carregamento.",
+    "value": "Em pausa: este telemóvel não tem localização por rede. As posições GPS só chegam enquanto outra app usa o GPS ou durante o carregamento.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Este telemóvel não tem localização por rede. Quando ligado, o KiekR ativa o GPS por si próprio enquanto recebe tráfego da malha — também com bateria, e para quando está parado. Consome mais bateria.",
+    "value": "Este telemóvel não tem localização por rede. Quando ligado, o KiekR ativa o GPS por si próprio enquanto recebe tráfego da malha (também com bateria, e para quando está parado). Consome mais bateria.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Apenas caracteres hexadecimais 0–9, a–f. Os espaços e dois pontos são removidos ao colar. O repetidor precisa da chave completa para a adicionar.",
+    "value": "Apenas caracteres hexadecimais 0-9, a-f. Os espaços e dois pontos são removidos ao colar. O repetidor precisa da chave completa para a adicionar.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d entradas – a lista pode estar incompleta",
+    "value": "%1$d entradas (a lista pode estar incompleta)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Apenas caracteres hexadecimais 0–9, a–f. Os espaços e dois pontos são removidos ao colar. O servidor de sala precisa da chave completa para a adicionar.",
+    "value": "Apenas caracteres hexadecimais 0-9, a-f. Os espaços e dois pontos são removidos ao colar. O servidor de sala precisa da chave completa para a adicionar.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "«Todos» significa todos os contactos guardados neste nó — com a adição automática ativada, praticamente qualquer pessoa ao alcance.",
+    "value": "«Todos» significa todos os contactos guardados neste nó: com a adição automática ativada, praticamente qualquer pessoa ao alcance.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "A partilha está desativada no seu nó — ative-a em O meu nó → Partilha de telemetria.",
+    "value": "A partilha está desativada no seu nó. Ative-a em O meu nó → Partilha de telemetria.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Não foi possível atualizar as permissões — o contacto tem de estar no seu nó.",
+    "value": "Não foi possível atualizar as permissões: o contacto tem de estar no seu nó.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Já está em curso outro pedido neste nó — tente novamente dentro de momentos.",
+    "value": "Já está em curso outro pedido neste nó. Tente novamente dentro de momentos.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Posição inalterada — o dispositivo pode não ter um fix de GPS atual.",
+    "value": "Posição inalterada: o dispositivo pode não ter um fix de GPS atual.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Sem localização na resposta — sem GPS, GPS desligado, ou localização não partilhada consigo.",
+    "value": "Sem localização na resposta: sem GPS, GPS desligado, ou localização não partilhada consigo.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Sem resposta — fora de alcance, ou este contacto não autoriza este pedido.",
+    "value": "Sem resposta: fora de alcance, ou este contacto não autoriza este pedido.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Até 16 pedidos ao longo de 15 minutos, apenas através de uma rota conhecida ou em alcance direto — sem flood na malha.",
+    "value": "Até 16 pedidos ao longo de 15 minutos, apenas através de uma rota conhecida ou em alcance direto (sem flood na malha).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "A localização em direto terminou — os 15 minutos chegaram ao fim.",
+    "value": "A localização em direto terminou: os 15 minutos chegaram ao fim.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Sem resposta — fora do alcance direto? Utilize «Procurar na malha» para tentar através de repetidores.",
+    "value": "Sem resposta. Fora do alcance direto? Utilize «Procurar na malha» para tentar através de repetidores.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "A ligação ao nó foi perdida — a localização em direto parou.",
+    "value": "A ligação ao nó foi perdida. A localização em direto parou.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "O acesso à localização está desligado — é necessário para mostrar a sua posição e a distância.",
+    "value": "O acesso à localização está desligado. É necessário para mostrar a sua posição e a distância.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

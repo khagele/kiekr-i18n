@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "L-ewwel aqsam ir-reġistru — it-tindif iħassar eżatt id-data li għandna bżonn.",
+    "value": "L-ewwel aqsam ir-reġistru: it-tindif iħassar eżatt id-data li għandna bżonn.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "L-ebda nodu konness — qabbad apparat companion biex tibgħat.",
+    "value": "L-ebda nodu konness. Qabbad apparat companion biex tibgħat.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Ma konness — erġa' konnet biex tibgħat",
+    "value": "Ma konness: erġa' konnet biex tibgħat",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Il-messaġġi fil-kanal mhumiex iffirmati — l-isem tal-mittent jista' jkun ta' kwalunkwe persuna fil-kanal.",
+    "value": "Il-messaġġi fil-kanal mhumiex iffirmati: l-isem tal-mittent jista' jkun ta' kwalunkwe persuna fil-kanal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Id-direttorju onlajn huwa mitfi —attiva sors f'Settings → Sharing → Directory.",
+    "value": "Id-direttorju onlajn huwa mitfi. Attiva sors f'Settings → Sharing → Directory.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Diversi ripetituri jaqblu mal-prefiss tat-triq qasira ta' dan il-hop. Ma nistgħux nagħżlu l-wieħed it-tajjeb awtomatikament — agħżel dak li kien fit-triq tiegħek.",
+    "value": "Diversi ripetituri jaqblu mal-prefiss tat-triq qasira ta' dan il-hop. Ma nistgħux nagħżlu l-wieħed it-tajjeb awtomatikament. Agħżel dak li kien fit-triq tiegħek.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "ebda riżultat — id-direttorju ma kellux daħla għal dan il-prefiss",
+    "value": "l-ebda riżultat: id-direttorju ma kellux daħla għal dan il-prefiss",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "ebda riżultat — l-aktar riżultati onlajn qrib jinsabu barra mir-radju tas-sens",
+    "value": "l-ebda riżultat: l-aktar riżultati onlajn qrib jinsabu barra mir-radju tas-sens",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Kull hop huwa l-ewwel bajt(i) e%1$di tal-miftuħ pubbliku tar-repeater. Ċwievet qosra jistgħu jaqblu ma' diversi repeaters — agħfas il-globu biex tfittex hops nieqsa fid-direttorju onlajn.",
+    "value": "Kull hop huwa l-ewwel %1$d bajt(i) tal-ċavetta pubblika tar-repeater. Ċwievet qosra jistgħu jaqblu ma' diversi repeaters. Agħfas il-globu biex tfittex hops nieqsa fid-direttorju onlajn.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "mhux magħruf — minn apparat",
+    "value": "mhux magħruf (minn apparat)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "L-għadd huwa limitu minimu — bi traffiku qawwi, kopji jistgħu jintilfu qabel jaslu fl-app.",
+    "value": "L-għadd huwa limitu minimu: bi traffiku qawwi, kopji jistgħu jintilfu qabel jaslu fl-app.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(xejn — mill-apparat)",
+    "value": "(xejn, mill-apparat)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Kanali skoperti — agħfas biex tirrevedi",
+    "value": "Kanali skoperti (agħfas biex tirrevedi)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Agħfas it-tast biex tikkopja. Il-kanali jiġu mqabbla bit-tast, mhux bl-isem — il-kollizzjonijiet huma komuni.",
+    "value": "Agħfas it-tast biex tikkopja. Il-kanali jiġu mqabbla bit-tast, mhux bl-isem: il-kollizzjonijiet huma komuni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d ħops",
+    "value": "%1$d-%2$d ħops",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "In-nodu tiegħek diġà xandar dan il-messaġġ. Ma waslet l-ebda konferma, imma r-riċevituri fil-medda xorta setgħu rċevewh — jekk terġa' tibagħtu, jarawh darbtejn.",
+    "value": "In-nodu tiegħek diġà xandar dan il-messaġġ. Ma waslet l-ebda konferma, imma r-riċevituri fil-medda xorta setgħu rċevewh. Jekk terġa' tibagħtu, jarawh darbtejn.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Aċċess għall-mistednin — biss għall-qari",
+    "value": "Aċċess għall-mistednin (biss għall-qari)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Kull frame li jisma' n-nodu tiegħek jidher hawn — xejn ma jiġi ffiltrat.",
+    "value": "Kull frame li jisma' n-nodu tiegħek jidher hawn. Xejn ma jiġi ffiltrat.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Mingħajr filtru — jidhru frames dekodifikati, kriptati għal ħaddieħor, mhux magħrufa u ħżiena.",
+    "value": "Mingħajr filtru: jidhru frames dekodifikati, kriptati għal ħaddieħor, mhux magħrufa u ħżiena.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "kriptat — mhux għal dan l-apparat",
+    "value": "kriptat, mhux għal dan l-apparat",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "juri kull frame riċevut — anke dak li ma jistax jinqara",
+    "value": "juri kull frame riċevut, anke dak li ma jistax jinqara",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d maħżun · parzjali — agħfas biex tirrifreska",
+    "value": "%1$d maħżun · parzjali, agħfas biex tirrifreska",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "L-ebda ġirien ma ġew ikkashjati — agħfas biex tirrifreska.",
+    "value": "L-ebda ġirien ma ġew ikkashjati. Agħfas biex tirrifreska.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "L-ebda wieħed mir-ripetituri ta' dan il-messaġġ — u lanqas l-oriġini — m'għandux koordinati GPS maħżuna. Agħlaq din il-veduta, agħfas l-ikona tal-globu fis-sezzjoni tat-triq tal-messaġġ, u mbagħad erġa' lura.",
+    "value": "L-ebda wieħed mir-ripetituri ta' dan il-messaġġ (u lanqas l-oriġini) m'għandux koordinati GPS maħżuna. Agħlaq din il-veduta, agħfas l-ikona tal-globu fis-sezzjoni tat-triq tal-messaġġ, u mbagħad erġa' lura.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f sa %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Nodi oħra jeħtieġu l-irklam tagħna fit-tabella ta' kuntatti tagħhom qabel ma jkunu jistgħu jiddekriptjaw il-messaġġi diretti tagħna. Agħfas biex tagħżel il-livell ta' kopertura — zero-hop huwa kwiet (biss il-ġirien); flood huwa għoli (l-intera mesh).",
+    "value": "Nodi oħra jeħtieġu l-irklam tagħna fit-tabella ta' kuntatti tagħhom qabel ma jkunu jistgħu jiddekriptjaw il-messaġġi diretti tagħna. Agħfas biex tagħżel il-livell ta' kopertura: zero-hop huwa kwiet (biss il-ġirien); flood huwa għoli (l-intera mesh).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Dan l-apparat għandu RTC appoġġjat minn batterija. Is-softwer ma jistax jirrisettjah — trid tifflashja l-firmware jew tneħħi l-batterija ta' backup tal-RTC biex tirrestawra l-istat tiegħu.",
+    "value": "Dan l-apparat għandu RTC appoġġjat minn batterija. Is-softwer ma jistax jirrisettjah. Trid tifflashja l-firmware jew tneħħi l-batterija ta' backup tal-RTC biex tirrestawra l-istat tiegħu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Ir-riavviar jerġa' jibda n-nodu koppjat. Ir-reset tal-fabbrika tħassar il-kuntatti, il-kanali u l-preferenzi tal-apparat — id-dejta lokali tal-app ma tkunx affettwata.",
+    "value": "Ir-riavviar jerġa' jibda n-nodu koppjat. Ir-reset tal-fabbrika tħassar il-kuntatti, il-kanali u l-preferenzi tal-apparat. Id-dejta lokali tal-app ma tkunx affettwata.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Disconnect ineħħi l-konnessjoni iżda iżomm il-bond fil-cache — agħfas Connect biex terġa' tgħaqqad mingħajr ma terġa' tippari. Forget jneħħi l-pairing u jnaddaf il-cache; il-nod għandu jerġa' jippari biex jerġa' jingħaqad.",
+    "value": "Disconnect ineħħi l-konnessjoni iżda iżomm il-bond fil-cache. Agħfas Connect biex terġa' tgħaqqad mingħajr ma terġa' tippari. Forget jneħħi l-pairing u jnaddaf il-cache; il-nod għandu jerġa' jippari biex jerġa' jingħaqad.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Jħassar il-kuntatti, il-kanali, ir-reġjuni, il-preferenzi u l-identità fuq l-apparat. Ma jistax jiġi rkuprat — m'hemm l-ebda mod kif tneħħi l-bidliet. Esporta kull ħaġa li trid iżżomm qabel ma tkompli.",
+    "value": "Jħassar il-kuntatti, il-kanali, ir-reġjuni, il-preferenzi u l-identità fuq l-apparat. Ma jistax jiġi rkuprat: m'hemm l-ebda mod kif tneħħi l-bidliet. Esporta kull ħaġa li trid iżżomm qabel ma tkompli.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Mesh sħiħ.   Ħsejjes għoljin — kull ripetitur jerġa' jxandar.   Uża b'mod moderat; reklami flood iħallsu ħin fl-arja għal kull ripetitur.",
+    "value": "Mesh sħiħ. Ħsejjes għoljin: kull ripetitur jerġa' jxandar. Uża b'mod moderat; reklami flood iħallsu ħin fl-arja għal kull ripetitur.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Jikteb frekwenzi mhux ipproċessati, wisa' tal-banda, rata tas-sinjali u proporzjon ta' kodiċifikazzjoni. Firxiet tal-firmware: 400–2500 MHz, 7.8–500 kHz, rata tas-sinjali 5–12, proporzjon ta' kodiċifikazzjoni 4/5–4/8.",
+    "value": "Jikteb frekwenzi mhux ipproċessati, wisa' tal-banda, rata tas-sinjali u proporzjon ta' kodiċifikazzjoni. Firxiet tal-firmware: 400-2500 MHz, 7.8-500 kHz, rata tas-sinjali 5-12, proporzjon ta' kodiċifikazzjoni 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Dak li r-node imqabbad jirrapporta bħalissa. Il-presets hawn taħt ġejjin mill-katalgu komunitarju ta' MeshCore — agħżel dak li jaħdem fuq il-mesh lokali tiegħek.",
+    "value": "Dak li r-node imqabbad jirrapporta bħalissa. Il-presets hawn taħt ġejjin mill-katalgu komunitarju ta' MeshCore. Agħżel dak li jaħdem fuq il-mesh lokali tiegħek.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Ibbażat fuq il-lokalizzazzjoni tal-apparat tiegħek. Ikkonferma biex tapplika — xejn ma jinbidel sakemm ma tagħmilx hekk.",
+    "value": "Ibbażat fuq il-lokalizzazzjoni tal-apparat tiegħek. Ikkonferma biex tapplika. Xejn ma jinbidel sakemm ma tagħmilx hekk.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Irrikonnettja mal-nod li kien diġà mparjat. M'hemm l-ebda talba għall-PIN — il-konnessjoni għadha fil-cache.",
+    "value": "Irrikonnettja mal-nod li kien diġà mparjat. M'hemm l-ebda talba għall-PIN: il-konnessjoni għadha fil-cache.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Għal ġirien biss. kwiet — mingħajr għargħar. Uża meta biss in-nodi qrib għandhom bżonn jitgħallmu dwar l-avviż tiegħek.",
+    "value": "Għal ġirien biss. Kwiet: mingħajr għargħar. Uża meta biss in-nodi qrib għandhom bżonn jitgħallmu dwar l-avviż tiegħek.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "Is-sigriet huwa ċ-ċavetta AES kondiviża ta' 16-il byte tal-kanal, miktuba bħala 32 karattru hex. Għal kanali b'stil hashtag, is-sigriet jiġi awtomatikament mill-isem — ħalli s-sinjal tal-hash fil-post jekk tippreferi tuża dik it-triq.",
+    "value": "Is-sigriet huwa ċ-ċavetta AES kondiviża ta' 16-il byte tal-kanal, miktuba bħala 32 karattru hex. Għal kanali b'stil hashtag, is-sigriet jiġi awtomatikament mill-isem. Ħalli s-sinjal tal-hash fil-post jekk tippreferi tuża dik it-triq.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "L-arloġġ ġie stabbilit 'il quddiem. Il-firmware standard jirrifjuta sinkronizzazzjoni lura. Soluzzjoni: eżegwixxi `clkreboot` mill-CLI hawn taħt — dan jirrisetta l-RTC għall-2024-05-15 u jerġa' jibda — imbagħad agħfas 'sync' biex tibgħat il-ħin kurrenti.",
+    "value": "L-arloġġ ġie stabbilit 'il quddiem. Il-firmware standard jirrifjuta sinkronizzazzjoni lura. Soluzzjoni: eżegwixxi `clkreboot` mill-CLI hawn taħt (dan jirrisetta l-RTC għall-2024-05-15 u jerġa' jibda), imbagħad agħfas 'sync' biex tibgħat il-ħin kurrenti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "L-apparat għadu qed jisinkronizza — jekk jogħġbok ipprova mill-ġdid f'mument.",
+    "value": "L-apparat għadu qed jisinkronizza. Jekk jogħġbok ipprova mill-ġdid f'mument.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Id-direttorju onlajn huwa mitfi —attiva sors f'Settings → Sharing → Directory.",
+    "value": "Id-direttorju onlajn huwa mitfi. Attiva sors f'Settings → Sharing → Directory.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Il-password tar-repeater hija limitata għal 15 karattru — kull ħaġa itwal tiġi mqassra meta tidħol.",
+    "value": "Il-password tar-repeater hija limitata għal 15 karattru. Kull ħaġa itwal tiġi mqassra meta tidħol.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d maħżun · parzjali — agħfas biex tirriċarica",
+    "value": "%1$d maħżun · parzjali, agħfas biex tirriċarica",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Limitat fir-rata — %1$ds",
+    "value": "Limitat fir-rata: %1$ds",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Ma tistax tħassar — ir-reġjun għandu reġjuni subordinati.",
+    "value": "Ma tistax tħassar: ir-reġjun għandu reġjuni subordinati.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Kull hop huwa 3 bajts. Għandi total ta' %1$d — kemm għall-pad kif ukoll għall-trim.",
+    "value": "Kull hop huwa 3 bajts. Għandi total ta' %1$d. Kemm għall-pad kif ukoll għall-trim.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(għad m'hemmx triq mgħallma — is-sends diretti imorru zero-hop)",
+    "value": "(għad m'hemmx triq mgħallma: is-sends diretti imorru zero-hop)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Imsejjes fuq il-lokazzjoni attwali tiegħek — ma ġiet maħżuna l-ebda pożizzjoni għal dan il-messaġġ.",
+    "value": "Imsejjes fuq il-lokazzjoni attwali tiegħek: ma ġiet maħżuna l-ebda pożizzjoni għal dan il-messaġġ.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "M'hemm l-ebda dħulijiet ACL — agħfas Rinfreska biex tgħabbi.",
+    "value": "M'hemm l-ebda dħulijiet ACL. Agħfas Rinfreska biex tgħabbi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Ċavetta pubblika hex invalid — trid tkun eżattament 64 karattri hex",
+    "value": "Ċavetta pubblika hex invalid: trid tkun eżattament 64 karattri hex",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 karattri esadekimali — il-miftuħ pubbliku sħiħ tan-nodu.",
+    "value": "64 karattri esadekimali (il-miftuħ pubbliku sħiħ tan-nodu).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Hawnhekk jinġabru l-għodod tal-amministrazzjoni — il-CLI u l-editur tal-ACL se jaslu fl-aġġornament li jmiss.",
+    "value": "Hawnhekk jinġabru l-għodod tal-amministrazzjoni. Il-CLI u l-editur tal-ACL se jaslu fl-aġġornament li jmiss.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Talba oħra qiegħda fil-proċess — jekk jogħġbok ipprova mill-ġdid.",
+    "value": "Talba oħra qiegħda fil-proċess. Jekk jogħġbok ipprova mill-ġdid.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Il-login ma rnexxiex — password żbaljata jew kamra mhux aċċessibbli.",
+    "value": "Il-login ma rnexxiex: password żbaljata jew kamra mhux aċċessibbli.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Il-password hija limitata għal 15 karattru — kull ħaġa itwal tiġi mqassra meta tidħol.",
+    "value": "Il-password hija limitata għal 15 karattru. Kull ħaġa itwal tiġi mqassra meta tidħol.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Meta l-apparat konness jisimgħu reklama ta' tip appoġġjat, jaħżen in-nodu fit-tabella tal-kuntatti tiegħu — jibqa' jeżisti wara r-riavvi u jilħaq l-app meta jkun hemm il-bżonn li jmiss.",
+    "value": "Meta l-apparat konness jisimgħu reklama ta' tip appoġġjat, jaħżen in-nodu fit-tabella tal-kuntatti tiegħu. Jibqa' jeżisti wara r-riavvi u jilħaq l-app meta jkun hemm il-bżonn li jmiss.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Meta jkun attivat, KiekR jista' awtomatikament iwettaq tfittxijiet fid-direttorju għall-konteks li qed jonqos li l-app tinnota b'mod passiv — salti mhux magħrufa f'triq, ripetituri s-smiegħu li għadhom mhumiex fid-direttorju, ringieli ta' ġirien nieqsa, u reġjuni nieqsa waqt skoperta. Meta jkun diżattivjat (b'mod default), kull tfittxija fid-direttorju teħtieġ tap.",
+    "value": "Meta jkun attivat, KiekR jista' awtomatikament iwettaq tfittxijiet fid-direttorju għall-konteks li qed jonqos li l-app tinnota b'mod passiv: salti mhux magħrufa f'triq, ripetituri s-smiegħu li għadhom mhumiex fid-direttorju, ringieli ta' ġirien nieqsa, u reġjuni nieqsa waqt skoperta. Meta jkun diżattivjat (b'mod default), kull tfittxija fid-direttorju teħtieġ tap.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "It-tfittxijiet imorru biss fid-direttorju KiekR — qatt lejn host ta' parti terza. Il-qari tal-cache jibqa' b'xejn; dan it-toggle jikkontrolla n-nofs tan-netwerk.",
+    "value": "It-tfittxijiet imorru biss fid-direttorju KiekR, qatt lejn host ta' parti terza. Il-qari tal-cache jibqa' b'xejn; dan it-toggle jikkontrolla n-nofs tan-netwerk.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importazzjoni tlestiet — identità %1$d, kanali %2$d, reġjuni %3$d, kuntatti %4$d, logins tar-repeater %5$d.",
+    "value": "Importazzjoni tlestiet: identità %1$d, kanali %2$d, reġjuni %3$d, kuntatti %4$d, logins tar-repeater %5$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importazzjoni tlestiet — identità %1$d, kanali %2$d, reġjuni %3$d, kuntatti %4$d, logins tar-repeater %5$d, favoriti %6$d, mittenti mblukkati %7$d, settings %8$d.",
+    "value": "Importazzjoni tlestiet: identità %1$d, kanali %2$d, reġjuni %3$d, kuntatti %4$d, logins tar-repeater %5$d, favoriti %6$d, mittenti mblukkati %7$d, settings %8$d.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Irrestawra minn fajl .json jew .mcbackup. L-importazzjonijiet b'mod default huma issostitwiti — il-kanali, il-kuntatti u r-reġjuni eżistenti tiegħek jitħassru, u mbagħad il-pakkett jiġi mdaħħal. Agħfas u żomm 'Ikkonferma' għal 5 sekondi.",
+    "value": "Irrestawra minn fajl .json jew .mcbackup. L-importazzjonijiet b'mod default huma issostitwiti: il-kanali, il-kuntatti u r-reġjuni eżistenti tiegħek jitħassru, u mbagħad il-pakkett jiġi mdaħħal. Agħfas u żomm 'Ikkonferma' għal 5 sekondi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Dan MHUX il-PIN tal-paring BLE tiegħek. Jipproteġi biss dan il-fajl ta' backup — agħżel xi ħaġa faċli biex tiftakar; KiekR ma jistax jerġa' jirkupraha.",
+    "value": "Dan MHUX il-PIN tal-paring BLE tiegħek. Jipproteġi biss dan il-fajl ta' backup. Agħżel xi ħaġa faċli biex tiftakar; KiekR ma jistax jerġa' jirkupraha.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Il-backup inħoloq minn verżjoni aktar ġdida tal-app (skema %1$s) — ġie applikat kemm jista' jkun.",
+    "value": "Il-backup inħoloq minn verżjoni aktar ġdida tal-app (skema %1$s), ġie applikat kemm jista' jkun.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Linja kontinwa = kurva li qed tissejvja. Linja mqattgħa = kurva kimika default għal din il-varjant. Ass X: 2800–4400 mV. Ass Y: 0–100%.",
+    "value": "Linja kontinwa = kurva li qed tissejvja. Linja mqattgħa = kurva kimika default għal din il-varjant. Ass X: 2800-4400 mV. Ass Y: 0-100%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Avża meta l-apparat konness jaqa' fil-perċentwal ta' twissija. Il-firxa tar-riarmar hija kemm il-perċentwal għandu jerfa' lura 'l fuq mill-limitu qabel ma tista' tinħareġ it-twissija li jmiss — wessa'ha jekk il-kurva tal-batterija tiegħek tibqa' stabbli (LiFePO4, AA).",
+    "value": "Avża meta l-apparat konness jaqa' fil-perċentwal ta' twissija. Il-firxa tar-riarmar hija kemm il-perċentwal għandu jerfa' lura 'l fuq mill-limitu qabel ma tista' tinħareġ it-twissija li jmiss. Wessa'ha jekk il-kurva tal-batterija tiegħek tibqa' stabbli (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Agħfas l-ikona tal-iskart biex tneħħi l-blokka. Il-messaġġi tagħhom tal-passat jerġgħu jidhru f'kull kanal. Il-blokka taqbel eżattament mal-isem muri — kulħadd jista' jagħżel dak l-isem, għalhekk dan mhux se jwaqqaf persuna deċiża milli tibdel l-isem.",
+    "value": "Agħfas l-ikona tal-iskart biex tneħħi l-blokka. Il-messaġġi tagħhom tal-passat jerġgħu jidhru f'kull kanal. Il-blokka taqbel eżattament mal-isem muri. Kulħadd jista' jagħżel dak l-isem, għalhekk dan mhux se jwaqqaf persuna deċiża milli tibdel l-isem.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "In-nodu tiegħek għandu dan il-kanal imsejjaħ \"%1$s\", imma lokalment huwa \"%2$s\". Jaqsmu l-istess ċavetta ta' enkrizzjoni, għalhekk il-messaġġi għadhom jaħdmu — agħżel isem wieħed biex iżżomm.",
+    "value": "In-nodu tiegħek għandu dan il-kanal imsejjaħ \"%1$s\", imma lokalment huwa \"%2$s\". Jaqsmu l-istess ċavetta ta' enkrizzjoni, għalhekk il-messaġġi għadhom jaħdmu. Agħżel isem wieħed biex iżżomm.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Kemm il-lista lokali tiegħek kif ukoll in-nodu tiegħek għandhom kanal imsejjaħ \"%1$s\", iżda b'ċwievet ta' enkrizzjoni differenti. Il-messaġġi ma jinfetħux bejniethom — agħżel liema ċavetta hi dik vera.",
+    "value": "Kemm il-lista lokali tiegħek kif ukoll in-nodu tiegħek għandhom kanal imsejjaħ \"%1$s\", iżda b'ċwievet ta' enkrizzjoni differenti. Il-messaġġi ma jinfetħux bejniethom. Agħżel liema ċavetta hi dik vera.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Jneħħi l-kanal u l-miftuħ tiegħu mid-database. Dan il-kanal juża miftuħ personalizzat, għalhekk ma jistax jiġi derivat mill-isem — it-tneħħija hija permanenti sakemm ma terġax timporta l-miftuħ (eż. permezz ta' QR).",
+    "value": "Jneħħi l-kanal u l-miftuħ tiegħu mid-database. Dan il-kanal juża miftuħ personalizzat, għalhekk ma jistax jiġi derivat mill-isem. It-tneħħija hija permanenti sakemm ma terġax timporta l-miftuħ (eż. permezz ta' QR).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Jaħbi l-%1$s mil-lista ta' chat u mill-issettjar tal-kanali tiegħek. Tista' terġa' żżidha aktar tard billi tikteb l-isem f'Settings → Channels → Żid kanal bl-isem — iċ-ċavetta SHA-256 tiġi derivata bl-istess mod.",
+    "value": "Jaħbi l-%1$s mil-lista ta' chat u mill-issettjar tal-kanali tiegħek. Tista' terġa' żżidha aktar tard billi tikteb l-isem f'Settings → Channels → Żid kanal bl-isem. Iċ-ċavetta SHA-256 tiġi derivata bl-istess mod.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Ma setax iżid il-kanal — jista' jkun diġà jeżisti jew l-isem/il-ċavetta mhix valida.",
+    "value": "Ma setax iżid il-kanal: jista' jkun diġà jeżisti jew l-isem/il-ċavetta mhix valida.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Jintuża ċ-ċavetta pubblika fissa tal-kanal — m'hemmx bżonn ta' ċavetta.",
+    "value": "Jintuża ċ-ċavetta pubblika fissa tal-kanal, m'hemmx bżonn ta' ċavetta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Ċavetta meħtieġa — il-kanali b'isem personalizzat jeħtieġu ċavetta eżadekimali ta' 32 karattru.",
+    "value": "Ċavetta meħtieġa: il-kanali b'isem personalizzat jeħtieġu ċavetta eżadekimali ta' 32 karattru.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "In-nod tiegħek u l-lista lokali tiegħek ma jaqblux fuq kanal — agħżel liema naħa tirbaħ.",
+    "value": "In-nod tiegħek u l-lista lokali tiegħek ma jaqblux fuq kanal. Agħżel liema naħa tirbaħ.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Ċavetta miżmuma. Irrivelaha biex tirċievi mill-ġdid — jew ħassarha b'mod permanenti.",
+    "value": "Ċavetta miżmuma. Irrivelaha biex tirċievi mill-ġdid, jew ħassarha b'mod permanenti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Konnessjoni anonima — taħdem għal brokeri ta' żvilupp mingħajr awtentikazzjoni.",
+    "value": "Konnessjoni anonima: taħdem għal brokeri ta' żvilupp mingħajr awtentikazzjoni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Meta jkun mixgħul, KiekR jirreġistra liema reġjuni (u, fejn possibbli, liema ripetituri) jisimgħu f'ċellula ta' mappa approssimattiva ta' madwar nofs kilometru, u b'mod perjodiku jitla' l-ammonti totali għal kull ċellula permezz ta' Wi-Fi. Il-pożizzjoni eżatta tiegħek qatt ma titlaq mill-telefon — biss iċ-ċellula — u l-mappa turi biss dak li ntisma' hemmhekk, qatt min sema'h. Pseudonimu u separata mill-identità KiekR tiegħek; tista' tiddiżattivaha kull meta trid.",
+    "value": "Meta jkun mixgħul, KiekR jirreġistra liema reġjuni (u, fejn possibbli, liema ripetituri) jisimgħu f'ċellula ta' mappa approssimattiva ta' madwar nofs kilometru, u b'mod perjodiku jitla' l-ammonti totali għal kull ċellula permezz ta' Wi-Fi. Il-pożizzjoni eżatta tiegħek qatt ma titlaq mill-telefon (biss iċ-ċellula) u l-mappa turi biss dak li ntisma' hemmhekk, qatt min sema'h. Pseudonimu u separata mill-identità KiekR tiegħek; tista' tiddiżattivaha kull meta trid.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Il-kopertura teħtieġ lokalizzazzjoni preċiża biex tpoġġi dak li tisma' fil-ċellula tal-mappa t-tajba. Ħalli lokalizzazzjoni preċiża għal KiekR — inkella l-kopertura ma tiġbor xejn fuq dan it-telefon.",
+    "value": "Il-kopertura teħtieġ lokalizzazzjoni preċiża biex tpoġġi dak li tisma' fil-ċellula tal-mappa t-tajba. Ħalli lokalizzazzjoni preċiża għal KiekR. Inkella l-kopertura ma tiġbor xejn fuq dan it-telefon.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT jittrasmetti biss meta tkun imqabbad mal-apparat tiegħek permezz ta' Bluetooth. L-identità mesh tal-apparat tiegħek qatt ma titla' — kull broker juża l-par ta' ċwievet ġenerat tiegħu stess. L-ismijiet tal-osservaturi dejjem jibdew b'\"KiekR_\".",
+    "value": "MQTT jittrasmetti biss meta tkun imqabbad mal-apparat tiegħek permezz ta' Bluetooth. L-identità mesh tal-apparat tiegħek qatt ma titla': kull broker juża l-par ta' ċwievet ġenerat tiegħu stess. L-ismijiet tal-osservaturi dejjem jibdew b'\"KiekR_\".",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "Kodiċi ta' ajruport ta' tliet ittri jidentifika r-reġjun tiegħek fuq il-paġna tal-analiżatur (eż. HAM, JFK, MUC). L-isem tal-osservatur jidher ħdejn il-pakketti tiegħek — il-prefiss \"KiekR_\" huwa fiss.",
+    "value": "Kodiċi ta' ajruport ta' tliet ittri jidentifika r-reġjun tiegħek fuq il-paġna tal-analiżatur (eż. HAM, JFK, MUC). L-isem tal-osservatur jidher ħdejn il-pakketti tiegħek. Il-prefiss \"KiekR_\" huwa fiss.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Waqqaf — fuq ċellulari",
+    "value": "Waqqaf: fuq ċellulari",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Waqqaf — fuq ċellulari · %1$d fil-kju",
+    "value": "Waqqaf: fuq ċellulari · %1$d fil-kju",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "L-upload MQTT jibgħat 'il quddiem kull pakkett LoRa raw li l-apparat tiegħek jisimgħu — inklużi bytes kriptati li ma tistax taqrahom int stess — lill-broker li tkun kkonfigurajt. B'mod default huwa mitfi; tixgħelh per broker. Kull broker juża par ta' ċwievet ġenerat minnu stess, sabiex l-identità mesh tal-apparat tiegħek qatt ma titlaq mill-apparat.",
+    "value": "L-upload MQTT jibgħat 'il quddiem kull pakkett LoRa raw li l-apparat tiegħek jisimgħu (inklużi bytes kriptati li ma tistax taqrahom int stess) lill-broker li tkun kkonfigurajt. B'mod default huwa mitfi; tixgħelh per broker. Kull broker juża par ta' ċwievet ġenerat minnu stess, sabiex l-identità mesh tal-apparat tiegħek qatt ma titlaq mill-apparat.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Suġġett — debug",
+    "value": "Suġġett (debug)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Suġġett — pakketti",
+    "value": "Suġġett (pakketti)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Suġġett — mhux ipproċessat",
+    "value": "Suġġett (mhux ipproċessat)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Suġġett — status",
+    "value": "Suġġett (status)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6104,7 +6104,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Il-port għandu jkun 1–65535",
+    "value": "Il-port għandu jkun bejn 1 u 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Mitfi b'mod awtomatiku. Meta jkun mixgħul, KiekR itella' fuq api.kiekr.app ir-rapporti ta' waqgħat, iffriżar u CPU li jagħtih iOS: verżjoni tal-app, verżjoni ta' iOS, mudell tal-apparat, il-kodiċijiet tal-iżball tas-sistema u l-istack tas-sejħiet. L-ebda messaġġ, kuntatt, ċavetta jew post — u hija l-unika triq kif ħsara fit-telefon tiegħek tasal għand l-iżviluppatur.",
+    "value": "Mitfi b'mod awtomatiku. Meta jkun mixgħul, KiekR itella' fuq api.kiekr.app ir-rapporti ta' waqgħat, iffriżar u CPU li jagħtih iOS: verżjoni tal-app, verżjoni ta' iOS, mudell tal-apparat, il-kodiċijiet tal-iżball tas-sistema u l-istack tas-sejħiet. L-ebda messaġġ, kuntatt, ċavetta jew post. Hija l-unika triq kif ħsara fit-telefon tiegħek tasal għand l-iżviluppatur.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Il-ringieli prekonfigurati ma jistgħux jiġu rinomati jew il-URL tagħhom jinbidel — tiddiżattivahom jekk ma tridx tużahom, jew żid sors ġdid.",
+    "value": "Il-ringieli prekonfigurati ma jistgħux jiġu rinomati jew il-URL tagħhom jinbidel. Tiddiżattivahom jekk ma tridx tużahom, jew żid sors ġdid.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Il-lookups jimxu fuq kull sors attivat f'ordni ta' klassifika; l-ewwel sors li jirritorna kandidat jirbaħ. api.kiekr.app jipproteġi l-privatezza (ripeaters ta' livell A biss). Meshcorenetz Analyzer huwa aktar wiesa' — jaħdem awtomatikament għal nodi li l-backend ta' KiekR m'għandux. Irranġa mill-ġdid bil-vleġġeġ 'l fuq u 'l isfel; agħfas il-lapes biex teditja d-distanza massima għal kull sors għal kull salta.",
+    "value": "Il-lookups jimxu fuq kull sors attivat f'ordni ta' klassifika; l-ewwel sors li jirritorna kandidat jirbaħ. api.kiekr.app jipproteġi l-privatezza (ripeaters ta' livell A biss). Meshcorenetz Analyzer huwa aktar wiesa' u jaħdem awtomatikament għal nodi li l-backend ta' KiekR m'għandux. Irranġa mill-ġdid bil-vleġġeġ 'l fuq u 'l isfel; agħfas il-lapes biex teditja d-distanza massima għal kull sors għal kull salta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— kuntest dijanjostiku —",
+    "value": "Kuntest dijanjostiku:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Android logs — %1$s %2$s — %3$s",
+    "value": "KiekR Android logs, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Informa fuq kull DM li jasal. Id-DMs huma awtentikati b'kriptografija — itfi din l-għażla jnaqqas biss in-notifika; il-messaġġ għadu jasal fil-lista tal-Chats tiegħek.",
+    "value": "Informa fuq kull DM li jasal. Id-DMs huma awtentikati b'kriptografija. Itfi din l-għażla jnaqqas biss in-notifika; il-messaġġ għadu jasal fil-lista tal-Chats tiegħek.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Għajnuna ta' tagħlim persistenti għall-kollizzjonijiet tal-prefiss: ladarba l-għażla deterministika tagħżel rebbieħ, il-(prefiss, hop, pubkey) jiġi aġġornat sabiex it-tie li jmiss fl-istess prefiss jinkiser bl-istess mod.\n\nTTL tal-cache — kemm iddum dħul mingħajr ma jerġa' jintuża. Default 30 jum, limitat bejn 1 u 180.\n\nMarġni tal-break-tie — kemm għandhom ikunu qrib il-metriċi ta' żewġ kandidati (f'%) qabel ma l-cache jikser it-tie. 0 jiddiżattiva l-fallback tal-cache (biss it-ties eżatti huma eliġibbli); 20 huwa l-limitu massimu. Default 5%.",
+    "value": "Għajnuna ta' tagħlim persistenti għall-kollizzjonijiet tal-prefiss: ladarba l-għażla deterministika tagħżel rebbieħ, il-(prefiss, hop, pubkey) jiġi aġġornat sabiex it-tie li jmiss fl-istess prefiss jinkiser bl-istess mod.\n\nTTL tal-cache: kemm iddum dħul mingħajr ma jerġa' jintuża. Default 30 jum, limitat bejn 1 u 180.\n\nMarġni tal-break-tie: kemm għandhom ikunu qrib il-metriċi ta' żewġ kandidati (f'%) qabel ma l-cache jikser it-tie. 0 jiddiżattiva l-fallback tal-cache (biss it-ties eżatti huma eliġibbli); 20 huwa l-limitu massimu. Default 5%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Il-hops multi-byte jeħtieġu firmware companion v1.15.0 jew aktar ġdid. Il-companion tiegħek jirrappurta verżjoni aktar antika — imblukkata fuq 1 Byte sakemm tagħmel l-aġġornament. Il-preferenza preċedenti tiegħek tiġi ppreservata u terġa' tiġi attivata wara l-aġġornament.",
+    "value": "Il-hops multi-byte jeħtieġu firmware companion v1.15.0 jew aktar ġdid. Il-companion tiegħek jirrappurta verżjoni aktar antika: imblukkata fuq 1 Byte sakemm tagħmel l-aġġornament. Il-preferenza preċedenti tiegħek tiġi ppreservata u terġa' tiġi attivata wara l-aġġornament.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Bajts għal kull pass miżjuda mar-rotta fuq pakketti ġodda li nibgħatu. Valuri ogħla jnaqqsu l-kollizzjonijiet tal-ismijiet iżda jista' jkun li ma jitwasslux minn firmware antik ta' ripetitur. Itinerarji mgħallma lejn kuntatti magħrufa jibqgħu bil-wisa' li bihom ġew irċevuti — din l-issettjar taffettwa biss l-itinerarji ta' flood u anon-reply. 3 Byte huma rrakkomandati għal itinerarji unika (2 jaħdmu ukoll); id-default tal-firmware huwa 1.",
+    "value": "Bajts għal kull pass miżjuda mar-rotta fuq pakketti ġodda li nibgħatu. Valuri ogħla jnaqqsu l-kollizzjonijiet tal-ismijiet iżda jista' jkun li ma jitwasslux minn firmware antik ta' ripetitur. Itinerarji mgħallma lejn kuntatti magħrufa jibqgħu bil-wisa' li bihom ġew irċevuti. Din l-issettjar taffettwa biss l-itinerarji ta' flood u anon-reply. 3 Byte huma rrakkomandati għal itinerarji unika (2 jaħdmu ukoll); id-default tal-firmware huwa 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Id-direttorju onlajn huwa mitfi —attiva sors f'Settings → Sharing → Directory.",
+    "value": "Id-direttorju onlajn huwa mitfi. Attiva sors f'Settings → Sharing → Directory.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Reġjun%1$s: diġà fil-lista tiegħek — neħħi l-moħbija",
+    "value": "Reġjun %1$s: diġà fil-lista tiegħek, neħħi l-moħbija",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Android jissospendi n-netwerking tal-app meta l-iskrin ikun mitfi. Eżenta KiekR mill-ottimizzazzjoni tal-batterija — u mill-limiti ta' tibda awtomatika tal-manifattur tat-telefon tiegħek — sabiex il-link tal-kumpan jibqa' attiv fil-isfond.",
+    "value": "Android jissospendi n-netwerking tal-app meta l-iskrin ikun mitfi. Eżenta KiekR mill-ottimizzazzjoni tal-batterija (u mill-limiti ta' tibda awtomatika tal-manifattur tat-telefon tiegħek) sabiex il-link tal-kumpan jibqa' attiv fil-isfond.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "Retries huwa n-numru ta' tentattivi addizzjonali li core-lib jagħmel għal kull paġna GET_NEIGHBOURS jekk il-firmware ma jirrispondix fi żmien it-tieqa ta' kull tentattiv — utli fuq konnessjonijiet BLE/radju instabbli fejn paġna tispiċċa ż-żmien. It-tieqa tisħaq skont id-daqs tal-paġna, għalhekk iż-żieda tagħha tagħti l-ħin meħtieġ lill-provi addizzjonali. Id-daqs tal-paġna innifsu huwa fissat fil-limitu massimu tal-buffer tal-firmware. B'mod default%1$d.",
+    "value": "Retries huwa n-numru ta' tentattivi addizzjonali li core-lib jagħmel għal kull paġna GET_NEIGHBOURS jekk il-firmware ma jirrispondix fi żmien it-tieqa ta' kull tentattiv, utli fuq konnessjonijiet BLE/radju instabbli fejn paġna tispiċċa ż-żmien. It-tieqa tisħaq skont id-daqs tal-paġna, għalhekk iż-żieda tagħha tagħti l-ħin meħtieġ lill-provi addizzjonali. Id-daqs tal-paġna innifsu huwa fissat fil-limitu massimu tal-buffer tal-firmware. B'mod default %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "L-ebda tweġiba — it-triq tista' ma tkunx tintlaħaq.",
+    "value": "L-ebda tweġiba: it-triq tista' ma tkunx tintlaħaq.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "L-ewwel ripetitur irid jisimgħek u int trid tisma' t-tweġiba tal-aħħar wieħed — agħżel triq li taf li tintlaħaq.",
+    "value": "L-ewwel ripetitur irid jisimgħek u int trid tisma' t-tweġiba tal-aħħar wieħed. Agħżel triq li taf li tintlaħaq.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "L-ebda nodu mhu konness — agħfas biex tgħaqqad",
+    "value": "L-ebda nodu mhu konness: agħfas biex tgħaqqad",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR jista' jfittex repeater mhux magħruf permezz tal-hash tiegħu f'direttorji onlajn — utli meta hop tat-triq jidher biss bħala prefiss esadekimali. Jibqa' mitfi sakemm ma tixgħelux taħt Settings → Sharing → Directory.",
+    "value": "KiekR jista' jfittex repeater mhux magħruf permezz tal-hash tiegħu f'direttorji onlajn (utli meta hop tat-triq jidher biss bħala prefiss esadekimali). Jibqa' mitfi sakemm ma tixgħelux taħt Settings → Sharing → Directory.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Idħol bil-kontroll fil-quċċata tal-lemin — mistieden għall-istatistiċi, il-ġirien, it-telemetrija u l-firmware; amministratur għall-konfigurazzjoni, ir-reġjuni u l-CLI.",
+    "value": "Idħol bil-kontroll fil-quċċata tal-lemin: mistieden għall-istatistiċi, il-ġirien, it-telemetrija u l-firmware; amministratur għall-konfigurazzjoni, ir-reġjuni u l-CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pakets li r-radju ma setax jaqra b'mod nadif — jiżdiedu bl-interferenza jew b'sinjal dgħajjef.",
+    "value": "Pakets li r-radju ma setax jaqra b'mod nadif. Jiżdiedu bl-interferenza jew b'sinjal dgħajjef.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Meta jkun mixgħul, KiekR jaqsam liema ċelloli tal-mappa għandhom kopertura tal-mesh ma' mapme.sh — mappa tal-kopertura tal-komunità. Kull kampjun jinkludi ċ-ċellola tal-mappa, is-saħħa tas-sinjal u t-triq tal-hop, imma qatt il-pożizzjoni eżatta jew l-identità tiegħek. It-tagħbijiet isegwu l-issettjar tiegħek ta' Wi-Fi biss u ta' intervall tat-tagħbija.",
+    "value": "Meta jkun mixgħul, KiekR jaqsam liema ċelloli tal-mappa għandhom kopertura tal-mesh ma' mapme.sh, mappa tal-kopertura tal-komunità. Kull kampjun jinkludi ċ-ċellola tal-mappa, is-saħħa tas-sinjal u t-triq tal-hop, imma qatt il-pożizzjoni eżatta jew l-identità tiegħek. It-tagħbijiet isegwu l-issettjar tiegħek ta' Wi-Fi biss u ta' intervall tat-tagħbija.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "L-ebda fissar tal-GPS — il-bidliet fid-direttorju onlajn forsi ma jidhrux fuq il-mappa. Ippermetti l-aċċess għall-post għal riżoluzzjoni sħiħa tal-mogħdija.",
+    "value": "L-ebda fissar tal-GPS: il-bidliet fid-direttorju onlajn forsi ma jidhrux fuq il-mappa. Ippermetti l-aċċess għall-post għal riżoluzzjoni sħiħa tal-mogħdija.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Ikkopja ċavetta privata hex ta' 64 jew 128 karattru biex tirrestawra identità li tkun saret backup — maħżuna lokalment u mibgħuta lill-apparat konness. L-esportazzjoni turi ċ-ċavetta ta' dan in-nodu sabiex tkun tista' tagħmel backup tagħha.",
+    "value": "Ikkopja ċavetta privata hex ta' 64 jew 128 karattru biex tirrestawra identità li tkun saret backup, maħżuna lokalment u mibgħuta lill-apparat konness. L-esportazzjoni turi ċ-ċavetta ta' dan in-nodu sabiex tkun tista' tagħmel backup tagħha.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Sors default stabbilit — l-endpoint u l-issettjar ieħor huma stabbiliti; tista' tibdel l-isem tiegħu hawnhekk.",
+    "value": "Sors default stabbilit: l-endpoint u l-issettjar ieħor huma stabbiliti; tista' tibdel l-isem tiegħu hawnhekk.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Is-server wieġeb — l-URL huwa validu",
+    "value": "Is-server wieġeb: l-URL huwa validu",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Din hi ċ-ċavetta tal-identità sigrieta tan-nodu tiegħek — kull min ikollha jista' jimpersonaha. Aħżinha f'post sigur u qatt ma taqsamha.",
+    "value": "Din hi ċ-ċavetta tal-identità sigrieta tan-nodu tiegħek: kull min ikollha jista' jimpersonaha. Aħżinha f'post sigur u qatt ma taqsamha.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Meta mixgħul, KiekR jista' joħroġ tfixxijiet fid-direttorju awtomatikament għal kuntest nieqes li l-app tinnota b'mod passiv — hops mhux magħrufa f'mogħdija, repeaters misjuba li għadhom mhumiex fid-direttorju, ringieli ta' ġirien neqsin, u reġjuni neqsin fuq discover. Meta mitfi (default), kull tfixxija fid-direttorju teħtieġ tap.",
+    "value": "Meta mixgħul, KiekR jista' joħroġ tfixxijiet fid-direttorju awtomatikament għal kuntest nieqes li l-app tinnota b'mod passiv: hops mhux magħrufa f'mogħdija, repeaters misjuba li għadhom mhumiex fid-direttorju, ringieli ta' ġirien neqsin, u reġjuni neqsin fuq discover. Meta mitfi (default), kull tfixxija fid-direttorju teħtieġ tap.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "It-tfixxijiet imorru biss lejn id-direttorju ta' KiekR — qatt lejn host ta' terzi. Il-qari mill-cache jibqa' b'xejn; dan l-iswiċ jikkontrolla n-nofs tan-netwerk.",
+    "value": "It-tfixxijiet imorru biss lejn id-direttorju ta' KiekR, qatt lejn host ta' terzi. Il-qari mill-cache jibqa' b'xejn; dan l-iswiċ jikkontrolla n-nofs tan-netwerk.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Din MHUX il-PIN tal-ikkoppjar tal-BLE tiegħek, u lanqas il-passphrase tal-identità tiegħek. Din tipproteġi biss dan il-fajl ta' backup. Agħżel xi ħaġa li tiftakar — KiekR ma jistax jirkuprha għalik.",
+    "value": "Din MHUX il-PIN tal-ikkoppjar tal-BLE tiegħek, u lanqas il-passphrase tal-identità tiegħek. Din tipproteġi biss dan il-fajl ta' backup. Agħżel xi ħaġa li tiftakar. KiekR ma jistax jirkuprha għalik.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Innotifika meta l-apparat konness jaqa' għal-persentaġġ tat-twissija. Id-distanza ta' riarmar hija kemm il-persentaġġ irid jerġa' jitla' 'l fuq mil-limitu qabel ma tista' tinħareġ it-twissija li jmiss — kabbarha jekk il-kurva tal-batterija tiegħek tinżamm fissa (LiFePO4, AA).",
+    "value": "Innotifika meta l-apparat konness jaqa' għal-persentaġġ tat-twissija. Id-distanza ta' riarmar hija kemm il-persentaġġ irid jerġa' jitla' 'l fuq mil-limitu qabel ma tista' tinħareġ it-twissija li jmiss. Kabbarha jekk il-kurva tal-batterija tiegħek tinżamm fissa (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Iswajpja biex tneħħi l-imblokk. Il-messaġġi tal-passat tagħhom jerġgħu jidhru f'kull kanal ladarba jitneħħa l-imblokk. L-imblokk jaqbel mal-isem eżatt murit — kulħadd jista' jagħżel dak l-isem, għalhekk dan mhux se jżomm lil xi ħadd determinat milli jbiddel l-isem.",
+    "value": "Iswajpja biex tneħħi l-imblokk. Il-messaġġi tal-passat tagħhom jerġgħu jidhru f'kull kanal ladarba jitneħħa l-imblokk. L-imblokk jaqbel mal-isem eżatt murit. Kulħadd jista' jagħżel dak l-isem, għalhekk dan mhux se jżomm lil xi ħadd determinat milli jbiddel l-isem.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Konness ma' nodu standard — jistgħu jittrażmettu biss il-kanali installati fuq l-apparat. Iswajpja lejn il-lemin biex iżżid jew tneħħi kanal mill-apparat. Iswajpja lejn ix-xellug biex tneħħi kanal — il-kanali #-jżommu ċ-ċavetta tagħhom, sabiex tkun tista' terġa' żżidhom bl-isem; il-kanali b'ċavetta personalizzata jitħassru b'mod permanenti.",
+    "value": "Konness ma' nodu standard: jistgħu jittrażmettu biss il-kanali installati fuq l-apparat. Iswajpja lejn il-lemin biex iżżid jew tneħħi kanal mill-apparat. Iswajpja lejn ix-xellug biex tneħħi kanal: il-kanali #-jżommu ċ-ċavetta tagħhom, sabiex tkun tista' terġa' żżidhom bl-isem; il-kanali b'ċavetta personalizzata jitħassru b'mod permanenti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Il-kanali jridu jiġu assenjati reġjun biex jiġu rripetuti fuq ħafna netwerks. Applikja tap fuq kanal biex tassenjah. Iswajpja lejn ix-xellug biex tneħħih — il-kanali #-jżommu ċ-ċavetta tagħhom, sabiex tkun tista' terġa' żżidhom bl-isem; il-kanali b'ċavetta personalizzata jitħassru b'mod permanenti.",
+    "value": "Il-kanali jridu jiġu assenjati reġjun biex jiġu rripetuti fuq ħafna netwerks. Applikja tap fuq kanal biex tassenjah. Iswajpja lejn ix-xellug biex tneħħih: il-kanali #-jżommu ċ-ċavetta tagħhom, sabiex tkun tista' terġa' żżidhom bl-isem; il-kanali b'ċavetta personalizzata jitħassru b'mod permanenti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Aċċess ta' mistieden — qari biss",
+    "value": "Aċċess ta' mistieden (qari biss)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Id-direttorju online huwa mitfi — attiva sors f'Settings → Sharing → Directory.",
+    "value": "Id-direttorju online huwa mitfi. Attiva sors f'Settings → Sharing → Directory.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Diversi repeaters jaqblu mal-prefiss tal-mogħdija l-qasira ta' dan il-hop. Ma nistgħux nagħżlu l-wieħed it-tajjeb awtomatikament — agħżel dak li kien fuq il-mogħdija tiegħek.",
+    "value": "Diversi repeaters jaqblu mal-prefiss tal-mogħdija l-qasira ta' dan il-hop. Ma nistgħux nagħżlu l-wieħed it-tajjeb awtomatikament. Agħżel dak li kien fuq il-mogħdija tiegħek.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Għad l-ebda hexes mmappjati s'issa — sewwaq bir-radju mixgħul u jidhru hawn.",
+    "value": "Għad l-ebda hexes mmappjati s'issa. Sewwaq bir-radju mixgħul u jidhru hawn.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Imwaqqaf — fuq ċellulari",
+    "value": "Imwaqqaf: fuq ċellulari",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Topic — pakketti",
+    "value": "Topic (pakketti)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Topic — status",
+    "value": "Topic (status)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Topic — debug",
+    "value": "Topic (debug)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Topic — raw",
+    "value": "Topic (raw)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Issejvja l-identità lokalment. Jekk iċ-ċavetta hija bbażata fuq seed u companion huwa konness, is-seed jintbagħat ukoll lill-apparat via CMD_IMPORT_PRIVATE_KEY — dan jikteb fuq l-identità attwali tal-apparat.",
+    "value": "Issejvja l-identità lokalment. Jekk iċ-ċavetta hija bbażata fuq seed u companion huwa konness, is-seed jintbagħat ukoll lill-apparat via CMD_IMPORT_PRIVATE_KEY. Dan jikteb fuq l-identità attwali tal-apparat.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Devjazzjoni tal-arloġġ tal-oriġinatur — bl-użu tal-ħin lokali tar-riċeviment",
+    "value": "Devjazzjoni tal-arloġġ tal-oriġinatur: bl-użu tal-ħin lokali tar-riċeviment",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Il-password hija limitata għal 15 karattru — kwalunkwe ħaġa itwal titqassar meta tidħol.",
+    "value": "Il-password hija limitata għal 15 karattru. Kwalunkwe ħaġa itwal titqassar meta tidħol.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Innotifika ma' kull DM li tidħol. Id-DMs huma awtentikati kriptografikament — jekk tagħlaq din tissuprimi biss in-notifika; il-messaġġ xorta jasal fil-lista taċ-Chats tiegħek.",
+    "value": "Innotifika ma' kull DM li tidħol. Id-DMs huma awtentikati kriptografikament. Jekk tagħlaq din tissuprimi biss in-notifika; il-messaġġ xorta jasal fil-lista taċ-Chats tiegħek.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Il-hops b'diversi bajts jeħtieġu firmware tal-companion v1.15.0 jew aktar ġdida. Il-companion tiegħek jirrapporta verżjoni eqdem — imblukkat għal 1 Byte sakemm tagħmel upgrade. Il-preferenza preċedenti tiegħek tinżamm u terġa' tiġi attivata wara l-upgrade.",
+    "value": "Il-hops b'diversi bajts jeħtieġu firmware tal-companion v1.15.0 jew aktar ġdida. Il-companion tiegħek jirrapporta verżjoni eqdem: imblukkat għal 1 Byte sakemm tagħmel upgrade. Il-preferenza preċedenti tiegħek tinżamm u terġa' tiġi attivata wara l-upgrade.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Iswajpja reġjun biex tneħħih. Jibqa' fid-database (u jkompli janota it-traffiku li jidħol) imma jgħib minn din il-lista u mill-għażliet tal-kanali — erġa' żidu bl-isem biex terġa' ġġibu lura.",
+    "value": "Iswajpja reġjun biex tneħħih. Jibqa' fid-database (u jkompli janota it-traffiku li jidħol) imma jgħib minn din il-lista u mill-għażliet tal-kanali. Erġa' żidu bl-isem biex terġa' ġġibu lura.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Mhux konness ma' apparat companion — ikkonnettja nodu l-ewwel.",
+    "value": "Mhux konness ma' apparat companion. Ikkonnettja nodu l-ewwel.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Irrestawra minn fajl `.json` jew `.mcbackup`. L-importazzjonijiet default għal Issostitwixxi — il-kanali, kuntatti, u reġjuni eżistenti tiegħek jitħassru, imbagħad il-bundle jiddaħħal. Applikja tap u żomm fuq Ikkonferma għal 5 sekondi.",
+    "value": "Irrestawra minn fajl `.json` jew `.mcbackup`. L-importazzjonijiet default għal Issostitwixxi: il-kanali, kuntatti, u reġjuni eżistenti tiegħek jitħassru, imbagħad il-bundle jiddaħħal. Applikja tap u żomm fuq Ikkonferma għal 5 sekondi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "L-ebda observer għadu ma sema' b'dan il-messaġġ — dan qatt ma jfisser li s-sending fallixxa.",
+    "value": "L-ebda observer għadu ma sema' b'dan il-messaġġ. Dan qatt ma jfisser li s-sending fallixxa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Instema' f'reġjun wieħed tal-observers s'issa — probabbilment biss fil-qrib.",
+    "value": "Instema' f'reġjun wieħed tal-observers s'issa, probabbilment biss fil-qrib.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Instema' f'%1$d reġjuni — il-mesh ġarr dan il-messaġġ.",
+    "value": "Instema' f'%1$d reġjuni: il-mesh ġarr dan il-messaġġ.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Il-verifika fallixxet — ipprova mill-ġdid aktar tard.",
+    "value": "Il-verifika fallixxet. Ipprova mill-ġdid aktar tard.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Instema' minn %1$d observers — il-mesh ġarr dan il-messaġġ.",
+    "value": "Instema' minn %1$d observers: il-mesh ġarr dan il-messaġġ.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Dan in-nodu bħalissa qed iżid awtomatikament kull tip ta' advert („Auto add all\") — il-filtri hawn taħt m'għandhomx effett. Xi app oħra tista' tkun biddlet dan.",
+    "value": "Dan in-nodu bħalissa qed iżid awtomatikament kull tip ta' advert („Auto add all\"). Il-filtri hawn taħt m'għandhomx effett. Xi app oħra tista' tkun biddlet dan.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Ma ntbagħatx — mhux installat fuq in-node tiegħek",
+    "value": "Ma ntbagħatx: mhux installat fuq in-node tiegħek",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Immappja wkoll heksagons fejn ma kien riċevut l-ebda traffiku — juża GPS u aktar batterija.",
+    "value": "Immappja wkoll heksagons fejn ma kien riċevut l-ebda traffiku. Juża GPS u aktar batterija.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Il-lista ta' kuntatti ta' dan in-nodu hija mimlija — ma jistax jieħu kuntatti ġodda li jisma'. Ħassar xi wħud biex tagħmel post.",
+    "value": "Il-lista ta' kuntatti ta' dan in-nodu hija mimlija: ma jistax jieħu kuntatti ġodda li jisma'. Ħassar xi wħud biex tagħmel post.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Imwaqqaf — l-aċċess tal-lok huwa biss \"Waqt li Tuża l-App\"",
+    "value": "Imwaqqaf: l-aċċess tal-lok huwa biss \"Waqt li Tuża l-App\"",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Imwaqqaf — is-sessjoni tal-lok waqfet",
+    "value": "Imwaqqaf: is-sessjoni tal-lok waqfet",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Mingħajr \"Dejjem\", il-coverage tiġbor biss waqt li KiekR tkun miftuħa — l-iOS iwaqqaf is-sessjoni tal-lok ladarba l-app tmur fl-isfond. B'\"Dejjem\", KiekR tkompli tiġbor fil-but tiegħek billi tuża biss il-pożizzjoni li l-mowbajl tiegħek diġà jaf biha, mingħajr GPS addizzjonali.",
+    "value": "Mingħajr \"Dejjem\", il-coverage tiġbor biss waqt li KiekR tkun miftuħa. L-iOS iwaqqaf is-sessjoni tal-lok ladarba l-app tmur fl-isfond. B'\"Dejjem\", KiekR tkompli tiġbor fil-but tiegħek billi tuża biss il-pożizzjoni li l-mowbajl tiegħek diġà jaf biha, mingħajr GPS addizzjonali.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Ineħħi %@ mil-lista tal-chat tiegħek u mill-issettjar tal-kanali. Tista' terġa' żżidu aktar tard billi tittajpja l-isem f'Settings → Channels → Add channel by name — iċ-ċavetta SHA-256 tiġi derivata bl-istess mod.",
+    "value": "Ineħħi %@ mil-lista tal-chat tiegħek u mill-issettjar tal-kanali. Tista' terġa' żżidu aktar tard billi tittajpja l-isem f'Settings → Channels → Add channel by name. Iċ-ċavetta SHA-256 tiġi derivata bl-istess mod.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Ħassar %@? Dan huwa permanenti — iċ-ċavetta ma tistax terġa' tiġi derivata mill-isem.",
+    "value": "Ħassar %@? Dan huwa permanenti: iċ-ċavetta ma tistax terġa' tiġi derivata mill-isem.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Għajnuna permanenti ta' tagħlim għal kolliżjonijiet ta' prefissi: ladarba l-għażla deterministika tkun għażlet rebbieħ, il-(prefiss, hop, pubkey) tiġi mmarkata sabiex l-unentiċità li jmiss fl-istess prefiss tissolva bl-istess mod.\n\nCache TTL — kemm iddum entrata tibqa' valida mingħajr ma terġa' tintuża. Default 30 jum, limitu 1..=180.\n\nMarġini tat-tiebreaker — kemm iridu jkunu qrib il-metriċi ta' żewġ kandidati (f'%) qabel il-cache issolvi l-unentiċità. 0 jinnullifika l-cache fallback (biss unentiċitajiet eżatti jikkwalifikaw); 20 huwa l-limitu massimu. Default 5 %.",
+    "value": "Għajnuna permanenti ta' tagħlim għal kolliżjonijiet ta' prefissi: ladarba l-għażla deterministika tkun għażlet rebbieħ, il-(prefiss, hop, pubkey) tiġi mmarkata sabiex l-unentiċità li jmiss fl-istess prefiss tissolva bl-istess mod.\n\nCache TTL: kemm iddum entrata tibqa' valida mingħajr ma terġa' tintuża. Default 30 jum, limitu 1..=180.\n\nMarġini tat-tiebreaker: kemm iridu jkunu qrib il-metriċi ta' żewġ kandidati (f'%) qabel il-cache issolvi l-unentiċità. 0 jinnullifika l-cache fallback (biss unentiċitajiet eżatti jikkwalifikaw); 20 huwa l-limitu massimu. Default 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Il-Bluetooth huwa mitfi — tektek biex tixgħlu",
+    "value": "Il-Bluetooth huwa mitfi: tektek biex tixgħlu",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Waqfa — dan it-telefon m’għandux lokazzjoni tan-netwerk. Pożizzjonijiet GPS jaslu biss waqt li app oħra tuża l-GPS jew waqt l-iċċarġjar.",
+    "value": "Waqfa: dan it-telefon m’għandux lokazzjoni tan-netwerk. Pożizzjonijiet GPS jaslu biss waqt li app oħra tuża l-GPS jew waqt l-iċċarġjar.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Dan it-telefon m’għandux lokazzjoni tan-netwerk. Meta jkun mixgħul, KiekR jixgħel il-GPS waħdu waqt li jirċievi traffiku tal-mesh — ukoll bil-batterija, u jieqaf meta tkun wieqaf. Juża iktar batterija.",
+    "value": "Dan it-telefon m’għandux lokazzjoni tan-netwerk. Meta jkun mixgħul, KiekR jixgħel il-GPS waħdu waqt li jirċievi traffiku tal-mesh (ukoll bil-batterija, u jieqaf meta tkun wieqaf). Juża iktar batterija.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Karattri hex 0–9, a–f biss. L-ispazji u ż-żewġ punti jitneħħew meta tiġi ikkopjata. Ir-repeater jeħtieġ iċ-ċavetta sħiħa biex iżidha.",
+    "value": "Karattri hex 0-9, a-f biss. L-ispazji u ż-żewġ punti jitneħħew meta tiġi ikkopjata. Ir-repeater jeħtieġ iċ-ċavetta sħiħa biex iżidha.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d dħulijiet – il-lista tista' tkun mhux kompluta",
+    "value": "%1$d dħulijiet (il-lista tista' tkun mhux kompluta)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Karattri hex 0–9, a–f biss. L-ispazji u ż-żewġ punti jitneħħew meta tiġi ikkopjata. Is-server tal-kamra jeħtieġ iċ-ċavetta sħiħa biex iżidha.",
+    "value": "Karattri hex 0-9, a-f biss. L-ispazji u ż-żewġ punti jitneħħew meta tiġi ikkopjata. Is-server tal-kamra jeħtieġ iċ-ċavetta sħiħa biex iżidha.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "\"Kulħadd\" tfisser kull kuntatt maħżun fuq dan in-nodu — biż-żieda awtomatika mixgħula, prattikament kulħadd fil-medda.",
+    "value": "\"Kulħadd\" tfisser kull kuntatt maħżun fuq dan in-nodu: biż-żieda awtomatika mixgħula, prattikament kulħadd fil-medda.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Il-qsim huwa mitfi fuq in-nodu tiegħek — ixgħelu taħt In-nod tiegħi → Qsim tat-telemetrija.",
+    "value": "Il-qsim huwa mitfi fuq in-nodu tiegħek. Ixgħelu taħt In-nod tiegħi → Qsim tat-telemetrija.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Ma setax jaġġorna l-permessi — il-kuntatt irid ikun fuq in-nodu tiegħek.",
+    "value": "Ma setax jaġġorna l-permessi: il-kuntatt irid ikun fuq in-nodu tiegħek.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Talba oħra diġà għaddejja fuq dan in-nodu — ipprova mill-ġdid fi ftit.",
+    "value": "Talba oħra diġà għaddejja fuq dan in-nodu. Ipprova mill-ġdid fi ftit.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Il-pożizzjoni ma nbidlitx — jista' jkun li l-apparat m'għandux soluzzjoni GPS attwali.",
+    "value": "Il-pożizzjoni ma nbidlitx: jista' jkun li l-apparat m'għandux soluzzjoni GPS attwali.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "L-ebda pożizzjoni fit-tweġiba — l-ebda GPS, GPS mitfi, jew pożizzjoni mhux maqsuma miegħek.",
+    "value": "L-ebda pożizzjoni fit-tweġiba: l-ebda GPS, GPS mitfi, jew pożizzjoni mhux maqsuma miegħek.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "L-ebda tweġiba — barra mill-medda, jew dan il-kuntatt ma tak il-permess biex titolbu.",
+    "value": "L-ebda tweġiba: barra mill-medda, jew dan il-kuntatt ma tak il-permess biex titolbu.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Sa massimu ta' 16-il talba fuq 15-il minuta, biss permezz ta' triq magħrufa jew medda diretta — mingħajr għargħa tal-mesh.",
+    "value": "Sa massimu ta' 16-il talba fuq 15-il minuta, biss permezz ta' triq magħrufa jew medda diretta (mingħajr għargħa tal-mesh).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Il-lokalizzazzjoni live spiċċat — l-15-il minuta għaddew.",
+    "value": "Il-lokalizzazzjoni live spiċċat: l-15-il minuta għaddew.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "L-ebda tweġiba — barra mill-medda diretta? Uża \"Fittex il-mesh\" biex tipprova permezz ta' repeaters.",
+    "value": "L-ebda tweġiba. Barra mill-medda diretta? Uża \"Fittex il-mesh\" biex tipprova permezz ta' repeaters.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Il-konnessjoni man-nodu ntilfet — il-lokalizzazzjoni live twaqqfet.",
+    "value": "Il-konnessjoni man-nodu ntilfet. Il-lokalizzazzjoni live twaqqfet.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "L-aċċess għall-post huwa mitfi — meħtieġ biex jintwerew il-pożizzjoni tiegħek u d-distanza.",
+    "value": "L-aċċess għall-post huwa mitfi, meħtieġ biex jintwerew il-pożizzjoni tiegħek u d-distanza.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

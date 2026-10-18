@@ -110,7 +110,7 @@
     "_human": true
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Getrennt — zum Senden neu verbinden",
+    "value": "Getrennt: zum Senden neu verbinden",
     "_human": true
   },
   "chat_compose_placeholder_message": {
@@ -154,11 +154,11 @@
     "_human": true
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanal-Nachrichten sind nicht signiert — der Absendername kann jeder im Kanal sein.",
+    "value": "Kanal-Nachrichten sind nicht signiert: Der Absendername kann jeder im Kanal sein.",
     "_human": true
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Online-Verzeichnis ist aus — aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
+    "value": "Online-Verzeichnis ist aus. Aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
     "_human": true
   },
   "chat_detail_echoes_heard": {
@@ -170,7 +170,7 @@
     "_human": true
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Mehrere Repeater passen zum kurzen Pfad-Präfix dieses Hops. Automatisch nicht eindeutig — wähle den, der auf deinem Pfad lag.",
+    "value": "Mehrere Repeater passen zum kurzen Pfad-Präfix dieses Hops. Automatisch nicht eindeutig: Wähle den, der auf deinem Pfad lag.",
     "_human": true
   },
   "chat_detail_hop_looking_up": {
@@ -182,11 +182,11 @@
     "_human": true
   },
   "chat_detail_hop_not_found": {
-    "value": "kein Treffer — Verzeichnis hatte keinen Eintrag für dieses Präfix",
+    "value": "kein Treffer: Verzeichnis hatte keinen Eintrag für dieses Präfix",
     "_human": true
   },
   "chat_detail_hop_outside_radius": {
-    "value": "kein Treffer — die nächsten Online-Treffer liegen außerhalb des Plausibilitätsradius",
+    "value": "kein Treffer: die nächsten Online-Treffer liegen außerhalb des Plausibilitätsradius",
     "_human": true
   },
   "chat_detail_hop_prefix": {
@@ -226,7 +226,7 @@
     "_human": true
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Jeder Hop ist das erste %1$d Byte(s) des öffentlichen Schlüssels eines Repeaters. Kurze Schlüssel können auf mehrere Repeater passen — tippe auf den Globus, um fehlende Hops im Online-Verzeichnis nachzuschlagen.",
+    "value": "Jeder Hop ist das erste %1$d Byte(s) des öffentlichen Schlüssels eines Repeaters. Kurze Schlüssel können auf mehrere Repeater passen. Tippe auf den Globus, um fehlende Hops im Online-Verzeichnis nachzuschlagen.",
     "_human": true
   },
   "chat_detail_path_header_bytes": {
@@ -234,7 +234,7 @@
     "_human": true
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "unbekannt — vom Gerät",
+    "value": "unbekannt (vom Gerät)",
     "_human": true
   },
   "chat_detail_payload_advert": {
@@ -302,7 +302,7 @@
     "_human": true
   },
   "chat_detail_signal_none": {
-    "value": "(keins — vom Gerät)",
+    "value": "(keins, vom Gerät)",
     "_human": true
   },
   "chat_detail_snr": {
@@ -346,7 +346,7 @@
     "_human": true
   },
   "chat_discovered_channels_header": {
-    "value": "Entdeckte Kanäle — zum Prüfen tippen",
+    "value": "Entdeckte Kanäle (zum Prüfen tippen)",
     "_human": true
   },
   "chat_dm_empty_footer": {
@@ -374,7 +374,7 @@
     "_human": true
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Tippe auf den Schlüssel zum Kopieren. Kanäle werden über den Schlüssel zugeordnet, nicht über den Namen — Kollisionen sind häufig.",
+    "value": "Tippe auf den Schlüssel zum Kopieren. Kanäle werden über den Schlüssel zugeordnet, nicht über den Namen: Kollisionen sind häufig.",
     "_human": true
   },
   "chat_hidden_channel_key_label": {
@@ -506,7 +506,7 @@
     "_human": true
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Gastzugang — nur lesen",
+    "value": "Gastzugang (nur lesen)",
     "_human": true
   },
   "chat_room_directory_done": {
@@ -798,7 +798,7 @@
     "_human": true
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d zwischengespeichert · teilweise — zum Aktualisieren tippen",
+    "value": "%1$d zwischengespeichert · teilweise, zum Aktualisieren tippen",
     "_human": true
   },
   "map_neighbour_cached_with_age": {
@@ -806,7 +806,7 @@
     "_human": true
   },
   "map_neighbour_no_cache": {
-    "value": "Keine zwischengespeicherten Nachbarn — zum Aktualisieren tippen.",
+    "value": "Keine zwischengespeicherten Nachbarn. Zum Aktualisieren tippen.",
     "_human": true
   },
   "map_neighbour_receiving": {
@@ -910,7 +910,7 @@
     "_human": true
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f bis %2$.0f dB",
     "_human": true
   },
   "message_deleted": {
@@ -922,7 +922,7 @@
     "_human": true
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Andere Nodes brauchen unser Advert in ihrer Kontakttabelle, bevor sie unsere DMs entschlüsseln können. Tippe, um die Reichweite zu wählen — ohne Hops ist leise (nur Nachbarn); Flood ist laut (ganzes Mesh).",
+    "value": "Andere Nodes brauchen unser Advert in ihrer Kontakttabelle, bevor sie unsere DMs entschlüsseln können. Tippe, um die Reichweite zu wählen: Ohne Hops ist leise (nur Nachbarn); Flood ist laut (ganzes Mesh).",
     "_human": true
   },
   "mynode_broadcast_advert_row_title": {
@@ -934,7 +934,7 @@
     "_human": true
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Dieses Gerät hat eine batteriegepufferte RTC. Software kann sie nicht zurücksetzen — flashe die Firmware oder entferne die RTC-Pufferbatterie zur Wiederherstellung.",
+    "value": "Dieses Gerät hat eine batteriegepufferte RTC. Software kann sie nicht zurücksetzen. Flashe die Firmware oder entferne die RTC-Pufferbatterie zur Wiederherstellung.",
     "_human": true
   },
   "mynode_clock_ahead_title": {
@@ -986,7 +986,7 @@
     "_human": true
   },
   "mynode_device_actions_footer": {
-    "value": "Neustart startet den gekoppelten Node neu. Werksreset löscht Kontakte, Kanäle und Einstellungen des Geräts — die lokalen Daten der App bleiben unberührt.",
+    "value": "Neustart startet den gekoppelten Node neu. Werksreset löscht Kontakte, Kanäle und Einstellungen des Geräts. Die lokalen Daten der App bleiben unberührt.",
     "_human": true
   },
   "mynode_dialog_broadcast_advert_body": {
@@ -1022,7 +1022,7 @@
     "_human": true
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Löscht Kontakte, Kanäle, Regionen, Einstellungen und Identität auf dem Gerät. Unwiderruflich — kein Rückgängig. Exportiere alles, was du behalten willst, bevor du fortfährst.",
+    "value": "Löscht Kontakte, Kanäle, Regionen, Einstellungen und Identität auf dem Gerät. Unwiderruflich: Es gibt kein Rückgängig. Exportiere alles, was du behalten willst, bevor du fortfährst.",
     "_human": true
   },
   "mynode_factory_reset_dialog_title": {
@@ -1046,7 +1046,7 @@
     "_human": true
   },
   "mynode_flood_body": {
-    "value": "Das ganze Mesh. Laut — jeder Repeater sendet erneut. Nutze es sparsam; Flood-Adverts kosten Sendezeit pro Repeater.",
+    "value": "Das ganze Mesh. Laut: Jeder Repeater sendet erneut. Nutze es sparsam; Flood-Adverts kosten Sendezeit pro Repeater.",
     "_human": true
   },
   "mynode_flood_title": {
@@ -1086,7 +1086,7 @@
     "_human": true
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Erweitert schreibt rohe Freq. / BW / SF / CR. Firmware-Bereiche: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "Erweitert schreibt rohe Freq. / BW / SF / CR. Firmware-Bereiche: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_human": true
   },
   "mynode_lora_advanced_label": {
@@ -1118,7 +1118,7 @@
     "_human": true
   },
   "mynode_lora_current_device_footer": {
-    "value": "Was der gekoppelte Node gerade meldet. Die Voreinstellungen unten stammen aus dem MeshCore-Community-Katalog — wähle die, die dein lokales Mesh nutzt.",
+    "value": "Was der gekoppelte Node gerade meldet. Die Voreinstellungen unten stammen aus dem MeshCore-Community-Katalog. Wähle die, die dein lokales Mesh nutzt.",
     "_human": true
   },
   "mynode_lora_current_device_header": {
@@ -1170,7 +1170,7 @@
     "_human": true
   },
   "mynode_lora_suggested_footer": {
-    "value": "Basiert auf der Sprache deines Geräts. Bestätige zum Anwenden — bis dahin ändert sich nichts.",
+    "value": "Basiert auf der Sprache deines Geräts. Bestätige zum Anwenden. Bis dahin ändert sich nichts.",
     "_human": true
   },
   "mynode_lora_suggested_header": {
@@ -1258,7 +1258,7 @@
     "_human": true
   },
   "mynode_reconnect_footer": {
-    "value": "Erneut mit dem zuvor gekoppelten Node verbinden. Keine PIN-Abfrage — die Kopplung ist noch gespeichert.",
+    "value": "Erneut mit dem zuvor gekoppelten Node verbinden. Keine PIN-Abfrage: Die Kopplung ist noch gespeichert.",
     "_human": true
   },
   "mynode_save": {
@@ -1382,7 +1382,7 @@
     "_human": true
   },
   "mynode_zero_hop_body": {
-    "value": "Nur Nachbarn. Leise — kein Flooding. Nutze es, wenn nur nahe Nodes dein Advert lernen sollen.",
+    "value": "Nur Nachbarn. Leise: kein Flooding. Nutze es, wenn nur nahe Nodes dein Advert lernen sollen.",
     "_human": true
   },
   "mynode_zero_hop_title": {
@@ -1422,7 +1422,7 @@
     "_human": true
   },
   "nodes_add_channel_secret_footer": {
-    "value": "Das Secret ist der gemeinsame 16-Byte-AES-Schlüssel des Kanals, geschrieben als 32 Hex-Zeichen. Bei Hashtag-Kanälen wird das Secret automatisch aus dem Namen abgeleitet — lass das Hash-Zeichen stehen, wenn du diesen Weg lieber nutzt.",
+    "value": "Das Secret ist der gemeinsame 16-Byte-AES-Schlüssel des Kanals, geschrieben als 32 Hex-Zeichen. Bei Hashtag-Kanälen wird das Secret automatisch aus dem Namen abgeleitet. Lass das Hash-Zeichen stehen, wenn du diesen Weg lieber nutzt.",
     "_human": true
   },
   "nodes_add_channel_secret_label": {
@@ -1642,7 +1642,7 @@
     "_human": true
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Die Uhr geht vor. Stock-Firmware verweigert eine Synchronisierung zurück. Lösung: Führe `clkreboot` über die CLI unten aus — es setzt die RTC auf 2024-05-15 zurück und startet neu — tippe dann auf Synchronisieren, um die aktuelle Zeit zu übertragen.",
+    "value": "Die Uhr geht vor. Stock-Firmware verweigert eine Synchronisierung zurück. Lösung: Führe `clkreboot` über die CLI unten aus (es setzt die RTC auf 2024-05-15 zurück und startet neu), tippe dann auf Synchronisieren, um die aktuelle Zeit zu übertragen.",
     "_human": true
   },
   "nodes_admin_clock_label": {
@@ -1674,7 +1674,7 @@
     "_human": true
   },
   "nodes_admin_error_not_ready": {
-    "value": "Gerät synchronisiert noch — bitte gleich erneut versuchen.",
+    "value": "Gerät synchronisiert noch. Bitte gleich erneut versuchen.",
     "_human": true
   },
   "nodes_admin_error_seed_sign": {
@@ -1846,7 +1846,7 @@
     "_human": true
   },
   "nodes_detail_acl_footer": {
-    "value": "Der Login fügt diesen Connector zur ACL des Repeaters hinzu, damit Pfadsuche / Nachbarn / Telemetrie funktionieren. Lass das Passwort leer, um dich als Gast anzumelden oder einen vorhandenen ACL-Eintrag erneut zu nutzen — oder gib das Admin- oder Gast-Passwort für mehr Zugriff ein.",
+    "value": "Der Login fügt diesen Connector zur ACL des Repeaters hinzu, damit Pfadsuche / Nachbarn / Telemetrie funktionieren. Lass das Passwort leer, um dich als Gast anzumelden oder einen vorhandenen ACL-Eintrag erneut zu nutzen, oder gib das Admin- oder Gast-Passwort für mehr Zugriff ein.",
     "_human": true
   },
   "nodes_detail_add_to_favorites": {
@@ -1910,7 +1910,7 @@
     "_human": true
   },
   "nodes_detail_directory_offline": {
-    "value": "Online-Verzeichnis ist aus — aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
+    "value": "Online-Verzeichnis ist aus. Aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
     "_human": true
   },
   "nodes_detail_flood": {
@@ -1950,7 +1950,7 @@
     "_human": true
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Ein Repeater-Passwort ist auf 15 Zeichen begrenzt — alles darüber wird beim Anmelden abgeschnitten.",
+    "value": "Ein Repeater-Passwort ist auf 15 Zeichen begrenzt. Alles darüber wird beim Anmelden abgeschnitten.",
     "_human": true
   },
   "nodes_detail_login_password_label": {
@@ -1998,7 +1998,7 @@
     "_human": true
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d zwischengespeichert · teilweise — zum Aktualisieren tippen",
+    "value": "%1$d zwischengespeichert · teilweise, zum Aktualisieren tippen",
     "_human": true
   },
   "nodes_detail_neighbours_not_fetched": {
@@ -2438,7 +2438,7 @@
     "_human": true
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Löschen nicht möglich — die Region hat untergeordnete Regionen.",
+    "value": "Löschen nicht möglich: Die Region hat untergeordnete Regionen.",
     "_human": true
   },
   "nodes_manage_regions_snackbar_needs_newer_fw": {
@@ -2495,7 +2495,7 @@
     "_human": true
   },
   "nodes_manual_err_not_triple": {
-    "value": "Jeder Hop hat 3 Bytes. %1$d insgesamt erhalten — entweder auffüllen oder kürzen.",
+    "value": "Jeder Hop hat 3 Bytes. %1$d insgesamt erhalten. Entweder auffüllen oder kürzen.",
     "_human": true
   },
   "nodes_manual_err_storage_rejected": {
@@ -2523,7 +2523,7 @@
     "_human": true
   },
   "nodes_manual_no_learned_path": {
-    "value": "(noch kein gelernter Pfad — Direkt-Sendungen gingen Zero-Hop)",
+    "value": "(noch kein gelernter Pfad: Direkt-Sendungen gingen Zero-Hop)",
     "_human": true
   },
   "nodes_manual_path_title": {
@@ -2823,11 +2823,11 @@
     "_human": true
   },
   "room_admin_acl_empty": {
-    "value": "Keine ACL-Einträge — auf „Aktualisieren“ tippen zum Laden.",
+    "value": "Keine ACL-Einträge. Auf „Aktualisieren“ tippen zum Laden.",
     "_human": true
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Ungültiger Public-Key-Hex — muss genau 64 Hex-Zeichen enthalten",
+    "value": "Ungültiger Public-Key-Hex: muss genau 64 Hex-Zeichen enthalten",
     "_human": true
   },
   "room_admin_acl_label": {
@@ -2843,7 +2843,7 @@
     "_human": true
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 Hex-Zeichen — der vollständige Public Key des Nodes.",
+    "value": "64 Hex-Zeichen (der vollständige Public Key des Nodes).",
     "_human": true
   },
   "room_admin_acl_pick_contact": {
@@ -2867,7 +2867,7 @@
     "_human": true
   },
   "room_admin_admin_placeholder": {
-    "value": "Admin-Werkzeuge werden hier angezeigt — CLI und ACL-Editor folgen im nächsten Update.",
+    "value": "Admin-Werkzeuge werden hier angezeigt. CLI und ACL-Editor folgen im nächsten Update.",
     "_human": true
   },
   "room_admin_cd_clear_cli_history": {
@@ -2875,7 +2875,7 @@
     "_human": true
   },
   "room_admin_cli_busy": {
-    "value": "Eine andere Anfrage ist noch unterwegs — bitte erneut versuchen.",
+    "value": "Eine andere Anfrage ist noch unterwegs. Bitte erneut versuchen.",
     "_human": true
   },
   "room_admin_cli_command_hint": {
@@ -2899,11 +2899,11 @@
     "_human": true
   },
   "room_admin_login_failed": {
-    "value": "Anmeldung fehlgeschlagen — falsches Passwort oder Room-Server nicht erreichbar.",
+    "value": "Anmeldung fehlgeschlagen: falsches Passwort oder Room-Server nicht erreichbar.",
     "_human": true
   },
   "room_admin_login_password_hint": {
-    "value": "Das Passwort ist auf 15 Zeichen begrenzt — alles darüber hinaus wird beim Anmelden abgeschnitten.",
+    "value": "Das Passwort ist auf 15 Zeichen begrenzt. Alles darüber hinaus wird beim Anmelden abgeschnitten.",
     "_human": true
   },
   "room_admin_login_password_label": {
@@ -3011,7 +3011,7 @@
     "_human": true
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Wenn das verbundene Gerät ein Advert eines aktivierten Typs hört, speichert es den Node in seiner Kontakttabelle — übersteht Neustarts und erreicht die App beim nächsten Leeren.",
+    "value": "Wenn das verbundene Gerät ein Advert eines aktivierten Typs hört, speichert es den Node in seiner Kontakttabelle. Der Eintrag übersteht Neustarts und erreicht die App beim nächsten Leeren.",
     "_human": true
   },
   "settings_autoadd_companion_types_header": {
@@ -3071,7 +3071,7 @@
     "_human": true
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Wenn aktiv, kann KiekR automatisch Verzeichnisabfragen für fehlenden Kontext starten, den die App passiv bemerkt — unbekannte Hops in einem Pfad, gehörte Repeater, die noch nicht im Verzeichnis stehen, fehlende Nachbar-Einträge und fehlende Regionen bei einer Abfrage. Wenn aus (Standard), erfordert jede Verzeichnisabfrage einen Tipp.",
+    "value": "Wenn aktiv, kann KiekR automatisch Verzeichnisabfragen für fehlenden Kontext starten, den die App passiv bemerkt: unbekannte Hops in einem Pfad, gehörte Repeater, die noch nicht im Verzeichnis stehen, fehlende Nachbar-Einträge und fehlende Regionen bei einer Abfrage. Wenn aus (Standard), erfordert jede Verzeichnisabfrage einen Tipp.",
     "_human": true
   },
   "settings_autoresolve_bg_lookups_header": {
@@ -3099,7 +3099,7 @@
     "_human": true
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Abfragen gehen nur an das KiekR-Verzeichnis — nie an einen Drittanbieter-Host. Cache-Lesungen bleiben frei; dieser Schalter steuert nur den Netzwerk-Teil.",
+    "value": "Abfragen gehen nur an das KiekR-Verzeichnis, nie an einen Drittanbieter-Host. Cache-Lesungen bleiben frei; dieser Schalter steuert nur den Netzwerk-Teil.",
     "_human": true
   },
   "settings_autoresolve_surfaces_header": {
@@ -3195,7 +3195,7 @@
     "_human": true
   },
   "settings_backup_import_done": {
-    "value": "Import fertig — %1$d Identität, %2$d Kanäle, %3$d Regionen, %4$d Kontakte, %5$d Repeater-Anmeldungen.",
+    "value": "Import fertig: %1$d Identität, %2$d Kanäle, %3$d Regionen, %4$d Kontakte, %5$d Repeater-Anmeldungen.",
     "_human": true
   },
   "settings_backup_import_fallback_name": {
@@ -3207,7 +3207,7 @@
     "_human": true
   },
   "settings_backup_import_footer": {
-    "value": "Aus einer .json- oder .mcbackup-Datei wiederherstellen. Importe sind standardmäßig auf Ersetzen — deine vorhandenen Kanäle, Kontakte und Regionen werden gelöscht, dann wird das Bundle eingefügt. Halte Bestätigen 5 Sekunden lang gedrückt.",
+    "value": "Aus einer .json- oder .mcbackup-Datei wiederherstellen. Importe sind standardmäßig auf Ersetzen: Deine vorhandenen Kanäle, Kontakte und Regionen werden gelöscht, dann wird das Bundle eingefügt. Halte Bestätigen 5 Sekunden lang gedrückt.",
     "_human": true
   },
   "settings_backup_import_header": {
@@ -3251,7 +3251,7 @@
     "_human": true
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Das ist NICHT deine BLE-Kopplungs-PIN. Sie schützt nur diese Backup-Datei — wähle etwas Einprägsames; KiekR kann sie nicht wiederherstellen.",
+    "value": "Das ist NICHT deine BLE-Kopplungs-PIN. Sie schützt nur diese Backup-Datei. Wähle etwas Einprägsames; KiekR kann sie nicht wiederherstellen.",
     "_human": true
   },
   "settings_backup_passphrase_confirm_label": {
@@ -3355,7 +3355,7 @@
     "_human": true
   },
   "settings_battery_preview_footer": {
-    "value": "Durchgezogene Linie = Kurve, die du speicherst. Gestrichelte Linie = Standard-Chemiekurve für diese Variante. X-Achse: 2800–4400 mV. Y-Achse: 0–100%%.",
+    "value": "Durchgezogene Linie = Kurve, die du speicherst. Gestrichelte Linie = Standard-Chemiekurve für diese Variante. X-Achse: 2800-4400 mV. Y-Achse: 0-100%%.",
     "_human": true
   },
   "settings_battery_preview_header": {
@@ -3399,7 +3399,7 @@
     "_human": true
   },
   "settings_battery_warn_footer": {
-    "value": "Benachrichtigen, wenn das verbundene Gerät auf den Warn-Prozentwert fällt. Der Re-Arm-Abstand gibt an, wie weit der Prozentwert über die Schwelle zurücksteigen muss, bevor die nächste Warnung auslösen kann — vergrößere ihn, wenn deine Akkukurve abflacht (LiFePO4, AA).",
+    "value": "Benachrichtigen, wenn das verbundene Gerät auf den Warn-Prozentwert fällt. Der Re-Arm-Abstand gibt an, wie weit der Prozentwert über die Schwelle zurücksteigen muss, bevor die nächste Warnung auslösen kann. Vergrößere ihn, wenn deine Akkukurve abflacht (LiFePO4, AA).",
     "_human": true
   },
   "settings_battery_warn_header": {
@@ -3419,11 +3419,11 @@
     "_human": true
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Dein Node hat diesen Kanal als \"%1$s\" benannt, lokal heißt er aber \"%2$s\". Sie teilen denselben Verschlüsselungsschlüssel, also funktionieren Nachrichten weiterhin — wähle einen Namen zum Behalten.",
+    "value": "Dein Node hat diesen Kanal als \"%1$s\" benannt, lokal heißt er aber \"%2$s\". Sie teilen denselben Verschlüsselungsschlüssel, also funktionieren Nachrichten weiterhin. Wähle einen Namen zum Behalten.",
     "_human": true
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Sowohl deine lokale Liste als auch dein Node haben einen Kanal namens \"%1$s\", aber mit unterschiedlichen Verschlüsselungsschlüsseln. Nachrichten werden über sie hinweg nicht entschlüsselt — wähle, welcher Schlüssel der echte ist.",
+    "value": "Sowohl deine lokale Liste als auch dein Node haben einen Kanal namens \"%1$s\", aber mit unterschiedlichen Verschlüsselungsschlüsseln. Nachrichten werden über sie hinweg nicht entschlüsselt. Wähle, welcher Schlüssel der echte ist.",
     "_human": true
   },
   "settings_channel_conflicts_keep_both": {
@@ -3503,7 +3503,7 @@
     "_human": true
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Entfernt den Kanal und seinen Schlüssel aus der Datenbank. Dieser Kanal nutzt einen eigenen Schlüssel, daher kann er nicht aus dem Namen abgeleitet werden — das Entfernen ist endgültig, es sei denn, du importierst den Schlüssel erneut (z. B. per QR).",
+    "value": "Entfernt den Kanal und seinen Schlüssel aus der Datenbank. Dieser Kanal nutzt einen eigenen Schlüssel, daher kann er nicht aus dem Namen abgeleitet werden. Das Entfernen ist endgültig, es sei denn, du importierst den Schlüssel erneut (z. B. per QR).",
     "_human": true
   },
   "settings_channel_detail_dialog_delete_title": {
@@ -3511,7 +3511,7 @@
     "_human": true
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Blendet %1$s aus deiner Chat-Liste und den Kanal-Einstellungen aus. Du kannst es später wieder hinzufügen, indem du den Namen unter Einstellungen → Kanäle → Kanal per Name hinzufügen eingibst — der SHA-256-Schlüssel wird genauso abgeleitet.",
+    "value": "Blendet %1$s aus deiner Chat-Liste und den Kanal-Einstellungen aus. Du kannst es später wieder hinzufügen, indem du den Namen unter Einstellungen → Kanäle → Kanal per Name hinzufügen eingibst. Der SHA-256-Schlüssel wird genauso abgeleitet.",
     "_human": true
   },
   "settings_channel_detail_dialog_remove_title": {
@@ -3619,7 +3619,7 @@
     "_human": true
   },
   "settings_channels_add_error": {
-    "value": "Kanal konnte nicht hinzugefügt werden — er existiert möglicherweise bereits oder Name/Schlüssel ist ungültig.",
+    "value": "Kanal konnte nicht hinzugefügt werden: Er existiert möglicherweise bereits oder Name/Schlüssel ist ungültig.",
     "_human": true
   },
   "settings_channels_add_hint_key_hashtag": {
@@ -3627,11 +3627,11 @@
     "_human": true
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Nutzt den festen Schlüssel des Public-Kanals — kein Schlüssel nötig.",
+    "value": "Nutzt den festen Schlüssel des Public-Kanals, kein Schlüssel nötig.",
     "_human": true
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Schlüssel erforderlich — Kanäle mit eigenem Namen brauchen einen 32-Zeichen-Hex-Schlüssel.",
+    "value": "Schlüssel erforderlich: Kanäle mit eigenem Namen brauchen einen 32-Zeichen-Hex-Schlüssel.",
     "_human": true
   },
   "settings_channels_add_hint_name_empty": {
@@ -3687,7 +3687,7 @@
     "_human": true
   },
   "settings_channels_conflict_body": {
-    "value": "Dein Node und deine lokale Liste sind sich bei einem Kanal uneinig — wähle, welche Seite gewinnt.",
+    "value": "Dein Node und deine lokale Liste sind sich bei einem Kanal uneinig. Wähle, welche Seite gewinnt.",
     "_human": true
   },
   "settings_channels_conflict_count_many": {
@@ -3727,7 +3727,7 @@
     "_human": true
   },
   "settings_channels_hidden_footer": {
-    "value": "Schlüssel bleibt erhalten. Einblenden, um wieder zu empfangen — oder dauerhaft löschen.",
+    "value": "Schlüssel bleibt erhalten. Einblenden, um wieder zu empfangen, oder dauerhaft löschen.",
     "_human": true
   },
   "settings_channels_hidden_header": {
@@ -3791,7 +3791,7 @@
     "_human": true
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonyme Verbindung — funktioniert für Entwicklungs-Broker ohne Authentifizierung.",
+    "value": "Anonyme Verbindung: funktioniert für Entwicklungs-Broker ohne Authentifizierung.",
     "_human": true
   },
   "settings_community_auth_footer_password": {
@@ -3891,7 +3891,7 @@
     "_human": true
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT leitet nur weiter, solange du über Bluetooth mit deinem Gerät gekoppelt bist. Die Mesh-Identität deines Geräts wird nie hochgeladen — jeder Broker nutzt sein eigenes erzeugtes Schlüsselpaar. Observer-Namen beginnen immer mit „KiekR_“.",
+    "value": "MQTT leitet nur weiter, solange du über Bluetooth mit deinem Gerät gekoppelt bist. Die Mesh-Identität deines Geräts wird nie hochgeladen: Jeder Broker nutzt sein eigenes erzeugtes Schlüsselpaar. Observer-Namen beginnen immer mit „KiekR_“.",
     "_human": true
   },
   "settings_community_mqtt_header": {
@@ -3903,7 +3903,7 @@
     "_human": true
   },
   "settings_community_observer_footer": {
-    "value": "Der 3-Buchstaben-Flughafencode kennzeichnet deine Region auf der Analyzer-Seite (z. B. HAM, JFK, MUC). Der Observer-Name erscheint neben deinen Paketen — das Präfix „KiekR_“ ist fest.",
+    "value": "Der 3-Buchstaben-Flughafencode kennzeichnet deine Region auf der Analyzer-Seite (z. B. HAM, JFK, MUC). Der Observer-Name erscheint neben deinen Paketen. Das Präfix „KiekR_“ ist fest.",
     "_human": true
   },
   "settings_community_observer_header": {
@@ -3919,11 +3919,11 @@
     "_human": true
   },
   "settings_community_paused_on_cellular": {
-    "value": "Pausiert — im Mobilfunk",
+    "value": "Pausiert: im Mobilfunk",
     "_human": true
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Pausiert — im Mobilfunk · %1$d in Warteschlange",
+    "value": "Pausiert: im Mobilfunk · %1$d in Warteschlange",
     "_human": true
   },
   "settings_community_preset_custom_name": {
@@ -3963,7 +3963,7 @@
     "_human": true
   },
   "settings_community_privacy_dialog_body": {
-    "value": "Der MQTT-Upload leitet jedes rohe LoRa-Paket, das dein Gerät hört — auch verschlüsselte Bytes, die du selbst nicht lesen kannst — an den von dir konfigurierten Broker weiter. Standardmäßig aus; du schaltest ihn pro Broker ein. Jeder Broker nutzt sein eigenes erzeugtes Schlüsselpaar, damit die Mesh-Identität deines Geräts das Gerät nie verlässt.",
+    "value": "Der MQTT-Upload leitet jedes rohe LoRa-Paket, das dein Gerät hört (auch verschlüsselte Bytes, die du selbst nicht lesen kannst), an den von dir konfigurierten Broker weiter. Standardmäßig aus; du schaltest ihn pro Broker ein. Jeder Broker nutzt sein eigenes erzeugtes Schlüsselpaar, damit die Mesh-Identität deines Geräts das Gerät nie verlässt.",
     "_human": true
   },
   "settings_community_privacy_dialog_title": {
@@ -3979,7 +3979,7 @@
     "_human": true
   },
   "settings_community_region_map_footer": {
-    "value": "Wenn aktiviert, lädt KiekR jedes Repeater-Advert, das es über Funk empfängt, zu map.kiekr.app hoch — zusätzlich zu Regionen oder Nachbarlisten, die du von einem Repeater abrufst. Uploads sind pseudonym und nicht mit deiner KiekR-Identität verknüpft. So entsteht eine öffentliche Karte, die zeigt, wo welche Regionen genutzt werden. Nachrichten, Kontakte und dein Standort werden nie geteilt.",
+    "value": "Wenn aktiviert, lädt KiekR jedes Repeater-Advert, das es über Funk empfängt, zu map.kiekr.app hoch, zusätzlich zu Regionen oder Nachbarlisten, die du von einem Repeater abrufst. Uploads sind pseudonym und nicht mit deiner KiekR-Identität verknüpft. So entsteht eine öffentliche Karte, die zeigt, wo welche Regionen genutzt werden. Nachrichten, Kontakte und dein Standort werden nie geteilt.",
     "_human": true
   },
   "settings_community_region_map_header": {
@@ -3999,19 +3999,19 @@
     "_human": true
   },
   "settings_community_topic_debug_label": {
-    "value": "Topic — Debug",
+    "value": "Topic (Debug)",
     "_human": true
   },
   "settings_community_topic_packets_label": {
-    "value": "Topic — Pakete",
+    "value": "Topic (Pakete)",
     "_human": true
   },
   "settings_community_topic_raw_label": {
-    "value": "Topic — Roh",
+    "value": "Topic (Roh)",
     "_human": true
   },
   "settings_community_topic_status_label": {
-    "value": "Topic — Status",
+    "value": "Topic (Status)",
     "_human": true
   },
   "settings_community_transport_tcp": {
@@ -4171,7 +4171,7 @@
     "_human": true
   },
   "settings_directory_builtin_hint": {
-    "value": "Vorkonfigurierte Einträge können nicht umbenannt werden und ihre URL nicht geändert werden — schalte sie aus, wenn du sie nicht nutzen willst, oder füge eine neue Quelle hinzu.",
+    "value": "Vorkonfigurierte Einträge können nicht umbenannt werden und ihre URL nicht geändert werden. Schalte sie aus, wenn du sie nicht nutzen willst, oder füge eine neue Quelle hinzu.",
     "_human": true
   },
   "settings_directory_cache_footer": {
@@ -4255,7 +4255,7 @@
     "_human": true
   },
   "settings_directory_sources_footer": {
-    "value": "Abfragen durchlaufen jede aktivierte Quelle in Rangfolge; die erste Quelle, die einen Kandidaten liefert, gewinnt. api.kiekr.app ist datenschutzfreundlich (nur Tier-A-Repeater). Der Meshcorenetz Analyzer ist breiter — greift natürlich für Nodes, die das KiekR-Backend nicht hat. Mit den Auf-/Ab-Pfeilen neu ordnen; tippe auf den Stift, um die maximale Distanz pro Hop je Quelle zu bearbeiten.",
+    "value": "Abfragen durchlaufen jede aktivierte Quelle in Rangfolge; die erste Quelle, die einen Kandidaten liefert, gewinnt. api.kiekr.app ist datenschutzfreundlich (nur Tier-A-Repeater). Der Meshcorenetz Analyzer ist breiter und greift natürlich für Nodes, die das KiekR-Backend nicht hat. Mit den Auf-/Ab-Pfeilen neu ordnen; tippe auf den Stift, um die maximale Distanz pro Hop je Quelle zu bearbeiten.",
     "_human": true
   },
   "settings_directory_sources_header": {
@@ -4335,7 +4335,7 @@
     "_human": true
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— Diagnose-Kontext —",
+    "value": "Diagnose-Kontext:",
     "_human": true
   },
   "settings_help_logs_email_firmware": {
@@ -4351,7 +4351,7 @@
     "_human": true
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR-Android-Protokolle — %1$s %2$s — %3$s",
+    "value": "KiekR-Android-Protokolle, %1$s %2$s, %3$s",
     "_human": true
   },
   "settings_help_no_log": {
@@ -4503,7 +4503,7 @@
     "_human": true
   },
   "settings_notifications_dm_footer": {
-    "value": "Bei jeder eingehenden DM benachrichtigen. DMs sind kryptografisch authentifiziert — das Ausschalten unterdrückt nur die Benachrichtigung; die Nachricht erscheint trotzdem in deiner Chat-Liste.",
+    "value": "Bei jeder eingehenden DM benachrichtigen. DMs sind kryptografisch authentifiziert. Das Ausschalten unterdrückt nur die Benachrichtigung; die Nachricht erscheint trotzdem in deiner Chat-Liste.",
     "_human": true
   },
   "settings_notifications_dm_header": {
@@ -4551,7 +4551,7 @@
     "_human": true
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Dauerhafte Lernhilfe für Präfixkollisionen: Sobald der deterministische Picker einen Gewinner gewählt hat, wird das (Präfix, Hop, Pubkey) vorgemerkt, sodass das nächste Unentschieden beim gleichen Präfix gleich aufgelöst wird.\n\nCache-TTL — wie lange ein Eintrag überlebt, ohne erneut genutzt zu werden. Standard 30 Tage, Begrenzung 1..=180.\n\nTiebreaker-Marge — wie nah die Metriken zweier Kandidaten beieinander liegen müssen (in %%), bevor der Cache das Unentschieden auflöst. 0 deaktiviert den Cache-Fallback (nur exakte Unentschieden zählen); 20 ist die Obergrenze. Standard 5 %%.",
+    "value": "Dauerhafte Lernhilfe für Präfixkollisionen: Sobald der deterministische Picker einen Gewinner gewählt hat, wird das (Präfix, Hop, Pubkey) vorgemerkt, sodass das nächste Unentschieden beim gleichen Präfix gleich aufgelöst wird.\n\nCache-TTL: wie lange ein Eintrag überlebt, ohne erneut genutzt zu werden. Standard 30 Tage, Begrenzung 1..=180.\n\nTiebreaker-Marge: wie nah die Metriken zweier Kandidaten beieinander liegen müssen (in %%), bevor der Cache das Unentschieden auflöst. 0 deaktiviert den Cache-Fallback (nur exakte Unentschieden zählen); 20 ist die Obergrenze. Standard 5 %%.",
     "_human": true
   },
   "settings_pathlookup_cache_header": {
@@ -4595,11 +4595,11 @@
     "_human": true
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Mehr-Byte-Hops erfordern Companion-Firmware v1.15.0 oder neuer. Dein Companion meldet eine ältere Version — bis zum Upgrade auf 1 Byte gesperrt. Deine vorherige Einstellung bleibt erhalten und wird nach dem Upgrade reaktiviert.",
+    "value": "Mehr-Byte-Hops erfordern Companion-Firmware v1.15.0 oder neuer. Dein Companion meldet eine ältere Version: bis zum Upgrade auf 1 Byte gesperrt. Deine vorherige Einstellung bleibt erhalten und wird nach dem Upgrade reaktiviert.",
     "_human": true
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Bytes pro Hop, die an den Pfad neuer ausgehender Pakete angehängt werden. Höhere Werte reduzieren Namenskonflikte, werden aber möglicherweise nicht von älterer Repeater-Firmware weitergeleitet. Gelernte Pfade zu bekannten Kontakten behalten ihre empfangene Breite — diese Einstellung wirkt nur auf Flood- und Anon-Reply-Pfade. Empfohlen sind 3 Byte für eindeutige Pfade (2 geht auch); Werkseinstellung der Firmware ist 1.",
+    "value": "Bytes pro Hop, die an den Pfad neuer ausgehender Pakete angehängt werden. Höhere Werte reduzieren Namenskonflikte, werden aber möglicherweise nicht von älterer Repeater-Firmware weitergeleitet. Gelernte Pfade zu bekannten Kontakten behalten ihre empfangene Breite. Diese Einstellung wirkt nur auf Flood- und Anon-Reply-Pfade. Empfohlen sind 3 Byte für eindeutige Pfade (2 geht auch); Werkseinstellung der Firmware ist 1.",
     "_human": true
   },
   "settings_pathlookup_encoding_header": {
@@ -4627,7 +4627,7 @@
     "_human": true
   },
   "settings_region_discovery_directory_off": {
-    "value": "Online-Verzeichnis ist aus — aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
+    "value": "Online-Verzeichnis ist aus. Aktiviere eine Quelle unter Einstellungen → Teilen → Verzeichnis.",
     "_human": true
   },
   "settings_region_discovery_fetch_all": {
@@ -4883,7 +4883,7 @@
     "_human": true
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Region %1$s ist bereits in deiner Liste — wieder eingeblendet",
+    "value": "Region %1$s ist bereits in deiner Liste: wieder eingeblendet",
     "_human": true
   },
   "settings_regions_unhide": {
@@ -5007,7 +5007,7 @@
     "_human": true
   },
   "settings_tools_background_footer": {
-    "value": "Android pausiert die App-Netzwerknutzung bei ausgeschaltetem Bildschirm. Nimm KiekR von der Akkuoptimierung — und von den Autostart-Beschränkungen deines Herstellers — aus, damit die Companion-Verbindung im Hintergrund bestehen bleibt.",
+    "value": "Android pausiert die App-Netzwerknutzung bei ausgeschaltetem Bildschirm. Nimm KiekR von der Akkuoptimierung (und von den Autostart-Beschränkungen deines Herstellers) aus, damit die Companion-Verbindung im Hintergrund bestehen bleibt.",
     "_human": true
   },
   "settings_tools_background_header": {
@@ -5055,7 +5055,7 @@
     "_human": true
   },
   "settings_tools_neighbour_footer": {
-    "value": "Wiederholungen ist, wie viele zusätzliche Versuche core-lib pro GET_NEIGHBOURS-Seite macht, wenn die Firmware nicht innerhalb des Versuchsfensters antwortet — praktisch bei wackeligen BLE-/Funkverbindungen, wo eine Seite das Timeout erreicht. Das Fenster skaliert mit der Seitengröße, sodass dessen Erhöhung den zusätzlichen Versuchen die nötige Zeit gibt. Die Seitengröße selbst ist auf das Puffer-Limit der Firmware fixiert. Standard %1$d.",
+    "value": "Wiederholungen ist, wie viele zusätzliche Versuche core-lib pro GET_NEIGHBOURS-Seite macht, wenn die Firmware nicht innerhalb des Versuchsfensters antwortet, praktisch bei wackeligen BLE-/Funkverbindungen, wo eine Seite das Timeout erreicht. Das Fenster skaliert mit der Seitengröße, sodass dessen Erhöhung den zusätzlichen Versuchen die nötige Zeit gibt. Die Seitengröße selbst ist auf das Puffer-Limit der Firmware fixiert. Standard %1$d.",
     "_human": true
   },
   "settings_tools_neighbour_header": {
@@ -5095,7 +5095,7 @@
     "_human": true
   },
   "ui_connection_banner_disconnected": {
-    "value": "Kein Node verbunden — zum Koppeln tippen",
+    "value": "Kein Node verbunden: zum Koppeln tippen",
     "_human": true
   },
   "ui_connection_banner_pairing": {
@@ -5111,7 +5111,7 @@
     "_human": true
   },
   "ui_directory_notice_body": {
-    "value": "KiekR kann einen unbekannten Repeater anhand seines Hash über Online-Verzeichnisse nachschlagen — praktisch, wenn ein Pfad-Hop als bloßes Hex-Präfix erscheint. Es bleibt aus, bis du es unter Einstellungen → Teilen → Verzeichnis aktivierst.",
+    "value": "KiekR kann einen unbekannten Repeater anhand seines Hash über Online-Verzeichnisse nachschlagen (praktisch, wenn ein Pfad-Hop als bloßes Hex-Präfix erscheint). Es bleibt aus, bis du es unter Einstellungen → Teilen → Verzeichnis aktivierst.",
     "_human": true
   },
   "ui_directory_notice_title": {
@@ -5234,7 +5234,7 @@
     "_human": true
   },
   "nodes_detail_rate_limited": {
-    "value": "Ratenbegrenzt — %1$ds",
+    "value": "Ratenbegrenzt: %1$ds",
     "_human": true
   },
   "nodes_detail_cd_refresh_owner": {
@@ -5486,7 +5486,7 @@
     "_human": true
   },
   "path_anchor_live_fallback": {
-    "value": "Auf deinem aktuellen Standort verankert – für diese Nachricht wurde keine Position gespeichert.",
+    "value": "Auf deinem aktuellen Standort verankert: Für diese Nachricht wurde keine Position gespeichert.",
     "_human": true
   },
   "password_show": {
@@ -5530,7 +5530,7 @@
     "_human": true
   },
   "settings_blocklist_empty_body": {
-    "value": "Tippe lange auf eine Nachricht in einem Channel und wähle „Blockieren\", um alle Nachrichten dieses Absenders auszublenden. Channel-Absendernamen sind nicht authentifiziert — blockiert wird nur nach Name.",
+    "value": "Tippe lange auf eine Nachricht in einem Channel und wähle „Blockieren“, um alle Nachrichten dieses Absenders auszublenden. Channel-Absendernamen sind nicht authentifiziert: Blockiert wird nur nach Name.",
     "_human": true
   },
   "settings_blocklist_section_header": {
@@ -5538,7 +5538,7 @@
     "_human": true
   },
   "settings_blocklist_section_footer": {
-    "value": "Zum Entsperren auf das Papierkorb-Symbol tippen. Frühere Nachrichten erscheinen dann wieder in allen Channels. Blockiert wird exakt der angezeigte Name — den kann jeder wählen, das hält einen hartnäckigen Absender also nicht vom Umbenennen ab.",
+    "value": "Zum Entsperren auf das Papierkorb-Symbol tippen. Frühere Nachrichten erscheinen dann wieder in allen Channels. Blockiert wird exakt der angezeigte Name. Den kann jeder wählen, das hält einen hartnäckigen Absender also nicht vom Umbenennen ab.",
     "_human": true
   },
   "clock_reply_local_label": {
@@ -5566,7 +5566,7 @@
     "_human": true
   },
   "settings_community_coverage_footer": {
-    "value": "Wenn aktiv, erfasst KiekR, welche Regionen (und, wo möglich, welche Repeater) es in einer groben Kartenzelle von etwa einem halben Kilometer hört, und lädt die Summen pro Zelle regelmäßig über WLAN hoch. Deine genaue Position verlässt das Telefon nie — nur die Zelle — und die Karte zeigt immer nur, was dort gehört wurde, nie wer es gehört hat. Pseudonym und getrennt von deiner KiekR-Identität; jederzeit abschaltbar.",
+    "value": "Wenn aktiv, erfasst KiekR, welche Regionen (und, wo möglich, welche Repeater) es in einer groben Kartenzelle von etwa einem halben Kilometer hört, und lädt die Summen pro Zelle regelmäßig über WLAN hoch. Deine genaue Position verlässt das Telefon nie (nur die Zelle), und die Karte zeigt immer nur, was dort gehört wurde, nie wer es gehört hat. Pseudonym und getrennt von deiner KiekR-Identität; jederzeit abschaltbar.",
     "_human": true
   },
   "settings_community_coverage_interval": {
@@ -5582,7 +5582,7 @@
     "_human": true
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Coverage braucht den genauen Standort, um Gehörtes der richtigen Kartenzelle zuzuordnen. Erlaube KiekR den genauen Standort — sonst sammelt Coverage auf diesem Telefon nichts.",
+    "value": "Coverage braucht den genauen Standort, um Gehörtes der richtigen Kartenzelle zuzuordnen. Erlaube KiekR den genauen Standort, sonst sammelt Coverage auf diesem Telefon nichts.",
     "_human": true
   },
   "settings_community_coverage_open_settings": {
@@ -5690,7 +5690,7 @@
     "_human": true
   },
   "traceroute_reachability_hint": {
-    "value": "Der erste Repeater muss dich hören und du musst die Antwort des letzten hören — wähle einen erreichbaren Pfad.",
+    "value": "Der erste Repeater muss dich hören und du musst die Antwort des letzten hören. Wähle einen erreichbaren Pfad.",
     "_human": true
   },
   "traceroute_run": {
@@ -5706,7 +5706,7 @@
     "_human": true
   },
   "traceroute_no_response": {
-    "value": "Keine Antwort — der Pfad ist möglicherweise nicht erreichbar.",
+    "value": "Keine Antwort: Der Pfad ist möglicherweise nicht erreichbar.",
     "_human": true
   },
   "tools_diagnostics": {
@@ -5746,7 +5746,7 @@
     "_human": true
   },
   "chat_compose_gate_no_node": {
-    "value": "Kein Knoten verbunden — verbinde einen Begleiter, um zu senden.",
+    "value": "Kein Knoten verbunden. Verbinde einen Companion, um zu senden.",
     "_human": true
   },
   "chat_compose_gate_identity": {
@@ -5802,11 +5802,11 @@
     "_human": true
   },
   "live_traffic_empty_desc": {
-    "value": "Jedes Paket, das dein Knoten hört, erscheint hier — nichts wird herausgefiltert.",
+    "value": "Jedes Paket, das dein Knoten hört, erscheint hier. Nichts wird herausgefiltert.",
     "_human": true
   },
   "live_traffic_footer": {
-    "value": "Ungefiltert — dekodierte, fremd-verschlüsselte, unbekannte und kaputte Pakete erscheinen alle.",
+    "value": "Ungefiltert: dekodierte, fremd-verschlüsselte, unbekannte und kaputte Pakete erscheinen alle.",
     "_human": true
   },
   "live_traffic_pause": {
@@ -5826,7 +5826,7 @@
     "_human": true
   },
   "live_traffic_hero_sub": {
-    "value": "zeigt jedes empfangene Paket — auch Unlesbares",
+    "value": "zeigt jedes empfangene Paket, auch Unlesbares",
     "_human": true
   },
   "live_traffic_total": {
@@ -5882,7 +5882,7 @@
     "_human": true
   },
   "live_traffic_foreign_hint": {
-    "value": "verschlüsselt — nicht für dieses Gerät",
+    "value": "verschlüsselt, nicht für dieses Gerät",
     "_human": true
   },
   "live_traffic_noise": {
@@ -5914,7 +5914,7 @@
     "_human": true
   },
   "chat_retry_duplicate_body": {
-    "value": "Dein Node hat diese Nachricht bereits gefunkt. Es kam keine Bestätigung zurück, aber Empfänger in Reichweite können sie trotzdem erhalten haben — erneutes Senden zeigt sie ihnen doppelt.",
+    "value": "Dein Node hat diese Nachricht bereits gefunkt. Es kam keine Bestätigung zurück, aber Empfänger in Reichweite können sie trotzdem erhalten haben. Erneutes Senden zeigt sie ihnen doppelt.",
     "_human": true
   },
   "add_channel_generate_key": {
@@ -5974,11 +5974,11 @@
     "_human": true
   },
   "settings_backup_import_done_v2": {
-    "value": "Import fertig — %1$d Identität, %2$d Channels, %3$d Regionen, %4$d Kontakte, %5$d Repeater-Logins, %6$d Favoriten, %7$d blockierte Absender, %8$d Einstellungen.",
+    "value": "Import fertig: %1$d Identität, %2$d Channels, %3$d Regionen, %4$d Kontakte, %5$d Repeater-Logins, %6$d Favoriten, %7$d blockierte Absender, %8$d Einstellungen.",
     "_human": true
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Backup stammt von einer neueren App-Version (Schema %1$s) — bestmöglich übernommen.",
+    "value": "Backup stammt von einer neueren App-Version (Schema %1$s), bestmöglich übernommen.",
     "_human": true
   },
   "settings_backup_warn_identity_refused": {
@@ -6006,7 +6006,7 @@
     "_human": true
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d Hops",
+    "value": "%1$d-%2$d Hops",
     "_human": true
   },
   "chat_heard_n_times_a11y": {
@@ -6034,7 +6034,7 @@
     "_human": true
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Die Zählung ist eine Untergrenze — bei viel Verkehr können Kopien verloren gehen, bevor sie die App erreichen.",
+    "value": "Die Zählung ist eine Untergrenze: Bei viel Verkehr können Kopien verloren gehen, bevor sie die App erreichen.",
     "_human": true
   },
   "chat_detail_time": {
@@ -6106,7 +6106,7 @@
     "_human": true
   },
   "app_safemode_reset_hint": {
-    "value": "Bitte teile zuerst das Log — das Zurücksetzen löscht genau die Daten, die wir zur Diagnose brauchen.",
+    "value": "Bitte teile zuerst das Log: Das Zurücksetzen löscht genau die Daten, die wir zur Diagnose brauchen.",
     "_human": true
   },
   "app_safemode_reset_done": {
@@ -6122,7 +6122,7 @@
     "_human": true
   },
   "settings_diag_footer": {
-    "value": "Standardmäßig aus. Eingeschaltet lädt KiekR die Absturz-, Einfrier- und CPU-Berichte, die iOS bereitstellt, zu api.kiekr.app hoch: App-Version, iOS-Version, Gerätemodell, die Fehlercodes des Systems und den Aufrufstapel. Keine Nachrichten, Kontakte, Schlüssel oder Standorte — und es ist der einzige Weg, auf dem ein Fehler auf deinem Telefon je beim Entwickler ankommt.",
+    "value": "Standardmäßig aus. Eingeschaltet lädt KiekR die Absturz-, Einfrier- und CPU-Berichte, die iOS bereitstellt, zu api.kiekr.app hoch: App-Version, iOS-Version, Gerätemodell, die Fehlercodes des Systems und den Aufrufstapel. Keine Nachrichten, Kontakte, Schlüssel oder Standorte. Es ist der einzige Weg, auf dem ein Fehler auf deinem Telefon je beim Entwickler ankommt.",
     "_human": true
   },
   "repeater_cli_get_flood_max_unscoped": {
@@ -6266,7 +6266,7 @@
     "_human": true
   },
   "nodes_cli_no_reply": {
-    "value": "Befehl gesendet — dieser Befehl antwortet nicht.",
+    "value": "Befehl gesendet. Dieser Befehl antwortet nicht.",
     "_human": true
   },
   "mynode_state_battery": {
@@ -6334,7 +6334,7 @@
     "_human": true
   },
   "mynode_advert_share_hint": {
-    "value": "Sendet die Position dieses Knotens im Advert ans ganze Mesh — aus GPS (falls aktiv) oder einer festen Position, die du unten setzt.",
+    "value": "Sendet die Position dieses Knotens im Advert ans ganze Mesh: aus GPS (falls aktiv) oder einer festen Position, die du unten setzt.",
     "_human": true
   },
   "mynode_advert_shared_position": {
@@ -6454,7 +6454,7 @@
     "_human": true
   },
   "settings_community_coverage_bg_hint": {
-    "value": "Abdeckung auch sammeln, wenn KiekR in der Tasche ist — nur mit der Position, die dein Handy ohnehin kennt, ohne zusätzliches GPS. Dafür ist Standortzugriff im Hintergrund nötig.",
+    "value": "Abdeckung auch sammeln, wenn KiekR in der Tasche ist: nur mit der Position, die dein Handy ohnehin kennt, ohne zusätzliches GPS. Dafür ist Standortzugriff im Hintergrund nötig.",
     "_human": true
   },
   "settings_community_coverage_bg_allow": {
@@ -6486,7 +6486,7 @@
     "_human": true
   },
   "repeater_login_cta_hint": {
-    "value": "Oben rechts anmelden — als Gast für Statistik, Nachbarn, Telemetrie & Firmware; als Admin für Konfiguration, Regionen & Konsole.",
+    "value": "Oben rechts anmelden: als Gast für Statistik, Nachbarn, Telemetrie & Firmware; als Admin für Konfiguration, Regionen & Konsole.",
     "_human": true
   },
   "repeater_benefit_admin": {
@@ -6690,7 +6690,7 @@
     "_human": true
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pakete, die die Funkschicht nicht sauber lesen konnte — steigt bei Störung oder schwachem Empfang.",
+    "value": "Pakete, die die Funkschicht nicht sauber lesen konnte. Steigt bei Störung oder schwachem Empfang.",
     "_human": true
   },
   "repeater_stat_error_events_hint": {
@@ -6898,7 +6898,7 @@
     "_human": true
   },
   "settings_community_mapme_footer": {
-    "value": "Wenn aktiviert, teilt KiekR mit mapme.sh — einer Community-Abdeckungskarte — in welchen Karten-Zellen Mesh-Abdeckung besteht. Jedes Sample enthält die Karten-Zelle, Signalstärke und Hop-Pfad, aber nie deine exakte Position oder Identität. Uploads folgen deinen Einstellungen für WLAN-only und Upload-Intervall.",
+    "value": "Wenn aktiviert, teilt KiekR mit mapme.sh (einer Community-Abdeckungskarte), in welchen Karten-Zellen Mesh-Abdeckung besteht. Jedes Sample enthält die Karten-Zelle, Signalstärke und Hop-Pfad, aber nie deine exakte Position oder Identität. Uploads folgen deinen Einstellungen für WLAN-only und Upload-Intervall.",
     "_human": true
   },
   "settings_community_mapme_toggle": {
@@ -7093,22 +7093,22 @@
     "value": "Berechtigung setzen",
     "_human": true
   },
-  "map_path_no_gps_hint": "Keine GPS-Ortung – Online-Verzeichnis-Hops können möglicherweise nicht auf der Karte angezeigt werden. Aktivieren Sie den Standortzugriff für die vollständige Pfadauflösung.",
+  "map_path_no_gps_hint": "Keine GPS-Ortung: Online-Verzeichnis-Hops können möglicherweise nicht auf der Karte angezeigt werden. Aktiviere den Standortzugriff für die vollständige Pfadauflösung.",
   "mynode_import_identity_dialog_body": "Geben Sie einen 32-Byte-Seed (64 Hex-Zeichen) oder einen 64-Byte-erweiterten privaten Schlüssel (128 Hex-Zeichen) aus einem Backup ein. Der abgeleitete öffentliche Schlüssel wird vor dem Speichern unten angezeigt.",
   "mynode_import_identity_dialog_title": "Privaten Schlüssel importieren",
-  "mynode_import_identity_footer": "Füge einen 64- oder 128-stelligen Hex-Privatschlüssel ein, um eine gesicherte Identität wiederherzustellen – lokal gespeichert und an den verbundenen Companion übertragen. Über Export wird der Schlüssel dieses Knotens angezeigt, sodass du ihn sichern kannst.",
+  "mynode_import_identity_footer": "Füge einen 64- oder 128-stelligen Hex-Privatschlüssel ein, um eine gesicherte Identität wiederherzustellen. Er wird lokal gespeichert und an den verbundenen Companion übertragen. Über Export wird der Schlüssel dieses Knotens angezeigt, sodass du ihn sichern kannst.",
   "mynode_import_identity_row_subtitle": "Hexadezimalen Schlüssel aus Sicherung einfügen",
   "mynode_import_identity_row_title": "Privaten Schlüssel importieren",
   "mynode_import_load_from_file": "Aus Sicherungsdatei laden…",
   "settings_directory_cd_delete": "Quelle löschen",
   "settings_directory_custom_sources_footer": "Manuell hinzugefügte CoreScope-Instanzen. Die URL wird vor dem Speichern überprüft; durch Löschen wird die Quelle entfernt.",
   "settings_directory_custom_sources_header": "Weitere Quellen",
-  "settings_directory_fixed_default_hint": "Feste Standardquelle – der Endpunkt und andere Einstellungen sind fest vorgegeben; Sie können sie hier umbenennen.",
+  "settings_directory_fixed_default_hint": "Feste Standardquelle: Der Endpunkt und andere Einstellungen sind fest vorgegeben; du kannst sie hier umbenennen.",
   "settings_directory_fixed_sources_header": "Feste Quellen",
   "settings_directory_id_label": "ID",
   "settings_directory_url_probe_checking": "URL wird überprüft…",
   "settings_directory_url_probe_fail": "Diese URL hat nicht als CoreScope-Verzeichnis geantwortet",
-  "settings_directory_url_probe_ok": "Server hat geantwortet – URL ist gültig",
+  "settings_directory_url_probe_ok": "Server hat geantwortet: URL ist gültig",
   "mynode_export_identity_row_title": {
     "value": "Privaten Schlüssel exportieren",
     "_human": true
@@ -7138,7 +7138,7 @@
     "_human": true
   },
   "mynode_export_warning": {
-    "value": "Das ist der geheime Identitätsschlüssel deines Knotens — wer ihn hat, kann sich als dein Knoten ausgeben. Sicher aufbewahren und niemals teilen.",
+    "value": "Das ist der geheime Identitätsschlüssel deines Knotens: Wer ihn hat, kann sich als dein Knoten ausgeben. Sicher aufbewahren und niemals teilen.",
     "_human": true
   },
   "mynode_connecting_stop": {
@@ -7197,7 +7197,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Wenn diese Option aktiviert ist, führt KiekR möglicherweise automatisch Verzeichnisabfragen für fehlende Kontextdaten durch, die die App passiv erkennt – unbekannte Hops in einem Pfad, empfangene Repeater, die noch nicht im Verzeichnis enthalten sind, fehlende Nachbarzeilen und fehlende Regionen bei einer Erkennung. Wenn diese Option deaktiviert ist (Standardeinstellung), erfordert jede Verzeichnisabfrage einen Fingertipp.",
+    "value": "Wenn diese Option aktiviert ist, führt KiekR möglicherweise automatisch Verzeichnisabfragen für fehlende Kontextdaten durch, die die App passiv erkennt: unbekannte Hops in einem Pfad, empfangene Repeater, die noch nicht im Verzeichnis enthalten sind, fehlende Nachbarzeilen und fehlende Regionen bei einer Erkennung. Wenn diese Option deaktiviert ist (Standardeinstellung), erfordert jede Verzeichnisabfrage einen Fingertipp.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7227,7 +7227,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Abfragen erfolgen ausschließlich im KiekR-Verzeichnis – niemals bei einem Drittanbieter-Host. Cache-Lesevorgänge bleiben kostenlos; dieser Schalter regelt die Netzwerk-Hälfte.",
+    "value": "Abfragen erfolgen ausschließlich im KiekR-Verzeichnis, niemals bei einem Drittanbieter-Host. Cache-Lesevorgänge bleiben kostenlos; dieser Schalter regelt die Netzwerk-Hälfte.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7262,7 +7262,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Dies ist NICHT deine BLE-Kopplungs-PIN und auch NICHT deine Identitäts-Passphrase. Sie schützt ausschließlich diese Sicherungsdatei. Wähle etwas, das Sie sich gut merken können – KiekR kann sie nicht für dich wiederherstellen.",
+    "value": "Dies ist NICHT deine BLE-Kopplungs-PIN und auch NICHT deine Identitäts-Passphrase. Sie schützt ausschließlich diese Sicherungsdatei. Wähle etwas, das du dir gut merken kannst. KiekR kann sie nicht für dich wiederherstellen.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7357,7 +7357,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Benachrichtigung, wenn der Prozentsatz des verbundenen Geräts auf den Warnwert fällt. Die Wiederaktivierungslücke gibt an, um wie viel Prozent der Wert wieder über den Schwellenwert steigen muss, bevor die nächste Warnung ausgelöst werden kann – vergrößere sie, wenn deine Akkukurve ein Plateau erreicht (LiFePO4, AA).",
+    "value": "Benachrichtigung, wenn der Prozentsatz des verbundenen Geräts auf den Warnwert fällt. Die Wiederaktivierungslücke gibt an, um wie viel Prozent der Wert wieder über den Schwellenwert steigen muss, bevor die nächste Warnung ausgelöst werden kann. Vergrößere sie, wenn deine Akkukurve ein Plateau erreicht (LiFePO4, AA).",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7417,7 +7417,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Wischen, um die Sperre aufzuheben. Die bisherigen Nachrichten der Person erscheinen nach Aufhebung der Sperre wieder in allen Kanälen. Die Sperre erfolgt anhand des genau angezeigten Namens – da jeder diesen Namen wählen kann, hindert dies einen entschlossenen Poster nicht daran, den Namen zu ändern.",
+    "value": "Wischen, um die Sperre aufzuheben. Die bisherigen Nachrichten der Person erscheinen nach Aufhebung der Sperre wieder in allen Kanälen. Die Sperre erfolgt anhand des genau angezeigten Namens. Da jeder diesen Namen wählen kann, hindert dies einen entschlossenen Poster nicht daran, den Namen zu ändern.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7427,12 +7427,12 @@
     "_seeded": "2026-08-12"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Mit einem Standardknoten verbunden – es können nur Kanäle senden, die auf dem Gerät installiert sind. Wische nach rechts, um einen Kanal zum Gerät hinzuzufügen oder daraus zu entfernen. Wische nach links, um einen Kanal zu entfernen – #-Kanäle behalten ihren Schlüssel, sodass du sie anhand des Namens wieder hinzufügen kannst; Kanäle mit benutzerdefiniertem Schlüssel werden dauerhaft gelöscht.",
+    "value": "Mit einem Standardknoten verbunden: Es können nur Kanäle senden, die auf dem Gerät installiert sind. Wische nach rechts, um einen Kanal zum Gerät hinzuzufügen oder daraus zu entfernen. Wische nach links, um einen Kanal zu entfernen: #-Kanäle behalten ihren Schlüssel, sodass du sie anhand des Namens wieder hinzufügen kannst; Kanäle mit benutzerdefiniertem Schlüssel werden dauerhaft gelöscht.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanälen muss eine Region zugewiesen werden, damit sie in den meisten Netzwerken wiederholt werden können. Tippe auf einen Kanal, um ihn zuzuweisen. Wische nach links, um ihn zu entfernen – #-Kanäle behalten ihren Schlüssel, sodass du sie anhand des Namens wieder hinzufügen kannst; Kanäle mit benutzerdefiniertem Schlüssel werden dauerhaft gelöscht.",
+    "value": "Kanälen muss eine Region zugewiesen werden, damit sie in den meisten Netzwerken wiederholt werden können. Tippe auf einen Kanal, um ihn zuzuweisen. Wische nach links, um ihn zu entfernen: #-Kanäle behalten ihren Schlüssel, sodass du sie anhand des Namens wieder hinzufügen kannst; Kanäle mit benutzerdefiniertem Schlüssel werden dauerhaft gelöscht.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7552,7 +7552,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Gastzugang – nur lesbar",
+    "value": "Gastzugang (nur lesbar)",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7632,17 +7632,17 @@
     "_seeded": "2026-08-12"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Das Online-Verzeichnis ist deaktiviert – aktiviere eine Quelle unter „Einstellungen“ → „Freigabe“ → „Verzeichnis“.",
+    "value": "Das Online-Verzeichnis ist deaktiviert. Aktiviere eine Quelle unter „Einstellungen“ → „Freigabe“ → „Verzeichnis“.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Mehrere Repeater stimmen mit dem Kurzpfadpräfix dieses Hops überein. Wir können den richtigen nicht automatisch auswählen – wähle den aus, der auf deinem Weg lag.",
+    "value": "Mehrere Repeater stimmen mit dem Kurzpfadpräfix dieses Hops überein. Wir können den richtigen nicht automatisch auswählen. Wähle den aus, der auf deinem Weg lag.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Es sind noch keine Hex-Werte zugeordnet – fahre mit eingeschaltetem Funkgerät herum, dann werden sie hier angezeigt.",
+    "value": "Noch keine Hexagons kartiert. Fahre mit eingeschaltetem Funkgerät herum, dann erscheinen sie hier.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7742,7 +7742,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Angehalten – über Mobilfunk",
+    "value": "Angehalten: über Mobilfunk",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7812,22 +7812,22 @@
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Thema – Pakete",
+    "value": "Topic (Pakete)",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_status": {
-    "value": "Thema – Status",
+    "value": "Topic (Status)",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Thema – Debug",
+    "value": "Topic (Debug)",
     "_human": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Thema – Raw",
+    "value": "Topic (Roh)",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -7931,7 +7931,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Speichert die Identität lokal. Wenn der Schlüssel auf einem Seed basiert und ein Companion verbunden ist, wird der Seed ebenfalls über CMD_IMPORT_PRIVATE_KEY auf das Gerät übertragen – dies überschreibt die aktuelle Identität des Geräts.",
+    "value": "Speichert die Identität lokal. Wenn der Schlüssel auf einem Seed basiert und ein Companion verbunden ist, wird der Seed ebenfalls über CMD_IMPORT_PRIVATE_KEY auf das Gerät übertragen. Dies überschreibt die aktuelle Identität des Geräts.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8076,7 +8076,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Zeitabweichung des Absenders – unter Verwendung der lokalen Empfangszeit",
+    "value": "Zeitabweichung des Absenders: lokale Empfangszeit verwendet",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8213,7 +8213,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Das Passwort ist auf 15 Zeichen begrenzt – alles, was länger ist, wird beim Einloggen abgeschnitten.",
+    "value": "Das Passwort ist auf 15 Zeichen begrenzt. Alles, was länger ist, wird beim Einloggen abgeschnitten.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8237,7 +8237,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Bei jeder eingehenden Direktnachricht benachrichtigen. Direktnachrichten werden kryptografisch authentifiziert – das Deaktivieren dieser Option unterdrückt lediglich die Benachrichtigung; die Nachricht erscheint weiterhin in deiner Chat-Liste.",
+    "value": "Bei jeder eingehenden Direktnachricht benachrichtigen. Direktnachrichten werden kryptografisch authentifiziert. Das Deaktivieren dieser Option unterdrückt lediglich die Benachrichtigung; die Nachricht erscheint weiterhin in deiner Chat-Liste.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8285,7 +8285,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Für Multi-Byte-Hops ist die Companion-Firmware v1.15.0 oder neuer erforderlich. Dein Companion meldet eine ältere Version – bis zum Upgrade ist die Übertragung auf 1 Byte beschränkt. Deine bisherigen Einstellungen bleiben erhalten und werden nach dem Upgrade wieder aktiviert.",
+    "value": "Für Multi-Byte-Hops ist die Companion-Firmware v1.15.0 oder neuer erforderlich. Dein Companion meldet eine ältere Version: Bis zum Upgrade ist die Übertragung auf 1 Byte beschränkt. Deine bisherigen Einstellungen bleiben erhalten und werden nach dem Upgrade wieder aktiviert.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8315,7 +8315,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Wische über eine Region, um sie zu entfernen. Sie bleibt in der Datenbank erhalten (und kommentiert weiterhin den eingehenden Datenverkehr), verschwindet jedoch aus dieser Liste und aus den Kanalauswahlen – füge sie erneut anhand des Namens hinzu, um sie wiederherzustellen.",
+    "value": "Wische über eine Region, um sie zu entfernen. Sie bleibt in der Datenbank erhalten (und kommentiert weiterhin den eingehenden Datenverkehr), verschwindet jedoch aus dieser Liste und aus den Kanalauswahlen. Füge sie erneut anhand des Namens hinzu, um sie wiederherzustellen.",
     "_human": true,
     "_seeded": "2026-08-12"
   },
@@ -8509,7 +8509,7 @@
     "_human": true
   },
   "repeater_err_not_connected": {
-    "value": "Nicht mit einem Companion-Gerät verbunden — verbinde zuerst einen Knoten.",
+    "value": "Nicht mit einem Companion-Gerät verbunden. Verbinde zuerst einen Knoten.",
     "_human": true
   },
   "channels_notify_off": {
@@ -8529,7 +8529,7 @@
     "_human": true
   },
   "backup_restore_hint": {
-    "value": "Aus einer `.json`- oder `.mcbackup`-Datei wiederherstellen. Importe ersetzen standardmäßig — deine vorhandenen Kanäle, Kontakte und Regionen werden gelöscht, dann wird das Bündel eingefügt. Halte Bestätigen 5 Sekunden gedrückt.",
+    "value": "Aus einer `.json`- oder `.mcbackup`-Datei wiederherstellen. Importe ersetzen standardmäßig: Deine vorhandenen Kanäle, Kontakte und Regionen werden gelöscht, dann wird das Bündel eingefügt. Halte Bestätigen 5 Sekunden gedrückt.",
     "_human": true
   },
   "conversation_syncing_posts": {
@@ -8609,15 +8609,15 @@
     "_human": true
   },
   "reach_state_none": {
-    "value": "Noch kein Observer hat sie gehört — das heißt nie, dass das Senden fehlschlug.",
+    "value": "Noch kein Observer hat sie gehört. Das heißt nie, dass das Senden fehlschlug.",
     "_human": true
   },
   "reach_state_local": {
-    "value": "Bisher in einer Observer-Region gehört — vermutlich nur die Umgebung.",
+    "value": "Bisher in einer Observer-Region gehört, vermutlich nur die Umgebung.",
     "_human": true
   },
   "reach_state_mesh": {
-    "value": "In %1$d Regionen gehört — das Mesh hat die Nachricht getragen.",
+    "value": "In %1$d Regionen gehört: Das Mesh hat die Nachricht getragen.",
     "_human": true
   },
   "reach_checked_label": {
@@ -8629,7 +8629,7 @@
     "_human": true
   },
   "reach_error": {
-    "value": "Prüfung fehlgeschlagen — bitte später erneut.",
+    "value": "Prüfung fehlgeschlagen. Bitte später erneut.",
     "_human": true
   },
   "reach_state_one_observer": {
@@ -8637,7 +8637,7 @@
     "_human": true
   },
   "reach_state_observers": {
-    "value": "Von %1$d Observern gehört — das Mesh hat die Nachricht getragen.",
+    "value": "Von %1$d Observern gehört: Das Mesh hat die Nachricht getragen.",
     "_human": true
   },
   "reach_state_no_data": {
@@ -8645,7 +8645,7 @@
     "_human": true
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Dieser Node fügt derzeit jeden Advert-Typ automatisch hinzu („Auto add all“) — die Filter unten wirken nicht. Möglicherweise hat eine andere App das umgestellt.",
+    "value": "Dieser Node fügt derzeit jeden Advert-Typ automatisch hinzu („Auto add all“). Die Filter unten wirken nicht. Möglicherweise hat eine andere App das umgestellt.",
     "_human": true
   },
   "settings_autoadd_master_off_apply": {
@@ -8661,7 +8661,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Nicht gesendet — nicht auf deinem Node installiert",
+    "value": "Nicht gesendet: nicht auf deinem Node installiert",
     "_human": true
   },
   "notif_reply_failed": {
@@ -8681,7 +8681,7 @@
     "_human": true
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Kartiert auch Hexagons ohne empfangenen Funk — nutzt GPS und mehr Akku.",
+    "value": "Kartiert auch Hexagons ohne empfangenen Funk. Nutzt GPS und mehr Akku.",
     "_human": true
   },
   "mynode_tx_power_header": {
@@ -8717,7 +8717,7 @@
     "_human": true
   },
   "device_contact_table_full": {
-    "value": "Die Kontaktliste dieses Knotens ist voll — er kann keine neuen Kontakte mehr aufnehmen. Lösche welche, um Platz zu schaffen.",
+    "value": "Die Kontaktliste dieses Knotens ist voll: Er kann keine neuen Kontakte mehr aufnehmen. Lösche welche, um Platz zu schaffen.",
     "_human": true
   },
   "settings_coverage_bg_status_label": {
@@ -8725,15 +8725,15 @@
     "_human": true
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pausiert — Standortzugriff nur „Bei Verwendung der App“",
+    "value": "Pausiert: Standortzugriff nur „Bei Verwendung der App“",
     "_human": true
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pausiert — Standort-Sitzung gestoppt",
+    "value": "Pausiert: Standort-Sitzung gestoppt",
     "_human": true
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Ohne „Immer“ sammelt Coverage nur, solange KiekR geöffnet ist — iOS pausiert die Standort-Sitzung, sobald die App in den Hintergrund geht. Mit „Immer“ sammelt KiekR weiter in deiner Tasche, nur mit der Position, die dein Handy ohnehin kennt, ohne zusätzliches GPS.",
+    "value": "Ohne „Immer“ sammelt Coverage nur, solange KiekR geöffnet ist. iOS pausiert die Standort-Sitzung, sobald die App in den Hintergrund geht. Mit „Immer“ sammelt KiekR weiter in deiner Tasche, nur mit der Position, die dein Handy ohnehin kennt, ohne zusätzliches GPS.",
     "_human": true
   },
   "rules_title": {
@@ -8807,11 +8807,11 @@
     "_human": true
   },
   "ios_channels_soft_remove_body": {
-    "value": "Entfernt %@ aus deiner Chat-Liste und den Kanaleinstellungen. Du kannst ihn später wieder hinzufügen, indem du den Namen unter Einstellungen → Kanäle → Kanal nach Namen hinzufügen eingibst — der SHA-256-Schlüssel wird auf die gleiche Weise abgeleitet.",
+    "value": "Entfernt %@ aus deiner Chat-Liste und den Kanaleinstellungen. Du kannst ihn später wieder hinzufügen, indem du den Namen unter Einstellungen → Kanäle → Kanal nach Namen hinzufügen eingibst. Der SHA-256-Schlüssel wird auf die gleiche Weise abgeleitet.",
     "_human": true
   },
   "ios_channels_hard_delete_body": {
-    "value": "%@ löschen? Das ist endgültig — der Schlüssel kann nicht erneut aus dem Namen abgeleitet werden.",
+    "value": "%@ löschen? Das ist endgültig: Der Schlüssel kann nicht erneut aus dem Namen abgeleitet werden.",
     "_human": true
   },
   "ios_channels_slot_tag": {
@@ -8847,7 +8847,7 @@
     "_human": true
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Dauerhafte Lernhilfe für Präfixkollisionen: Sobald der deterministische Picker einen Gewinner gewählt hat, wird das (Präfix, Hop, Pubkey) vorgemerkt, sodass das nächste Unentschieden beim gleichen Präfix gleich aufgelöst wird.\n\nCache-TTL — wie lange ein Eintrag überlebt, ohne erneut genutzt zu werden. Standard 30 Tage, Begrenzung 1..=180.\n\nTiebreaker-Marge — wie nah die Metriken zweier Kandidaten beieinander liegen müssen (in %), bevor der Cache das Unentschieden auflöst. 0 deaktiviert den Cache-Fallback (nur exakte Unentschieden zählen); 20 ist die Obergrenze. Standard 5 %.",
+    "value": "Dauerhafte Lernhilfe für Präfixkollisionen: Sobald der deterministische Picker einen Gewinner gewählt hat, wird das (Präfix, Hop, Pubkey) vorgemerkt, sodass das nächste Unentschieden beim gleichen Präfix gleich aufgelöst wird.\n\nCache-TTL: wie lange ein Eintrag überlebt, ohne erneut genutzt zu werden. Standard 30 Tage, Begrenzung 1..=180.\n\nTiebreaker-Marge: wie nah die Metriken zweier Kandidaten beieinander liegen müssen (in %), bevor der Cache das Unentschieden auflöst. 0 deaktiviert den Cache-Fallback (nur exakte Unentschieden zählen); 20 ist die Obergrenze. Standard 5 %.",
     "_human": true
   },
   "sync_stage_channels": {
@@ -8875,7 +8875,7 @@
     "_human": true
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth ist aus — zum Einschalten tippen",
+    "value": "Bluetooth ist aus: zum Einschalten tippen",
     "_human": true
   },
   "chat_menu_mark_all_read": {
@@ -8887,7 +8887,7 @@
     "_human": true
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Pausiert — kein Netzwerk-Standort auf diesem Gerät. GPS-Positionen kommen nur, solange eine andere App GPS nutzt oder beim Laden.",
+    "value": "Pausiert: kein Netzwerk-Standort auf diesem Gerät. GPS-Positionen kommen nur, solange eine andere App GPS nutzt oder beim Laden.",
     "_human": true
   },
   "settings_coverage_self_gps_on_battery_title": {
@@ -8895,7 +8895,7 @@
     "_human": true
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Dieses Gerät hat keinen Netzwerk-Standort. Wenn an, schaltet KiekR das GPS selbst ein, solange Mesh-Funk empfangen wird — auch im Akkubetrieb, Stopp bei Stillstand. Braucht mehr Akku.",
+    "value": "Dieses Gerät hat keinen Netzwerk-Standort. Wenn an, schaltet KiekR das GPS selbst ein, solange Mesh-Funk empfangen wird (auch im Akkubetrieb, Stopp bei Stillstand). Braucht mehr Akku.",
     "_human": true
   },
   "settings_channels_conflict_count_one_named": {
@@ -9123,7 +9123,7 @@
     "_human": true
   },
   "repeater_acl_key_input_hint": {
-    "value": "Nur Hex-Zeichen 0–9, a–f. Leerzeichen und Doppelpunkte werden beim Einfügen entfernt. Zum Hinzufügen braucht der Repeater den vollständigen Schlüssel.",
+    "value": "Nur Hex-Zeichen 0-9, a-f. Leerzeichen und Doppelpunkte werden beim Einfügen entfernt. Zum Hinzufügen braucht der Repeater den vollständigen Schlüssel.",
     "_human": true
   },
   "repeater_acl_paste_button": {
@@ -9227,7 +9227,7 @@
     "_human": true
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d Einträge – Liste evtl. unvollständig",
+    "value": "%1$d Einträge (Liste evtl. unvollständig)",
     "_human": true
   },
   "repeater_acl_truncated_body": {
@@ -9295,7 +9295,7 @@
     "_human": true
   },
   "room_acl_key_input_hint": {
-    "value": "Nur Hex-Zeichen 0–9, a–f. Leerzeichen und Doppelpunkte werden beim Einfügen entfernt. Zum Hinzufügen braucht der Raum-Server den vollständigen Schlüssel.",
+    "value": "Nur Hex-Zeichen 0-9, a-f. Leerzeichen und Doppelpunkte werden beim Einfügen entfernt. Zum Hinzufügen braucht der Raum-Server den vollständigen Schlüssel.",
     "_human": true
   },
   "room_acl_truncated_body": {
@@ -9335,7 +9335,7 @@
     "_human": true
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Alle“ heißt jeder Kontakt auf diesem Knoten – bei automatischem Hinzufügen praktisch jeder in Funkreichweite.",
+    "value": "„Alle“ heißt jeder Kontakt auf diesem Knoten, bei automatischem Hinzufügen also praktisch jeder in Funkreichweite.",
     "_human": true
   },
   "mynode_telemetry_no_gps_hint": {
@@ -9347,7 +9347,7 @@
     "_human": true
   },
   "contact_telemetry_hint_deny": {
-    "value": "Teilen ist auf deinem Knoten aus – einschalten unter Mein Knoten → Telemetrie teilen.",
+    "value": "Teilen ist auf deinem Knoten aus. Einschalten unter Mein Knoten → Telemetrie teilen.",
     "_human": true
   },
   "contact_telemetry_hint_allow_all": {
@@ -9355,7 +9355,7 @@
     "_human": true
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Freigaben konnten nicht geändert werden – der Kontakt muss auf deinem Knoten sein.",
+    "value": "Freigaben konnten nicht geändert werden: Der Kontakt muss auf deinem Knoten sein.",
     "_human": true
   },
   "locate_section_title": {
@@ -9371,7 +9371,7 @@
     "_human": true
   },
   "locate_request_pending_notice": {
-    "value": "Auf diesem Knoten läuft bereits eine andere Anfrage — versuche es gleich noch einmal.",
+    "value": "Auf diesem Knoten läuft bereits eine andere Anfrage. Versuche es gleich noch einmal.",
     "_human": true
   },
   "locate_fix_position_label": {
@@ -9391,7 +9391,7 @@
     "_human": true
   },
   "locate_fix_unchanged_hint": {
-    "value": "Position unverändert — das Gerät hat möglicherweise keinen aktuellen GPS-Fix.",
+    "value": "Position unverändert: Das Gerät hat möglicherweise keinen aktuellen GPS-Fix.",
     "_human": true
   },
   "locate_reply_never_fixed": {
@@ -9399,11 +9399,11 @@
     "_human": true
   },
   "locate_reply_no_gps_sample": {
-    "value": "Keine Position in der Antwort — kein GPS, GPS aus oder Standort nicht mit dir geteilt.",
+    "value": "Keine Position in der Antwort: kein GPS, GPS aus oder Standort nicht mit dir geteilt.",
     "_human": true
   },
   "locate_reply_no_answer": {
-    "value": "Keine Antwort — außer Reichweite, oder dieser Kontakt hat die Anfrage nicht erlaubt.",
+    "value": "Keine Antwort: außer Reichweite, oder dieser Kontakt hat die Anfrage nicht erlaubt.",
     "_human": true
   },
   "locate_track_on_map_button": {
@@ -9423,7 +9423,7 @@
     "_human": true
   },
   "locate_map_live_cost_line": {
-    "value": "Bis zu 16 Anfragen über 15 Minuten, nur über eine bekannte Route oder in Direktreichweite — keine Mesh-Flutung.",
+    "value": "Bis zu 16 Anfragen über 15 Minuten, nur über eine bekannte Route oder in Direktreichweite (keine Mesh-Flutung).",
     "_human": true
   },
   "locate_map_live_stop_button": {
@@ -9435,15 +9435,15 @@
     "_human": true
   },
   "locate_live_end_time_up": {
-    "value": "Live-Ortung beendet — die 15 Minuten sind um.",
+    "value": "Live-Ortung beendet: Die 15 Minuten sind um.",
     "_human": true
   },
   "locate_live_end_no_answer": {
-    "value": "Keine Antwort — außerhalb der Direktreichweite? Nutze „Im Mesh suchen“, um es über Repeater zu versuchen.",
+    "value": "Keine Antwort. Außerhalb der Direktreichweite? Nutze „Im Mesh suchen“, um es über Repeater zu versuchen.",
     "_human": true
   },
   "locate_live_end_link_down": {
-    "value": "Verbindung zum Knoten wurde unterbrochen — Live-Ortung gestoppt.",
+    "value": "Verbindung zum Knoten wurde unterbrochen. Live-Ortung gestoppt.",
     "_human": true
   },
   "locate_live_end_stopped": {
@@ -9495,7 +9495,7 @@
     "_human": true
   },
   "locate_map_location_off_hint": {
-    "value": "Standortzugriff ist aus — nötig, um deine Position und die Entfernung anzuzeigen.",
+    "value": "Standortzugriff ist aus. Er ist nötig, um deine Position und die Entfernung anzuzeigen.",
     "_human": true
   },
   "mynode_location_interval_remembered": {

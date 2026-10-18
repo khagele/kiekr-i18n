@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Najprv zdieľajte protokol — vymazanie odstráni údaje, ktoré na diagnostiku potrebujeme.",
+    "value": "Najprv zdieľajte protokol: vymazanie odstráni údaje, ktoré na diagnostiku potrebujeme.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Nie je pripojený žiadny uzol — na odosielanie pripojte companion zariadenie.",
+    "value": "Nie je pripojený žiadny uzol. Na odosielanie pripojte companion zariadenie.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Odpojené — pre odoslanie sa znovu pripojte",
+    "value": "Odpojené: pre odoslanie sa znovu pripojte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Správy v kanáli nie sú podpísané – odosielateľom môže byť ktokoľvek z účastníkov kanála.",
+    "value": "Správy v kanáli nie sú podpísané: odosielateľom môže byť ktokoľvek z účastníkov kanála.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Online adresár je vypnutý — zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
+    "value": "Online adresár je vypnutý. Zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Niekoľko opakovačov zodpovedá predpone najkratšej trasy tohto skoku. Nemôžeme automaticky vybrať ten správny — vyber ten, ktorý bol na tvojej trase.",
+    "value": "Niekoľko opakovačov zodpovedá predpone najkratšej trasy tohto skoku. Nemôžeme automaticky vybrať ten správny. Vyber ten, ktorý bol na tvojej trase.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "žiadna zhoda — v adresári nebol nájdený žiadny záznam s touto predponou",
+    "value": "žiadna zhoda: v adresári nebol nájdený žiadny záznam s touto predponou",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "žiadna zhoda — najbližšie výsledky na internete sa nachádzajú mimo rozsahu rozumnosti",
+    "value": "žiadna zhoda: najbližšie výsledky na internete sa nachádzajú mimo rozsahu rozumnosti",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Každý skok predstavuje prvých %1$d bajtov verejného kľúča opakovača. Krátke kľúče sa môžu zhodovať s viacerými opakovačmi – ťuknutím na glóbus vyhľadajte chýbajúce skoky v online zozname.",
+    "value": "Každý skok predstavuje prvých %1$d bajtov verejného kľúča opakovača. Krátke kľúče sa môžu zhodovať s viacerými opakovačmi. Ťuknutím na glóbus vyhľadajte chýbajúce skoky v online zozname.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "neznámy — zo zariadenia",
+    "value": "neznámy (zo zariadenia)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Počet je dolná hranica — pri hustej prevádzke sa kópie môžu stratiť skôr, než dorazia do aplikácie.",
+    "value": "Počet je dolná hranica: pri hustej prevádzke sa kópie môžu stratiť skôr, než dorazia do aplikácie.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(žiadne — zo zariadenia)",
+    "value": "(žiadne, zo zariadenia)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Objavené kanály — ťuknutím si ich môžete prezrieť",
+    "value": "Objavené kanály (ťuknutím si ich môžete prezrieť)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Kliknite na kľúč, aby ste ho skopírovali. Kanály sa priraďujú podľa kľúča, nie podľa názvu — kolízie sú bežné.",
+    "value": "Kliknite na kľúč, aby ste ho skopírovali. Kanály sa priraďujú podľa kľúča, nie podľa názvu: kolízie sú bežné.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d skokov",
+    "value": "%1$d-%2$d skokov",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Váš uzol už túto správu vysielal. Neprišlo žiadne potvrdenie, ale príjemcovia v dosahu ju aj tak mohli prijať — opätovným odoslaním sa im zobrazí dvakrát.",
+    "value": "Váš uzol už túto správu vysielal. Neprišlo žiadne potvrdenie, ale príjemcovia v dosahu ju aj tak mohli prijať. Opätovným odoslaním sa im zobrazí dvakrát.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Prístup pre hostí — len na čítanie",
+    "value": "Prístup pre hostí (len na čítanie)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Každý rámec, ktorý váš uzol začuje, sa objaví tu — nič sa nefiltruje.",
+    "value": "Každý rámec, ktorý váš uzol začuje, sa objaví tu. Nič sa nefiltruje.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Bez filtra — zobrazujú sa rámce dekódované, šifrované pre iných, neznáme aj poškodené.",
+    "value": "Bez filtra: zobrazujú sa rámce dekódované, šifrované pre iných, neznáme aj poškodené.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "šifrované — nie je pre toto zariadenie",
+    "value": "šifrované, nie je pre toto zariadenie",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "zobrazuje každý prijatý rámec — aj to, čo sa nedá prečítať",
+    "value": "zobrazuje každý prijatý rámec, aj to, čo sa nedá prečítať",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d uložené v cache · čiastočné — ťuknutím obnovíte",
+    "value": "%1$d uložené v cache · čiastočné, ťuknutím obnovíte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Žiadni susedia v cache — ťuknite na tlačidlo „Obnoviť“.",
+    "value": "Žiadni susedia v cache. Ťuknite na tlačidlo „Obnoviť“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Žiadny z opakovačov tejto správy – ani jej zdroj – nemá uložené GPS súradnice. Zatvorte toto okno, ťuknite na ikonu glóbusu v časti s trasou správy a potom sa vráťte späť.",
+    "value": "Žiadny z opakovačov tejto správy (ani jej zdroj) nemá uložené GPS súradnice. Zatvorte toto okno, ťuknite na ikonu glóbusu v časti s trasou správy a potom sa vráťte späť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f až %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Ostatné uzly potrebujú mať náš inzerát vo svojej tabuľke kontaktov, aby mohli dešifrovať naše súkromné správy. Ťuknutím vyberte dosah — „zero-hop“ je tichý (len susedia); „flood“ je hlasný (celá sieť).",
+    "value": "Ostatné uzly potrebujú mať náš inzerát vo svojej tabuľke kontaktov, aby mohli dešifrovať naše súkromné správy. Ťuknutím vyberte dosah: „zero-hop“ je tichý (len susedia); „flood“ je hlasný (celá sieť).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Toto zariadenie je vybavené hodinami RTC s batériovým zálohováním. Softvér ich nedokáže vynulovať — na obnovenie je potrebné aktualizovať firmvér alebo vybrať záložnú batériu RTC.",
+    "value": "Toto zariadenie je vybavené hodinami RTC s batériovým zálohováním. Softvér ich nedokáže vynulovať. Na obnovenie je potrebné aktualizovať firmvér alebo vybrať záložnú batériu RTC.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Funkcia „Reboot“ reštartuje spárovaný uzol. Funkcia „Factory reset“ vymaže kontakty, kanály a nastavenia zariadenia – lokálne údaje aplikácie zostanú nedotknuté.",
+    "value": "Funkcia „Reboot“ reštartuje spárovaný uzol. Funkcia „Factory reset“ vymaže kontakty, kanály a nastavenia zariadenia. Lokálne údaje aplikácie zostanú nedotknuté.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Funkcia „Odpojiť“ preruší spojenie, ale ponechá uložené údaje v cache – ťuknutím na „Pripojiť“ sa opäť pripojíte bez nutnosti opätovného spárovania. Funkcia „Zabudnúť“ zruší spárovanie a vymaže cache; uzol je potrebné opätovne spárovať, aby sa vrátil do prevádzky.",
+    "value": "Funkcia „Odpojiť“ preruší spojenie, ale ponechá uložené údaje v cache. Ťuknutím na „Pripojiť“ sa opäť pripojíte bez nutnosti opätovného spárovania. Funkcia „Zabudnúť“ zruší spárovanie a vymaže cache; uzol je potrebné opätovne spárovať, aby sa vrátil do prevádzky.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Vymaže kontakty, kanály, regióny, nastavenia a identitu v zariadení. Nevratný úkon – nie je možné ho vrátiť späť. Pred pokračovaním si exportujte všetko, čo si chcete uchovať.",
+    "value": "Vymaže kontakty, kanály, regióny, nastavenia a identitu v zariadení. Nevratný úkon: nie je možné ho vrátiť späť. Pred pokračovaním si exportujte všetko, čo si chcete uchovať.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Celá sieť. Hlučné — každý opakovač vysiela ďalej. Používajte s mierou; pri hromadných reklamách sa platí za vysielací čas na každom opakovači.",
+    "value": "Celá sieť. Hlučné: každý opakovač vysiela ďalej. Používajte s mierou; pri hromadných reklamách sa platí za vysielací čas na každom opakovači.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Pokročilý režim zapisuje surové hodnoty frekvencie, šírky pásma, SF a CR. Rozsahy firmvéru: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "Pokročilý režim zapisuje surové hodnoty frekvencie, šírky pásma, SF a CR. Rozsahy firmvéru: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Čo práve teraz hlási spárovaný uzol. Nižšie uvedené prednastavenia pochádzajú z katalógu komunity MeshCore – vyberte si to, ktoré používa vaša lokálna sieť.",
+    "value": "Čo práve teraz hlási spárovaný uzol. Nižšie uvedené prednastavenia pochádzajú z katalógu komunity MeshCore. Vyberte si to, ktoré používa vaša lokálna sieť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Podľa národného nastavenia vášho zariadenia. Potvrďte, aby sa zmeny uplatnili — dovtedy sa nič nezmení.",
+    "value": "Podľa národného nastavenia vášho zariadenia. Potvrďte, aby sa zmeny uplatnili. Dovtedy sa nič nezmení.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Znovu sa pripojte k predtým spárovanému uzlu. Nebude sa vyžadovať zadanie PIN kódu – spárovanie je stále uložené v pamäti.",
+    "value": "Znovu sa pripojte k predtým spárovanému uzlu. Nebude sa vyžadovať zadanie PIN kódu: spárovanie je stále uložené v pamäti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Iba pre susedov. Tichý režim – bez zaplavenia. Používajte vtedy, keď potrebujú vašu reklamu spoznať iba blízke uzly.",
+    "value": "Iba pre susedov. Tichý režim: bez zaplavenia. Používajte vtedy, keď potrebujú vašu reklamu spoznať iba blízke uzly.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "„Secret“ je spoločný 16-bajtový kľúč AES kanála, zapísaný ako 32 hexadecimálnych znakov. V prípade kanálov typu hashtag sa tento kľúč automaticky odvodí z názvu — ak chcete využiť tento spôsob, ponechajte znak mriežky na mieste.",
+    "value": "„Secret“ je spoločný 16-bajtový kľúč AES kanála, zapísaný ako 32 hexadecimálnych znakov. V prípade kanálov typu hashtag sa tento kľúč automaticky odvodí z názvu. Ak chcete využiť tento spôsob, ponechajte znak mriežky na mieste.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Hodiny sú posunuté dopredu. Štandardný firmvér neumožňuje synchronizáciu späť. Riešenie: spustite príkaz `clkreboot` z príkazového riadku uvedeného nižšie – tento príkaz vynuluje RTC na dátum 15. 5. 2024 a reštartuje zariadenie – potom ťuknite na synchronizáciu, aby sa nastavil aktuálny čas.",
+    "value": "Hodiny sú posunuté dopredu. Štandardný firmvér neumožňuje synchronizáciu späť. Riešenie: spustite príkaz `clkreboot` z príkazového riadku uvedeného nižšie (tento príkaz vynuluje RTC na dátum 15. 5. 2024 a reštartuje zariadenie), potom ťuknite na synchronizáciu, aby sa nastavil aktuálny čas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Zariadenie sa stále synchronizuje — skúste to prosím o chvíľu znova.",
+    "value": "Zariadenie sa stále synchronizuje. Skúste to prosím o chvíľu znova.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Online adresár je vypnutý — zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
+    "value": "Online adresár je vypnutý. Zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Heslo pre opakovač je obmedzené na 15 znakov – ak je dlhšie, pri prihlásení sa skráti.",
+    "value": "Heslo pre opakovač je obmedzené na 15 znakov. Ak je dlhšie, pri prihlásení sa skráti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d uložené v cache · čiastočné — ťuknutím obnovíte",
+    "value": "%1$d uložené v cache · čiastočné, ťuknutím obnovíte",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Obmedzenie rýchlosti — %1$d s",
+    "value": "Obmedzenie rýchlosti: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3655,7 +3655,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Nie je možné odstrániť — oblasť obsahuje podriadené oblasti.",
+    "value": "Nie je možné odstrániť: oblasť obsahuje podriadené oblasti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3725,7 +3725,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Každý skok má veľkosť 3 bajty. Celkovo je to %1$d — buď sa doplní, alebo skráti.",
+    "value": "Každý skok má veľkosť 3 bajty. Celkovo je to %1$d. Buď sa doplní, alebo skráti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3760,7 +3760,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(zatiaľ neexistuje naučená trasa — priame odosielanie by prebiehalo bez medzizastávky)",
+    "value": "(zatiaľ neexistuje naučená trasa: priame odosielanie by prebiehalo bez medzizastávky)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4190,7 +4190,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Na základe vašej aktuálnej polohy — pre túto správu nebola uložená žiadna poloha.",
+    "value": "Na základe vašej aktuálnej polohy: pre túto správu nebola uložená žiadna poloha.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4400,12 +4400,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Žiadne záznamy v ACL — na načítanie ťuknite na tlačidlo Obnoviť.",
+    "value": "Žiadne záznamy v ACL. Na načítanie ťuknite na tlačidlo Obnoviť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Neplatný hexadecimálny verejný kľúč — musí mať presne 64 hexadecimálnych znakov",
+    "value": "Neplatný hexadecimálny verejný kľúč: musí mať presne 64 hexadecimálnych znakov",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4425,7 +4425,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 hexadecimálnych znakov — úplný verejný kľúč uzla.",
+    "value": "64 hexadecimálnych znakov (úplný verejný kľúč uzla).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4455,7 +4455,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Tu sa načítajú nástroje pre správu — v ďalšej aktualizácii pribudne CLI a editor ACL.",
+    "value": "Tu sa načítajú nástroje pre správu. V ďalšej aktualizácii pribudne CLI a editor ACL.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4465,7 +4465,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Práve sa spracováva ďalšia žiadosť — skúste to prosím znova.",
+    "value": "Práve sa spracováva ďalšia žiadosť. Skúste to prosím znova.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4495,12 +4495,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Prihlásenie sa nepodarilo — nesprávne heslo alebo miestnosť je nedostupná.",
+    "value": "Prihlásenie sa nepodarilo: nesprávne heslo alebo miestnosť je nedostupná.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Heslo môže mať maximálne 15 znakov – ak je dlhšie, pri prihlásení sa skráti.",
+    "value": "Heslo môže mať maximálne 15 znakov. Ak je dlhšie, pri prihlásení sa skráti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4660,7 +4660,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Keď pripojené zariadenie zachytí oznámenie typu, ktorý má povolený, uloží tento uzol do svojej tabuľky kontaktov — tento záznam pretrváva aj po reštarte a informácia sa dostane do aplikácie pri najbližšom vybití batérie.",
+    "value": "Keď pripojené zariadenie zachytí oznámenie typu, ktorý má povolený, uloží tento uzol do svojej tabuľky kontaktov. Tento záznam pretrváva aj po reštarte a informácia sa dostane do aplikácie pri najbližšom vybití batérie.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4735,7 +4735,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Ak je funkcia KiekR zapnutá, môže automaticky spúšťať vyhľadávanie v adresári v prípade chýbajúcich kontextových údajov, ktoré aplikácia pasívne zaznamená — neznáme skoky v trase, zachytené opakovače, ktoré ešte nie sú v adresári, chýbajúce riadky susedov a chýbajúce regióny pri vyhľadávaní. Ak je funkcia vypnutá (predvolené nastavenie), každé vyhľadávanie v adresári si vyžaduje ťuknutie.",
+    "value": "Ak je funkcia KiekR zapnutá, môže automaticky spúšťať vyhľadávanie v adresári v prípade chýbajúcich kontextových údajov, ktoré aplikácia pasívne zaznamená: neznáme skoky v trase, zachytené opakovače, ktoré ešte nie sú v adresári, chýbajúce riadky susedov a chýbajúce regióny pri vyhľadávaní. Ak je funkcia vypnutá (predvolené nastavenie), každé vyhľadávanie v adresári si vyžaduje ťuknutie.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4770,7 +4770,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Vyhľadávania prebiehajú výlučne v adresári KiekR — nikdy na serveri tretej strany. Čítanie z vyrovnávacej pamäte zostáva bezplatné; toto prepnutie ovláda sieťovú časť.",
+    "value": "Vyhľadávania prebiehajú výlučne v adresári KiekR, nikdy na serveri tretej strany. Čítanie z vyrovnávacej pamäte zostáva bezplatné; toto prepnutie ovláda sieťovú časť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4890,12 +4890,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Import dokončený — %1$d identity, %2$d kanály, %3$d regióny, %4$d kontakty, %5$d prihlásenia do opakovača.",
+    "value": "Import dokončený: %1$d identity, %2$d kanály, %3$d regióny, %4$d kontakty, %5$d prihlásenia do opakovača.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Import dokončený — %1$d identity, %2$d kanály, %3$d regióny, %4$d kontakty, %5$d prihlásenia do opakovača, %6$d obľúbené, %7$d blokovaní odosielatelia, %8$d nastavenia.",
+    "value": "Import dokončený: %1$d identity, %2$d kanály, %3$d regióny, %4$d kontakty, %5$d prihlásenia do opakovača, %6$d obľúbené, %7$d blokovaní odosielatelia, %8$d nastavenia.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4910,7 +4910,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Obnovenie zo súboru .json alebo .mcbackup. Pri importe je predvolená možnosť Nahradiť – vaše existujúce kanály, kontakty a regióny sa vymažú a následne sa vloží balík. Stlačte a podržte tlačidlo Potvrdiť po dobu 5 sekúnd.",
+    "value": "Obnovenie zo súboru .json alebo .mcbackup. Pri importe je predvolená možnosť Nahradiť: vaše existujúce kanály, kontakty a regióny sa vymažú a následne sa vloží balík. Stlačte a podržte tlačidlo Potvrdiť po dobu 5 sekúnd.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4965,7 +4965,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Toto NIE JE váš PIN kód na spárovanie cez BLE. Slúži iba na ochranu tohto záložného súboru – zvoľte si niečo, čo si ľahko zapamätáte; KiekR ho nedokáže obnoviť.",
+    "value": "Toto NIE JE váš PIN kód na spárovanie cez BLE. Slúži iba na ochranu tohto záložného súboru. Zvoľte si niečo, čo si ľahko zapamätáte; KiekR ho nedokáže obnoviť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5010,7 +5010,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Záloha pochádza z novšej verzie aplikácie (schéma %1$s) — použitá v maximálnej možnej miere.",
+    "value": "Záloha pochádza z novšej verzie aplikácie (schéma %1$s), použitá v maximálnej možnej miere.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5120,7 +5120,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Plná čiara = krivka, ktorú ukladáte. Bodkovaná čiara = predvolená chemická krivka pre túto variantu. Os X: 2800–4400 mV. Os Y: 0–100 %%.",
+    "value": "Plná čiara = krivka, ktorú ukladáte. Bodkovaná čiara = predvolená chemická krivka pre túto variantu. Os X: 2800-4400 mV. Os Y: 0-100 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5175,7 +5175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Upozorniť, keď úroveň nabitia pripojeného zariadenia klesne na varovnú hodnotu. Interval opätovného aktivovania udáva, o koľko percent sa musí úroveň nabitia opäť zvýšiť nad prahovú hodnotu, než sa spustí ďalšie varovanie — tento interval zväčšite, ak krivka nabitia batérie dosiahne plató (LiFePO4, AA).",
+    "value": "Upozorniť, keď úroveň nabitia pripojeného zariadenia klesne na varovnú hodnotu. Interval opätovného aktivovania udáva, o koľko percent sa musí úroveň nabitia opäť zvýšiť nad prahovú hodnotu, než sa spustí ďalšie varovanie. Tento interval zväčšite, ak krivka nabitia batérie dosiahne plató (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5205,7 +5205,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Na odblokovanie ťuknite na ikonu koša. Ich predchádzajúce správy sa opäť zobrazia vo všetkých kanáloch. Blokovanie sa vzťahuje na presný zobrazený názov – toto meno si môže zvoliť ktokoľvek, takže to nezabráni odhodlanému používateľovi, aby si zmenil meno.",
+    "value": "Na odblokovanie ťuknite na ikonu koša. Ich predchádzajúce správy sa opäť zobrazia vo všetkých kanáloch. Blokovanie sa vzťahuje na presný zobrazený názov. Toto meno si môže zvoliť ktokoľvek, takže to nezabráni odhodlanému používateľovi, aby si zmenil meno.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5235,12 +5235,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Váš uzol má tento kanál s názvom „%1$s“, ale lokálne sa nazýva „%2$s“. Oba kanály používajú rovnaký šifrovací kľúč, takže správy fungujú aj naďalej — vyberte si, ktorý názov chcete ponechať.",
+    "value": "Váš uzol má tento kanál s názvom „%1$s“, ale lokálne sa nazýva „%2$s“. Oba kanály používajú rovnaký šifrovací kľúč, takže správy fungujú aj naďalej. Vyberte si, ktorý názov chcete ponechať.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Vaša lokálna zoznam aj váš uzol majú kanál s názvom „%1$s“, avšak s rôznymi šifrovacími kľúčmi. Správy sa medzi nimi nedajú dešifrovať — vyberte, ktorý kľúč je ten správny.",
+    "value": "Vaša lokálna zoznam aj váš uzol majú kanál s názvom „%1$s“, avšak s rôznymi šifrovacími kľúčmi. Správy sa medzi nimi nedajú dešifrovať. Vyberte, ktorý kľúč je ten správny.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5340,7 +5340,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Odstráni kanál a jeho kľúč z databázy. Tento kanál používa vlastný kľúč, takže ho nie je možné odvodiť z názvu — odstránenie je trvalé, pokiaľ kľúč znovu neimportujete (napr. prostredníctvom QR kódu).",
+    "value": "Odstráni kanál a jeho kľúč z databázy. Tento kanál používa vlastný kľúč, takže ho nie je možné odvodiť z názvu. Odstránenie je trvalé, pokiaľ kľúč znovu neimportujete (napr. prostredníctvom QR kódu).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5350,7 +5350,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Skryje kanál „%1$s“ zo zoznamu chatu a nastavení kanálov. Neskôr ho môžete opäť pridať tak, že zadáte jeho názov v Nastaveniach → Kanály → Pridať kanál podľa názvu — kľúč SHA-256 sa odvodí rovnakým spôsobom.",
+    "value": "Skryje kanál „%1$s“ zo zoznamu chatu a nastavení kanálov. Neskôr ho môžete opäť pridať tak, že zadáte jeho názov v Nastaveniach → Kanály → Pridať kanál podľa názvu. Kľúč SHA-256 sa odvodí rovnakým spôsobom.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5485,7 +5485,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Kanál sa nepodarilo pridať — možno už existuje alebo je názov/kľúč neplatný.",
+    "value": "Kanál sa nepodarilo pridať: možno už existuje alebo je názov/kľúč neplatný.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5495,12 +5495,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Používa pevný verejný kanálový kľúč — kľúč nie je potrebný.",
+    "value": "Používa pevný verejný kanálový kľúč, kľúč nie je potrebný.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Vyžaduje sa kľúč — kanály s vlastným názvom vyžadujú 32-znakový hexadecimálny kľúč.",
+    "value": "Vyžaduje sa kľúč: kanály s vlastným názvom vyžadujú 32-znakový hexadecimálny kľúč.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5570,7 +5570,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Váš uzol a váš lokálny zoznam sa nezhodujú v otázke kanála — vyberte, ktorá strana zvíťazí.",
+    "value": "Váš uzol a váš lokálny zoznam sa nezhodujú v otázke kanála. Vyberte, ktorá strana zvíťazí.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5620,7 +5620,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Kľúč je uložený. Znovu ho odkryte, ak ho chcete opäť získať — alebo ho natrvalo odstráňte.",
+    "value": "Kľúč je uložený. Znovu ho odkryte, ak ho chcete opäť získať, alebo ho natrvalo odstráňte.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5700,7 +5700,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonymné pripojenie — funguje pre vývojárov bez overovania.",
+    "value": "Anonymné pripojenie: funguje pre vývojárov bez overovania.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5780,7 +5780,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Keď je aplikácia KiekR zapnutá, zaznamenáva, ktoré regióny (a pokiaľ je to možné, aj ktoré opakovače) zachytáva v hrubej mapovej bunke s rozmerom približne pol kilometra, a pravidelne odosiela súhrnné údaje za každú bunku cez Wi-Fi. Vaša presná poloha nikdy neopustí telefón – iba danú bunku – a mapa vždy zobrazuje len to, čo bolo v danej bunke zachytené, nikdy však to, kto to zachytil. Funkcia je pseudonymná a oddelená od vašej identity v aplikácii KiekR; môžete ju kedykoľvek vypnúť.",
+    "value": "Keď je aplikácia KiekR zapnutá, zaznamenáva, ktoré regióny (a pokiaľ je to možné, aj ktoré opakovače) zachytáva v hrubej mapovej bunke s rozmerom približne pol kilometra, a pravidelne odosiela súhrnné údaje za každú bunku cez Wi-Fi. Vaša presná poloha nikdy neopustí telefón (iba danú bunku) a mapa vždy zobrazuje len to, čo bolo v danej bunke zachytené, nikdy však to, kto to zachytil. Funkcia je pseudonymná a oddelená od vašej identity v aplikácii KiekR; môžete ju kedykoľvek vypnúť.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5820,7 +5820,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Funkcia „Coverage“ potrebuje presnú polohu, aby mohla zaznamenať to, čo počujete, do správnej bunky mapy. Povoliť presnú polohu pre aplikáciu KiekR – inak funkcia „Coverage“ na tomto telefóne nezaznamená žiadne údaje.",
+    "value": "Funkcia „Coverage“ potrebuje presnú polohu, aby mohla zaznamenať to, čo počujete, do správnej bunky mapy. Povoliť presnú polohu pre aplikáciu KiekR. Inak funkcia „Coverage“ na tomto telefóne nezaznamená žiadne údaje.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5885,7 +5885,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "Protokol MQTT prenáša dáta len vtedy, keď ste so zariadením spárovaní cez Bluetooth. Identita zariadenia v sieti typu mesh sa nikdy neodosiela – každý broker používa vlastný vygenerovaný pár kľúčov. Názvy pozorovateľov vždy začínajú na „KiekR_“.",
+    "value": "Protokol MQTT prenáša dáta len vtedy, keď ste so zariadením spárovaní cez Bluetooth. Identita zariadenia v sieti typu mesh sa nikdy neodosiela: každý broker používa vlastný vygenerovaný pár kľúčov. Názvy pozorovateľov vždy začínajú na „KiekR_“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5900,7 +5900,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "Trojmiestny kód letiska identifikuje váš región na stránke analyzátora (napr. HAM, JFK, MUC). Meno pozorovateľa sa zobrazuje vedľa vašich paketov — predpona „KiekR_“ je pevne daná.",
+    "value": "Trojmiestny kód letiska identifikuje váš región na stránke analyzátora (napr. HAM, JFK, MUC). Meno pozorovateľa sa zobrazuje vedľa vašich paketov. Predpona „KiekR_“ je pevne daná.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5920,12 +5920,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Pozastavené — cez mobilné pripojenie",
+    "value": "Pozastavené: cez mobilné pripojenie",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Pozastavené — cez mobil · %1$d v čakacom zozname",
+    "value": "Pozastavené: cez mobil · %1$d v čakacom zozname",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5975,7 +5975,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "Funkcia MQTT upload odosiela každý surový paket LoRa, ktorý vaše zariadenie zachytí – vrátane šifrovaných bajtov, ktoré sami nemôžete prečítať – na broker, ktorého nastavíte. Predvolene je táto funkcia vypnutá; zapína sa pre každého brokera zvlášť. Každý broker používa vlastnú generovanú dvojicu kľúčov, takže identita vášho zariadenia v sieti nikdy neopustí samotné zariadenie.",
+    "value": "Funkcia MQTT upload odosiela každý surový paket LoRa, ktorý vaše zariadenie zachytí (vrátane šifrovaných bajtov, ktoré sami nemôžete prečítať) na broker, ktorého nastavíte. Predvolene je táto funkcia vypnutá; zapína sa pre každého brokera zvlášť. Každý broker používa vlastnú generovanú dvojicu kľúčov, takže identita vášho zariadenia v sieti nikdy neopustí samotné zariadenie.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6020,22 +6020,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Téma — ladenie",
+    "value": "Téma (ladenie)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Téma — pakety",
+    "value": "Téma (pakety)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Téma — surové",
+    "value": "Téma (surové)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Téma — stav",
+    "value": "Téma (stav)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6105,7 +6105,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Port musí byť v rozmedzí 1–65535",
+    "value": "Port musí byť v rozmedzí 1 až 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6210,7 +6210,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Predvolene vypnuté. Keď je zapnuté, KiekR odosiela na api.kiekr.app hlásenia o pádoch, zamrznutí a CPU, ktoré mu odovzdá iOS: verziu aplikácie, verziu iOS, model zariadenia, systémové kódy chýb a zásobník volaní. Žiadne správy, kontakty, kľúče ani polohy — a je to jediná cesta, ako sa porucha z vášho telefónu dostane k vývojárovi.",
+    "value": "Predvolene vypnuté. Keď je zapnuté, KiekR odosiela na api.kiekr.app hlásenia o pádoch, zamrznutí a CPU, ktoré mu odovzdá iOS: verziu aplikácie, verziu iOS, model zariadenia, systémové kódy chýb a zásobník volaní. Žiadne správy, kontakty, kľúče ani polohy. A je to jediná cesta, ako sa porucha z vášho telefónu dostane k vývojárovi.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6250,7 +6250,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Prednastavené riadky nie je možné premenovať ani zmeniť ich URL — ak ich nechcete používať, vypnite ich, alebo pridajte nový zdroj.",
+    "value": "Prednastavené riadky nie je možné premenovať ani zmeniť ich URL. Ak ich nechcete používať, vypnite ich, alebo pridajte nový zdroj.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6355,7 +6355,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Vyhľadávanie prechádza všetky povolené zdroje v poradí podľa priority; vyhráva prvý zdroj, ktorý vráti kandidáta. api.kiekr.app chráni súkromie (používa iba opakovače úrovne A). Meshcorenetz Analyzer má širší záber — prirodzene prechádza na uzly, ktoré backend KiekR nemá. Poradie môžete zmeniť pomocou šípok hore/dole; ťuknutím na ceruzku môžete upraviť maximálnu vzdialenosť na jeden skok pre každý zdroj.",
+    "value": "Vyhľadávanie prechádza všetky povolené zdroje v poradí podľa priority; vyhráva prvý zdroj, ktorý vráti kandidáta. api.kiekr.app chráni súkromie (používa iba opakovače úrovne A). Meshcorenetz Analyzer má širší záber. Prirodzene prechádza na uzly, ktoré backend KiekR nemá. Poradie môžete zmeniť pomocou šípok hore/dole; ťuknutím na ceruzku môžete upraviť maximálnu vzdialenosť na jeden skok pre každý zdroj.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6455,7 +6455,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnostický kontext —",
+    "value": "Diagnostický kontext:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6475,7 +6475,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "Protokoly aplikácie KiekR pre Android — %1$s %2$s — %3$s",
+    "value": "Protokoly aplikácie KiekR pre Android, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6695,7 +6695,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Upozorniť na každú prichádzajúcu súkromnú správu. Súkromné správy sú kryptograficky overené – vypnutím tejto funkcie sa potlačí len upozornenie; správa sa aj tak zobrazí vo vašom zozname konverzácií.",
+    "value": "Upozorniť na každú prichádzajúcu súkromnú správu. Súkromné správy sú kryptograficky overené. Vypnutím tejto funkcie sa potlačí len upozornenie; správa sa aj tak zobrazí vo vašom zozname konverzácií.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6760,7 +6760,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Trvalá pomôcka pri kolíziách prefixov: akonáhle deterministický výberový algoritmus určí víťaza, trojica (prefix, hop, verejný kľúč) sa posunie, aby sa pri ďalšej remíze s rovnakým prefixom rozhodlo rovnakým spôsobom.\n\nTTL vyrovnávacej pamäte — ako dlho záznam pretrváva bez opätovného použitia. Predvolená hodnota je 30 dní, rozsah 1..=180.\n\nRozdiel pri rozhodovaní o remíze — aké blízko pri sebe musia byť metriky dvoch kandidátov (v %%), aby cache rozhodla o remíze. Hodnota 0 deaktivuje záložný mechanizmus cache (kvalifikujú sa len presné remízy); 20 je horná hranica. Predvolená hodnota je 5 %%.",
+    "value": "Trvalá pomôcka pri kolíziách prefixov: akonáhle deterministický výberový algoritmus určí víťaza, trojica (prefix, hop, verejný kľúč) sa posunie, aby sa pri ďalšej remíze s rovnakým prefixom rozhodlo rovnakým spôsobom.\n\nTTL vyrovnávacej pamäte: ako dlho záznam pretrváva bez opätovného použitia. Predvolená hodnota je 30 dní, rozsah 1..=180.\n\nRozdiel pri rozhodovaní o remíze: aké blízko pri sebe musia byť metriky dvoch kandidátov (v %%), aby cache rozhodla o remíze. Hodnota 0 deaktivuje záložný mechanizmus cache (kvalifikujú sa len presné remízy); 20 je horná hranica. Predvolená hodnota je 5 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6815,12 +6815,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Pre viacbajtové skoky je potrebný doplnkový firmvér verzie v1.15.0 alebo novšej. Váš doplnkový zariadenie hlási staršiu verziu – až do aktualizácie bude obmedzené na 1 bajt. Vaše predchádzajúce nastavenie zostane zachované a po aktualizácii sa opäť aktivuje.",
+    "value": "Pre viacbajtové skoky je potrebný doplnkový firmvér verzie v1.15.0 alebo novšej. Váš doplnkový zariadenie hlási staršiu verziu: až do aktualizácie bude obmedzené na 1 bajt. Vaše predchádzajúce nastavenie zostane zachované a po aktualizácii sa opäť aktivuje.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Počet bajtov na skok, ktorý sa pripája k trase pri nových odchádzajúcich paketoch, ktoré generujeme. Vyššie hodnoty znižujú kolízie mien, staršie verzie firmvéru opakovačov ich však nemusia prenášať ďalej. Naučené trasy k známym kontaktom si zachovávajú šírku, v akej boli prijaté — toto nastavenie ovplyvňuje iba trasy typu „flood“ a „anon-reply“. Pre jedinečné trasy sa odporúčajú 3 bajty (funguje aj 2); predvolená hodnota firmvéru je 1.",
+    "value": "Počet bajtov na skok, ktorý sa pripája k trase pri nových odchádzajúcich paketoch, ktoré generujeme. Vyššie hodnoty znižujú kolízie mien, staršie verzie firmvéru opakovačov ich však nemusia prenášať ďalej. Naučené trasy k známym kontaktom si zachovávajú šírku, v akej boli prijaté. Toto nastavenie ovplyvňuje iba trasy typu „flood“ a „anon-reply“. Pre jedinečné trasy sa odporúčajú 3 bajty (funguje aj 2); predvolená hodnota firmvéru je 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6855,7 +6855,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Online adresár je vypnutý — zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
+    "value": "Online adresár je vypnutý. Zdroj aktivujte v Nastaveniach → Zdieľanie → Adresár.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6865,7 +6865,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_lookup_unknown": {
-    "value": "Vyhľadajte „%1$d“ – neznámy online",
+    "value": "Vyhľadajte „%1$d“ neznámy online",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7175,7 +7175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Región „%1$s“ je už vo vašom zozname — odskryte ho",
+    "value": "Región „%1$s“ je už vo vašom zozname: odskryte ho",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7335,7 +7335,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Systém Android pozastaví sieťovú komunikáciu aplikácií, keď je obrazovka vypnutá. Vylúčte aplikáciu KiekR z optimalizácie spotreby batérie – a z obmedzení automatického spúšťania stanovených výrobcom telefónu –, aby spojenie s doplnkovou aplikáciou zostalo aktívne na pozadí.",
+    "value": "Systém Android pozastaví sieťovú komunikáciu aplikácií, keď je obrazovka vypnutá. Vylúčte aplikáciu KiekR z optimalizácie spotreby batérie (a z obmedzení automatického spúšťania stanovených výrobcom telefónu), aby spojenie s doplnkovou aplikáciou zostalo aktívne na pozadí.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7395,7 +7395,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "Počet opakovaných pokusov udáva, koľko dodatočných pokusov vykoná knižnica core-lib na jednu stránku GET_NEIGHBOURS, ak firmware neodpovie v rámci časového okna určeného pre jeden pokus — to je užitočné pri nestabilných BLE/rádiových spojeniach, kde dochádza k časovému limitu pri načítaní stránky. Toto časové okno sa mení v závislosti od veľkosti stránky, takže jeho predĺžením poskytnete dodatočným pokusom potrebný čas. Samotná veľkosť stránky je pevne stanovená na maximálnu veľkosť vyrovnávacej pamäte firmvéru. Predvolená hodnota je %1$d.",
+    "value": "Počet opakovaných pokusov udáva, koľko dodatočných pokusov vykoná knižnica core-lib na jednu stránku GET_NEIGHBOURS, ak firmware neodpovie v rámci časového okna určeného pre jeden pokus. To je užitočné pri nestabilných BLE/rádiových spojeniach, kde dochádza k časovému limitu pri načítaní stránky. Toto časové okno sa mení v závislosti od veľkosti stránky, takže jeho predĺžením poskytnete dodatočným pokusom potrebný čas. Samotná veľkosť stránky je pevne stanovená na maximálnu veľkosť vyrovnávacej pamäte firmvéru. Predvolená hodnota je %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7465,12 +7465,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Žiadna odpoveď — cesta nemusí byť dosiahnuteľná.",
+    "value": "Žiadna odpoveď: cesta nemusí byť dosiahnuteľná.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Prvý opakovač vás musí počuť a vy musíte počuť odpoveď posledného — zvoľte cestu, o ktorej viete, že je dosiahnuteľná.",
+    "value": "Prvý opakovač vás musí počuť a vy musíte počuť odpoveď posledného. Zvoľte cestu, o ktorej viete, že je dosiahnuteľná.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7530,7 +7530,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Žiadny uzol nie je pripojený — ťuknite na spárovanie",
+    "value": "Žiadny uzol nie je pripojený: ťuknite na spárovanie",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7550,7 +7550,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR dokáže vyhľadať neznámy opakovač podľa jeho hashovej hodnoty prostredníctvom online adresárov – čo je užitočné v prípade, že sa skok v trase zobrazí len ako hexadecimálny prefix. Táto funkcia zostáva vypnutá, kým ju nezapnete v nastaveniach v časti Nastavenia → Zdieľanie → Adresár.",
+    "value": "KiekR dokáže vyhľadať neznámy opakovač podľa jeho hashovej hodnoty prostredníctvom online adresárov (čo je užitočné v prípade, že sa skok v trase zobrazí len ako hexadecimálny prefix). Táto funkcia zostáva vypnutá, kým ju nezapnete v nastaveniach v časti Nastavenia → Zdieľanie → Adresár.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8105,7 +8105,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Prihláste sa pomocou ovládacieho prvku v pravom hornom rohu — ako hosť pre štatistiky, susedov, telemetriu a firmvér; ako správca pre konfiguráciu, regióny a CLI.",
+    "value": "Prihláste sa pomocou ovládacieho prvku v pravom hornom rohu: ako hosť pre štatistiky, susedov, telemetriu a firmvér; ako správca pre konfiguráciu, regióny a CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8360,7 +8360,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pakety, ktoré rádio nedokázalo správne prečítať — počet stúpa pri rušení alebo slabom signále.",
+    "value": "Pakety, ktoré rádio nedokázalo správne prečítať. Počet stúpa pri rušení alebo slabom signále.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8620,7 +8620,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Keď je táto funkcia zapnutá, KiekR zdieľa informácie o tom, ktoré mapové bunky majú pokrytie sieťou mesh, so službou mapme.sh – komunitnou mapou pokrytia. Každý vzorok obsahuje mapovú bunku, silu signálu a trasu skokov, nikdy však vašu presnú polohu ani identitu. Nahrávanie prebieha podľa vašich nastavení „len cez Wi-Fi“ a intervalu nahrávania.",
+    "value": "Keď je táto funkcia zapnutá, KiekR zdieľa informácie o tom, ktoré mapové bunky majú pokrytie sieťou mesh, so službou mapme.sh, komunitnou mapou pokrytia. Každý vzorok obsahuje mapovú bunku, silu signálu a trasu skokov, nikdy však vašu presnú polohu ani identitu. Nahrávanie prebieha podľa vašich nastavení „len cez Wi-Fi“ a intervalu nahrávania.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8852,7 +8852,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Chýba poloha GPS — online body trasy sa nemusia zobraziť na mape. Povoľte prístup k polohe pre úplné určenie trasy.",
+    "value": "Chýba poloha GPS: online body trasy sa nemusia zobraziť na mape. Povoľte prístup k polohe pre úplné určenie trasy.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8867,7 +8867,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Vložte 64- alebo 128-znakový hexadecimálny súkromný kľúč na obnovenie zálohovanej identity — uloží sa lokálne a odošle sa do pripojeného sprievodného zariadenia. Exportom sa odhalí kľúč tohto uzla, aby ste si ho mohli zálohovať.",
+    "value": "Vložte 64- alebo 128-znakový hexadecimálny súkromný kľúč na obnovenie zálohovanej identity. Uloží sa lokálne a odošle sa do pripojeného sprievodného zariadenia. Exportom sa odhalí kľúč tohto uzla, aby ste si ho mohli zálohovať.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8902,7 +8902,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Pevne nastavený zdroj – koncový bod a ďalšie nastavenia sú pevne dané; tu ho môžete premenovať.",
+    "value": "Pevne nastavený zdroj: koncový bod a ďalšie nastavenia sú pevne dané; tu ho môžete premenovať.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8927,7 +8927,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Server odpovedal – URL je platná",
+    "value": "Server odpovedal: URL je platná",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8967,7 +8967,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Toto je tajný identifikačný kľúč vášho uzla – každý, kto ho má, sa môže vydávať za váš uzol. Uložte si ho na bezpečné miesto a nikdy ho nikomu neposkytujte.",
+    "value": "Toto je tajný identifikačný kľúč vášho uzla: každý, kto ho má, sa môže vydávať za váš uzol. Uložte si ho na bezpečné miesto a nikdy ho nikomu neposkytujte.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9032,7 +9032,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Keď je táto možnosť zapnutá, KiekR môže automaticky vykonávať vyhľadávania v adresári pre chýbajúci kontext, ktorý aplikácia zaznamená pasívne — neznáme hopy na ceste, počuté repeatre, ktoré ešte nie sú v adresári, chýbajúce riadky susedov a chýbajúce oblasti pri objavovaní. Keď je vypnutá (predvolené), každé vyhľadávanie v adresári vyžaduje dotyk.",
+    "value": "Keď je táto možnosť zapnutá, KiekR môže automaticky vykonávať vyhľadávania v adresári pre chýbajúci kontext, ktorý aplikácia zaznamená pasívne: neznáme hopy na ceste, počuté repeatre, ktoré ešte nie sú v adresári, chýbajúce riadky susedov a chýbajúce oblasti pri objavovaní. Keď je vypnutá (predvolené), každé vyhľadávanie v adresári vyžaduje dotyk.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9062,7 +9062,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Vyhľadávania smerujú výhradne do adresára KiekR — nikdy k hostiteľovi tretej strany. Čítanie z vyrovnávacej pamäte zostáva bezplatné; tento prepínač riadi sieťovú časť.",
+    "value": "Vyhľadávania smerujú výhradne do adresára KiekR, nikdy k hostiteľovi tretej strany. Čítanie z vyrovnávacej pamäte zostáva bezplatné; tento prepínač riadi sieťovú časť.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9097,7 +9097,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Toto NIE JE váš párovací PIN cez BLE a NIE JE ani passphrase vašej identity. Chráni len tento záložný súbor. Zvoľte si niečo, čo si zapamätáte — KiekR ju za vás nedokáže obnoviť.",
+    "value": "Toto NIE JE váš párovací PIN cez BLE a NIE JE ani passphrase vašej identity. Chráni len tento záložný súbor. Zvoľte si niečo, čo si zapamätáte. KiekR ju za vás nedokáže obnoviť.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9192,7 +9192,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Upozornenie, keď pripojené zariadenie klesne na varovné percento. Medzera pre opätovné spustenie určuje, o koľko percent musí hodnota znova stúpnuť nad hranicu, než sa môže spustiť ďalšie upozornenie — zväčšite ju, ak vaša batériová krivka dosahuje plateau (LiFePO4, AA).",
+    "value": "Upozornenie, keď pripojené zariadenie klesne na varovné percento. Medzera pre opätovné spustenie určuje, o koľko percent musí hodnota znova stúpnuť nad hranicu, než sa môže spustiť ďalšie upozornenie. Zväčšite ju, ak vaša batériová krivka dosahuje plateau (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9252,7 +9252,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Potiahnutím zrušíte blokovanie. Ich staršie správy sa po zrušení blokovania znova zobrazia vo všetkých kanáloch. Blokovanie sa viaže na presne zobrazené meno — ktokoľvek si môže vybrať rovnaké meno, takže to nezabráni odhodlanému odosielateľovi premenovať sa.",
+    "value": "Potiahnutím zrušíte blokovanie. Ich staršie správy sa po zrušení blokovania znova zobrazia vo všetkých kanáloch. Blokovanie sa viaže na presne zobrazené meno. Ktokoľvek si môže vybrať rovnaké meno, takže to nezabráni odhodlanému odosielateľovi premenovať sa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9262,12 +9262,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Pripojené k štandardnému uzlu — vysielať môžu len kanály nainštalované na zariadení. Potiahnutím doprava pridáte alebo odstránite kanál zo zariadenia. Potiahnutím doľava odstránite kanál — #-kanály si zachovajú svoj kľúč, takže ich môžete znova pridať podľa názvu; kanály s vlastným kľúčom sa vymažú trvalo.",
+    "value": "Pripojené k štandardnému uzlu: vysielať môžu len kanály nainštalované na zariadení. Potiahnutím doprava pridáte alebo odstránite kanál zo zariadenia. Potiahnutím doľava odstránite kanál: #-kanály si zachovajú svoj kľúč, takže ich môžete znova pridať podľa názvu; kanály s vlastným kľúčom sa vymažú trvalo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Aby mohli byť kanály na väčšine sietí preposielané, musí im byť pridelená oblasť. Ťuknutím na kanál mu oblasť pridelíte. Potiahnutím doľava ho odstránite — #-kanály si zachovajú svoj kľúč, takže ich môžete znova pridať podľa názvu; kanály s vlastným kľúčom sa vymažú trvalo.",
+    "value": "Aby mohli byť kanály na väčšine sietí preposielané, musí im byť pridelená oblasť. Ťuknutím na kanál mu oblasť pridelíte. Potiahnutím doľava ho odstránite: #-kanály si zachovajú svoj kľúč, takže ich môžete znova pridať podľa názvu; kanály s vlastným kľúčom sa vymažú trvalo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9387,7 +9387,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Hosťovský prístup — len na čítanie",
+    "value": "Hosťovský prístup (len na čítanie)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9467,17 +9467,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Online adresár je vypnutý — povoľte zdroj v Nastavenia → Zdieľanie → Adresár.",
+    "value": "Online adresár je vypnutý. Povoľte zdroj v Nastavenia → Zdieľanie → Adresár.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Viacero repeatrov zodpovedá krátkemu prefixu cesty tohto hopu. Nemôžeme automaticky vybrať ten správny — vyberte ten, ktorý bol na vašej ceste.",
+    "value": "Viacero repeatrov zodpovedá krátkemu prefixu cesty tohto hopu. Nemôžeme automaticky vybrať ten správny. Vyberte ten, ktorý bol na vašej ceste.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Zatiaľ nie sú zmapované žiadne hexagóny — prejdite sa so zapnutým rádiom a objavia sa tu.",
+    "value": "Zatiaľ nie sú zmapované žiadne hexagóny. Prejdite sa so zapnutým rádiom a objavia sa tu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9577,7 +9577,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pozastavené — na mobilných dátach",
+    "value": "Pozastavené: na mobilných dátach",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9647,22 +9647,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Téma — pakety",
+    "value": "Téma (pakety)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Téma — stav",
+    "value": "Téma (stav)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Téma — debug",
+    "value": "Téma (debug)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Téma — raw",
+    "value": "Téma (raw)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9767,7 +9767,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Uloží identitu lokálne. Ak je kľúč založený na seede a je pripojený companion, seed sa tiež odošle do zariadenia cez CMD_IMPORT_PRIVATE_KEY — tým sa prepíše aktuálna identita zariadenia.",
+    "value": "Uloží identitu lokálne. Ak je kľúč založený na seede a je pripojený companion, seed sa tiež odošle do zariadenia cez CMD_IMPORT_PRIVATE_KEY. Tým sa prepíše aktuálna identita zariadenia.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9912,7 +9912,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Odchýlka hodín odosielateľa — používa sa lokálny čas prijatia",
+    "value": "Odchýlka hodín odosielateľa: používa sa lokálny čas prijatia",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10052,7 +10052,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Heslo je obmedzené na 15 znakov — všetko dlhšie sa pri prihlásení skráti.",
+    "value": "Heslo je obmedzené na 15 znakov. Všetko dlhšie sa pri prihlásení skráti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10077,7 +10077,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Upozorniť na každú prichádzajúcu priamu správu (DM). DM sú kryptograficky overené — vypnutie tejto možnosti len potlačí upozornenie; správa aj tak dorazí do zoznamu chatov.",
+    "value": "Upozorniť na každú prichádzajúcu priamu správu (DM). DM sú kryptograficky overené. Vypnutie tejto možnosti len potlačí upozornenie; správa aj tak dorazí do zoznamu chatov.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10127,7 +10127,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Viacbajtové hopy vyžadujú firmvér companionu v1.15.0 alebo novší. Váš companion nahlasuje staršiu verziu — do aktualizácie je uzamknuté na 1 bajt. Vaše predchádzajúce nastavenie zostáva zachované a znova sa aktivuje po aktualizácii.",
+    "value": "Viacbajtové hopy vyžadujú firmvér companionu v1.15.0 alebo novší. Váš companion nahlasuje staršiu verziu: do aktualizácie je uzamknuté na 1 bajt. Vaše predchádzajúce nastavenie zostáva zachované a znova sa aktivuje po aktualizácii.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10157,7 +10157,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Potiahnutím oblasti ju odstránite. Zostane v databáze (a bude ďalej označovať prichádzajúcu prevádzku), ale zmizne z tohto zoznamu a z výberu kanálov — znova ju pridajte podľa názvu, aby sa vrátila.",
+    "value": "Potiahnutím oblasti ju odstránite. Zostane v databáze (a bude ďalej označovať prichádzajúcu prevádzku), ale zmizne z tohto zoznamu a z výberu kanálov. Znova ju pridajte podľa názvu, aby sa vrátila.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10367,7 +10367,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Nie je pripojené žiadne companion zariadenie — najprv pripojte uzol.",
+    "value": "Nie je pripojené žiadne companion zariadenie. Najprv pripojte uzol.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10392,7 +10392,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Obnovte zo súboru `.json` alebo `.mcbackup`. Import v predvolenom nastavení nahrádza — vaše existujúce kanály, kontakty a oblasti sa vymažú a následne sa vloží balík. Podržte tlačidlo Potvrdiť 5 sekúnd.",
+    "value": "Obnovte zo súboru `.json` alebo `.mcbackup`. Import v predvolenom nastavení nahrádza: vaše existujúce kanály, kontakty a oblasti sa vymažú a následne sa vloží balík. Podržte tlačidlo Potvrdiť 5 sekúnd.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10492,17 +10492,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Zatiaľ ju nepočul žiadny observer — to nikdy neznamená, že odoslanie zlyhalo.",
+    "value": "Zatiaľ ju nepočul žiadny observer. To nikdy neznamená, že odoslanie zlyhalo.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Doteraz počuté v jednej observer oblasti — pravdepodobne len v okolí.",
+    "value": "Doteraz počuté v jednej observer oblasti, pravdepodobne len v okolí.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Počuté v %1$d oblastiach — mesh preniesol túto správu.",
+    "value": "Počuté v %1$d oblastiach: mesh preniesol túto správu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10517,7 +10517,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Kontrola zlyhala — skúste to neskôr znova.",
+    "value": "Kontrola zlyhala. Skúste to neskôr znova.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10527,7 +10527,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Počuté %1$d observermi — mesh preniesol túto správu.",
+    "value": "Počuté %1$d observermi: mesh preniesol túto správu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10537,7 +10537,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Tento uzol momentálne automaticky pridáva každý typ advertu („Auto add all“) — filtre nižšie nemajú žiadny účinok. Túto možnosť mohla prepnúť iná aplikácia.",
+    "value": "Tento uzol momentálne automaticky pridáva každý typ advertu („Auto add all“). Filtre nižšie nemajú žiadny účinok. Túto možnosť mohla prepnúť iná aplikácia.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10555,7 +10555,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Neodoslané — nie je nainštalované vo vašom uzle",
+    "value": "Neodoslané: nie je nainštalované vo vašom uzle",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10577,7 +10577,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Mapuje aj hexagóny, kde nebola prijatá žiadna prevádzka — používa GPS a viac batérie.",
+    "value": "Mapuje aj hexagóny, kde nebola prijatá žiadna prevádzka. Používa GPS a viac batérie.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10622,7 +10622,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Zoznam kontaktov tohto uzla je plný — nemôže prijímať nové kontakty, ktoré počuje. Niektoré vymažte, aby ste uvoľnili miesto.",
+    "value": "Zoznam kontaktov tohto uzla je plný: nemôže prijímať nové kontakty, ktoré počuje. Niektoré vymažte, aby ste uvoľnili miesto.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10632,17 +10632,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pozastavené — prístup k polohe je len „Pri používaní aplikácie“",
+    "value": "Pozastavené: prístup k polohe je len „Pri používaní aplikácie“",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pozastavené — relácia určovania polohy bola zastavená",
+    "value": "Pozastavené: relácia určovania polohy bola zastavená",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Bez možnosti „Vždy“ sa pokrytie zbiera iba počas otvorenej aplikácie KiekR — iOS pozastaví reláciu určovania polohy, keď je aplikácia na pozadí. S možnosťou „Vždy“ KiekR pokračuje v zbieraní vo vašom vrecku, pričom používa iba polohu, ktorú telefón už pozná, bez ďalšieho GPS.",
+    "value": "Bez možnosti „Vždy“ sa pokrytie zbiera iba počas otvorenej aplikácie KiekR. iOS pozastaví reláciu určovania polohy, keď je aplikácia na pozadí. S možnosťou „Vždy“ KiekR pokračuje v zbieraní vo vašom vrecku, pričom používa iba polohu, ktorú telefón už pozná, bez ďalšieho GPS.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10742,12 +10742,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Odstráni %@ z vášho zoznamu chatov a nastavení kanálov. Neskôr ho môžete znova pridať zadaním názvu v Nastavenia → Kanály → Pridať kanál podľa názvu — kľúč SHA-256 sa odvodí rovnakým spôsobom.",
+    "value": "Odstráni %@ z vášho zoznamu chatov a nastavení kanálov. Neskôr ho môžete znova pridať zadaním názvu v Nastavenia → Kanály → Pridať kanál podľa názvu. Kľúč SHA-256 sa odvodí rovnakým spôsobom.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Vymazať %@? Toto je trvalé — kľúč nie je možné znova odvodiť z názvu.",
+    "value": "Vymazať %@? Toto je trvalé: kľúč nie je možné znova odvodiť z názvu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10792,7 +10792,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Trvalá pomôcka pre učenie pri kolíziách prefixov: keď deterministický výber určí víťaza, (prefix, hop, pubkey) sa aktualizuje, aby sa ďalší nerozhodný stav pri rovnakom prefixe vyriešil rovnako.\n\nCache TTL — ako dlho záznam prežije bez opätovného použitia. Predvolené 30 dní, obmedzenie 1..=180.\n\nMarža rozhodovania — ako blízko musia byť metriky dvoch kandidátov (v %), aby cache rozhodol nerozhodný stav. 0 vypne fallback na cache (kvalifikujú sa len presné shody); 20 je horná hranica. Predvolené 5 %.",
+    "value": "Trvalá pomôcka pre učenie pri kolíziách prefixov: keď deterministický výber určí víťaza, (prefix, hop, pubkey) sa aktualizuje, aby sa ďalší nerozhodný stav pri rovnakom prefixe vyriešil rovnako.\n\nCache TTL: ako dlho záznam prežije bez opätovného použitia. Predvolené 30 dní, obmedzenie 1..=180.\n\nMarža rozhodovania: ako blízko musia byť metriky dvoch kandidátov (v %), aby cache rozhodol nerozhodný stav. 0 vypne fallback na cache (kvalifikujú sa len presné shody); 20 je horná hranica. Predvolené 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10827,7 +10827,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth je vypnuté — ťuknutím ho zapnete",
+    "value": "Bluetooth je vypnuté: ťuknutím ho zapnete",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10842,7 +10842,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Pozastavené — tento telefón nemá sieťové určovanie polohy. GPS pozície prichádzajú len vtedy, keď iná aplikácia používa GPS alebo počas nabíjania.",
+    "value": "Pozastavené: tento telefón nemá sieťové určovanie polohy. GPS pozície prichádzajú len vtedy, keď iná aplikácia používa GPS alebo počas nabíjania.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10852,7 +10852,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Tento telefón nemá sieťové určovanie polohy. Keď je zapnuté, KiekR sám zapne GPS, kým prijíma mesh prevádzku — aj na batérii, a zastaví sa, keď stojíte. Spotrebuje viac batérie.",
+    "value": "Tento telefón nemá sieťové určovanie polohy. Keď je zapnuté, KiekR sám zapne GPS, kým prijíma mesh prevádzku (aj na batérii, a zastaví sa, keď stojíte). Spotrebuje viac batérie.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11132,7 +11132,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Iba hexadecimálne znaky 0–9, a–f. Medzery a dvojbodky sa pri vkladaní odstránia. Repeater na pridanie potrebuje úplný kľúč.",
+    "value": "Iba hexadecimálne znaky 0-9, a-f. Medzery a dvojbodky sa pri vkladaní odstránia. Repeater na pridanie potrebuje úplný kľúč.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11262,7 +11262,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d záznamov – zoznam nemusí byť úplný",
+    "value": "%1$d záznamov (zoznam nemusí byť úplný)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11347,7 +11347,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Iba hexadecimálne znaky 0–9, a–f. Medzery a dvojbodky sa pri vkladaní odstránia. Izbový server na pridanie potrebuje úplný kľúč.",
+    "value": "Iba hexadecimálne znaky 0-9, a-f. Medzery a dvojbodky sa pri vkladaní odstránia. Izbový server na pridanie potrebuje úplný kľúč.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11397,7 +11397,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Všetci“ znamená každý kontakt uložený na tomto uzle – pri zapnutom automatickom pridávaní prakticky ktokoľvek v dosahu.",
+    "value": "„Všetci“ znamená každý kontakt uložený na tomto uzle: pri zapnutom automatickom pridávaní prakticky ktokoľvek v dosahu.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11412,7 +11412,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Zdieľanie je na vašom uzle vypnuté – zapnite ho v časti Môj uzol → Zdieľanie telemetrie.",
+    "value": "Zdieľanie je na vašom uzle vypnuté. Zapnite ho v časti Môj uzol → Zdieľanie telemetrie.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11422,7 +11422,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Povolenia sa nepodarilo zmeniť — kontakt musí byť na vašom uzle.",
+    "value": "Povolenia sa nepodarilo zmeniť: kontakt musí byť na vašom uzle.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11442,7 +11442,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Na tomto uzle už prebieha iná žiadosť — skúste to o chvíľu znova.",
+    "value": "Na tomto uzle už prebieha iná žiadosť. Skúste to o chvíľu znova.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11467,7 +11467,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Pozícia bez zmeny — zariadenie možno nemá aktuálnu polohu GPS.",
+    "value": "Pozícia bez zmeny: zariadenie možno nemá aktuálnu polohu GPS.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11477,12 +11477,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "V odpovedi nie je žiadna poloha — buď nemá GPS, má vypnuté GPS, alebo s vami polohu nezdieľa.",
+    "value": "V odpovedi nie je žiadna poloha: buď nemá GPS, má vypnuté GPS, alebo s vami polohu nezdieľa.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Žiadna odpoveď — mimo dosahu, alebo vám to tento kontakt nedovolil vyžiadať.",
+    "value": "Žiadna odpoveď: mimo dosahu, alebo vám to tento kontakt nedovolil vyžiadať.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11507,7 +11507,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Až 16 žiadostí za 15 minút, len cez známu trasu alebo v priamom dosahu — žiadne zaplavenie siete.",
+    "value": "Až 16 žiadostí za 15 minút, len cez známu trasu alebo v priamom dosahu (žiadne zaplavenie siete).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11522,17 +11522,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Živá lokalizácia ukončená — 15 minút uplynulo.",
+    "value": "Živá lokalizácia ukončená: 15 minút uplynulo.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Žiadna odpoveď — mimo priameho dosahu? Skúste to cez opakovače pomocou „Hľadať sieť“.",
+    "value": "Žiadna odpoveď. Mimo priameho dosahu? Skúste to cez opakovače pomocou „Hľadať sieť“.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Spojenie s uzlom bolo prerušené — živá lokalizácia zastavená.",
+    "value": "Spojenie s uzlom bolo prerušené. Živá lokalizácia zastavená.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11597,7 +11597,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Prístup k polohe je vypnutý — je potrebný na zobrazenie vašej polohy a vzdialenosti.",
+    "value": "Prístup k polohe je vypnutý. Je potrebný na zobrazenie vašej polohy a vzdialenosti.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Előbb ossza meg a naplót — a törlés pont azokat az adatokat távolítja el, amelyek a diagnózishoz kellenek.",
+    "value": "Előbb ossza meg a naplót: a törlés pont azokat az adatokat távolítja el, amelyek a diagnózishoz kellenek.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Nincs csatlakoztatott csomópont — a küldéshez csatlakoztass egy companion eszközt.",
+    "value": "Nincs csatlakoztatott csomópont. A küldéshez csatlakoztass egy companion eszközt.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Kapcsolat megszakadt — a küldéshez állítsa vissza a kapcsolatot",
+    "value": "Kapcsolat megszakadt: a küldéshez állítsa vissza a kapcsolatot",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "A csatornán küldött üzenetek névtelenek – a feladó bárki lehet a csatornán.",
+    "value": "A csatornán küldött üzenetek névtelenek: a feladó bárki lehet a csatornán.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Az online címjegyzék ki van kapcsolva — engedélyezz egy forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
+    "value": "Az online címjegyzék ki van kapcsolva. Engedélyezz egy forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Több átjátszó is egyezik ennek az ugrásnak a rövid útvonal-előtagjával. A rendszer nem tudja automatikusan kiválasztani a megfelelőt — válaszd ki azt, amelyik az útvonaladon volt.",
+    "value": "Több átjátszó is egyezik ennek az ugrásnak a rövid útvonal-előtagjával. A rendszer nem tudja automatikusan kiválasztani a megfelelőt. Válaszd ki azt, amelyik az útvonaladon volt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "nem található — a könyvtárban nincs bejegyzés ehhez az előtaghoz",
+    "value": "nem található: a könyvtárban nincs bejegyzés ehhez az előtaghoz",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "nincs találat — a legközelebbi online találatok a „sanity radius” határain kívül esnek",
+    "value": "nincs találat: a legközelebbi online találatok a „sanity radius” határain kívül esnek",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Minden ugrás az átjátszó nyilvános kulcsának első %1$d bájtja(i). A rövid kulcsok több átjátszóhoz is tartozhatnak — érintse meg a földgömböt, hogy az online címjegyzékben megkeresse a hiányzó ugrásokat.",
+    "value": "Minden ugrás az átjátszó nyilvános kulcsának első %1$d bájtja(i). A rövid kulcsok több átjátszóhoz is tartozhatnak. Érintse meg a földgömböt, hogy az online címjegyzékben megkeresse a hiányzó ugrásokat.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "ismeretlen — az eszközről",
+    "value": "ismeretlen (az eszközről)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "A szám alsó becslés — sűrű forgalomnál másolatok elveszhetnek, mielőtt elérnék az appot.",
+    "value": "A szám alsó becslés: sűrű forgalomnál másolatok elveszhetnek, mielőtt elérnék az appot.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(nincs — az eszközről)",
+    "value": "(nincs, az eszközről)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Felfedezett csatornák — érintse meg a megtekintéshez",
+    "value": "Felfedezett csatornák (érintse meg a megtekintéshez)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Érintse meg a kulcsot a másoláshoz. A csatornák kulcs alapján kerülnek összeillesztésre, nem név szerint — gyakran előfordulnak ütközések.",
+    "value": "Érintse meg a kulcsot a másoláshoz. A csatornák kulcs alapján kerülnek összeillesztésre, nem név szerint: gyakran előfordulnak ütközések.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d ugrás",
+    "value": "%1$d-%2$d ugrás",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "A csomópontja ezt az üzenetet már leadta. Visszaigazolás nem érkezett, de a hatótávon belüli címzettek ettől még megkaphatták — ha újra elküldi, kétszer fogják látni.",
+    "value": "A csomópontja ezt az üzenetet már leadta. Visszaigazolás nem érkezett, de a hatótávon belüli címzettek ettől még megkaphatták. Ha újra elküldi, kétszer fogják látni.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Vendéghozzáférés — csak olvasási jogosultsággal",
+    "value": "Vendéghozzáférés (csak olvasási jogosultsággal)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Minden keret, amit a csomópontod hall, itt jelenik meg — semmi sincs kiszűrve.",
+    "value": "Minden keret, amit a csomópontod hall, itt jelenik meg. Semmi sincs kiszűrve.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Szűretlen — a dekódolt, másnak titkosított, ismeretlen és hibás keretek mind megjelennek.",
+    "value": "Szűretlen: a dekódolt, másnak titkosított, ismeretlen és hibás keretek mind megjelennek.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "titkosítva — nem ennek az eszköznek szól",
+    "value": "titkosítva, nem ennek az eszköznek szól",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "minden vett keretet megmutat — azt is, ami nem olvasható",
+    "value": "minden vett keretet megmutat, azt is, ami nem olvasható",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d gyorsítótárban tárolva · részleges — érintse meg a frissítés gombot",
+    "value": "%1$d gyorsítótárban tárolva · részleges, érintse meg a frissítés gombot",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Nincsenek tárolt szomszédok — érintse meg a „Frissítés” gombot.",
+    "value": "Nincsenek tárolt szomszédok. Érintse meg a „Frissítés” gombot.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Ennek az üzenetnek egyetlen továbbítója sem — és a küldő sem — rendelkezik tárolt GPS-koordinátákkal. Zárd be ezt a nézetet, koppints az üzenet útvonalának szakaszán található földgömb ikonra, majd térj vissza ide.",
+    "value": "Ennek az üzenetnek egyetlen továbbítója sem (és a küldő sem) rendelkezik tárolt GPS-koordinátákkal. Zárd be ezt a nézetet, koppints az üzenet útvonalának szakaszán található földgömb ikonra, majd térj vissza ide.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f dB-től %2$.0f dB-ig",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Ahhoz, hogy a többi csomópont vissza tudja fejteni a közvetlen üzeneteinket, a kapcsolati táblázatukban szerepelnie kell a hirdetésünknek. Érintse meg a képernyőt a terjedési mód kiválasztásához — a „zero-hop” csendes (csak a szomszédok); a „flood” hangos (az egész hálózat).",
+    "value": "Ahhoz, hogy a többi csomópont vissza tudja fejteni a közvetlen üzeneteinket, a kapcsolati táblázatukban szerepelnie kell a hirdetésünknek. Érintse meg a képernyőt a terjedési mód kiválasztásához: a „zero-hop” csendes (csak a szomszédok); a „flood” hangos (az egész hálózat).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Ez az eszköz akkumulátorral táplált RTC-vel rendelkezik. A szoftverrel nem lehet visszaállítani — a helyreállításhoz frissítse a firmware-t, vagy vegye ki az RTC tartalékakkumulátorát.",
+    "value": "Ez az eszköz akkumulátorral táplált RTC-vel rendelkezik. A szoftverrel nem lehet visszaállítani. A helyreállításhoz frissítse a firmware-t, vagy vegye ki az RTC tartalékakkumulátorát.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Az „Újraindítás” gomb megnyomásával a párosított csomópont újraindul. A „Gyári beállítások visszaállítása” gomb megnyomásával az eszköz névjegyzéke, csatornái és beállításai törlődnek — az alkalmazás helyi adatai érintetlenek maradnak.",
+    "value": "Az „Újraindítás” gomb megnyomásával a párosított csomópont újraindul. A „Gyári beállítások visszaállítása” gomb megnyomásával az eszköz névjegyzéke, csatornái és beállításai törlődnek. Az alkalmazás helyi adatai érintetlenek maradnak.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "A „Disconnect” (Kapcsolat bontása) gomb megnyomásával a kapcsolat megszakad, de a gyorsítótárban tárolt kapcsolat megmarad — a „Connect” (Csatlakozás) gombra kattintva újra csatlakozhat anélkül, hogy újra párosítania kellene. A „Forget” (Felejtés) gomb megnyomásával a párosítás megszűnik és a gyorsítótár kiürül; a csomópont újra csatlakozásához újra kell párosítani.",
+    "value": "A „Disconnect” (Kapcsolat bontása) gomb megnyomásával a kapcsolat megszakad, de a gyorsítótárban tárolt kapcsolat megmarad. A „Connect” (Csatlakozás) gombra kattintva újra csatlakozhat anélkül, hogy újra párosítania kellene. A „Forget” (Felejtés) gomb megnyomásával a párosítás megszűnik és a gyorsítótár kiürül; a csomópont újra csatlakozásához újra kell párosítani.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Törli az eszközön található névjegyeket, csatornákat, régiókat, beállításokat és az azonosító adatokat. Visszafordíthatatlan művelet — nem lehet visszavonni. Mielőtt folytatná, exportálja mindazt, amit meg szeretne őrizni.",
+    "value": "Törli az eszközön található névjegyeket, csatornákat, régiókat, beállításokat és az azonosító adatokat. Visszafordíthatatlan művelet: nem lehet visszavonni. Mielőtt folytatná, exportálja mindazt, amit meg szeretne őrizni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Teljes hálózat. Hangos — minden átjátszó továbbítja az üzenetet. Óvatosan használja; a tömeges hirdetéseknél az adásidő díját átjátszónként kell fizetni.",
+    "value": "Teljes hálózat. Hangos: minden átjátszó továbbítja az üzenetet. Óvatosan használja; a tömeges hirdetéseknél az adásidő díját átjátszónként kell fizetni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "A „Advanced” mód nyers frekvencia-, sávszélesség-, SF- és CR-értékeket ír. A firmware-tartományok: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "A „Advanced” mód nyers frekvencia-, sávszélesség-, SF- és CR-értékeket ír. A firmware-tartományok: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "A párosított csomópont jelenlegi jelentése. Az alábbi előre beállított értékek a MeshCore közösségi katalógusból származnak — válaszd ki azt, amelyet a helyi hálózatod használ.",
+    "value": "A párosított csomópont jelenlegi jelentése. Az alábbi előre beállított értékek a MeshCore közösségi katalógusból származnak. Válaszd ki azt, amelyet a helyi hálózatod használ.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "A készülék nyelvi beállításai alapján. A megerősítéssel érvényesítheti a beállítást — addig semmi sem változik.",
+    "value": "A készülék nyelvi beállításai alapján. A megerősítéssel érvényesítheti a beállítást. Addig semmi sem változik.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Újra csatlakozás a korábban párosított csomóponthoz. Nincs PIN-kód kérés — a párosítás adatai még mindig a gyorsítótárban vannak.",
+    "value": "Újra csatlakozás a korábban párosított csomóponthoz. Nincs PIN-kód kérés: a párosítás adatai még mindig a gyorsítótárban vannak.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Csak a szomszédok számára. Csendes — nincs túlterhelés. Akkor használd, ha csak a közeli csomópontoknak kell megismerniük a hirdetésedet.",
+    "value": "Csak a szomszédok számára. Csendes: nincs túlterhelés. Akkor használd, ha csak a közeli csomópontoknak kell megismerniük a hirdetésedet.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "A „secret” a csatorna közös, 16 bájtos AES-kulcsa, amelyet 32 hexadecimális karakterként írunk le. A hashtag-stílusú csatornák esetében a titkos kulcs automatikusan a névből származik — ha inkább ezt a módszert szeretnéd használni, hagyd meg a hash jelet a helyén.",
+    "value": "A „secret” a csatorna közös, 16 bájtos AES-kulcsa, amelyet 32 hexadecimális karakterként írunk le. A hashtag-stílusú csatornák esetében a titkos kulcs automatikusan a névből származik. Ha inkább ezt a módszert szeretnéd használni, hagyd meg a hash jelet a helyén.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Az óra előre van állítva. Az alapértelmezett firmware nem engedi a visszafelé történő szinkronizálást. Megoldás: futtasd az alábbi parancssorból a `clkreboot` parancsot — ez visszaállítja az RTC-t 2024-05-15-re, majd újraindítja a rendszert —, majd érintse meg a „szinkronizálás” gombot az aktuális idő beállításához.",
+    "value": "Az óra előre van állítva. Az alapértelmezett firmware nem engedi a visszafelé történő szinkronizálást. Megoldás: futtasd az alábbi parancssorból a `clkreboot` parancsot (ez visszaállítja az RTC-t 2024-05-15-re, majd újraindítja a rendszert), majd érintse meg a „szinkronizálás” gombot az aktuális idő beállításához.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Az eszköz még szinkronizál – kérjük, próbálja meg újra egy pillanat múlva.",
+    "value": "Az eszköz még szinkronizál. Kérjük, próbálja meg újra egy pillanat múlva.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Az online címjegyzék ki van kapcsolva — engedélyezd a forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
+    "value": "Az online címjegyzék ki van kapcsolva. Engedélyezd a forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Az ismétlő jelszó hossza legfeljebb 15 karakter lehet — a bejelentkezéskor a hosszabb jelszavakat a rendszer levágja.",
+    "value": "Az ismétlő jelszó hossza legfeljebb 15 karakter lehet. A bejelentkezéskor a hosszabb jelszavakat a rendszer levágja.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d gyorsítótárban tárolva · részleges — érintse meg a frissítés gombot",
+    "value": "%1$d gyorsítótárban tárolva · részleges, érintse meg a frissítés gombot",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Sebességkorlátozás — %1$d s",
+    "value": "Sebességkorlátozás: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3654,7 +3654,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Nem lehet törölni — a régiónak vannak alrégiói.",
+    "value": "Nem lehet törölni: a régiónak vannak alrégiói.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3724,7 +3724,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Minden ugrás 3 bájt. Összesen %1$d áll rendelkezésre — kiegészítésre vagy levágásra.",
+    "value": "Minden ugrás 3 bájt. Összesen %1$d áll rendelkezésre. Kiegészítésre vagy levágásra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3759,7 +3759,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(még nincs megtanult útvonal — a közvetlen küldések nulla ugrással történnének)",
+    "value": "(még nincs megtanult útvonal: a közvetlen küldések nulla ugrással történnének)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4189,7 +4189,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "A jelenlegi tartózkodási helyed alapján — ehhez az üzenethez nem mentettek el pozíciót.",
+    "value": "A jelenlegi tartózkodási helyed alapján: ehhez az üzenethez nem mentettek el pozíciót.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4399,12 +4399,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Nincsenek ACL-bejegyzések — a betöltéshez érintse meg a „Frissítés” gombot.",
+    "value": "Nincsenek ACL-bejegyzések. A betöltéshez érintse meg a „Frissítés” gombot.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Érvénytelen nyilvános kulcs hexadecimális formátumban — pontosan 64 hexadecimális karakterből kell állnia",
+    "value": "Érvénytelen nyilvános kulcs hexadecimális formátumban: pontosan 64 hexadecimális karakterből kell állnia",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4424,7 +4424,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 hexadecimális karakter — a csomópont teljes nyilvános kulcsa.",
+    "value": "64 hexadecimális karakter (a csomópont teljes nyilvános kulcsa).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4454,7 +4454,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Az adminisztrációs eszközök itt töltődnek be — a parancssori felület és az ACL-szerkesztő a következő frissítésben érkezik.",
+    "value": "Az adminisztrációs eszközök itt töltődnek be. A parancssori felület és az ACL-szerkesztő a következő frissítésben érkezik.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4464,7 +4464,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Egy újabb kérés feldolgozás alatt van — kérjük, próbálja meg újra.",
+    "value": "Egy újabb kérés feldolgozás alatt van. Kérjük, próbálja meg újra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4494,12 +4494,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "A bejelentkezés nem sikerült — helytelen jelszó vagy a szoba nem érhető el.",
+    "value": "A bejelentkezés nem sikerült: helytelen jelszó vagy a szoba nem érhető el.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "A jelszó hossza legfeljebb 15 karakter lehet — ennél hosszabb jelszót a rendszer bejelentkezéskor levágja.",
+    "value": "A jelszó hossza legfeljebb 15 karakter lehet. Ennél hosszabb jelszót a rendszer bejelentkezéskor levágja.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4659,7 +4659,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Amikor a csatlakoztatott eszköz egy támogatott típusú hirdetést észlel, a csomópontot elmenti a névjegyzékébe — ez az adat az újraindítás után is megmarad, és a következő adatletöltéskor eljut az alkalmazáshoz.",
+    "value": "Amikor a csatlakoztatott eszköz egy támogatott típusú hirdetést észlel, a csomópontot elmenti a névjegyzékébe. Ez az adat az újraindítás után is megmarad, és a következő adatletöltéskor eljut az alkalmazáshoz.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4734,7 +4734,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Ha be van kapcsolva, a KiekR automatikusan kezdeményezhet könyvtárlekérdezéseket az alkalmazás által passzívan észlelt hiányzó kontextusok esetén — például az útvonalon található ismeretlen ugrások, a hallott, de a könyvtárban még nem szereplő átjátszók, a hiányzó szomszédsorok, valamint a felfedezés során hiányzó régiók esetén. Ha ki van kapcsolva (alapértelmezett), minden könyvtárlekérdezéshez egy érintésre van szükség.",
+    "value": "Ha be van kapcsolva, a KiekR automatikusan kezdeményezhet könyvtárlekérdezéseket az alkalmazás által passzívan észlelt hiányzó kontextusok esetén: például az útvonalon található ismeretlen ugrások, a hallott, de a könyvtárban még nem szereplő átjátszók, a hiányzó szomszédsorok, valamint a felfedezés során hiányzó régiók esetén. Ha ki van kapcsolva (alapértelmezett), minden könyvtárlekérdezéshez egy érintésre van szükség.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4769,7 +4769,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "A lekérdezések kizárólag a KiekR könyvtárba irányulnak — soha nem harmadik fél szerverére. A gyorsítótárból történő olvasás továbbra is ingyenes; ez a kapcsoló a hálózati rész működését szabályozza.",
+    "value": "A lekérdezések kizárólag a KiekR könyvtárba irányulnak, soha nem harmadik fél szerverére. A gyorsítótárból történő olvasás továbbra is ingyenes; ez a kapcsoló a hálózati rész működését szabályozza.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4889,12 +4889,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Az importálás befejeződött — %1$d azonosítók, %2$d csatornák, %3$d régiók, %4$d névjegyek, %5$d repeater-bejelentkezések.",
+    "value": "Az importálás befejeződött: %1$d azonosítók, %2$d csatornák, %3$d régiók, %4$d névjegyek, %5$d repeater-bejelentkezések.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Az importálás befejeződött — %1$d azonosítók, %2$d csatornák, %3$d régiók, %4$d névjegyek, %5$d repeater-bejelentkezések, %6$d kedvencek, %7$d letiltott feladók, %8$d beállítások.",
+    "value": "Az importálás befejeződött: %1$d azonosítók, %2$d csatornák, %3$d régiók, %4$d névjegyek, %5$d repeater-bejelentkezések, %6$d kedvencek, %7$d letiltott feladók, %8$d beállítások.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4909,7 +4909,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Visszaállítás .json vagy .mcbackup fájlból. Az importálás alapértelmezés szerint a „Cserélés” módban történik — a meglévő csatornáid, névjegyeid és régióid törlődnek, majd a csomag beillesztésre kerül. Érintsd meg a „Megerősítés” gombot, és tartsd lenyomva 5 másodpercig.",
+    "value": "Visszaállítás .json vagy .mcbackup fájlból. Az importálás alapértelmezés szerint a „Cserélés” módban történik: a meglévő csatornáid, névjegyeid és régióid törlődnek, majd a csomag beillesztésre kerül. Érintsd meg a „Megerősítés” gombot, és tartsd lenyomva 5 másodpercig.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4964,7 +4964,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Ez NEM a BLE-párosítási PIN-kódod. Ez kizárólag ezt a biztonsági másolatot védi — válassz valami könnyen megjegyezhetőt; a KiekR nem tudja helyreállítani.",
+    "value": "Ez NEM a BLE-párosítási PIN-kódod. Ez kizárólag ezt a biztonsági másolatot védi. Válassz valami könnyen megjegyezhetőt; a KiekR nem tudja helyreállítani.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5009,7 +5009,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "A biztonsági mentés az app újabb verziójával készült (%1$s séma) — a lehető legteljesebb mértékben alkalmazva.",
+    "value": "A biztonsági mentés az app újabb verziójával készült (%1$s séma), a lehető legteljesebb mértékben alkalmazva.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5119,7 +5119,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Folyamvonal = a menteni kívánt görbe. Szaggatott vonal = az adott változat alapértelmezett kémiai görbéje. X-tengely: 2800–4400 mV. Y-tengely: 0–100%%.",
+    "value": "Folyamvonal = a menteni kívánt görbe. Szaggatott vonal = az adott változat alapértelmezett kémiai görbéje. X-tengely: 2800-4400 mV. Y-tengely: 0-100%%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5174,7 +5174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Értesítsen, ha a csatlakoztatott eszköz töltöttségi szintje a figyelmeztető százalékra csökken. Az újraindítási késleltetés azt jelenti, hogy a százalékos értéknek mennyivel kell a küszöbérték fölé emelkednie, mielőtt a következő figyelmeztetés elindulhat — növelje ezt az értéket, ha az akkumulátor töltöttségi görbéje eléri a platót (LiFePO4, AA).",
+    "value": "Értesítsen, ha a csatlakoztatott eszköz töltöttségi szintje a figyelmeztető százalékra csökken. Az újraindítási késleltetés azt jelenti, hogy a százalékos értéknek mennyivel kell a küszöbérték fölé emelkednie, mielőtt a következő figyelmeztetés elindulhat. Növelje ezt az értéket, ha az akkumulátor töltöttségi görbéje eléri a platót (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5204,7 +5204,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "A blokkolás feloldásához érintse meg a szemetes ikont. A felhasználó korábbi üzenetei minden csatornán újra megjelennek. A blokkolás a megjelenített pontos névre vonatkozik — ezt a nevet bárki felveheti, így ez nem fogja megakadályozni egy elszánt hozzászólót abban, hogy nevet változtasson.",
+    "value": "A blokkolás feloldásához érintse meg a szemetes ikont. A felhasználó korábbi üzenetei minden csatornán újra megjelennek. A blokkolás a megjelenített pontos névre vonatkozik. Ezt a nevet bárki felveheti, így ez nem fogja megakadályozni egy elszánt hozzászólót abban, hogy nevet változtasson.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5234,12 +5234,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "A csomópontodon van egy „%1$s” nevű csatorna, de helyileg „%2$s” néven szerepel. Ugyanazt a titkosítási kulcsot használják, így az üzenetküldés továbbra is működik — válassz ki egy nevet, amelyet meg akarsz tartani.",
+    "value": "A csomópontodon van egy „%1$s” nevű csatorna, de helyileg „%2$s” néven szerepel. Ugyanazt a titkosítási kulcsot használják, így az üzenetküldés továbbra is működik. Válassz ki egy nevet, amelyet meg akarsz tartani.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Mind a helyi listádon, mind a csomópontodon van egy „%1$s” nevű csatorna, de különböző titkosítási kulcsokkal. Az üzenetek nem fogják feloldani a titkosítást a két csatorna között — válaszd ki, melyik kulcs az igazi.",
+    "value": "Mind a helyi listádon, mind a csomópontodon van egy „%1$s” nevű csatorna, de különböző titkosítási kulcsokkal. Az üzenetek nem fogják feloldani a titkosítást a két csatorna között. Válaszd ki, melyik kulcs az igazi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5339,7 +5339,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Eltávolítja a csatornát és annak kulcsát az adatbázisból. Ez a csatorna egyedi kulcsot használ, ezért a névből nem lehet újra levezetni — az eltávolítás végleges, hacsak nem importálod újra a kulcsot (pl. QR-kód segítségével).",
+    "value": "Eltávolítja a csatornát és annak kulcsát az adatbázisból. Ez a csatorna egyedi kulcsot használ, ezért a névből nem lehet újra levezetni. Az eltávolítás végleges, hacsak nem importálod újra a kulcsot (pl. QR-kód segítségével).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5349,7 +5349,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Elrejti a %1$s oldalt a csevegőlistádból és a csatorna beállításaidból. Később újra hozzáadhatod, ha beírod a nevet a Beállítások → Csatornák → Csatorna hozzáadása név szerint menüpontban — az SHA-256 kulcs ugyanúgy számítható ki.",
+    "value": "Elrejti a %1$s oldalt a csevegőlistádból és a csatorna beállításaidból. Később újra hozzáadhatod, ha beírod a nevet a Beállítások → Csatornák → Csatorna hozzáadása név szerint menüpontban. Az SHA-256 kulcs ugyanúgy számítható ki.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5484,7 +5484,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Nem sikerült hozzáadni a csatornát — lehet, hogy már létezik, vagy a név/kulcs érvénytelen.",
+    "value": "Nem sikerült hozzáadni a csatornát: lehet, hogy már létezik, vagy a név/kulcs érvénytelen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5494,12 +5494,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "A rögzített nyilvános csatornakulcsot használja — nincs szükség kulcsra.",
+    "value": "A rögzített nyilvános csatornakulcsot használja, nincs szükség kulcsra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Kulcs szükséges — az egyedi nevű csatornákhoz 32 karakter hosszú hexadecimális kulcs szükséges.",
+    "value": "Kulcs szükséges: az egyedi nevű csatornákhoz 32 karakter hosszú hexadecimális kulcs szükséges.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5569,7 +5569,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "A csomópontod és a helyi listád nem egyezik meg egy csatorna tekintetében — döntsd el, melyik fél véleménye érvényesüljön.",
+    "value": "A csomópontod és a helyi listád nem egyezik meg egy csatorna tekintetében. Döntsd el, melyik fél véleménye érvényesüljön.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5619,7 +5619,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "A kulcs megmaradt. A megjelenítés visszaállításához — vagy a végleges törléshez — kattintson a „Unhide” gombra.",
+    "value": "A kulcs megmaradt. A megjelenítés visszaállításához (vagy a végleges törléshez) kattintson a „Unhide” gombra.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5699,7 +5699,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Névtelen csatlakozás — hitelesítés nélkül is működik fejlesztői környezetben.",
+    "value": "Névtelen csatlakozás: hitelesítés nélkül is működik fejlesztői környezetben.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5779,7 +5779,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Bekapcsolt állapotban a KiekR rögzíti, hogy mely régiókat (és amennyiben lehetséges, mely átjátszókat) veszi észre egy körülbelül fél kilométeres nagyságú, durva felbontású térképcellában, és rendszeres időközönként Wi-Fi-n keresztül feltölti a cellánkénti összesített adatokat. A pontos tartózkodási helyed soha nem hagyja el a telefont – csak a cellát –, és a térkép mindig csak azt mutatja, hogy mit hallottak ott, soha nem azt, hogy ki hallotta. Álnéven működik, és független a KiekR-azonosságodtól; bármikor kikapcsolhatod.",
+    "value": "Bekapcsolt állapotban a KiekR rögzíti, hogy mely régiókat (és amennyiben lehetséges, mely átjátszókat) veszi észre egy körülbelül fél kilométeres nagyságú, durva felbontású térképcellában, és rendszeres időközönként Wi-Fi-n keresztül feltölti a cellánkénti összesített adatokat. A pontos tartózkodási helyed soha nem hagyja el a telefont (csak a cellát), és a térkép mindig csak azt mutatja, hogy mit hallottak ott, soha nem azt, hogy ki hallotta. Álnéven működik, és független a KiekR-azonosságodtól; bármikor kikapcsolhatod.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5819,7 +5819,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "A lefedettséghez pontos helymeghatározásra van szükség ahhoz, hogy a hallott hangokat a megfelelő térképcellahez rendelje. Engedélyezze a pontos helymeghatározást a KiekR számára — ellenkező esetben a lefedettség nem gyűjt adatokat ezen a telefonon.",
+    "value": "A lefedettséghez pontos helymeghatározásra van szükség ahhoz, hogy a hallott hangokat a megfelelő térképcellahez rendelje. Engedélyezze a pontos helymeghatározást a KiekR számára. Ellenkező esetben a lefedettség nem gyűjt adatokat ezen a telefonon.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5884,7 +5884,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "Az MQTT csak akkor továbbít adatokat, ha a készüléked Bluetooth-kapcsolaton keresztül párosítva van. A készülék hálózati azonosítója soha nem kerül feltöltésre — minden bróker a saját, generált kulcspárját használja. A megfigyelők nevei mindig „KiekR_”-rel kezdődnek.",
+    "value": "Az MQTT csak akkor továbbít adatokat, ha a készüléked Bluetooth-kapcsolaton keresztül párosítva van. A készülék hálózati azonosítója soha nem kerül feltöltésre: minden bróker a saját, generált kulcspárját használja. A megfigyelők nevei mindig „KiekR_”-rel kezdődnek.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5899,7 +5899,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "A hárombetűs repülőtér-kód jelzi a régióját az elemző oldalon (pl. HAM, JFK, MUC). A megfigyelő neve a csomagjai mellett jelenik meg — a „KiekR_” előtag állandó.",
+    "value": "A hárombetűs repülőtér-kód jelzi a régióját az elemző oldalon (pl. HAM, JFK, MUC). A megfigyelő neve a csomagjai mellett jelenik meg. A „KiekR_” előtag állandó.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5919,12 +5919,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Szüneteltetve — mobilhálózaton",
+    "value": "Szüneteltetve: mobilhálózaton",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Szüneteltetve — mobilhálózaton · %1$d várólistán",
+    "value": "Szüneteltetve: mobilhálózaton · %1$d várólistán",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5974,7 +5974,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "Az MQTT-feltöltés az eszköz által fogott összes nyers LoRa-csomagot — beleértve azokat a titkosított bájtokat is, amelyeket te magad nem tudsz elolvasni — továbbítja az általad beállított brókernek. Alapértelmezés szerint ki van kapcsolva; brókerenként kell bekapcsolni. Minden bróker a saját, generált kulcspárját használja, így az eszköz hálózati azonosítója soha nem hagyja el az eszközt.",
+    "value": "Az MQTT-feltöltés az eszköz által fogott összes nyers LoRa-csomagot (beleértve azokat a titkosított bájtokat is, amelyeket te magad nem tudsz elolvasni) továbbítja az általad beállított brókernek. Alapértelmezés szerint ki van kapcsolva; brókerenként kell bekapcsolni. Minden bróker a saját, generált kulcspárját használja, így az eszköz hálózati azonosítója soha nem hagyja el az eszközt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6019,22 +6019,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Téma — hibakeresés",
+    "value": "Téma (hibakeresés)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Téma — csomagok",
+    "value": "Téma (csomagok)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Téma — nyers",
+    "value": "Téma (nyers)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Téma — állapot",
+    "value": "Téma (állapot)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6104,7 +6104,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "A portszámnak 1–65535 között kell lennie",
+    "value": "A portszámnak 1 és 65535 között kell lennie",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6209,7 +6209,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Alapból kikapcsolva. Bekapcsolva a KiekR feltölti az api.kiekr.app címre az iOS által átadott összeomlás-, fagyás- és CPU-jelentéseket: alkalmazásverzió, iOS-verzió, eszközmodell, a rendszer hibakódjai és a hívási verem. Semmilyen üzenet, névjegy, kulcs vagy helyadat — és csak így juthat el a telefonján jelentkező hiba a fejlesztőhöz.",
+    "value": "Alapból kikapcsolva. Bekapcsolva a KiekR feltölti az api.kiekr.app címre az iOS által átadott összeomlás-, fagyás- és CPU-jelentéseket: alkalmazásverzió, iOS-verzió, eszközmodell, a rendszer hibakódjai és a hívási verem. Semmilyen üzenet, névjegy, kulcs vagy helyadat. Csak így juthat el a telefonján jelentkező hiba a fejlesztőhöz.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6249,7 +6249,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Az előre beállított sorok nevét nem lehet megváltoztatni, és az URL-jüket sem lehet módosítani — ha nem szeretnéd őket használni, kapcsold ki őket, vagy adj hozzá egy új forrást.",
+    "value": "Az előre beállított sorok nevét nem lehet megváltoztatni, és az URL-jüket sem lehet módosítani. Ha nem szeretnéd őket használni, kapcsold ki őket, vagy adj hozzá egy új forrást.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6354,7 +6354,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "A keresések rangsor szerint végigfutnak minden engedélyezett forráson; az a forrás nyer, amelyik elsőként ad vissza jelöltet. Az api.kiekr.app adatvédelmi szempontból biztonságos (kizárólag A-szintű átjátszók). A Meshcorenetz Analyzer szélesebb körű — természetesen átadja a kérést azoknak a csomópontoknak, amelyekkel a KiekR háttérrendszer nem rendelkezik. A fel/le nyilakkal változtathatja meg a sorrendet; a ceruza ikonra kattintva szerkesztheti az egyes források ugrásonkénti maximális távolságát.",
+    "value": "A keresések rangsor szerint végigfutnak minden engedélyezett forráson; az a forrás nyer, amelyik elsőként ad vissza jelöltet. Az api.kiekr.app adatvédelmi szempontból biztonságos (kizárólag A-szintű átjátszók). A Meshcorenetz Analyzer szélesebb körű, természetesen átadja a kérést azoknak a csomópontoknak, amelyekkel a KiekR háttérrendszer nem rendelkezik. A fel/le nyilakkal változtathatja meg a sorrendet; a ceruza ikonra kattintva szerkesztheti az egyes források ugrásonkénti maximális távolságát.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6454,7 +6454,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnosztikai kontextus —",
+    "value": "Diagnosztikai kontextus:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6474,7 +6474,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Android-naplók — %1$s %2$s — %3$s",
+    "value": "KiekR Android-naplók, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6694,7 +6694,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Értesítés minden beérkező DM-ről. A DM-ek kriptográfiai hitelesítéssel rendelkeznek – ennek kikapcsolása csak az értesítést szünteti meg; az üzenet továbbra is megjelenik a Csevegések listádban.",
+    "value": "Értesítés minden beérkező DM-ről. A DM-ek kriptográfiai hitelesítéssel rendelkeznek. Ennek kikapcsolása csak az értesítést szünteti meg; az üzenet továbbra is megjelenik a Csevegések listádban.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6759,7 +6759,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Tartós tanulási segédeszköz az előtag-ütközések esetén: miután a determinisztikus kiválasztó meghatározza a győztest, a (prefix, hop, pubkey) értékét módosítják, így a következő, ugyanazon előtaggal járó döntetlen esetén a rendszer ugyanúgy dönt.\n\nCache TTL — mennyi ideig marad fenn egy bejegyzés anélkül, hogy újra felhasználnák. Alapértelmezett érték: 30 nap, korlát: 1..=180.\n\nDöntő margó — mennyire kell közel lenniük két jelölt mutatóinak (%%-ban kifejezve), mielőtt a gyorsítótár feloldja a döntetlent. A 0 letiltja a gyorsítótárra való visszatérést (csak a pontos döntetlenek számítanak); a 20 a felső határ. Alapértelmezett érték: 5 %%.",
+    "value": "Tartós tanulási segédeszköz az előtag-ütközések esetén: miután a determinisztikus kiválasztó meghatározza a győztest, a (prefix, hop, pubkey) értékét módosítják, így a következő, ugyanazon előtaggal járó döntetlen esetén a rendszer ugyanúgy dönt.\n\nCache TTL: mennyi ideig marad fenn egy bejegyzés anélkül, hogy újra felhasználnák. Alapértelmezett érték: 30 nap, korlát: 1..=180.\n\nDöntő margó: mennyire kell közel lenniük két jelölt mutatóinak (%%-ban kifejezve), mielőtt a gyorsítótár feloldja a döntetlent. A 0 letiltja a gyorsítótárra való visszatérést (csak a pontos döntetlenek számítanak); a 20 a felső határ. Alapértelmezett érték: 5 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6814,12 +6814,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "A többbájtos ugrásokhoz a Companion firmware v1.15.0 vagy újabb verziója szükséges. A Companion készülék egy régebbi verziót jelez — a frissítésig 1 bájtos üzemmódra van rögzítve. A korábbi beállítások megmaradnak, és a frissítés után újra aktiválódnak.",
+    "value": "A többbájtos ugrásokhoz a Companion firmware v1.15.0 vagy újabb verziója szükséges. A Companion készülék egy régebbi verziót jelez: a frissítésig 1 bájtos üzemmódra van rögzítve. A korábbi beállítások megmaradnak, és a frissítés után újra aktiválódnak.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Az általunk kezdeményezett új kimenő csomagok útvonalához hozzáadott bájtok száma ugrásonként. A magasabb értékek csökkentik a névütközéseket, de előfordulhat, hogy a régebbi átjátszók firmware-je nem továbbítja őket. Az ismert partnerekhez vezető, már megtanult útvonalak megtartják a fogadáskor érvényes szélességüket — ez a beállítás csak a flood és az anon-reply útvonalakra van hatással. Egyedi útvonalakhoz 3 bájt ajánlott (a 2 is működik); a firmware alapértelmezett értéke: 1.",
+    "value": "Az általunk kezdeményezett új kimenő csomagok útvonalához hozzáadott bájtok száma ugrásonként. A magasabb értékek csökkentik a névütközéseket, de előfordulhat, hogy a régebbi átjátszók firmware-je nem továbbítja őket. Az ismert partnerekhez vezető, már megtanult útvonalak megtartják a fogadáskor érvényes szélességüket. Ez a beállítás csak a flood és az anon-reply útvonalakra van hatással. Egyedi útvonalakhoz 3 bájt ajánlott (a 2 is működik); a firmware alapértelmezett értéke: 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6854,7 +6854,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Az online címjegyzék ki van kapcsolva — engedélyezd a forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
+    "value": "Az online címjegyzék ki van kapcsolva. Engedélyezd a forrást a Beállítások → Megosztás → Címjegyzék menüpontban.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7174,7 +7174,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "%1$s régió már szerepel a listádban — vedd elő a rejtett elemek közül",
+    "value": "%1$s régió már szerepel a listádban: vedd elő a rejtett elemek közül",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7334,7 +7334,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Az Android kikapcsolja az alkalmazások hálózati kapcsolatát, amikor a képernyő ki van kapcsolva. Vedd ki a KiekR-t az akkumulátor-optimalizálás alól – és a telefon gyártójának automatikus indítási korlátozásai alól is –, így a Companion Link továbbra is futni fog a háttérben.",
+    "value": "Az Android kikapcsolja az alkalmazások hálózati kapcsolatát, amikor a képernyő ki van kapcsolva. Vedd ki a KiekR-t az akkumulátor-optimalizálás alól (és a telefon gyártójának automatikus indítási korlátozásai alól is), így a Companion Link továbbra is futni fog a háttérben.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7394,7 +7394,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "A „Retries” azt jelzi, hogy a core-lib hány további kísérletet hajt végre GET_NEIGHBOURS oldalanként, ha a firmware nem válaszol a kísérletenkénti időkereten belül — ez jól jön az instabil BLE- vagy rádiókapcsolatok esetén, ahol az oldal lekérdezése időtúllépésbe kerül. Az időkeret az oldal méretével arányosan változik, így ha megnöveljük, a további kísérleteknek elegendő idő áll rendelkezésre. Maga az oldal mérete a firmware pufferének felső határához van rögzítve. Alapértelmezett érték: %1$d.",
+    "value": "A „Retries” azt jelzi, hogy a core-lib hány további kísérletet hajt végre GET_NEIGHBOURS oldalanként, ha a firmware nem válaszol a kísérletenkénti időkereten belül. Ez jól jön az instabil BLE- vagy rádiókapcsolatok esetén, ahol az oldal lekérdezése időtúllépésbe kerül. Az időkeret az oldal méretével arányosan változik, így ha megnöveljük, a további kísérleteknek elegendő idő áll rendelkezésre. Maga az oldal mérete a firmware pufferének felső határához van rögzítve. Alapértelmezett érték: %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7464,12 +7464,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Nincs válasz — az útvonal talán nem elérhető.",
+    "value": "Nincs válasz: az útvonal talán nem elérhető.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Az első átjátszónak hallania kell téged, neked pedig az utolsó válaszát — válassz olyan útvonalat, amelyről tudod, hogy elérhető.",
+    "value": "Az első átjátszónak hallania kell téged, neked pedig az utolsó válaszát. Válassz olyan útvonalat, amelyről tudod, hogy elérhető.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7529,7 +7529,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Nincs csatlakoztatott eszköz — érintse meg a párosításhoz",
+    "value": "Nincs csatlakoztatott eszköz: érintse meg a párosításhoz",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7549,7 +7549,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "A KiekR online címjegyzékek segítségével képes azonosítani egy ismeretlen átjátszót a hash-értéke alapján — ez akkor jön jól, ha egy útvonal-ugrás puszta hexadecimális előtagként jelenik meg. A funkció alapértelmezés szerint ki van kapcsolva, amíg be nem kapcsolod a Beállítások → Megosztás → Címjegyzék menüpont alatt.",
+    "value": "A KiekR online címjegyzékek segítségével képes azonosítani egy ismeretlen átjátszót a hash-értéke alapján (ez akkor jön jól, ha egy útvonal-ugrás puszta hexadecimális előtagként jelenik meg). A funkció alapértelmezés szerint ki van kapcsolva, amíg be nem kapcsolod a Beállítások → Megosztás → Címjegyzék menüpont alatt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8104,7 +8104,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Jelentkezzen be a jobb felső sarokban található vezérlővel — vendégként a statisztikák, a szomszédok, a telemetria és a firmware megtekintéséhez; rendszergazdaként a beállítások, régiók és CLI eléréséhez.",
+    "value": "Jelentkezzen be a jobb felső sarokban található vezérlővel: vendégként a statisztikák, a szomszédok, a telemetria és a firmware megtekintéséhez; rendszergazdaként a beállítások, régiók és CLI eléréséhez.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8359,7 +8359,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Olyan csomagok, amelyeket a rádió nem tudott hibátlanul olvasni — interferencia vagy gyenge jel esetén emelkedik.",
+    "value": "Olyan csomagok, amelyeket a rádió nem tudott hibátlanul olvasni. Interferencia vagy gyenge jel esetén emelkedik.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8619,7 +8619,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Ha be van kapcsolva, a KiekR megosztja a mapme.sh-val – egy közösségi lefedettségi térképpel –, hogy mely térképi cellák rendelkeznek hálózati lefedettséggel. Minden minta tartalmazza a térképi cellát, a jelerősséget és az ugrási útvonalat, de soha nem a pontos helyzetedet vagy személyazonosságodat. A feltöltések a „Csak Wi-Fi” és a „Feltöltési intervallum” beállításaidnak megfelelően történnek.",
+    "value": "Ha be van kapcsolva, a KiekR megosztja a mapme.sh-val (egy közösségi lefedettségi térképpel), hogy mely térképi cellák rendelkeznek hálózati lefedettséggel. Minden minta tartalmazza a térképi cellát, a jelerősséget és az ugrási útvonalat, de soha nem a pontos helyzetedet vagy személyazonosságodat. A feltöltések a „Csak Wi-Fi” és a „Feltöltési intervallum” beállításaidnak megfelelően történnek.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8851,7 +8851,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Nincs GPS-jel — előfordulhat, hogy az online címjegyzékből származó útvonalak nem jelennek meg a térképen. A teljes útvonal feloldásához engedélyezze a helymeghatározáshoz való hozzáférést.",
+    "value": "Nincs GPS-jel: előfordulhat, hogy az online címjegyzékből származó útvonalak nem jelennek meg a térképen. A teljes útvonal feloldásához engedélyezze a helymeghatározáshoz való hozzáférést.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8866,7 +8866,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Illesszen be egy 64 vagy 128 karakteres hexadecimális titkos kulcsot a biztonsági másolatból származó identitás visszaállításához — a kulcs helyileg mentésre kerül, és továbbításra kerül a csatlakoztatott kiegészítő eszközre. Az exportálás során a csomópont kulcsa láthatóvá válik, így biztonsági másolatot készíthet róla.",
+    "value": "Illesszen be egy 64 vagy 128 karakteres hexadecimális titkos kulcsot a biztonsági másolatból származó identitás visszaállításához. A kulcs helyileg mentésre kerül, és továbbításra kerül a csatlakoztatott kiegészítő eszközre. Az exportálás során a csomópont kulcsa láthatóvá válik, így biztonsági másolatot készíthet róla.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8901,7 +8901,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Rögzített alapértelmezett forrás – a végpont és az egyéb beállítások rögzítettek; itt átnevezheti.",
+    "value": "Rögzített alapértelmezett forrás: a végpont és az egyéb beállítások rögzítettek; itt átnevezheti.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8926,7 +8926,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "A szerver válaszolt – az URL érvényes",
+    "value": "A szerver válaszolt: az URL érvényes",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8966,7 +8966,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Ez a csomópontod titkos azonosító kulcsa — aki rendelkezik vele, az a csomópontodnak adhatja ki magát. Tárold biztonságos helyen, és soha ne add tovább senkinek.",
+    "value": "Ez a csomópontod titkos azonosító kulcsa: aki rendelkezik vele, az a csomópontodnak adhatja ki magát. Tárold biztonságos helyen, és soha ne add tovább senkinek.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9031,7 +9031,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Ha ez bekapcsolva van, a KiekR automatikusan indíthat könyvtár-lekérdezéseket a hiányzó kontextusra, amit az alkalmazás passzívan észlel — ismeretlen hopok egy útvonalban, hallott, de a könyvtárban még nem szereplő repeaterek, hiányzó szomszéd sorok, és hiányzó régiók egy felderítés során. Ha ki van kapcsolva (alapértelmezett), minden könyvtár-lekérdezéshez érintés szükséges.",
+    "value": "Ha ez bekapcsolva van, a KiekR automatikusan indíthat könyvtár-lekérdezéseket a hiányzó kontextusra, amit az alkalmazás passzívan észlel: ismeretlen hopok egy útvonalban, hallott, de a könyvtárban még nem szereplő repeaterek, hiányzó szomszéd sorok, és hiányzó régiók egy felderítés során. Ha ki van kapcsolva (alapértelmezett), minden könyvtár-lekérdezéshez érintés szükséges.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9061,7 +9061,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "A lekérdezések csak a KiekR könyvtárához mennek — soha külső szolgáltatóhoz. A gyorsítótárból történő olvasás továbbra is ingyenes; ez a kapcsoló a hálózati felet szabályozza.",
+    "value": "A lekérdezések csak a KiekR könyvtárához mennek, soha külső szolgáltatóhoz. A gyorsítótárból történő olvasás továbbra is ingyenes; ez a kapcsoló a hálózati felet szabályozza.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9096,7 +9096,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Ez NEM a BLE-párosítási PIN-kódod, és NEM az identitás-jelmondatod. Csak ezt a mentési fájlt védi. Válassz valami könnyen megjegyezhetőt — a KiekR nem tudja helyetted visszaállítani.",
+    "value": "Ez NEM a BLE-párosítási PIN-kódod, és NEM az identitás-jelmondatod. Csak ezt a mentési fájlt védi. Válassz valami könnyen megjegyezhetőt. A KiekR nem tudja helyetted visszaállítani.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9191,7 +9191,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Értesítés, amikor a csatlakoztatott készülék eléri a figyelmeztetési százalékot. Az újraaktiválási rés azt jelenti, mennyivel kell a százaléknak visszakúsznia a küszöb fölé, mielőtt a következő figyelmeztetés kioldható — növeld meg, ha az akkumulátorgörbéd elér egy platót (LiFePO4, AA).",
+    "value": "Értesítés, amikor a csatlakoztatott készülék eléri a figyelmeztetési százalékot. Az újraaktiválási rés azt jelenti, mennyivel kell a százaléknak visszakúsznia a küszöb fölé, mielőtt a következő figyelmeztetés kioldható. Növeld meg, ha az akkumulátorgörbéd elér egy platót (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9251,7 +9251,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Csúsztass a feloldáshoz. A korábbi üzeneteik minden csatornán újra megjelennek feloldás után. A blokkolás a pontosan megjelenített névre vonatkozik — bárki választhatja ezt a nevet, így ez nem akadályozza meg az elszánt posztolót abban, hogy átnevezze magát.",
+    "value": "Csúsztass a feloldáshoz. A korábbi üzeneteik minden csatornán újra megjelennek feloldás után. A blokkolás a pontosan megjelenített névre vonatkozik. Bárki választhatja ezt a nevet, így ez nem akadályozza meg az elszánt posztolót abban, hogy átnevezze magát.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9261,12 +9261,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Egy hivatalos node-hoz csatlakozva — csak a készülékre telepített csatornák tudnak küldeni. Csúsztass jobbra a csatorna hozzáadásához vagy eltávolításához a készülékről. Csúsztass balra a csatorna eltávolításához — a #-csatornák megtartják a kulcsukat, így név alapján újra hozzáadhatók; az egyedi kulcsú csatornák véglegesen törlődnek.",
+    "value": "Egy hivatalos node-hoz csatlakozva: csak a készülékre telepített csatornák tudnak küldeni. Csúsztass jobbra a csatorna hozzáadásához vagy eltávolításához a készülékről. Csúsztass balra a csatorna eltávolításához: a #-csatornák megtartják a kulcsukat, így név alapján újra hozzáadhatók; az egyedi kulcsú csatornák véglegesen törlődnek.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "A csatornákhoz régiót kell rendelni, hogy a legtöbb hálózaton továbbítva legyenek. Koppints egy csatornára a hozzárendeléshez. Csúsztass balra az eltávolításhoz — a #-csatornák megtartják a kulcsukat, így név alapján újra hozzáadhatók; az egyedi kulcsú csatornák véglegesen törlődnek.",
+    "value": "A csatornákhoz régiót kell rendelni, hogy a legtöbb hálózaton továbbítva legyenek. Koppints egy csatornára a hozzárendeléshez. Csúsztass balra az eltávolításhoz: a #-csatornák megtartják a kulcsukat, így név alapján újra hozzáadhatók; az egyedi kulcsú csatornák véglegesen törlődnek.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9386,7 +9386,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Vendéghozzáférés — csak olvasható",
+    "value": "Vendéghozzáférés (csak olvasható)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9466,17 +9466,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Az online könyvtár ki van kapcsolva — engedélyezz egy forrást a Beállítások → Megosztás → Könyvtár menüben.",
+    "value": "Az online könyvtár ki van kapcsolva. Engedélyezz egy forrást a Beállítások → Megosztás → Könyvtár menüben.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Több repeater is megfelel ennek a hopnak a rövid útvonal-előtagjára. Nem tudjuk automatikusan kiválasztani a megfelelőt — válaszd ki azt, amelyik az útvonaladon volt.",
+    "value": "Több repeater is megfelel ennek a hopnak a rövid útvonal-előtagjára. Nem tudjuk automatikusan kiválasztani a megfelelőt. Válaszd ki azt, amelyik az útvonaladon volt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Még nincsenek feltérképezett hexák — vezess körbe bekapcsolt rádióval, és megjelennek itt.",
+    "value": "Még nincsenek feltérképezett hexák. Vezess körbe bekapcsolt rádióval, és megjelennek itt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9576,7 +9576,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Szüneteltetve — mobilneten",
+    "value": "Szüneteltetve: mobilneten",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9646,22 +9646,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Téma — csomagok",
+    "value": "Téma (csomagok)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Téma — állapot",
+    "value": "Téma (állapot)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Téma — debug",
+    "value": "Téma (debug)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Téma — nyers",
+    "value": "Téma (nyers)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9766,7 +9766,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Lokálisan menti az identitást. Ha a kulcs seed-alapú és egy companion csatlakoztatva van, a seed is átküldésre kerül a készülékre a CMD_IMPORT_PRIVATE_KEY parancson keresztül — ez felülírja a készülék jelenlegi identitását.",
+    "value": "Lokálisan menti az identitást. Ha a kulcs seed-alapú és egy companion csatlakoztatva van, a seed is átküldésre kerül a készülékre a CMD_IMPORT_PRIVATE_KEY parancson keresztül. Ez felülírja a készülék jelenlegi identitását.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9911,7 +9911,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Küldő órájának eltérése — a helyi fogadási idő alapján",
+    "value": "Küldő órájának eltérése: a helyi fogadási idő alapján",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10051,7 +10051,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "A jelszó legfeljebb 15 karakter lehet — minden ennél hosszabb rész levágásra kerül bejelentkezéskor.",
+    "value": "A jelszó legfeljebb 15 karakter lehet. Minden ennél hosszabb rész levágásra kerül bejelentkezéskor.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10076,7 +10076,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Értesítés minden bejövő DM-nél. A DM-ek kriptográfiailag hitelesítettek — ennek kikapcsolása csak az értesítést némítja el; az üzenet továbbra is megjelenik a Chatek listájában.",
+    "value": "Értesítés minden bejövő DM-nél. A DM-ek kriptográfiailag hitelesítettek. Ennek kikapcsolása csak az értesítést némítja el; az üzenet továbbra is megjelenik a Chatek listájában.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10126,7 +10126,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "A többbájtos hopokhoz v1.15.0-s vagy újabb companion firmware szükséges. A companionod régebbi verziót jelez — az upgrade-ig 1 bájtra van korlátozva. A korábbi beállításod megmarad, és az upgrade után újra aktiválódik.",
+    "value": "A többbájtos hopokhoz v1.15.0-s vagy újabb companion firmware szükséges. A companionod régebbi verziót jelez: az upgrade-ig 1 bájtra van korlátozva. A korábbi beállításod megmarad, és az upgrade után újra aktiválódik.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10156,7 +10156,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Csúsztass egy régiót az eltávolításához. Megmarad az adatbázisban (és továbbra is jelöli a bejövő forgalmat), de eltűnik ebből a listából és a csatornaválasztókból — add hozzá újra név szerint, hogy visszahozd.",
+    "value": "Csúsztass egy régiót az eltávolításához. Megmarad az adatbázisban (és továbbra is jelöli a bejövő forgalmat), de eltűnik ebből a listából és a csatornaválasztókból. Add hozzá újra név szerint, hogy visszahozd.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10366,7 +10366,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Nincs csatlakoztatva companion eszköz — előbb csatlakoztass egy node-ot.",
+    "value": "Nincs csatlakoztatva companion eszköz. Előbb csatlakoztass egy node-ot.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10391,7 +10391,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Visszaállítás egy `.json` vagy `.mcbackup` fájlból. Az importálás alapértelmezetten Csere módban történik — a meglévő csatornáid, kontaktjaid és régióid törlődnek, majd a csomag beillesztésre kerül. Tartsd lenyomva a Megerősítés gombot 5 másodpercig.",
+    "value": "Visszaállítás egy `.json` vagy `.mcbackup` fájlból. Az importálás alapértelmezetten Csere módban történik: a meglévő csatornáid, kontaktjaid és régióid törlődnek, majd a csomag beillesztésre kerül. Tartsd lenyomva a Megerősítés gombot 5 másodpercig.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10491,17 +10491,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Még semelyik observer nem hallotta — ez soha nem jelenti azt, hogy a küldés sikertelen volt.",
+    "value": "Még semelyik observer nem hallotta. Ez soha nem jelenti azt, hogy a küldés sikertelen volt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Eddig egy observer-régióban hallották — valószínűleg csak a közelben.",
+    "value": "Eddig egy observer-régióban hallották, valószínűleg csak a közelben.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "%1$d régióban hallották — a mesh eljuttatta ezt az üzenetet.",
+    "value": "%1$d régióban hallották: a mesh eljuttatta ezt az üzenetet.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10516,7 +10516,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Az ellenőrzés sikertelen — próbáld újra később.",
+    "value": "Az ellenőrzés sikertelen. Próbáld újra később.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10526,7 +10526,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "%1$d observer hallotta — a mesh eljuttatta ezt az üzenetet.",
+    "value": "%1$d observer hallotta: a mesh eljuttatta ezt az üzenetet.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10536,7 +10536,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Ez a node jelenleg minden hirdetéstípust automatikusan hozzáad („Auto add all”) — az alábbi szűrők nincsenek hatással. Lehet, hogy egy másik app kapcsolta át ezt.",
+    "value": "Ez a node jelenleg minden hirdetéstípust automatikusan hozzáad („Auto add all”). Az alábbi szűrők nincsenek hatással. Lehet, hogy egy másik app kapcsolta át ezt.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10554,7 +10554,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Nem lett elküldve — nincs telepítve a csomópontodra",
+    "value": "Nem lett elküldve: nincs telepítve a csomópontodra",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10576,7 +10576,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Azokat a hexagonokat is feltérképezi, ahol nem érkezett forgalom — GPS-t és több akkut használ.",
+    "value": "Azokat a hexagonokat is feltérképezi, ahol nem érkezett forgalom. GPS-t és több akkut használ.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10621,7 +10621,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Ennek a node-nak a kontaktlistája betelt — nem tud új, hallott kontaktokat felvenni. Törölj néhányat, hogy legyen hely.",
+    "value": "Ennek a node-nak a kontaktlistája betelt: nem tud új, hallott kontaktokat felvenni. Törölj néhányat, hogy legyen hely.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10631,17 +10631,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Szüneteltetve — a helymeghatározás csak „Az app használata közben” engedélyezett",
+    "value": "Szüneteltetve: a helymeghatározás csak „Az app használata közben” engedélyezett",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Szüneteltetve — a helymeghatározási munkamenet leállt",
+    "value": "Szüneteltetve: a helymeghatározási munkamenet leállt",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Az „Mindig” beállítás nélkül a Coverage csak akkor gyűjt, amíg a KiekR nyitva van — az iOS szünetelteti a helymeghatározási munkamenetet, amint az app háttérbe kerül. „Mindig” esetén a KiekR a zsebedben is folytatja a gyűjtést, csak azt a helyzetet használva, amit a telefonod már ismer, extra GPS nélkül.",
+    "value": "Az „Mindig” beállítás nélkül a Coverage csak akkor gyűjt, amíg a KiekR nyitva van. Az iOS szünetelteti a helymeghatározási munkamenetet, amint az app háttérbe kerül. „Mindig” esetén a KiekR a zsebedben is folytatja a gyűjtést, csak azt a helyzetet használva, amit a telefonod már ismer, extra GPS nélkül.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10741,12 +10741,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Eltávolítja a %@-t a chat-listádból és a csatornabeállításokból. Később bármikor újra hozzáadhatod a nevét a Beállítások → Csatornák → Csatorna hozzáadása név szerint menüben — az SHA-256 kulcs ugyanúgy származik.",
+    "value": "Eltávolítja a %@-t a chat-listádból és a csatornabeállításokból. Később bármikor újra hozzáadhatod a nevét a Beállítások → Csatornák → Csatorna hozzáadása név szerint menüben. Az SHA-256 kulcs ugyanúgy származik.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Törlöd a %@-t? Ez végleges — a kulcs nem állítható elő újra a névből.",
+    "value": "Törlöd a %@-t? Ez végleges: a kulcs nem állítható elő újra a névből.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10791,7 +10791,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Tartós tanulási segédeszköz az előtag-ütközésekhez: amint a determinisztikus választó kiválasztott egy győztest, a (előtag, hop, pubkey) frissítésre kerül, így a következő döntetlen ugyanannál az előtagnál ugyanúgy oldódik fel.\n\nCache TTL — mennyi ideig marad érvényes egy bejegyzés újrafelhasználás nélkül. Alapértelmezett 30 nap, korlát 1..=180.\n\nDöntetlen-feloldási határ — mennyire kell közel lennie két jelölt metrikájának (%-ban), mielőtt a cache feloldja a döntetlent. A 0 letiltja a cache-fallbacket (csak a pontos döntetlenek számítanak); 20 a felső korlát. Alapértelmezett 5 %.",
+    "value": "Tartós tanulási segédeszköz az előtag-ütközésekhez: amint a determinisztikus választó kiválasztott egy győztest, a (előtag, hop, pubkey) frissítésre kerül, így a következő döntetlen ugyanannál az előtagnál ugyanúgy oldódik fel.\n\nCache TTL: mennyi ideig marad érvényes egy bejegyzés újrafelhasználás nélkül. Alapértelmezett 30 nap, korlát 1..=180.\n\nDöntetlen-feloldási határ: mennyire kell közel lennie két jelölt metrikájának (%-ban), mielőtt a cache feloldja a döntetlent. A 0 letiltja a cache-fallbacket (csak a pontos döntetlenek számítanak); 20 a felső korlát. Alapértelmezett 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10826,7 +10826,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "A Bluetooth ki van kapcsolva — koppints a bekapcsoláshoz",
+    "value": "A Bluetooth ki van kapcsolva: koppints a bekapcsoláshoz",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10841,7 +10841,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Szüneteltetve — ezen a telefonon nincs hálózati helymeghatározás. GPS-pozíciók csak akkor érkeznek, amíg egy másik alkalmazás GPS-t használ, vagy töltés közben.",
+    "value": "Szüneteltetve: ezen a telefonon nincs hálózati helymeghatározás. GPS-pozíciók csak akkor érkeznek, amíg egy másik alkalmazás GPS-t használ, vagy töltés közben.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10851,7 +10851,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Ezen a telefonon nincs hálózati helymeghatározás. Ha be van kapcsolva, a KiekR maga indítja a GPS-t, amíg mesh-forgalom érkezik — akkumulátorról is, és megáll, ha egy helyben állsz. Több akkumulátort fogyaszt.",
+    "value": "Ezen a telefonon nincs hálózati helymeghatározás. Ha be van kapcsolva, a KiekR maga indítja a GPS-t, amíg mesh-forgalom érkezik (akkumulátorról is, és megáll, ha egy helyben állsz). Több akkumulátort fogyaszt.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11131,7 +11131,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Csak hexadecimális karakterek: 0–9, a–f. Beillesztéskor a szóközök és kettőspontok eltávolításra kerülnek. A hozzáadáshoz a Repeaternek a teljes kulcsra van szüksége.",
+    "value": "Csak hexadecimális karakterek: 0-9, a-f. Beillesztéskor a szóközök és kettőspontok eltávolításra kerülnek. A hozzáadáshoz a Repeaternek a teljes kulcsra van szüksége.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11261,7 +11261,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d bejegyzés – a lista hiányos lehet",
+    "value": "%1$d bejegyzés (a lista hiányos lehet)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11346,7 +11346,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Csak hexadecimális karakterek: 0–9, a–f. Beillesztéskor a szóközök és kettőspontok eltávolításra kerülnek. A hozzáadáshoz a szobai szervernek a teljes kulcsra van szüksége.",
+    "value": "Csak hexadecimális karakterek: 0-9, a-f. Beillesztéskor a szóközök és kettőspontok eltávolításra kerülnek. A hozzáadáshoz a szobai szervernek a teljes kulcsra van szüksége.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11396,7 +11396,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "A „Mindenki” az ezen a csomóponton tárolt összes kapcsolatot jelenti — bekapcsolt automatikus hozzáadás mellett gyakorlatilag bárkit a hatótávolságon belül.",
+    "value": "A „Mindenki” az ezen a csomóponton tárolt összes kapcsolatot jelenti: bekapcsolt automatikus hozzáadás mellett gyakorlatilag bárkit a hatótávolságon belül.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11411,7 +11411,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "A megosztás ki van kapcsolva a csomópontodon — kapcsold be itt: Az én csomópontom → Telemetria megosztása.",
+    "value": "A megosztás ki van kapcsolva a csomópontodon. Kapcsold be itt: Az én csomópontom → Telemetria megosztása.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11421,7 +11421,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Nem sikerült frissíteni a jogosultságokat — a kapcsolatnak a csomópontodon kell lennie.",
+    "value": "Nem sikerült frissíteni a jogosultságokat: a kapcsolatnak a csomópontodon kell lennie.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11441,7 +11441,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Ezen a csomóponton már folyamatban van egy másik kérés — próbáld újra egy pillanat múlva.",
+    "value": "Ezen a csomóponton már folyamatban van egy másik kérés. Próbáld újra egy pillanat múlva.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11466,7 +11466,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "A pozíció nem változott — előfordulhat, hogy az eszköznek jelenleg nincs érvényes GPS-helyzete.",
+    "value": "A pozíció nem változott: előfordulhat, hogy az eszköznek jelenleg nincs érvényes GPS-helyzete.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11476,12 +11476,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "A válaszban nincs helyzet — nincs GPS, a GPS ki van kapcsolva, vagy a helyzet nincs megosztva veled.",
+    "value": "A válaszban nincs helyzet: nincs GPS, a GPS ki van kapcsolva, vagy a helyzet nincs megosztva veled.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Nincs válasz — hatótávolságon kívül van, vagy ez a kapcsolat nem engedélyezte, hogy lekérdezd.",
+    "value": "Nincs válasz: hatótávolságon kívül van, vagy ez a kapcsolat nem engedélyezte, hogy lekérdezd.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11506,7 +11506,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Legfeljebb 16 kérés 15 perc alatt, csak ismert útvonalon vagy közvetlen hatótávolságon keresztül — a hálót nem árasztja el.",
+    "value": "Legfeljebb 16 kérés 15 perc alatt, csak ismert útvonalon vagy közvetlen hatótávolságon keresztül (a hálót nem árasztja el).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11521,17 +11521,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Az élő helymeghatározás véget ért — letelt a 15 perc.",
+    "value": "Az élő helymeghatározás véget ért: letelt a 15 perc.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Nincs válasz — kívül esik a közvetlen hatótávolságon? Használd a „Keresés a hálóban” funkciót, hogy ismétlőkön keresztül próbálkozz.",
+    "value": "Nincs válasz. Kívül esik a közvetlen hatótávolságon? Használd a „Keresés a hálóban” funkciót, hogy ismétlőkön keresztül próbálkozz.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Megszakadt a kapcsolat a csomóponttal — az élő helymeghatározás leállt.",
+    "value": "Megszakadt a kapcsolat a csomóponttal. Az élő helymeghatározás leállt.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11596,7 +11596,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "A helyhozzáférés ki van kapcsolva — szükséges a helyzeted és a távolság megjelenítéséhez.",
+    "value": "A helyhozzáférés ki van kapcsolva. Szükséges a helyzeted és a távolság megjelenítéséhez.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Vispirms kopīgojiet žurnālu — notīrīšana dzēš tieši tos datus, kas vajadzīgi diagnostikai.",
+    "value": "Vispirms kopīgojiet žurnālu: notīrīšana dzēš tieši tos datus, kas vajadzīgi diagnostikai.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Nav pievienota neviena mezgla — lai sūtītu, pievienojiet companion ierīci.",
+    "value": "Nav pievienota neviena mezgla. Lai sūtītu, pievienojiet companion ierīci.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Savienojums pārtraukts — atjaunojiet savienojumu, lai nosūtītu",
+    "value": "Savienojums pārtraukts: atjaunojiet savienojumu, lai nosūtītu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanāla ziņojumi nav parakstīti — sūtītāja vārds var būt jebkurš kanāla dalībnieks.",
+    "value": "Kanāla ziņojumi nav parakstīti: sūtītāja vārds var būt jebkurš kanāla dalībnieks.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Tīmekļa katalogs ir atspējots — aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
+    "value": "Tīmekļa katalogs ir atspējots. Aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Vairāki atkārtotāji atbilst šī posma īsākā ceļa prefiksam. Mēs nevaram automātiski izvēlēties pareizo — izvēlies to, kas atradās tavā ceļā.",
+    "value": "Vairāki atkārtotāji atbilst šī posma īsākā ceļa prefiksam. Mēs nevaram automātiski izvēlēties pareizo. Izvēlies to, kas atradās tavā ceļā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "nav atrasts — direktorijā nebija ieraksta ar šo prefiksu",
+    "value": "nav atrasts: direktorijā nebija ieraksta ar šo prefiksu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "nav atbilstības — tuvākie rezultāti internetā atrodas ārpus saprāta rādiusa",
+    "value": "nav atbilstības: tuvākie rezultāti internetā atrodas ārpus saprāta rādiusa",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Katra posma garums ir atkārtotāja publiskā atslēgas pirmie %1$d baitu. Īsas atslēgas var atbilst vairākiem atkārtotājiem — pieskarieties globusam, lai tiešsaistes katalogā atrastu trūkstošos posmus.",
+    "value": "Katra posma garums ir atkārtotāja publiskā atslēgas pirmie %1$d baitu. Īsas atslēgas var atbilst vairākiem atkārtotājiem. Pieskarieties globusam, lai tiešsaistes katalogā atrastu trūkstošos posmus.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "nav zināms — no ierīces",
+    "value": "nav zināms (no ierīces)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Skaits ir apakšējā robeža — intensīvā satiksmē kopijas var pazust, pirms tās sasniedz lietotni.",
+    "value": "Skaits ir apakšējā robeža: intensīvā satiksmē kopijas var pazust, pirms tās sasniedz lietotni.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(nav — no ierīces)",
+    "value": "(nav, no ierīces)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Atklātie kanāli — pieskarieties, lai apskatītu",
+    "value": "Atklātie kanāli (pieskarieties, lai apskatītu)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Pieskarieties atslēgai, lai to kopētu. Kanāli tiek saskaņoti pēc atslēgas, nevis nosaukuma — bieži rodas sadursmes.",
+    "value": "Pieskarieties atslēgai, lai to kopētu. Kanāli tiek saskaņoti pēc atslēgas, nevis nosaukuma: bieži rodas sadursmes.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d lēcieni",
+    "value": "%1$d-%2$d lēcieni",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Jūsu mezgls šo ziņu jau ir pārraidījis. Apstiprinājums netika saņemts, taču uztveršanas zonā esošie saņēmēji to tomēr varēja saņemt — nosūtot vēlreiz, viņi to redzēs divreiz.",
+    "value": "Jūsu mezgls šo ziņu jau ir pārraidījis. Apstiprinājums netika saņemts, taču uztveršanas zonā esošie saņēmēji to tomēr varēja saņemt. Nosūtot vēlreiz, viņi to redzēs divreiz.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Viesu piekļuve — tikai lasīšanai",
+    "value": "Viesu piekļuve (tikai lasīšanai)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Katrs kadrs, ko jūsu mezgls sadzird, parādās šeit — nekas netiek filtrēts.",
+    "value": "Katrs kadrs, ko jūsu mezgls sadzird, parādās šeit. Nekas netiek filtrēts.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Bez filtra — parādās gan dekodēti, gan citiem šifrēti, gan nezināmi, gan bojāti kadri.",
+    "value": "Bez filtra: parādās gan dekodēti, gan citiem šifrēti, gan nezināmi, gan bojāti kadri.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "šifrēts — nav paredzēts šai ierīcei",
+    "value": "šifrēts, nav paredzēts šai ierīcei",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "rāda katru saņemto kadru — arī to, ko nevar izlasīt",
+    "value": "rāda katru saņemto kadru, arī to, ko nevar izlasīt",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d saglabāts kešatmiņā · daļēji — pieskarieties, lai atjauninātu",
+    "value": "%1$d saglabāts kešatmiņā · daļēji, pieskarieties, lai atjauninātu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Nav saglabātu kaimiņu — pieskarieties, lai atjauninātu.",
+    "value": "Nav saglabātu kaimiņu. Pieskarieties, lai atjauninātu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Nevienam no šī ziņojuma retranslētājiem — kā arī ziņojuma avotam — nav saglabātas GPS koordinātas. Aizveriet šo skatu, pieskarieties zemeslodes ikonai ziņojuma maršruta sadaļā, pēc tam atgriezieties.",
+    "value": "Nevienam no šī ziņojuma retranslētājiem (kā arī ziņojuma avotam) nav saglabātas GPS koordinātas. Aizveriet šo skatu, pieskarieties zemeslodes ikonai ziņojuma maršruta sadaļā, pēc tam atgriezieties.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "no %1$.0f līdz %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Lai citi mezgli varētu atšifrēt mūsu privātās ziņas, viņu kontaktu tabulā ir jābūt mūsu sludinājumam. Pieskarieties, lai izvēlētos pārraides veidu — „zero-hop“ ir kluss (tikai kaimiņi); „flood“ ir skaļš (visā tīklā).",
+    "value": "Lai citi mezgli varētu atšifrēt mūsu privātās ziņas, viņu kontaktu tabulā ir jābūt mūsu sludinājumam. Pieskarieties, lai izvēlētos pārraides veidu: „zero-hop“ ir kluss (tikai kaimiņi); „flood“ ir skaļš (visā tīklā).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Šai ierīcei ir RTC ar rezerves bateriju. To nevar atiestatīt ar programmatūras palīdzību — lai atjaunotu darbību, ir jāatjaunina programmaparatūra vai jāizņem RTC rezerves baterija.",
+    "value": "Šai ierīcei ir RTC ar rezerves bateriju. To nevar atiestatīt ar programmatūras palīdzību. Lai atjaunotu darbību, ir jāatjaunina programmaparatūra vai jāizņem RTC rezerves baterija.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Funkcija „Reboot“ pārstartē pāri savienoto mezglu. Funkcija „Factory reset“ dzēš ierīces kontaktus, kanālus un iestatījumus — lietotnes vietējie dati netiek skarti.",
+    "value": "Funkcija „Reboot“ pārstartē pāri savienoto mezglu. Funkcija „Factory reset“ dzēš ierīces kontaktus, kanālus un iestatījumus. Lietotnes vietējie dati netiek skarti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Funkcija „Atvienot” pārtrauc savienojumu, taču saglabā kešatmiņā saglabāto savienojumu — pieskarieties „Savienot”, lai atjaunotu savienojumu bez atkārtotas pārošanas. Funkcija „Aizmirst” atceļ pārošanu un izdzēš kešatmiņu; lai atjaunotu savienojumu, mezglu ir jāpāro no jauna.",
+    "value": "Funkcija „Atvienot” pārtrauc savienojumu, taču saglabā kešatmiņā saglabāto savienojumu. Pieskarieties „Savienot”, lai atjaunotu savienojumu bez atkārtotas pārošanas. Funkcija „Aizmirst” atceļ pārošanu un izdzēš kešatmiņu; lai atjaunotu savienojumu, mezglu ir jāpāro no jauna.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Dzēš kontaktus, kanālus, reģionus, iestatījumus un identitāti ierīcē. Šī darbība ir neatgriezeniska — to nevar atcelt. Pirms turpināt, eksportējiet visu, ko vēlaties saglabāt.",
+    "value": "Dzēš kontaktus, kanālus, reģionus, iestatījumus un identitāti ierīcē. Šī darbība ir neatgriezeniska: to nevar atcelt. Pirms turpināt, eksportējiet visu, ko vēlaties saglabāt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Viss tīkls. Skaļi — katrs retranslētājs pārraida. Lietojiet ar mēru; masveida reklāmas maksā par pārraides laiku katram retranslētājam.",
+    "value": "Viss tīkls. Skaļi: katrs retranslētājs pārraida. Lietojiet ar mēru; masveida reklāmas maksā par pārraides laiku katram retranslētājam.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Paplašinātā versija ieraksta neapstrādātus datus par frekvenci, joslas platumu, simbolu frekvenci un kodēšanas attiecību. Programmatūras diapazoni: 400–2500 MHz, 7,8–500 kHz, simbolu frekvence 5–12, kodēšanas attiecība 4/5–4/8.",
+    "value": "Paplašinātā versija ieraksta neapstrādātus datus par frekvenci, joslas platumu, simbolu frekvenci un kodēšanas attiecību. Programmatūras diapazoni: 400-2500 MHz, 7,8-500 kHz, simbolu frekvence 5-12, kodēšanas attiecība 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Ko šobrīd ziņo pāri savienotais mezgls. Zemāk minētās iestatījumu priekšizvēles ir ņemtas no „MeshCore“ kopienas kataloga — izvēlieties to, ko izmanto jūsu vietējais tīkls.",
+    "value": "Ko šobrīd ziņo pāri savienotais mezgls. Zemāk minētās iestatījumu priekšizvēles ir ņemtas no „MeshCore“ kopienas kataloga. Izvēlieties to, ko izmanto jūsu vietējais tīkls.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "Pamatojoties uz jūsu ierīces valodas iestatījumiem. Apstipriniet, lai piemērotu — nekas nemainīsies, kamēr to neizdarīsiet.",
+    "value": "Pamatojoties uz jūsu ierīces valodas iestatījumiem. Apstipriniet, lai piemērotu. Nekas nemainīsies, kamēr to neizdarīsiet.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Atkārtoti izveidot savienojumu ar iepriekš pāri savienoto mezglu. PIN koda pieprasījums netiek parādīts — savienojums joprojām ir saglabāts kešatmiņā.",
+    "value": "Atkārtoti izveidot savienojumu ar iepriekš pāri savienoto mezglu. PIN koda pieprasījums netiek parādīts: savienojums joprojām ir saglabāts kešatmiņā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Tikai kaimiņiem. Kluss — bez pārplūdes. Izmantojiet tikai tad, ja jūsu sludinājumu ir jāuztver tikai tuvējie mezgli.",
+    "value": "Tikai kaimiņiem. Kluss: bez pārplūdes. Izmantojiet tikai tad, ja jūsu sludinājumu ir jāuztver tikai tuvējie mezgli.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "„Secret“ ir kanāla kopīgā 16 baitu AES atslēga, kas rakstīta kā 32 heksadecimālie simboli. Kanāliem, kuru nosaukumi ir veidoti kā hashtag, šī atslēga tiek automātiski ģenerēta no nosaukuma — atstājiet hash zīmi savā vietā, ja vēlaties izmantot šo metodi.",
+    "value": "„Secret“ ir kanāla kopīgā 16 baitu AES atslēga, kas rakstīta kā 32 heksadecimālie simboli. Kanāliem, kuru nosaukumi ir veidoti kā hashtag, šī atslēga tiek automātiski ģenerēta no nosaukuma. Atstājiet hash zīmi savā vietā, ja vēlaties izmantot šo metodi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Pulkstenis ir iestatīts uz priekšu. Standarta programmaparatūra neļauj veikt sinhronizāciju ar pagātnes datumu. Risinājums: izpildiet komandu `clkreboot` no komandrindas, kā norādīts zemāk — tā atiestatīs RTC uz 2024-05-15 un pārstartēs ierīci — pēc tam pieskarieties sinhronizācijas pogai, lai iestatītu pašreizējo laiku.",
+    "value": "Pulkstenis ir iestatīts uz priekšu. Standarta programmaparatūra neļauj veikt sinhronizāciju ar pagātnes datumu. Risinājums: izpildiet komandu `clkreboot` no komandrindas, kā norādīts zemāk (tā atiestatīs RTC uz 2024-05-15 un pārstartēs ierīci), pēc tam pieskarieties sinhronizācijas pogai, lai iestatītu pašreizējo laiku.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Ierīce joprojām sinhronizējas — lūdzu, mēģiniet vēlreiz pēc brīža.",
+    "value": "Ierīce joprojām sinhronizējas. Lūdzu, mēģiniet vēlreiz pēc brīža.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Tīmekļa katalogs ir atspējots — aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
+    "value": "Tīmekļa katalogs ir atspējots. Aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Atkārtotāja parole nedrīkst pārsniegt 15 rakstzīmes — ja tā ir garāka, pieteikšanās brīdī liekie rakstzīmes tiek nogriezti.",
+    "value": "Atkārtotāja parole nedrīkst pārsniegt 15 rakstzīmes. Ja tā ir garāka, pieteikšanās brīdī liekie rakstzīmes tiek nogriezti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3071,12 +3071,12 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_needs_login_footer": {
-    "value": "Piesakieties (kā viesis), lai apskatītu statistiku, kaimiņus, telemetriju un programmaparatūru · kā administrators — lai veiktu konfigurāciju un izmantotu CLI.",
+    "value": "Piesakieties (kā viesis), lai apskatītu statistiku, kaimiņus, telemetriju un programmaparatūru · kā administrators, lai veiktu konfigurāciju un izmantotu CLI.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d saglabāts kešatmiņā · daļēji — pieskarieties, lai atjauninātu",
+    "value": "%1$d saglabāts kešatmiņā · daļēji, pieskarieties, lai atjauninātu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Ierobežots ātrums — %1$d s",
+    "value": "Ierobežots ātrums: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3655,7 +3655,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Nevar dzēst — reģionam ir apakšreģioni.",
+    "value": "Nevar dzēst: reģionam ir apakšreģioni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3725,7 +3725,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Katra lēciena garums ir 3 baiti. Kopā sanāk%1$ds — vai nu jāpapildina, vai jāsamazina.",
+    "value": "Katra lēciena garums ir 3 baiti. Kopā sanāk %1$d. Vai nu jāpapildina, vai jāsamazina.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3740,7 +3740,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_footer": {
-    "value": "Baiti tiek saglabāti 3 baitu platumā un nosūtīšanas brīdī tiek pielāgoti aktīvā TX ceļa haša izmēram. Tiek pieņemti visi atdalītāji — komats, atstarpe un jauna rinda.",
+    "value": "Baiti tiek saglabāti 3 baitu platumā un nosūtīšanas brīdī tiek pielāgoti aktīvā TX ceļa haša izmēram. Tiek pieņemti visi atdalītāji: komats, atstarpe un jauna rinda.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3760,7 +3760,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(vēl nav izveidots maršruts — tiešās nosūtīšanas notiktu bez starpstacijām)",
+    "value": "(vēl nav izveidots maršruts: tiešās nosūtīšanas notiktu bez starpstacijām)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4190,7 +4190,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Pamatojoties uz jūsu pašreizējo atrašanās vietu — šim ziņojumam netika saglabāta nekāda atrašanās vieta.",
+    "value": "Pamatojoties uz jūsu pašreizējo atrašanās vietu: šim ziņojumam netika saglabāta nekāda atrašanās vieta.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4400,12 +4400,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Nav ACL ierakstu — pieskarieties pogai „Atjaunināt“, lai tos ielādētu.",
+    "value": "Nav ACL ierakstu. Pieskarieties pogai „Atjaunināt“, lai tos ielādētu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Nepareizs publiskā atslēgas heksadecimālais formāts — tam jābūt tieši 64 heksadecimālajiem simboliem",
+    "value": "Nepareizs publiskā atslēgas heksadecimālais formāts: tam jābūt tieši 64 heksadecimālajiem simboliem",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4425,7 +4425,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 heksadecimālie simboli — mezgla pilnais publiskais atslēgas kods.",
+    "value": "64 heksadecimālie simboli (mezgla pilnais publiskais atslēgas kods).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4455,7 +4455,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Šeit tiek ielādēti administratora rīki — CLI un ACL redaktors būs pieejams nākamajā atjauninājumā.",
+    "value": "Šeit tiek ielādēti administratora rīki. CLI un ACL redaktors būs pieejams nākamajā atjauninājumā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4465,7 +4465,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "Tiek apstrādāts vēl viens pieprasījums — lūdzu, mēģiniet vēlreiz.",
+    "value": "Tiek apstrādāts vēl viens pieprasījums. Lūdzu, mēģiniet vēlreiz.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4495,12 +4495,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Pieslēgšanās neizdevās — nepareizs paroles vai telpa nav pieejama.",
+    "value": "Pieslēgšanās neizdevās: nepareizs paroles vai telpa nav pieejama.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Parolei ir noteikts ierobežojums — ne vairāk kā 15 rakstzīmes; ja tā ir garāka, pieteikšanās brīdī liekie rakstzīmes tiek nogriezti.",
+    "value": "Parolei ir noteikts ierobežojums: ne vairāk kā 15 rakstzīmes; ja tā ir garāka, pieteikšanās brīdī liekie rakstzīmes tiek nogriezti.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4660,7 +4660,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Kad pieslēgtā ierīce uztver atbalstītā tipa reklāmu, tā saglabā šo mezglu savā kontaktu tabulā — šī informācija saglabājas arī pēc pārstartēšanas un tiek nosūtīta lietotnei nākamajā datu sinhronizācijas reizē.",
+    "value": "Kad pieslēgtā ierīce uztver atbalstītā tipa reklāmu, tā saglabā šo mezglu savā kontaktu tabulā; šī informācija saglabājas arī pēc pārstartēšanas un tiek nosūtīta lietotnei nākamajā datu sinhronizācijas reizē.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4735,7 +4735,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Kad funkcija ir ieslēgta, KiekR var automātiski veikt direktorija meklējumus, lai atrastu trūkstošo kontekstu, ko lietotne pasīvi pamanījusi — nezināmi posmi ceļā, uztvertie atkārtotāji, kas vēl nav iekļauti direktorijā, trūkstošas kaimiņu rindas un trūkstoši reģioni atklāšanas procesā. Kad funkcija ir izslēgta (noklusējuma iestatījums), katram direktorija meklējumam ir nepieciešams pieskāriens.",
+    "value": "Kad funkcija ir ieslēgta, KiekR var automātiski veikt direktorija meklējumus, lai atrastu trūkstošo kontekstu, ko lietotne pasīvi pamanījusi: nezināmi posmi ceļā, uztvertie atkārtotāji, kas vēl nav iekļauti direktorijā, trūkstošas kaimiņu rindas un trūkstoši reģioni atklāšanas procesā. Kad funkcija ir izslēgta (noklusējuma iestatījums), katram direktorija meklējumam ir nepieciešams pieskāriens.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4770,7 +4770,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Meklēšanas notiek tikai KiekR direktorijā — nekad trešās puses serverī. Lasīšana no keša paliek bezmaksas; šis slēdzis kontrolē tīkla pusi.",
+    "value": "Meklēšanas notiek tikai KiekR direktorijā, nekad trešās puses serverī. Lasīšana no keša paliek bezmaksas; šis slēdzis kontrolē tīkla pusi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4865,7 +4865,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_export_footer": {
-    "value": "Ar MeshCore saderīgs JSON. Standarta MeshCore lietotne šo failu atver bez problēmām. Kanāli + kontakti + ceļojuma identitāte; ziņojumi — nē.",
+    "value": "Ar MeshCore saderīgs JSON. Standarta MeshCore lietotne šo failu atver bez problēmām. Kanāli + kontakti + ceļojuma identitāte; ziņojumi nē.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4890,12 +4890,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importēšana pabeigta — %1$d identitātes, %2$d kanāli, %3$d reģioni, %4$d kontakti, %5$d atkārtotāju pieteikšanās dati.",
+    "value": "Importēšana pabeigta: %1$d identitātes, %2$d kanāli, %3$d reģioni, %4$d kontakti, %5$d atkārtotāju pieteikšanās dati.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importēšana pabeigta — %1$d identitātes, %2$d kanāli, %3$d reģioni, %4$d kontakti, %5$d atkārtotāju pieteikšanās dati, %6$d izlase, %7$d bloķētie sūtītāji, %8$d iestatījumi.",
+    "value": "Importēšana pabeigta: %1$d identitātes, %2$d kanāli, %3$d reģioni, %4$d kontakti, %5$d atkārtotāju pieteikšanās dati, %6$d izlase, %7$d bloķētie sūtītāji, %8$d iestatījumi.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4910,7 +4910,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Atjaunojiet no .json vai .mcbackup faila. Importēšanas iestatījums pēc noklusējuma ir „Aizstāt“ — jūsu esošie kanāli, kontakti un reģioni tiks dzēsti, pēc tam tiks ievietots pakotnes saturs. Pieskarieties pogai „Apstiprināt“ un turiet to nospiestu 5 sekundes.",
+    "value": "Atjaunojiet no .json vai .mcbackup faila. Importēšanas iestatījums pēc noklusējuma ir „Aizstāt“: jūsu esošie kanāli, kontakti un reģioni tiks dzēsti, pēc tam tiks ievietots pakotnes saturs. Pieskarieties pogai „Apstiprināt“ un turiet to nospiestu 5 sekundes.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4965,7 +4965,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Tas NAV jūsu BLE pārošanas PIN kods. Tas aizsargā tikai šo rezerves kopijas failu — izvēlieties kaut ko viegli atceramu; KiekR to nevarēs atjaunot.",
+    "value": "Tas NAV jūsu BLE pārošanas PIN kods. Tas aizsargā tikai šo rezerves kopijas failu. Izvēlieties kaut ko viegli atceramu; KiekR to nevarēs atjaunot.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5010,7 +5010,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Dublējums izveidots ar jaunāku lietotnes versiju (shēma %1$s) — piemērots pēc iespējas pilnīgāk.",
+    "value": "Dublējums izveidots ar jaunāku lietotnes versiju (shēma %1$s), piemērots pēc iespējas pilnīgāk.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5050,7 +5050,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_anchors_footer": {
-    "value": "Spriegumiem jābūt stingri pieaugošiem; procentuālajām vērtībām — nemazināmām. Ievietojiet fiksatorus lielākās atstarpes viduspunktā.",
+    "value": "Spriegumiem jābūt stingri pieaugošiem; procentuālajām vērtībām nemazināmām. Ievietojiet fiksatorus lielākās atstarpes viduspunktā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5110,7 +5110,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_polling_footer": {
-    "value": "Cik bieži lietotne pieprasa ierīcei akumulatora spriegumu. Redzams režīms darbojas, kamēr lietotne ir atvērta; fona režīms — kamēr tā ir paslēpta. Ātrāks pedāļu griezienu skaits = jaunāki rādījumi, lielāka BLE datu plūsma.",
+    "value": "Cik bieži lietotne pieprasa ierīcei akumulatora spriegumu. Redzams režīms darbojas, kamēr lietotne ir atvērta; fona režīms, kamēr tā ir paslēpta. Ātrāks pedāļu griezienu skaits = jaunāki rādījumi, lielāka BLE datu plūsma.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5120,7 +5120,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Nepārtraukta līnija = līkne, kuru jūs saglabājat. Pārtraukta līnija = šī varianta standarta ķīmiskā līkne. X ass: 2800–4400 mV. Y ass: 0–100 %%.",
+    "value": "Nepārtraukta līnija = līkne, kuru jūs saglabājat. Pārtraukta līnija = šī varianta standarta ķīmiskā līkne. X ass: 2800-4400 mV. Y ass: 0-100 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5175,7 +5175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Paziņot, kad pieslēgtās ierīces uzlādes līmenis nokrīt līdz brīdinājuma procentam. Atkārtotas aktivizēšanas intervāls nosaka, par cik procentiem uzlādes līmenim jāpaaugstinās virs sliekšņa, pirms var tikt izsniegts nākamais brīdinājums — palieliniet to, ja akumulatora uzlādes līkne sasniedz stabilu līmeni (LiFePO4, AA).",
+    "value": "Paziņot, kad pieslēgtās ierīces uzlādes līmenis nokrīt līdz brīdinājuma procentam. Atkārtotas aktivizēšanas intervāls nosaka, par cik procentiem uzlādes līmenim jāpaaugstinās virs sliekšņa, pirms var tikt izsniegts nākamais brīdinājums. Palieliniet to, ja akumulatora uzlādes līkne sasniedz stabilu līmeni (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5205,7 +5205,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Lai atbloķētu, pieskarieties atkritumu tvertnes ikonai. Viņu iepriekšējās ziņas atkal parādīsies visos kanālos. Bloķēšana attiecas uz precīzi norādīto vārdu — ikviens var izvēlēties šo vārdu, tāpēc tas neatturēs apņēmīgu lietotāju no vārda maiņas.",
+    "value": "Lai atbloķētu, pieskarieties atkritumu tvertnes ikonai. Viņu iepriekšējās ziņas atkal parādīsies visos kanālos. Bloķēšana attiecas uz precīzi norādīto vārdu. Ikviens var izvēlēties šo vārdu, tāpēc tas neatturēs apņēmīgu lietotāju no vārda maiņas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5235,12 +5235,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Tavam mezglam ir šis kanāls ar nosaukumu „%1$s”, bet lokāli tas ir „%2$s”. Abiem kanāliem ir viens un tas pats šifrēšanas atslēga, tāpēc ziņojumu apmaiņa joprojām darbojas — izvēlies vienu nosaukumu, kuru vēlies paturēt.",
+    "value": "Tavam mezglam ir šis kanāls ar nosaukumu „%1$s”, bet lokāli tas ir „%2$s”. Abiem kanāliem ir viens un tas pats šifrēšanas atslēga, tāpēc ziņojumu apmaiņa joprojām darbojas. Izvēlies vienu nosaukumu, kuru vēlies paturēt.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Gan jūsu vietējā sarakstā, gan jūsu mezglā ir kanāls ar nosaukumu „%1$s”, taču tiem ir atšķirīgas šifrēšanas atslēgas. Ziņojumi netiks dešifrēti starp šiem kanāliem — izvēlieties, kura atslēga ir pareizā.",
+    "value": "Gan jūsu vietējā sarakstā, gan jūsu mezglā ir kanāls ar nosaukumu „%1$s”, taču tiem ir atšķirīgas šifrēšanas atslēgas. Ziņojumi netiks dešifrēti starp šiem kanāliem. Izvēlieties, kura atslēga ir pareizā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5340,7 +5340,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "No datu bāzes izdzēš kanālu un tā atslēgu. Šim kanālam tiek izmantota pielāgota atslēga, tāpēc to nevar atkārtoti iegūt, balstoties uz nosaukumu — izdzēšana ir neatgriezeniska, ja vien atslēgu neimportējat atkārtoti (piemēram, izmantojot QR kodu).",
+    "value": "No datu bāzes izdzēš kanālu un tā atslēgu. Šim kanālam tiek izmantota pielāgota atslēga, tāpēc to nevar atkārtoti iegūt, balstoties uz nosaukumu. Izdzēšana ir neatgriezeniska, ja vien atslēgu neimportējat atkārtoti (piemēram, izmantojot QR kodu).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5350,7 +5350,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Paslēpj „%1$s” no jūsu tērzēšanas saraksta un kanāla iestatījumiem. To varat pievienot atkārtoti vēlāk, ievadot nosaukumu sadaļā „Iestatījumi” → „Kanāli” → „Pievienot kanālu pēc nosaukuma” — SHA-256 atslēga tiek iegūta tādā pašā veidā.",
+    "value": "Paslēpj „%1$s” no jūsu tērzēšanas saraksta un kanāla iestatījumiem. To varat pievienot atkārtoti vēlāk, ievadot nosaukumu sadaļā „Iestatījumi” → „Kanāli” → „Pievienot kanālu pēc nosaukuma”. SHA-256 atslēga tiek iegūta tādā pašā veidā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5485,7 +5485,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Neizdevās pievienot kanālu — iespējams, tas jau pastāv vai nosaukums/atslēga ir nederīga.",
+    "value": "Neizdevās pievienot kanālu: iespējams, tas jau pastāv vai nosaukums/atslēga ir nederīga.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5495,12 +5495,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Izmanto fiksētu publisko kanāla atslēgu — atslēga nav nepieciešama.",
+    "value": "Izmanto fiksētu publisko kanāla atslēgu, atslēga nav nepieciešama.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Nepieciešama atslēga — kanāliem ar pielāgotu nosaukumu ir nepieciešama 32 rakstzīmju gara heksadecimālā atslēga.",
+    "value": "Nepieciešama atslēga: kanāliem ar pielāgotu nosaukumu ir nepieciešama 32 rakstzīmju gara heksadecimālā atslēga.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5570,7 +5570,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Jūsu mezglam un jūsu vietējam sarakstam ir atšķirīgi viedokļi par kādu kanālu — izvēlieties, kura puse uzvar.",
+    "value": "Jūsu mezglam un jūsu vietējam sarakstam ir atšķirīgi viedokļi par kādu kanālu. Izvēlieties, kura puse uzvar.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5620,7 +5620,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Atslēga saglabāta. Atklājiet, lai saņemtu atkārtoti — vai izdzēsiet uz visiem laikiem.",
+    "value": "Atslēga saglabāta. Atklājiet, lai saņemtu atkārtoti, vai izdzēsiet uz visiem laikiem.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5700,7 +5700,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Anonīma savienošanās — darbojas izstrādes starpniekiem bez autentifikācijas.",
+    "value": "Anonīma savienošanās: darbojas izstrādes starpniekiem bez autentifikācijas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5780,7 +5780,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Kad KiekR ir ieslēgts, tas reģistrē, kurus reģionus (un, ja iespējams, kurus atkārtotājus) tas uztver aptuveni puskilometra lielā kartes šūnā, un periodiski augšupielādē katrā šūnā reģistrētos kopējos rādītājus, izmantojot Wi-Fi. Jūsu precīzā atrašanās vieta nekad netiek nosūtīta ārpus tālruņa — tiek nosūtīta tikai šūna —, un kartē vienmēr tiek parādīts tikai tas, kas tur tika uztverts, nekad — kas to uztvēra. Šī funkcija darbojas ar pseidonīmu un ir atdalīta no jūsu KiekR identitātes; to var izslēgt jebkurā brīdī.",
+    "value": "Kad KiekR ir ieslēgts, tas reģistrē, kurus reģionus (un, ja iespējams, kurus atkārtotājus) tas uztver aptuveni puskilometra lielā kartes šūnā, un periodiski augšupielādē katrā šūnā reģistrētos kopējos rādītājus, izmantojot Wi-Fi. Jūsu precīzā atrašanās vieta nekad netiek nosūtīta ārpus tālruņa (tiek nosūtīta tikai šūna), un kartē vienmēr tiek parādīts tikai tas, kas tur tika uztverts, nekad, kas to uztvēra. Šī funkcija darbojas ar pseidonīmu un ir atdalīta no jūsu KiekR identitātes; to var izslēgt jebkurā brīdī.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5820,7 +5820,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Lai segums varētu ievietot dzirdēto pareizajā kartes šūnā, ir nepieciešama precīza atrašanās vieta. Atļaujiet KiekR noteikt precīzu atrašanās vietu — pretējā gadījumā segums šajā tālrunī neko neuzkrās.",
+    "value": "Lai segums varētu ievietot dzirdēto pareizajā kartes šūnā, ir nepieciešama precīza atrašanās vieta. Atļaujiet KiekR noteikt precīzu atrašanās vietu. Pretējā gadījumā segums šajā tālrunī neko neuzkrās.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5885,7 +5885,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT nodrošina datu pārraidi tikai tad, ja ierīce ir savienota ar jūsu ierīci, izmantojot Bluetooth. Jūsu ierīces tīkla identitāte nekad netiek augšupielādēta — katrs starpnieks izmanto savu ģenerēto atslēgu pāri. Novērotāju nosaukumi vienmēr sākas ar „KiekR_”.",
+    "value": "MQTT nodrošina datu pārraidi tikai tad, ja ierīce ir savienota ar jūsu ierīci, izmantojot Bluetooth. Jūsu ierīces tīkla identitāte nekad netiek augšupielādēta: katrs starpnieks izmanto savu ģenerēto atslēgu pāri. Novērotāju nosaukumi vienmēr sākas ar „KiekR_”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5900,7 +5900,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "3 burtu lidostas kods norāda jūsu reģionu analizatora lapā (piem., HAM, JFK, MUC). Novērotāja vārds parādās blakus jūsu pakešiem — prefikss „KiekR_” ir nemainīgs.",
+    "value": "3 burtu lidostas kods norāda jūsu reģionu analizatora lapā (piem., HAM, JFK, MUC). Novērotāja vārds parādās blakus jūsu pakešiem. Prefikss „KiekR_” ir nemainīgs.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5920,12 +5920,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "Pauzēts — mobilajā tīklā",
+    "value": "Pauzēts: mobilajā tīklā",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Pauzēts — mobilajā tīklā · „%1$d“ ir rindā",
+    "value": "Pauzēts: mobilajā tīklā · „%1$d“ ir rindā",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5975,7 +5975,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT augšupielāde nosūta katru neapstrādātu LoRa paketi, ko jūsu ierīce uztver — ieskaitot šifrētus baitus, kurus jūs pats nevarat izlasīt — uz jūsu konfigurēto starpniekserveri. Noklusējuma iestatījums ir „izslēgts”; to var ieslēgt katram starpniekserverim atsevišķi. Katrs starpniekserveris izmanto savu ģenerēto atslēgu pāri, tādējādi jūsu ierīces tīkla identitāte nekad neiziet ārpus ierīces.",
+    "value": "MQTT augšupielāde nosūta katru neapstrādātu LoRa paketi, ko jūsu ierīce uztver (ieskaitot šifrētus baitus, kurus jūs pats nevarat izlasīt) uz jūsu konfigurēto starpniekserveri. Noklusējuma iestatījums ir „izslēgts”; to var ieslēgt katram starpniekserverim atsevišķi. Katrs starpniekserveris izmanto savu ģenerēto atslēgu pāri, tādējādi jūsu ierīces tīkla identitāte nekad neiziet ārpus ierīces.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6020,22 +6020,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Tēma — kļūdu novēršana",
+    "value": "Tēma (kļūdu novēršana)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Tēma — paketes",
+    "value": "Tēma (paketes)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Tēma — neapstrādāts",
+    "value": "Tēma (neapstrādāts)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Tēma — statuss",
+    "value": "Tēma (statuss)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6105,7 +6105,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_val_err_port_range": {
-    "value": "Portam jābūt 1–65535",
+    "value": "Portam jābūt no 1 līdz 65535",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6210,7 +6210,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Pēc noklusējuma izslēgts. Kad ieslēgts, KiekR augšupielādē uz api.kiekr.app avāriju, sasalšanas un procesora ziņojumus, ko tai nodod iOS: lietotnes versiju, iOS versiju, ierīces modeli, sistēmas kļūdu kodus un izsaukumu steku. Nekādu ziņu, kontaktu, atslēgu vai atrašanās vietu — un tas ir vienīgais ceļš, kā kļūme tavā tālrunī nonāk pie izstrādātāja.",
+    "value": "Pēc noklusējuma izslēgts. Kad ieslēgts, KiekR augšupielādē uz api.kiekr.app avāriju, sasalšanas un procesora ziņojumus, ko tai nodod iOS: lietotnes versiju, iOS versiju, ierīces modeli, sistēmas kļūdu kodus un izsaukumu steku. Nekādu ziņu, kontaktu, atslēgu vai atrašanās vietu. Un tas ir vienīgais ceļš, kā kļūme tavā tālrunī nonāk pie izstrādātāja.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6250,7 +6250,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Iepriekš konfigurētās rindas nevar pārdēvēt vai mainīt to URL — atslēdziet tās, ja nevēlaties tās izmantot, vai pievienojiet jaunu avotu.",
+    "value": "Iepriekš konfigurētās rindas nevar pārdēvēt vai mainīt to URL. Atslēdziet tās, ja nevēlaties tās izmantot, vai pievienojiet jaunu avotu.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6355,7 +6355,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Meklēšanas process pārskata visus aktivizētos avotus ranga secībā; uzvar pirmais avots, kas atgriež kandidātu. api.kiekr.app nodrošina privātuma aizsardzību (tikai A līmeņa atkārtotāji). Meshcorenetz Analyzer darbojas plašāk — tas dabiski turpina meklēšanu arī pēc mezgliem, kas nav pieejami KiekR aizmugurē. Mainiet secību ar augšup/lejup bultiņām; pieskarieties zīmuliņai, lai rediģētu maksimālo attālumu uz vienu lēcienu katram avotam.",
+    "value": "Meklēšanas process pārskata visus aktivizētos avotus ranga secībā; uzvar pirmais avots, kas atgriež kandidātu. api.kiekr.app nodrošina privātuma aizsardzību (tikai A līmeņa atkārtotāji). Meshcorenetz Analyzer darbojas plašāk, tas dabiski turpina meklēšanu arī pēc mezgliem, kas nav pieejami KiekR aizmugurē. Mainiet secību ar augšup/lejup bultiņām; pieskarieties zīmuliņai, lai rediģētu maksimālo attālumu uz vienu lēcienu katram avotam.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6455,7 +6455,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnostiskais konteksts —",
+    "value": "Diagnostiskais konteksts:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6475,7 +6475,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Android žurnāli — %1$s %2$s — %3$s",
+    "value": "KiekR Android žurnāli, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6695,7 +6695,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Paziņot par katru saņemto privāto ziņu. Privātās ziņas tiek autentificētas ar kriptogrāfijas palīdzību — šīs funkcijas atspējošana tikai slēpj paziņojumu; ziņa joprojām parādās jūsu sarunu sarakstā.",
+    "value": "Paziņot par katru saņemto privāto ziņu. Privātās ziņas tiek autentificētas ar kriptogrāfijas palīdzību. Šīs funkcijas atspējošana tikai slēpj paziņojumu; ziņa joprojām parādās jūsu sarunu sarakstā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6760,7 +6760,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Pastāvīgs mācību palīglīdzeklis prefiksu sadursmju gadījumiem: tiklīdz deterministiskais izvēlētājs ir izvēlējies uzvarētāju, (prefikss, lēciens, publiskais atslēgas) tiek pārvietots, lai nākamā sadursme ar to pašu prefiksu tiktu izšķirta tādā pašā veidā.\n\nCache TTL — cik ilgi ieraksts paliek spēkā, netiekot atkārtoti izmantots. Noklusējums ir 30 dienas, robežvērtība 1..=180.\n\nNeizšķirta rezultāta izšķiršanas robeža — cik tuvu divu kandidātu rādītājiem jābūt (procentos), lai kešatmiņa izšķirtu neizšķirtu rezultātu. 0 atspējo kešatmiņas rezerves izmantošanu (tiek ņemti vērā tikai precīzi neizšķirti rezultāti); 20 ir augšējā robeža. Noklusējuma vērtība ir 5 %.",
+    "value": "Pastāvīgs mācību palīglīdzeklis prefiksu sadursmju gadījumiem: tiklīdz deterministiskais izvēlētājs ir izvēlējies uzvarētāju, (prefikss, lēciens, publiskais atslēgas) tiek pārvietots, lai nākamā sadursme ar to pašu prefiksu tiktu izšķirta tādā pašā veidā.\n\nCache TTL: cik ilgi ieraksts paliek spēkā, netiekot atkārtoti izmantots. Noklusējums ir 30 dienas, robežvērtība 1..=180.\n\nNeizšķirta rezultāta izšķiršanas robeža: cik tuvu divu kandidātu rādītājiem jābūt (procentos), lai kešatmiņa izšķirtu neizšķirtu rezultātu. 0 atspējo kešatmiņas rezerves izmantošanu (tiek ņemti vērā tikai precīzi neizšķirti rezultāti); 20 ir augšējā robeža. Noklusējuma vērtība ir 5 %.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6815,12 +6815,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Daudzbaitu lēcieniem ir nepieciešama Companion programmaparatūras versija v1.15.0 vai jaunāka. Jūsu Companion rāda, ka ir instalēta vecāka versija — līdz atjaunināšanai ierīce ir bloķēta uz 1 baitu. Jūsu iepriekšējie iestatījumi tiek saglabāti un tiks atjaunoti pēc atjaunināšanas.",
+    "value": "Daudzbaitu lēcieniem ir nepieciešama Companion programmaparatūras versija v1.15.0 vai jaunāka. Jūsu Companion rāda, ka ir instalēta vecāka versija: līdz atjaunināšanai ierīce ir bloķēta uz 1 baitu. Jūsu iepriekšējie iestatījumi tiek saglabāti un tiks atjaunoti pēc atjaunināšanas.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Baitu skaits uz vienu lēcienu, kas tiek pievienots maršrutam jaunajos izejošajos pakešos, kurus mēs ģenerējam. Augstākas vērtības samazina nosaukumu sadursmes, taču vecākas atkārtotāju programmaparatūras versijas tās var nepārsūtīt. Iemācītie maršruti uz zināmiem kontaktiem saglabā to platumu, kādā tie tika saņemti — šis iestatījums ietekmē tikai plūdu un anonīmo atbilžu maršrutus. Unikāliem maršrutiem ieteicami 3 baiti (2 arī darbojas); programmaparatūras noklusējuma vērtība ir 1.",
+    "value": "Baitu skaits uz vienu lēcienu, kas tiek pievienots maršrutam jaunajos izejošajos pakešos, kurus mēs ģenerējam. Augstākas vērtības samazina nosaukumu sadursmes, taču vecākas atkārtotāju programmaparatūras versijas tās var nepārsūtīt. Iemācītie maršruti uz zināmiem kontaktiem saglabā to platumu, kādā tie tika saņemti. Šis iestatījums ietekmē tikai plūdu un anonīmo atbilžu maršrutus. Unikāliem maršrutiem ieteicami 3 baiti (2 arī darbojas); programmaparatūras noklusējuma vērtība ir 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6855,7 +6855,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Tīmekļa katalogs ir atspējots — aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
+    "value": "Tīmekļa katalogs ir atspējots. Aktivizējiet avotu sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7175,7 +7175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Reģions „%1$s“ jau ir jūsu sarakstā — atklājiet to",
+    "value": "Reģions „%1$s“ jau ir jūsu sarakstā: atklājiet to",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7335,7 +7335,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "„Android“ aptur lietotņu tīkla darbību, kad ekrāns ir izslēgts. Izslēdziet „KiekR“ no akumulatora optimizācijas — kā arī no tālruņa ražotāja noteiktiem ierobežojumiem attiecībā uz automātisko palaišanu —, lai papildu savienojums turpinātu darboties fonā.",
+    "value": "„Android“ aptur lietotņu tīkla darbību, kad ekrāns ir izslēgts. Izslēdziet „KiekR“ no akumulatora optimizācijas (kā arī no tālruņa ražotāja noteiktiem ierobežojumiem attiecībā uz automātisko palaišanu), lai papildu savienojums turpinātu darboties fonā.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7395,7 +7395,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "„Retries“ norāda, cik papildu mēģinājumus core-lib veic katrai GET_NEIGHBOURS lapai, ja programmaparatūra neatbild mēģinājuma laika ierobežojuma laikā — tas ir noderīgi nestabilos BLE/radio savienojumos, kur lapai beidzas laika limits. Laika logs mainās atkarībā no lapas izmēra, tāpēc, palielinot to, papildu mēģinājumiem tiek piešķirts nepieciešamais laiks. Pati lapas izmērs ir fiksēts atbilstoši programmaparatūras bufera maksimālajam apjomam. Noklusējuma vērtība ir „%1$d”.",
+    "value": "„Retries“ norāda, cik papildu mēģinājumus core-lib veic katrai GET_NEIGHBOURS lapai, ja programmaparatūra neatbild mēģinājuma laika ierobežojuma laikā, tas ir noderīgi nestabilos BLE/radio savienojumos, kur lapai beidzas laika limits. Laika logs mainās atkarībā no lapas izmēra, tāpēc, palielinot to, papildu mēģinājumiem tiek piešķirts nepieciešamais laiks. Pati lapas izmērs ir fiksēts atbilstoši programmaparatūras bufera maksimālajam apjomam. Noklusējuma vērtība ir „%1$d”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7465,12 +7465,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Nav atbildes — ceļš, iespējams, nav sasniedzams.",
+    "value": "Nav atbildes: ceļš, iespējams, nav sasniedzams.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Pirmajam atkārtotājam jādzird jūs, un jums jādzird pēdējā atbilde — izvēlieties ceļu, par kuru zināt, ka tas ir sasniedzams.",
+    "value": "Pirmajam atkārtotājam jādzird jūs, un jums jādzird pēdējā atbilde. Izvēlieties ceļu, par kuru zināt, ka tas ir sasniedzams.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7530,7 +7530,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Nav savienots neviens mezgls — pieskarieties, lai izveidotu savienojumu",
+    "value": "Nav savienots neviens mezgls: pieskarieties, lai izveidotu savienojumu",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7550,7 +7550,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR var meklēt nezināmu atkārtotāju pēc tā hash vērtības, izmantojot tiešsaistes katalogus — tas ir ērti, ja maršruta posms tiek parādīts kā vienkāršs heksadecimāls prefikss. Šī funkcija ir izslēgta, kamēr to neieslēdzat sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
+    "value": "KiekR var meklēt nezināmu atkārtotāju pēc tā hash vērtības, izmantojot tiešsaistes katalogus (tas ir ērti, ja maršruta posms tiek parādīts kā vienkāršs heksadecimāls prefikss). Šī funkcija ir izslēgta, kamēr to neieslēdzat sadaļā „Iestatījumi“ → „Koplietošana“ → „Katalogs“.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7615,7 +7615,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_pathhash_reconcile_body": {
-    "value": "Jūsu lietotnei ir iestatīts %1$d baitu, bet šim mezglam — %2$d baitu. Izvēlieties, kurš no tiem jāpiemēro.",
+    "value": "Jūsu lietotnei ir iestatīts %1$d baitu, bet šim mezglam %2$d baitu. Izvēlieties, kurš no tiem jāpiemēro.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7645,7 +7645,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_region_reconcile_body": {
-    "value": "Jūsu lietotnei ir iestatīts %1$s, bet šim mezglam — %2$s. Izvēlieties, kurš no tiem ir piemērojams.",
+    "value": "Jūsu lietotnei ir iestatīts %1$s, bet šim mezglam %2$s. Izvēlieties, kurš no tiem ir piemērojams.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8105,7 +8105,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Piesakieties, izmantojot vadības pogu augšējā labajā stūrī — „guest” (viesis), lai apskatītu statistiku, kaimiņus, telemetriju un programmaparatūru; „admin” (administrators), lai piekļūtu konfigurācijai, reģioniem un CLI.",
+    "value": "Piesakieties, izmantojot vadības pogu augšējā labajā stūrī: „guest” (viesis), lai apskatītu statistiku, kaimiņus, telemetriju un programmaparatūru; „admin” (administrators), lai piekļūtu konfigurācijai, reģioniem un CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8360,7 +8360,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Paketes, kuras radio nevarēja skaidri nolasīt — to skaits pieaug traucējumu vai vāja signāla gadījumā.",
+    "value": "Paketes, kuras radio nevarēja skaidri nolasīt. To skaits pieaug traucējumu vai vāja signāla gadījumā.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8620,7 +8620,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Ja šī funkcija ir ieslēgta, KiekR dalās ar informāciju par to, kurām kartes šūnām ir tīkla pārklājums, ar mapme.sh — kopienas pārklājuma karti. Katrs paraugs ietver kartes šūnu, signāla stiprumu un pārraides ceļu, taču nekad neietver jūsu precīzo atrašanās vietu vai identitāti. Augšupielādes notiek saskaņā ar jūsu iestatījumiem par „tikai Wi-Fi” un augšupielādes intervālu.",
+    "value": "Ja šī funkcija ir ieslēgta, KiekR dalās ar informāciju par to, kurām kartes šūnām ir tīkla pārklājums, ar mapme.sh, kopienas pārklājuma karti. Katrs paraugs ietver kartes šūnu, signāla stiprumu un pārraides ceļu, taču nekad neietver jūsu precīzo atrašanās vietu vai identitāti. Augšupielādes notiek saskaņā ar jūsu iestatījumiem par „tikai Wi-Fi” un augšupielādes intervālu.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8852,7 +8852,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Nav GPS signāla — tiešsaistes katalogu atskaites punkti var netikt atzīmēti kartē. Lai nodrošinātu pilnīgu maršruta noteikšanu, atļaujiet piekļuvi atrašanās vietai.",
+    "value": "Nav GPS signāla: tiešsaistes katalogu atskaites punkti var netikt atzīmēti kartē. Lai nodrošinātu pilnīgu maršruta noteikšanu, atļaujiet piekļuvi atrašanās vietai.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8867,7 +8867,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Ielīmējiet 64 vai 128 rakstzīmju heksadecimālo privāto atslēgu, lai atjaunotu dublējumā saglabāto identitāti — tā tiek saglabāta lokāli un nosūtīta uz savienoto papildu ierīci. Eksportēšana atklāj šī mezgla atslēgu, lai jūs varētu to dublēt.",
+    "value": "Ielīmējiet 64 vai 128 rakstzīmju heksadecimālo privāto atslēgu, lai atjaunotu dublējumā saglabāto identitāti. Tā tiek saglabāta lokāli un nosūtīta uz savienoto papildu ierīci. Eksportēšana atklāj šī mezgla atslēgu, lai jūs varētu to dublēt.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8902,7 +8902,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Fiksēts noklusējuma avots — galapunkts un citi iestatījumi ir fiksēti; šeit to varat pārdēvēt.",
+    "value": "Fiksēts noklusējuma avots: galapunkts un citi iestatījumi ir fiksēti; šeit to varat pārdēvēt.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8927,7 +8927,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Serveris atbildēja — URL ir derīgs",
+    "value": "Serveris atbildēja: URL ir derīgs",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8967,7 +8967,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Šī ir jūsu mezgla slepenā identifikācijas atslēga — ikviens, kam tā ir, var izlikties par jūsu mezglu. Glabājiet to drošā vietā un nekad to neizpaudiet.",
+    "value": "Šī ir jūsu mezgla slepenā identifikācijas atslēga: ikviens, kam tā ir, var izlikties par jūsu mezglu. Glabājiet to drošā vietā un nekad to neizpaudiet.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9032,7 +9032,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Ja aktivizēts, KiekR var automātiski veikt direktorija uzziņas par trūkstošo kontekstu, ko lietotne pamana pasīvi — nezināmus hopus ceļā, dzirdētus retranslētājus, kas vēl nav direktorijā, trūkstošas kaimiņu rindas un trūkstošus reģionus atklāšanas laikā. Ja deaktivizēts (pēc noklusējuma), katrai direktorija uzziņai nepieciešams pieskāriens.",
+    "value": "Ja aktivizēts, KiekR var automātiski veikt direktorija uzziņas par trūkstošo kontekstu, ko lietotne pamana pasīvi: nezināmus hopus ceļā, dzirdētus retranslētājus, kas vēl nav direktorijā, trūkstošas kaimiņu rindas un trūkstošus reģionus atklāšanas laikā. Ja deaktivizēts (pēc noklusējuma), katrai direktorija uzziņai nepieciešams pieskāriens.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9062,7 +9062,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Uzziņas tiek nosūtītas tikai KiekR direktorijai — nekad trešās puses hostam. Kešatmiņas nolasīšana paliek bezmaksas; šis slēdzis regulē tīkla pusi.",
+    "value": "Uzziņas tiek nosūtītas tikai KiekR direktorijai, nekad trešās puses hostam. Kešatmiņas nolasīšana paliek bezmaksas; šis slēdzis regulē tīkla pusi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9097,7 +9097,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Šī NAV jūsu BLE sapārošanas PIN, un NAV jūsu identitātes paroles frāze. Tā aizsargā tikai šo dublējuma failu. Izvēlieties kaut ko atmiņā paturamu — KiekR to jūsu vietā atjaunot nevar.",
+    "value": "Šī NAV jūsu BLE sapārošanas PIN, un NAV jūsu identitātes paroles frāze. Tā aizsargā tikai šo dublējuma failu. Izvēlieties kaut ko atmiņā paturamu. KiekR to jūsu vietā atjaunot nevar.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9172,7 +9172,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_how_often_the_app_asks_the_device_for_ba": {
-    "value": "Cik bieži lietotne pieprasa ierīcei baterijas spriegumu. „Redzams” darbojas, kamēr lietotne ir atvērta; „Fonā” — kamēr tā ir paslēpta. Biežāka aptauja = svaigāki nolasījumi, vairāk BLE trafika.",
+    "value": "Cik bieži lietotne pieprasa ierīcei baterijas spriegumu. „Redzams” darbojas, kamēr lietotne ir atvērta; „Fonā”, kamēr tā ir paslēpta. Biežāka aptauja = svaigāki nolasījumi, vairāk BLE trafika.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9192,7 +9192,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Paziņot, kad pievienotās ierīces līmenis nokrītas līdz brīdinājuma procentam. Atkārtotas aktivizācijas atstarpe nosaka, par cik procentiem līmenim jāatkāpjas atpakaļ virs sliekšņa, pirms var atskanēt nākamais brīdinājums — palieliniet to, ja jūsu baterijas līknei ir plato (LiFePO4, AA).",
+    "value": "Paziņot, kad pievienotās ierīces līmenis nokrītas līdz brīdinājuma procentam. Atkārtotas aktivizācijas atstarpe nosaka, par cik procentiem līmenim jāatkāpjas atpakaļ virs sliekšņa, pirms var atskanēt nākamais brīdinājums. Palieliniet to, ja jūsu baterijas līknei ir plato (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9252,7 +9252,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Vilkt, lai atblokētu. Pēc atblokēšanas šīs personas iepriekšējie ziņojumi atkal parādās visos kanālos. Blokēšana atbilst tieši parādītajam vārdam — jo šo vārdu var izvēlēties ikviens, tas neapturēs neatlaidīgu rakstītāju, kas pārdēvējas.",
+    "value": "Vilkt, lai atblokētu. Pēc atblokēšanas šīs personas iepriekšējie ziņojumi atkal parādās visos kanālos. Blokēšana atbilst tieši parādītajam vārdam, jo šo vārdu var izvēlēties ikviens, tas neapturēs neatlaidīgu rakstītāju, kas pārdēvējas.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9262,12 +9262,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Pievienots standarta mezglam — sūtīt var tikai kanāli, kas ierīcē ir instalēti. Vilkt pa labi, lai kanālu pievienotu ierīcei vai no tās izņemtu. Vilkt pa kreisi, lai kanālu noņemtu — #-kanāli patur savu atslēgu, tāpēc jūs varat tos atkal pievienot pēc nosaukuma; kanāli ar pielāgotu atslēgu tiek dzēsti neatgriezeniski.",
+    "value": "Pievienots standarta mezglam: sūtīt var tikai kanāli, kas ierīcē ir instalēti. Vilkt pa labi, lai kanālu pievienotu ierīcei vai no tās izņemtu. Vilkt pa kreisi, lai kanālu noņemtu: #-kanāli patur savu atslēgu, tāpēc jūs varat tos atkal pievienot pēc nosaukuma; kanāli ar pielāgotu atslēgu tiek dzēsti neatgriezeniski.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanāliem jāpiešķir reģions, lai tos varētu retranslēt lielākajā daļā tīklu. Piesitiet kanālam, lai piešķirtu. Vilkt pa kreisi, lai noņemtu — #-kanāli patur savu atslēgu, tāpēc jūs varat tos atkal pievienot pēc nosaukuma; kanāli ar pielāgotu atslēgu tiek dzēsti neatgriezeniski.",
+    "value": "Kanāliem jāpiešķir reģions, lai tos varētu retranslēt lielākajā daļā tīklu. Piesitiet kanālam, lai piešķirtu. Vilkt pa kreisi, lai noņemtu: #-kanāli patur savu atslēgu, tāpēc jūs varat tos atkal pievienot pēc nosaukuma; kanāli ar pielāgotu atslēgu tiek dzēsti neatgriezeniski.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9387,7 +9387,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Ciemiņa piekļuve — tikai lasīt",
+    "value": "Ciemiņa piekļuve (tikai lasīt)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9467,17 +9467,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Tiešsaistes direktorija ir deaktivizēta — aktivizējiet avotu „Iestatījumi” → „Koplietošana” → „Direktorija”.",
+    "value": "Tiešsaistes direktorija ir deaktivizēta. Aktivizējiet avotu „Iestatījumi” → „Koplietošana” → „Direktorija”.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Vairāki retranslētāji atbilst šī hopa īsā ceļa prefiksam. Mēs nevaram automātiski izvēlēties pareizo — izvēlieties to, kurš bija jūsu ceļā.",
+    "value": "Vairāki retranslētāji atbilst šī hopa īsā ceļa prefiksam. Mēs nevaram automātiski izvēlēties pareizo. Izvēlieties to, kurš bija jūsu ceļā.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Vēl nav kartēts neviens sešstūris — pabraukājiet ar ieslēgtu radio, un tie parādīsies šeit.",
+    "value": "Vēl nav kartēts neviens sešstūris. Pabraukājiet ar ieslēgtu radio, un tie parādīsies šeit.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9577,7 +9577,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pauzēts — mobilajos datos",
+    "value": "Pauzēts: mobilajos datos",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9647,22 +9647,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Tēma — paketes",
+    "value": "Tēma (paketes)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Tēma — statuss",
+    "value": "Tēma (statuss)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Tēma — atkļūdošana",
+    "value": "Tēma (atkļūdošana)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Tēma — jauns",
+    "value": "Tēma (jauns)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9767,7 +9767,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Saglabā identitāti lokāli. Ja atslēga ir uz sēklas balstīta un ir pievienots companion, sēkla tiek nosūtīta arī ierīcei, izmantojot CMD_IMPORT_PRIVATE_KEY — tas pārrakstīs ierīces pašreizējo identitāti.",
+    "value": "Saglabā identitāti lokāli. Ja atslēga ir uz sēklas balstīta un ir pievienots companion, sēkla tiek nosūtīta arī ierīcei, izmantojot CMD_IMPORT_PRIVATE_KEY. Tas pārrakstīs ierīces pašreizējo identitāti.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9912,7 +9912,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Sākotnējā pulksteņa novirze — izmantojot lokālo saņemšanas laiku",
+    "value": "Sākotnējā pulksteņa novirze: izmantojot lokālo saņemšanas laiku",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10052,7 +10052,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Parole ir ierobežota līdz 15 zīmēm — jebkas garāks tiek saīsināts, pieteikšanās laikā.",
+    "value": "Parole ir ierobežota līdz 15 zīmēm. Jebkas garāks tiek saīsināts, pieteikšanās laikā.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10077,7 +10077,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Paziņot par katru ienākošo tiešo ziņu. Tiešās ziņas ir kriptografiski autentificētas — šīs opcijas deaktivizēšana tikai apspiež paziņojumu; ziņojums tik un tā nonāk jūsu sarunu sarakstā.",
+    "value": "Paziņot par katru ienākošo tiešo ziņu. Tiešās ziņas ir kriptografiski autentificētas. Šīs opcijas deaktivizēšana tikai apspiež paziņojumu; ziņojums tik un tā nonāk jūsu sarunu sarakstā.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10127,7 +10127,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Vairāku baitu hopiem nepieciešama companion programmaparatūra v1.15.0 vai jaunāka. Jūsu companion ziņo par vecāku versiju — līdz jaunināšanai tas ir bloķēts uz 1 baitu. Jūsu iepriekšējais iestatījums tiek saglabāts un atkal aktivizēsies pēc jaunināšanas.",
+    "value": "Vairāku baitu hopiem nepieciešama companion programmaparatūra v1.15.0 vai jaunāka. Jūsu companion ziņo par vecāku versiju: līdz jaunināšanai tas ir bloķēts uz 1 baitu. Jūsu iepriekšējais iestatījums tiek saglabāts un atkal aktivizēsies pēc jaunināšanas.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10157,7 +10157,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Vilkt pār reģionu, lai to noņemtu. Tas paliek datubāzē (un turpina anotēt ienākošo trafiku), bet pazūd no šī saraksta un kanālu izvēlnēm — pievienojiet to atkal pēc nosaukuma, lai to atgūtu.",
+    "value": "Vilkt pār reģionu, lai to noņemtu. Tas paliek datubāzē (un turpina anotēt ienākošo trafiku), bet pazūd no šī saraksta un kanālu izvēlnēm. Pievienojiet to atkal pēc nosaukuma, lai to atgūtu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10367,7 +10367,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Nav pievienota companion ierīce — vispirms savienojiet mezglu.",
+    "value": "Nav pievienota companion ierīce. Vispirms savienojiet mezglu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10392,7 +10392,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Atjaunot no `.json` vai `.mcbackup` faila. Importi pēc noklusējuma aizstāj — jūsu esošie kanāli, kontakti un reģioni tiek dzēsti, tad pakums tiek ievietots. Nospiediet un turiet „Apstiprināt” 5 sekundes.",
+    "value": "Atjaunot no `.json` vai `.mcbackup` faila. Importi pēc noklusējuma aizstāj: jūsu esošie kanāli, kontakti un reģioni tiek dzēsti, tad pakums tiek ievietots. Nospiediet un turiet „Apstiprināt” 5 sekundes.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10492,17 +10492,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Neviens novērotājs to vēl nav dzirdējis — tas nekad nenozīmē, ka nosūtīšana neizdevās.",
+    "value": "Neviens novērotājs to vēl nav dzirdējis. Tas nekad nenozīmē, ka nosūtīšana neizdevās.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Līdz šim dzirdēts vienā novērotāju reģionā — visdrīzāk tikai tuvumā.",
+    "value": "Līdz šim dzirdēts vienā novērotāju reģionā, visdrīzāk tikai tuvumā.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Dzirdēts %1$d reģionos — mesh tīkls šo ziņojumu pārnesa.",
+    "value": "Dzirdēts %1$d reģionos: mesh tīkls šo ziņojumu pārnesa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10517,7 +10517,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Pārbaude neizdevās — mēģiniet vēlāk vēlreiz.",
+    "value": "Pārbaude neizdevās. Mēģiniet vēlāk vēlreiz.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10527,7 +10527,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Dzirdēts no %1$d novērotājiem — mesh tīkls šo ziņojumu pārnesa.",
+    "value": "Dzirdēts no %1$d novērotājiem: mesh tīkls šo ziņojumu pārnesa.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10537,7 +10537,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Šis mezgls pašlaik automātiski pievieno katru izsludinājuma tipu (“Auto add all”) — zemāk esošie filtri neietekmē. Iespējams, to pārslēdza cita lietotne.",
+    "value": "Šis mezgls pašlaik automātiski pievieno katru izsludinājuma tipu (“Auto add all”). Zemāk esošie filtri neietekmē. Iespējams, to pārslēdza cita lietotne.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10555,7 +10555,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Nav nosūtīts — nav instalēts jūsu mezglā",
+    "value": "Nav nosūtīts: nav instalēts jūsu mezglā",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10577,7 +10577,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Kartē arī sešstūrus, kuros nav saņemts trafiks — izmanto GPS un vairāk baterijas.",
+    "value": "Kartē arī sešstūrus, kuros nav saņemts trafiks. Izmanto GPS un vairāk baterijas.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10622,7 +10622,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Šī mezgla kontaktu saraksts ir pilns — tas nevar pieņemt jaunus kontaktus, ko tas dzird. Dzēsiet dažus, lai atbrīvotu vietu.",
+    "value": "Šī mezgla kontaktu saraksts ir pilns: tas nevar pieņemt jaunus kontaktus, ko tas dzird. Dzēsiet dažus, lai atbrīvotu vietu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10632,17 +10632,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pauzēts — atrašanās vietas piekļuve ir tikai „Izmantojot lietotni”",
+    "value": "Pauzēts: atrašanās vietas piekļuve ir tikai „Izmantojot lietotni”",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pauzēts — atrašanās vietas sesija apturēta",
+    "value": "Pauzēts: atrašanās vietas sesija apturēta",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Bez „Vienmēr” pārklājums tiek vākts tikai tad, kad KiekR ir atvērta — iOS pauzē atrašanās vietas sesiju, tiklīdz lietotne pāriet fonā. Ar „Vienmēr” KiekR turpina vākšanu jūsu kabatā, izmantojot tikai pozīciju, ko jūsu tālrunis jau zina, bez papildu GPS.",
+    "value": "Bez „Vienmēr” pārklājums tiek vākts tikai tad, kad KiekR ir atvērta. iOS pauzē atrašanās vietas sesiju, tiklīdz lietotne pāriet fonā. Ar „Vienmēr” KiekR turpina vākšanu jūsu kabatā, izmantojot tikai pozīciju, ko jūsu tālrunis jau zina, bez papildu GPS.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10742,12 +10742,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Noņem %@ no jūsu sarunu saraksta un kanālu iestatījumiem. Vēlāk jūs to varat atkal pievienot, ierakstot nosaukumu „Iestatījumi” → „Kanāli” → „Pievienot kanālu pēc nosaukuma” — SHA-256 atslēga tiek atvasināta tāpat.",
+    "value": "Noņem %@ no jūsu sarunu saraksta un kanālu iestatījumiem. Vēlāk jūs to varat atkal pievienot, ierakstot nosaukumu „Iestatījumi” → „Kanāli” → „Pievienot kanālu pēc nosaukuma”. SHA-256 atslēga tiek atvasināta tāpat.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Dzēst %@? Tas ir neatgriezenisks — atslēgu no nosaukuma atkārtoti atvasināt nevar.",
+    "value": "Dzēst %@? Tas ir neatgriezenisks: atslēgu no nosaukuma atkārtoti atvasināt nevar.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10792,7 +10792,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Pastāvīgs mācīšanās palīglīdzeklis prefiksu sadursmēm: tiklīdz deterministiskais izvēles algoritms ir izvēlējies uzvarētāju, (prefiks, hops, publiskā atslēga) tiek atzīmēts, lai nākamā neizšķirtība ar to pašu prefiksu tiktu atrisināta vienādi.\n\nKešatmiņas TTL — cik ilgi ieraksts pastāv, ja tas netiek atkārtoti izmantots. Noklusējums 30 dienas, ierobežojums 1..=180.\n\nNeizšķirtības starpība — cik tuvu (procentos) jābūt divu kandidātu rādītājiem, pirms kešatmiņa atrisina neizšķirtību. 0 deaktivizē kešatmiņas rezerves risinājumu (kvalificējas tikai precīzas neizšķirtības); 20 ir augšējā robeža. Noklusējums 5 %.",
+    "value": "Pastāvīgs mācīšanās palīglīdzeklis prefiksu sadursmēm: tiklīdz deterministiskais izvēles algoritms ir izvēlējies uzvarētāju, (prefiks, hops, publiskā atslēga) tiek atzīmēts, lai nākamā neizšķirtība ar to pašu prefiksu tiktu atrisināta vienādi.\n\nKešatmiņas TTL: cik ilgi ieraksts pastāv, ja tas netiek atkārtoti izmantots. Noklusējums 30 dienas, ierobežojums 1..=180.\n\nNeizšķirtības starpība: cik tuvu (procentos) jābūt divu kandidātu rādītājiem, pirms kešatmiņa atrisina neizšķirtību. 0 deaktivizē kešatmiņas rezerves risinājumu (kvalificējas tikai precīzas neizšķirtības); 20 ir augšējā robeža. Noklusējums 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10827,7 +10827,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth ir izslēgts — pieskarieties, lai ieslēgtu",
+    "value": "Bluetooth ir izslēgts: pieskarieties, lai ieslēgtu",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10842,7 +10842,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Pauzēts — šajā tālrunī nav tīkla atrašanās vietas. GPS pozīcijas tiek saņemtas tikai tad, kad cita lietotne izmanto GPS vai uzlādes laikā.",
+    "value": "Pauzēts: šajā tālrunī nav tīkla atrašanās vietas. GPS pozīcijas tiek saņemtas tikai tad, kad cita lietotne izmanto GPS vai uzlādes laikā.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10852,7 +10852,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Šajā tālrunī nav tīkla atrašanās vietas. Ja ieslēgts, KiekR pats ieslēdz GPS, kamēr tiek saņemta mesh datplūsma — arī no akumulatora, un apstājas, kad stāvat uz vietas. Patērē vairāk akumulatora.",
+    "value": "Šajā tālrunī nav tīkla atrašanās vietas. Ja ieslēgts, KiekR pats ieslēdz GPS, kamēr tiek saņemta mesh datplūsma (arī no akumulatora, un apstājas, kad stāvat uz vietas). Patērē vairāk akumulatora.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11132,7 +11132,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Tikai heksadecimālie simboli 0–9, a–f. Atstarpes un kolus ielīmējot noņem. Lai pievienotu, Repeater ir vajadzīga pilna atslēga.",
+    "value": "Tikai heksadecimālie simboli 0-9, a-f. Atstarpes un kolus ielīmējot noņem. Lai pievienotu, Repeater ir vajadzīga pilna atslēga.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11262,7 +11262,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d ieraksti – saraksts var būt nepilnīgs",
+    "value": "%1$d ieraksti (saraksts var būt nepilnīgs)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11347,7 +11347,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Tikai heksadecimālie simboli 0–9, a–f. Atstarpes un kolus ielīmējot noņem. Lai pievienotu, istabas serverim ir vajadzīga pilna atslēga.",
+    "value": "Tikai heksadecimālie simboli 0-9, a-f. Atstarpes un kolus ielīmējot noņem. Lai pievienotu, istabas serverim ir vajadzīga pilna atslēga.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11397,7 +11397,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Visi“ nozīmē ikvienu kontaktu, kas saglabāts šajā mezglā — ja automātiskā pievienošana ir ieslēgta, praktiski ikvienu tuvumā esošo.",
+    "value": "„Visi“ nozīmē ikvienu kontaktu, kas saglabāts šajā mezglā: ja automātiskā pievienošana ir ieslēgta, praktiski ikvienu tuvumā esošo.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11412,7 +11412,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Koplietošana jūsu mezglā ir izslēgta — ieslēdziet to sadaļā Mans mezgls → Telemetrijas koplietošana.",
+    "value": "Koplietošana jūsu mezglā ir izslēgta. Ieslēdziet to sadaļā Mans mezgls → Telemetrijas koplietošana.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11422,7 +11422,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Neizdevās atjaunināt atļaujas — kontaktam jābūt jūsu mezglā.",
+    "value": "Neizdevās atjaunināt atļaujas: kontaktam jābūt jūsu mezglā.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11442,7 +11442,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Šajā mezglā jau tiek apstrādāts cits pieprasījums — mēģiniet vēlreiz pēc brīža.",
+    "value": "Šajā mezglā jau tiek apstrādāts cits pieprasījums. Mēģiniet vēlreiz pēc brīža.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11467,7 +11467,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Pozīcija nemainīga — iespējams, ierīcei pašlaik nav derīgas GPS pozīcijas.",
+    "value": "Pozīcija nemainīga: iespējams, ierīcei pašlaik nav derīgas GPS pozīcijas.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11477,12 +11477,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Atbildē nav atrašanās vietas — nav GPS, GPS ir izslēgts, vai atrašanās vieta ar jums nav kopīgota.",
+    "value": "Atbildē nav atrašanās vietas: nav GPS, GPS ir izslēgts, vai atrašanās vieta ar jums nav kopīgota.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Nav atbildes — ārpus tvēruma vai šis kontakts nav atļāvis jums to pieprasīt.",
+    "value": "Nav atbildes: ārpus tvēruma vai šis kontakts nav atļāvis jums to pieprasīt.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11507,7 +11507,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Līdz 16 pieprasījumiem 15 minūšu laikā, tikai pa zināmu maršrutu vai tiešā tvērumā — tīkls netiek pārpludināts.",
+    "value": "Līdz 16 pieprasījumiem 15 minūšu laikā, tikai pa zināmu maršrutu vai tiešā tvērumā (tīkls netiek pārpludināts).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11522,17 +11522,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Reāllaika izsekošana beigusies — pagājušas 15 minūtes.",
+    "value": "Reāllaika izsekošana beigusies: pagājušas 15 minūtes.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Nav atbildes — ārpus tiešā tvēruma? Izmantojiet „Meklēt tīklā“, lai mēģinātu caur atkārtotājiem.",
+    "value": "Nav atbildes. Ārpus tiešā tvēruma? Izmantojiet „Meklēt tīklā“, lai mēģinātu caur atkārtotājiem.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Savienojums ar mezglu tika zaudēts — reāllaika izsekošana apturēta.",
+    "value": "Savienojums ar mezglu tika zaudēts. Reāllaika izsekošana apturēta.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11597,7 +11597,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Piekļuve atrašanās vietai ir izslēgta — tā ir nepieciešama, lai parādītu jūsu atrašanās vietu un attālumu.",
+    "value": "Piekļuve atrašanās vietai ir izslēgta. Tā ir nepieciešama, lai parādītu jūsu atrašanās vietu un attālumu.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

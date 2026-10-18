@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Deel eerst het logboek — wissen verwijdert precies de gegevens die we nodig hebben.",
+    "value": "Deel eerst het logboek: wissen verwijdert precies de gegevens die we nodig hebben.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -165,12 +165,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Geen node verbonden — verbind een companion om te verzenden.",
+    "value": "Geen node verbonden. Verbind een companion om te verzenden.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Verbinding verbroken — verbind opnieuw om te verzenden",
+    "value": "Verbinding verbroken: verbind opnieuw om te verzenden",
     "_human": true
   },
   "chat_compose_placeholder_message": {
@@ -214,11 +214,11 @@
     "_human": true
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Kanaalberichten zijn niet ondertekend — de afzendernaam kan iedereen in het kanaal zijn.",
+    "value": "Kanaalberichten zijn niet ondertekend: de afzendernaam kan iedereen in het kanaal zijn.",
     "_human": true
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Online directory staat uit — schakel een bron in bij Instellingen → Delen → Directory.",
+    "value": "Online directory staat uit. Schakel een bron in bij Instellingen → Delen → Directory.",
     "_human": true
   },
   "chat_detail_echoes_heard": {
@@ -230,7 +230,7 @@
     "_human": true
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Meerdere repeaters passen bij het korte pad-prefix van deze hop. Automatisch kiezen lukt niet — kies degene die op jouw pad lag.",
+    "value": "Meerdere repeaters passen bij het korte pad-prefix van deze hop. Automatisch kiezen lukt niet. Kies degene die op jouw pad lag.",
     "_human": true
   },
   "chat_detail_hop_heard_no_position": {
@@ -247,11 +247,11 @@
     "_human": true
   },
   "chat_detail_hop_not_found": {
-    "value": "geen match — directory had geen vermelding voor deze prefix",
+    "value": "geen match: directory had geen vermelding voor deze prefix",
     "_human": true
   },
   "chat_detail_hop_outside_radius": {
-    "value": "geen match — dichtstbijzijnde online treffers liggen buiten de plausibiliteitsradius",
+    "value": "geen match: dichtstbijzijnde online treffers liggen buiten de plausibiliteitsradius",
     "_human": true
   },
   "chat_detail_hop_prefix": {
@@ -291,7 +291,7 @@
     "_human": true
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Elke hop is de eerste %1$d byte(s) van de publieke sleutel van een repeater. Korte sleutels kunnen op meerdere repeaters matchen — tik op de wereldbol om ontbrekende hops op te zoeken in de online directory.",
+    "value": "Elke hop is de eerste %1$d byte(s) van de publieke sleutel van een repeater. Korte sleutels kunnen op meerdere repeaters matchen. Tik op de wereldbol om ontbrekende hops op te zoeken in de online directory.",
     "_human": true
   },
   "chat_detail_path_header_bytes": {
@@ -304,7 +304,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "onbekend — van apparaat",
+    "value": "onbekend (van apparaat)",
     "_human": true
   },
   "chat_detail_payload_advert": {
@@ -333,7 +333,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "De telling is een ondergrens — bij druk verkeer kunnen kopieën verloren gaan voordat ze de app bereiken.",
+    "value": "De telling is een ondergrens: bij druk verkeer kunnen kopieën verloren gaan voordat ze de app bereiken.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -392,7 +392,7 @@
     "_human": true
   },
   "chat_detail_signal_none": {
-    "value": "(geen — van apparaat)",
+    "value": "(geen, van apparaat)",
     "_human": true
   },
   "chat_detail_snr": {
@@ -446,7 +446,7 @@
     "_human": true
   },
   "chat_discovered_channels_header": {
-    "value": "Ontdekte kanalen — tik om te bekijken",
+    "value": "Ontdekte kanalen (tik om te bekijken)",
     "_human": true
   },
   "chat_dm_empty_footer": {
@@ -484,7 +484,7 @@
     "_human": true
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Tik op de sleutel om te kopiëren. Kanalen worden gematcht op sleutel, niet op naam — botsingen komen vaak voor.",
+    "value": "Tik op de sleutel om te kopiëren. Kanalen worden gematcht op sleutel, niet op naam: botsingen komen vaak voor.",
     "_human": true
   },
   "chat_hidden_channel_key_label": {
@@ -516,7 +516,7 @@
     "_human": true
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d hops",
+    "value": "%1$d-%2$d hops",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -634,7 +634,7 @@
     "_human": true
   },
   "chat_retry_duplicate_body": {
-    "value": "Je node heeft dit bericht al uitgezonden. Er kwam geen bevestiging terug, maar ontvangers binnen bereik kunnen het toch hebben ontvangen — als je het opnieuw verstuurt, zien zij het twee keer.",
+    "value": "Je node heeft dit bericht al uitgezonden. Er kwam geen bevestiging terug, maar ontvangers binnen bereik kunnen het toch hebben ontvangen. Als je het opnieuw verstuurt, zien zij het twee keer.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -661,7 +661,7 @@
     "_human": true
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Gasttoegang — alleen lezen",
+    "value": "Gasttoegang (alleen lezen)",
     "_human": true
   },
   "chat_room_directory_done": {
@@ -796,7 +796,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Elk frame dat je node hoort verschijnt hier — er wordt niets uitgefilterd.",
+    "value": "Elk frame dat je node hoort verschijnt hier. Er wordt niets uitgefilterd.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -821,17 +821,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Ongefilterd — gedecodeerde, voor anderen versleutelde, onbekende en misvormde frames verschijnen allemaal.",
+    "value": "Ongefilterd: gedecodeerde, voor anderen versleutelde, onbekende en misvormde frames verschijnen allemaal.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "versleuteld — niet voor dit apparaat",
+    "value": "versleuteld, niet voor dit apparaat",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "toont elk ontvangen frame — ook wat niet leesbaar is",
+    "value": "toont elk ontvangen frame, ook wat niet leesbaar is",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1093,7 +1093,7 @@
     "_human": true
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d in cache · gedeeltelijk — tik om te verversen",
+    "value": "%1$d in cache · gedeeltelijk, tik om te verversen",
     "_human": true
   },
   "map_neighbour_cached_with_age": {
@@ -1101,7 +1101,7 @@
     "_human": true
   },
   "map_neighbour_no_cache": {
-    "value": "Geen buren in cache — tik op verversen.",
+    "value": "Geen buren in cache. Tik op verversen.",
     "_human": true
   },
   "map_neighbour_receiving": {
@@ -1133,7 +1133,7 @@
     "_human": true
   },
   "map_path_no_path_body": {
-    "value": "Geen van de repeaters van dit bericht — en geen oorsprong — heeft GPS-coördinaten opgeslagen. Sluit deze weergave, tik op het wereldbol-icoon bij het padgedeelte van het bericht en kom dan terug.",
+    "value": "Geen van de repeaters van dit bericht (en geen oorsprong) heeft GPS-coördinaten opgeslagen. Sluit deze weergave, tik op het wereldbol-icoon bij het padgedeelte van het bericht en kom dan terug.",
     "_human": true
   },
   "map_path_no_path_title": {
@@ -1240,7 +1240,7 @@
     "_human": true
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f tot %2$.0f dB",
     "_human": true
   },
   "map_you": {
@@ -1257,7 +1257,7 @@
     "_human": true
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Andere nodes hebben onze advert in hun contacttabel nodig voordat ze onze DM's kunnen ontsleutelen. Tik om het bereik te kiezen — zonder hops is stil (alleen buren); flood is luid (heel het mesh).",
+    "value": "Andere nodes hebben onze advert in hun contacttabel nodig voordat ze onze DM's kunnen ontsleutelen. Tik om het bereik te kiezen: zonder hops is stil (alleen buren); flood is luid (heel het mesh).",
     "_human": true
   },
   "mynode_broadcast_advert_row_title": {
@@ -1269,7 +1269,7 @@
     "_human": true
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Dit apparaat heeft een batterijgevoede RTC. Software kan hem niet resetten — flash firmware of verwijder de RTC-backupbatterij om te herstellen.",
+    "value": "Dit apparaat heeft een batterijgevoede RTC. Software kan hem niet resetten. Flash firmware of verwijder de RTC-backupbatterij om te herstellen.",
     "_human": true
   },
   "mynode_clock_ahead_title": {
@@ -1326,7 +1326,7 @@
     "_human": true
   },
   "mynode_device_actions_footer": {
-    "value": "Herstarten start de gekoppelde node opnieuw op. Fabrieksreset wist de contacten, kanalen en voorkeuren van het apparaat — de lokale gegevens van de app blijven onaangeroerd.",
+    "value": "Herstarten start de gekoppelde node opnieuw op. Fabrieksreset wist de contacten, kanalen en voorkeuren van het apparaat. De lokale gegevens van de app blijven onaangeroerd.",
     "_human": true
   },
   "mynode_dialog_broadcast_advert_body": {
@@ -1338,7 +1338,7 @@
     "_human": true
   },
   "mynode_disconnect_footer": {
-    "value": "Verbreken sluit de verbinding maar behoudt de opgeslagen koppeling — tik op Verbinden om opnieuw te koppelen zonder opnieuw te paren. Vergeten ontkoppelt en wist de cache; de node moet opnieuw worden gekoppeld om terug te komen.",
+    "value": "Verbreken sluit de verbinding maar behoudt de opgeslagen koppeling. Tik op Verbinden om opnieuw te koppelen zonder opnieuw te paren. Vergeten ontkoppelt en wist de cache; de node moet opnieuw worden gekoppeld om terug te komen.",
     "_human": true
   },
   "mynode_disconnect_row_title": {
@@ -1362,7 +1362,7 @@
     "_human": true
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Wist contacten, kanalen, regio's, voorkeuren en identiteit op het apparaat. Onomkeerbaar — er is geen ongedaan maken. Exporteer alles wat je wilt behouden voordat je doorgaat.",
+    "value": "Wist contacten, kanalen, regio's, voorkeuren en identiteit op het apparaat. Onomkeerbaar: er is geen ongedaan maken. Exporteer alles wat je wilt behouden voordat je doorgaat.",
     "_human": true
   },
   "mynode_factory_reset_dialog_title": {
@@ -1386,7 +1386,7 @@
     "_human": true
   },
   "mynode_flood_body": {
-    "value": "De hele mesh. Luid — elke repeater zendt opnieuw uit. Gebruik spaarzaam; flood-adverts kosten zendtijd per repeater.",
+    "value": "De hele mesh. Luid: elke repeater zendt opnieuw uit. Gebruik spaarzaam; flood-adverts kosten zendtijd per repeater.",
     "_human": true
   },
   "mynode_flood_title": {
@@ -1436,7 +1436,7 @@
     "_human": true
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Geavanceerd schrijft ruwe freq / BW / SF / CR. Firmwarebereiken: 400–2500 MHz, 7,8–500 kHz, SF 5–12, CR 4/5–4/8.",
+    "value": "Geavanceerd schrijft ruwe freq / BW / SF / CR. Firmwarebereiken: 400-2500 MHz, 7,8-500 kHz, SF 5-12, CR 4/5-4/8.",
     "_human": true
   },
   "mynode_lora_advanced_label": {
@@ -1468,7 +1468,7 @@
     "_human": true
   },
   "mynode_lora_current_device_footer": {
-    "value": "Wat de gekoppelde node nu meldt. De presets hieronder komen uit de MeshCore-community-catalogus — kies degene die je lokale mesh draait.",
+    "value": "Wat de gekoppelde node nu meldt. De presets hieronder komen uit de MeshCore-community-catalogus. Kies degene die je lokale mesh draait.",
     "_human": true
   },
   "mynode_lora_current_device_header": {
@@ -1520,7 +1520,7 @@
     "_human": true
   },
   "mynode_lora_suggested_footer": {
-    "value": "Gebaseerd op de taal van je apparaat. Bevestig om toe te passen — er verandert niets totdat je dat doet.",
+    "value": "Gebaseerd op de taal van je apparaat. Bevestig om toe te passen. Er verandert niets totdat je dat doet.",
     "_human": true
   },
   "mynode_lora_suggested_header": {
@@ -1608,7 +1608,7 @@
     "_human": true
   },
   "mynode_reconnect_footer": {
-    "value": "Verbind opnieuw met de eerder gekoppelde node. Geen PIN-vraag — de koppeling is nog in cache.",
+    "value": "Verbind opnieuw met de eerder gekoppelde node. Geen PIN-vraag: de koppeling is nog in cache.",
     "_human": true
   },
   "mynode_save": {
@@ -1742,7 +1742,7 @@
     "_human": true
   },
   "mynode_zero_hop_body": {
-    "value": "Alleen buren. Stil — geen flooding. Gebruik dit wanneer alleen nodes in de buurt je advert moeten leren.",
+    "value": "Alleen buren. Stil: geen flooding. Gebruik dit wanneer alleen nodes in de buurt je advert moeten leren.",
     "_human": true
   },
   "mynode_zero_hop_title": {
@@ -1787,7 +1787,7 @@
     "_human": true
   },
   "nodes_add_channel_secret_footer": {
-    "value": "Het secret is de gedeelde 16-byte AES-sleutel van het kanaal, geschreven als 32 hex-tekens. Voor hashtag-kanalen wordt het secret automatisch uit de naam afgeleid — laat het hekje staan als je liever die weg gebruikt.",
+    "value": "Het secret is de gedeelde 16-byte AES-sleutel van het kanaal, geschreven als 32 hex-tekens. Voor hashtag-kanalen wordt het secret automatisch uit de naam afgeleid. Laat het hekje staan als je liever die weg gebruikt.",
     "_human": true
   },
   "nodes_add_channel_secret_label": {
@@ -2042,7 +2042,7 @@
     "_seeded": "2026-06-01"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Klok loopt voor. Stock-firmware weigert achterwaartse synchronisatie. Oplossing: voer `clkreboot` uit vanuit de CLI hieronder — dit zet de RTC terug naar 2024-05-15 en herstart — tik daarna op synchroniseren om de huidige tijd te pushen.",
+    "value": "Klok loopt voor. Stock-firmware weigert achterwaartse synchronisatie. Oplossing: voer `clkreboot` uit vanuit de CLI hieronder (dit zet de RTC terug naar 2024-05-15 en herstart), tik daarna op synchroniseren om de huidige tijd te pushen.",
     "_human": true
   },
   "nodes_admin_clock_label": {
@@ -2079,7 +2079,7 @@
     "_seeded": "2026-05-23"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Het apparaat is nog bezig met synchroniseren — probeer het straks nog eens.",
+    "value": "Het apparaat is nog bezig met synchroniseren. Probeer het straks nog eens.",
     "_ai": true,
     "_seeded": "2026-05-23"
   },
@@ -2459,7 +2459,7 @@
     "_human": true
   },
   "nodes_detail_directory_offline": {
-    "value": "Online directory staat uit — schakel een bron in bij Instellingen → Delen → Directory.",
+    "value": "Online directory staat uit. Schakel een bron in bij Instellingen → Delen → Directory.",
     "_human": true
   },
   "nodes_detail_flood": {
@@ -2531,7 +2531,7 @@
     "_seeded": "2026-05-30"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Een repeater-wachtwoord is beperkt tot 15 tekens — alles daarboven wordt afgekapt bij het inloggen.",
+    "value": "Een repeater-wachtwoord is beperkt tot 15 tekens. Alles daarboven wordt afgekapt bij het inloggen.",
     "_human": true
   },
   "nodes_detail_login_password_label": {
@@ -2589,7 +2589,7 @@
     "_seeded": "2026-06-01"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d in cache · gedeeltelijk — tik om te verversen",
+    "value": "%1$d in cache · gedeeltelijk, tik om te verversen",
     "_human": true
   },
   "nodes_detail_neighbours_not_fetched": {
@@ -2644,7 +2644,7 @@
     "_human": true
   },
   "nodes_detail_rate_limited": {
-    "value": "Beperkte snelheid — %1$d s",
+    "value": "Beperkte snelheid: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-01"
   },
@@ -3058,7 +3058,7 @@
     "_human": true
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Kan niet verwijderen — regio heeft subregio's.",
+    "value": "Kan niet verwijderen: regio heeft subregio's.",
     "_human": true
   },
   "nodes_manage_regions_snackbar_needs_newer_fw": {
@@ -3114,7 +3114,7 @@
     "_human": true
   },
   "nodes_manual_err_not_triple": {
-    "value": "Elke hop is 3 bytes. %1$d totaal gekregen — vul aan of trim.",
+    "value": "Elke hop is 3 bytes. %1$d totaal gekregen. Vul aan of trim.",
     "_human": true
   },
   "nodes_manual_err_storage_rejected": {
@@ -3142,7 +3142,7 @@
     "_human": true
   },
   "nodes_manual_no_learned_path": {
-    "value": "(nog geen geleerd pad — Direct-verzendingen zouden zero-hop gaan)",
+    "value": "(nog geen geleerd pad: Direct-verzendingen zouden zero-hop gaan)",
     "_human": true
   },
   "nodes_manual_path_title": {
@@ -3499,7 +3499,7 @@
     "_seeded": "2026-06-10"
   },
   "path_anchor_live_fallback": {
-    "value": "Gebaseerd op je huidige locatie — er is geen positie opgeslagen voor dit bericht.",
+    "value": "Gebaseerd op je huidige locatie: er is geen positie opgeslagen voor dit bericht.",
     "_ai": true,
     "_seeded": "2026-06-10"
   },
@@ -3707,11 +3707,11 @@
     "_human": true
   },
   "room_admin_acl_empty": {
-    "value": "Geen ACL-items — tik op Vernieuwen om te laden.",
+    "value": "Geen ACL-items. Tik op Vernieuwen om te laden.",
     "_human": true
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Ongeldige pubkey-hex — moet exact 64 hex-tekens bevatten",
+    "value": "Ongeldige pubkey-hex: moet exact 64 hex-tekens bevatten",
     "_human": true
   },
   "room_admin_acl_label": {
@@ -3727,7 +3727,7 @@
     "_human": true
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 hex-tekens — de volledige publieke sleutel van de node.",
+    "value": "64 hex-tekens (de volledige publieke sleutel van de node).",
     "_human": true
   },
   "room_admin_acl_pick_contact": {
@@ -3751,7 +3751,7 @@
     "_human": true
   },
   "room_admin_admin_placeholder": {
-    "value": "Beheerhulpmiddelen worden hier geladen — CLI-console en ACL-editor volgen in de volgende update.",
+    "value": "Beheerhulpmiddelen worden hier geladen. CLI-console en ACL-editor volgen in de volgende update.",
     "_human": true
   },
   "room_admin_cd_clear_cli_history": {
@@ -3759,7 +3759,7 @@
     "_human": true
   },
   "room_admin_cli_busy": {
-    "value": "Er is al een verzoek onderweg — probeer het opnieuw.",
+    "value": "Er is al een verzoek onderweg. Probeer het opnieuw.",
     "_human": true
   },
   "room_admin_cli_command_hint": {
@@ -3783,11 +3783,11 @@
     "_human": true
   },
   "room_admin_login_failed": {
-    "value": "Aanmelden mislukt — verkeerd wachtwoord of room-server niet bereikbaar.",
+    "value": "Aanmelden mislukt: verkeerd wachtwoord of room-server niet bereikbaar.",
     "_human": true
   },
   "room_admin_login_password_hint": {
-    "value": "Het wachtwoord is beperkt tot 15 tekens — alles daarboven wordt afgekapt bij het aanmelden.",
+    "value": "Het wachtwoord is beperkt tot 15 tekens. Alles daarboven wordt afgekapt bij het aanmelden.",
     "_human": true
   },
   "room_admin_login_password_label": {
@@ -3920,7 +3920,7 @@
     "_human": true
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Wanneer het verbonden apparaat een advert van een ingeschakeld type hoort, bewaart het de node in zijn contacttabel — overleeft herstarts en bereikt de app bij de volgende leging.",
+    "value": "Wanneer het verbonden apparaat een advert van een ingeschakeld type hoort, bewaart het de node in zijn contacttabel. Het item overleeft herstarts en bereikt de app bij de volgende leging.",
     "_human": true
   },
   "settings_autoadd_companion_types_header": {
@@ -3980,7 +3980,7 @@
     "_human": true
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Als dit aanstaat mag KiekR automatisch directory-opzoekingen uitvoeren voor ontbrekende context die de app passief opmerkt — onbekende hops in een pad, gehoorde repeaters nog niet in de directory, ontbrekende burenrijen en ontbrekende regio's bij een ontdekking. Als dit uitstaat (standaard) vereist elke directory-opzoeking een tik.",
+    "value": "Als dit aanstaat mag KiekR automatisch directory-opzoekingen uitvoeren voor ontbrekende context die de app passief opmerkt: onbekende hops in een pad, gehoorde repeaters nog niet in de directory, ontbrekende burenrijen en ontbrekende regio's bij een ontdekking. Als dit uitstaat (standaard) vereist elke directory-opzoeking een tik.",
     "_human": true
   },
   "settings_autoresolve_bg_lookups_header": {
@@ -4008,7 +4008,7 @@
     "_human": true
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Opzoekingen gaan alleen naar de KiekR-directory — nooit naar een externe host. Cache-leesopdrachten blijven gratis; deze schakelaar regelt de netwerkhelft.",
+    "value": "Opzoekingen gaan alleen naar de KiekR-directory, nooit naar een externe host. Cache-leesopdrachten blijven gratis; deze schakelaar regelt de netwerkhelft.",
     "_human": true
   },
   "settings_autoresolve_surfaces_header": {
@@ -4104,11 +4104,11 @@
     "_human": true
   },
   "settings_backup_import_done": {
-    "value": "Import klaar — %1$d identiteit, %2$d kanalen, %3$d regio's, %4$d contacten, %5$d repeater-logins.",
+    "value": "Import klaar: %1$d identiteit, %2$d kanalen, %3$d regio's, %4$d contacten, %5$d repeater-logins.",
     "_human": true
   },
   "settings_backup_import_done_v2": {
-    "value": "Import klaar — %1$d identiteit, %2$d kanalen, %3$d regio's, %4$d contacten, %5$d repeater-logins, %6$d favorieten, %7$d geblokkeerde afzenders, %8$d instellingen.",
+    "value": "Import klaar: %1$d identiteit, %2$d kanalen, %3$d regio's, %4$d contacten, %5$d repeater-logins, %6$d favorieten, %7$d geblokkeerde afzenders, %8$d instellingen.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4121,7 +4121,7 @@
     "_human": true
   },
   "settings_backup_import_footer": {
-    "value": "Herstellen vanuit een .json- of .mcbackup-bestand. Importeren staat standaard op Vervangen — je bestaande kanalen, contacten en regio's worden gewist en dan wordt de bundel ingevoegd. Houd Bevestigen 5 seconden ingedrukt.",
+    "value": "Herstellen vanuit een .json- of .mcbackup-bestand. Importeren staat standaard op Vervangen: je bestaande kanalen, contacten en regio's worden gewist en dan wordt de bundel ingevoegd. Houd Bevestigen 5 seconden ingedrukt.",
     "_human": true
   },
   "settings_backup_import_header": {
@@ -4167,7 +4167,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Dit is NIET je BLE-koppel-PIN. Het beschermt alleen dit back-upbestand — kies iets dat je onthoudt; KiekR kan het niet herstellen.",
+    "value": "Dit is NIET je BLE-koppel-PIN. Het beschermt alleen dit back-upbestand. Kies iets dat je onthoudt; KiekR kan het niet herstellen.",
     "_human": true
   },
   "settings_backup_passphrase_confirm_label": {
@@ -4206,7 +4206,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "De back-up is gemaakt met een nieuwere app-versie (schema %1$s) — zo goed mogelijk toegepast.",
+    "value": "De back-up is gemaakt met een nieuwere app-versie (schema %1$s), zo goed mogelijk toegepast.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4296,7 +4296,7 @@
     "_human": true
   },
   "settings_battery_preview_footer": {
-    "value": "Doorlopende lijn = curve die je opslaat. Stippellijn = standaard chemiecurve voor deze variant. X-as: 2800–4400 mV. Y-as: 0–100%%.",
+    "value": "Doorlopende lijn = curve die je opslaat. Stippellijn = standaard chemiecurve voor deze variant. X-as: 2800-4400 mV. Y-as: 0-100%%.",
     "_human": true
   },
   "settings_battery_preview_header": {
@@ -4340,7 +4340,7 @@
     "_human": true
   },
   "settings_battery_warn_footer": {
-    "value": "Stuur een melding wanneer het verbonden apparaat tot het waarschuwingspercentage daalt. De her-activeringsmarge bepaalt hoe ver het percentage weer boven de drempel moet stijgen voordat de volgende waarschuwing kan afgaan — verbreed hem als je accucurve afvlakt (LiFePO4, AA).",
+    "value": "Stuur een melding wanneer het verbonden apparaat tot het waarschuwingspercentage daalt. De her-activeringsmarge bepaalt hoe ver het percentage weer boven de drempel moet stijgen voordat de volgende waarschuwing kan afgaan. Verbreed hem als je accucurve afvlakt (LiFePO4, AA).",
     "_human": true
   },
   "settings_battery_warn_header": {
@@ -4368,7 +4368,7 @@
     "_seeded": "2026-06-17"
   },
   "settings_blocklist_section_footer": {
-    "value": "Tik op het prullenbakpictogram om de blokkering op te heffen. Hun eerdere berichten verschijnen dan weer in alle kanalen. Het blokkeren gebeurt op basis van de exacte weergegeven naam — iedereen kan die naam kiezen, dus dit zal een vastberaden gebruiker er niet van weerhouden om de naam te wijzigen.",
+    "value": "Tik op het prullenbakpictogram om de blokkering op te heffen. Hun eerdere berichten verschijnen dan weer in alle kanalen. Het blokkeren gebeurt op basis van de exacte weergegeven naam. Iedereen kan die naam kiezen, dus dit zal een vastberaden gebruiker er niet van weerhouden om de naam te wijzigen.",
     "_ai": true,
     "_seeded": "2026-06-17"
   },
@@ -4395,11 +4395,11 @@
     "_human": true
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Je node heeft dit kanaal met de naam \"%1$s\", maar lokaal heet het \"%2$s\". Ze delen dezelfde versleutelingssleutel, dus berichten werken nog steeds — kies een naam om te behouden.",
+    "value": "Je node heeft dit kanaal met de naam \"%1$s\", maar lokaal heet het \"%2$s\". Ze delen dezelfde versleutelingssleutel, dus berichten werken nog steeds. Kies een naam om te behouden.",
     "_human": true
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Zowel je lokale lijst als je node hebben een kanaal genaamd \"%1$s\", maar met verschillende versleutelingssleutels. Berichten worden niet ontsleuteld over beide heen — kies welke sleutel de echte is.",
+    "value": "Zowel je lokale lijst als je node hebben een kanaal genaamd \"%1$s\", maar met verschillende versleutelingssleutels. Berichten worden niet ontsleuteld over beide heen. Kies welke sleutel de echte is.",
     "_human": true
   },
   "settings_channel_conflicts_keep_both": {
@@ -4479,7 +4479,7 @@
     "_human": true
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Verwijdert het kanaal en zijn sleutel uit de database. Dit kanaal gebruikt een aangepaste sleutel, dus het kan niet opnieuw worden afgeleid van de naam — verwijderen is permanent tenzij je de sleutel opnieuw importeert (bijv. via QR).",
+    "value": "Verwijdert het kanaal en zijn sleutel uit de database. Dit kanaal gebruikt een aangepaste sleutel, dus het kan niet opnieuw worden afgeleid van de naam. Verwijderen is permanent tenzij je de sleutel opnieuw importeert (bijv. via QR).",
     "_human": true
   },
   "settings_channel_detail_dialog_delete_title": {
@@ -4487,7 +4487,7 @@
     "_human": true
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Verbergt %1$s uit je chatlijst en kanaalinstellingen. Je kunt het later opnieuw toevoegen door de naam te typen bij Instellingen → Kanalen → Kanaal toevoegen op naam — de SHA-256-sleutel wordt op dezelfde manier afgeleid.",
+    "value": "Verbergt %1$s uit je chatlijst en kanaalinstellingen. Je kunt het later opnieuw toevoegen door de naam te typen bij Instellingen → Kanalen → Kanaal toevoegen op naam. De SHA-256-sleutel wordt op dezelfde manier afgeleid.",
     "_human": true
   },
   "settings_channel_detail_dialog_remove_title": {
@@ -4595,7 +4595,7 @@
     "_human": true
   },
   "settings_channels_add_error": {
-    "value": "Kon kanaal niet toevoegen — het bestaat mogelijk al of de naam/sleutel is ongeldig.",
+    "value": "Kon kanaal niet toevoegen: het bestaat mogelijk al of de naam/sleutel is ongeldig.",
     "_human": true
   },
   "settings_channels_add_hint_key_hashtag": {
@@ -4603,11 +4603,11 @@
     "_human": true
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Gebruikt de vaste sleutel van het public-kanaal — geen sleutel nodig.",
+    "value": "Gebruikt de vaste sleutel van het public-kanaal, geen sleutel nodig.",
     "_human": true
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Sleutel vereist — kanalen met aangepaste naam hebben een hex-sleutel van 32 tekens nodig.",
+    "value": "Sleutel vereist: kanalen met aangepaste naam hebben een hex-sleutel van 32 tekens nodig.",
     "_human": true
   },
   "settings_channels_add_hint_name_empty": {
@@ -4663,7 +4663,7 @@
     "_human": true
   },
   "settings_channels_conflict_body": {
-    "value": "Je node en je lokale lijst zijn het oneens over een kanaal — kies welke kant wint.",
+    "value": "Je node en je lokale lijst zijn het oneens over een kanaal. Kies welke kant wint.",
     "_human": true
   },
   "settings_channels_conflict_count_many": {
@@ -4703,7 +4703,7 @@
     "_human": true
   },
   "settings_channels_hidden_footer": {
-    "value": "Sleutel behouden. Toon om weer te ontvangen — of verwijder permanent.",
+    "value": "Sleutel behouden. Toon om weer te ontvangen, of verwijder permanent.",
     "_human": true
   },
   "settings_channels_hidden_header": {
@@ -4767,7 +4767,7 @@
     "_human": true
   },
   "settings_community_auth_footer_none": {
-    "value": "Anoniem verbinden — werkt voor ontwikkel-brokers zonder authenticatie.",
+    "value": "Anoniem verbinden: werkt voor ontwikkel-brokers zonder authenticatie.",
     "_human": true
   },
   "settings_community_auth_footer_password": {
@@ -4833,7 +4833,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Als KiekR is ingeschakeld, registreert het welke regio’s (en, waar mogelijk, welke repeaters) het ontvangt binnen een grove kaartcel van ongeveer een halve kilometer, en uploadt het periodiek de totalen per cel via wifi. Je exacte locatie blijft altijd op de telefoon — alleen de cel wordt doorgegeven — en de kaart toont alleen wat daar is ontvangen, nooit wie het heeft ontvangen. Pseudoniem en los van je KiekR-identiteit; je kunt deze functie op elk moment uitschakelen.",
+    "value": "Als KiekR is ingeschakeld, registreert het welke regio’s (en, waar mogelijk, welke repeaters) het ontvangt binnen een grove kaartcel van ongeveer een halve kilometer, en uploadt het periodiek de totalen per cel via wifi. Je exacte locatie blijft altijd op de telefoon (alleen de cel wordt doorgegeven) en de kaart toont alleen wat daar is ontvangen, nooit wie het heeft ontvangen. Pseudoniem en los van je KiekR-identiteit; je kunt deze functie op elk moment uitschakelen.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4873,7 +4873,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Voor de dekkingsgegevens is een nauwkeurige locatie nodig om wat je hoort in de juiste kaartcel te plaatsen. Zorg ervoor dat KiekR een nauwkeurige locatie kan bepalen — anders worden er op deze telefoon geen dekkingsgegevens verzameld.",
+    "value": "Voor de dekkingsgegevens is een nauwkeurige locatie nodig om wat je hoort in de juiste kaartcel te plaatsen. Zorg ervoor dat KiekR een nauwkeurige locatie kan bepalen. Anders worden er op deze telefoon geen dekkingsgegevens verzameld.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -4927,7 +4927,7 @@
     "_human": true
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT geeft alleen door zolang je via Bluetooth met je apparaat gekoppeld bent. De mesh-identiteit van je apparaat wordt nooit geüpload — elke broker gebruikt zijn eigen gegenereerde sleutelpaar. Observer-namen beginnen altijd met “KiekR_”.",
+    "value": "MQTT geeft alleen door zolang je via Bluetooth met je apparaat gekoppeld bent. De mesh-identiteit van je apparaat wordt nooit geüpload: elke broker gebruikt zijn eigen gegenereerde sleutelpaar. Observer-namen beginnen altijd met “KiekR_”.",
     "_human": true
   },
   "settings_community_mqtt_header": {
@@ -4939,7 +4939,7 @@
     "_human": true
   },
   "settings_community_observer_footer": {
-    "value": "De 3-letterige luchthavencode kenmerkt je regio op de analyzer-pagina (bijv. HAM, JFK, MUC). De observer-naam verschijnt naast je pakketten — het voorvoegsel “KiekR_” ligt vast.",
+    "value": "De 3-letterige luchthavencode kenmerkt je regio op de analyzer-pagina (bijv. HAM, JFK, MUC). De observer-naam verschijnt naast je pakketten. Het voorvoegsel “KiekR_” ligt vast.",
     "_human": true
   },
   "settings_community_observer_header": {
@@ -4955,11 +4955,11 @@
     "_human": true
   },
   "settings_community_paused_on_cellular": {
-    "value": "Gepauzeerd — op mobiel",
+    "value": "Gepauzeerd: op mobiel",
     "_human": true
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "Gepauzeerd — op mobiel · %1$d in wachtrij",
+    "value": "Gepauzeerd: op mobiel · %1$d in wachtrij",
     "_human": true
   },
   "settings_community_preset_custom_name": {
@@ -4999,7 +4999,7 @@
     "_human": true
   },
   "settings_community_privacy_dialog_body": {
-    "value": "MQTT-upload stuurt elk ruw LoRa-pakket dat je apparaat hoort — inclusief versleutelde bytes die je zelf niet kunt lezen — naar de broker die je instelt. Standaard uit; je zet hem per broker aan. Elke broker gebruikt zijn eigen gegenereerde sleutelpaar zodat de mesh-identiteit van je apparaat het apparaat nooit verlaat.",
+    "value": "MQTT-upload stuurt elk ruw LoRa-pakket dat je apparaat hoort (inclusief versleutelde bytes die je zelf niet kunt lezen) naar de broker die je instelt. Standaard uit; je zet hem per broker aan. Elke broker gebruikt zijn eigen gegenereerde sleutelpaar zodat de mesh-identiteit van je apparaat het apparaat nooit verlaat.",
     "_human": true
   },
   "settings_community_privacy_dialog_title": {
@@ -5035,19 +5035,19 @@
     "_human": true
   },
   "settings_community_topic_debug_label": {
-    "value": "Topic — debug",
+    "value": "Topic (debug)",
     "_human": true
   },
   "settings_community_topic_packets_label": {
-    "value": "Topic — pakketten",
+    "value": "Topic (pakketten)",
     "_human": true
   },
   "settings_community_topic_raw_label": {
-    "value": "Topic — raw",
+    "value": "Topic (raw)",
     "_human": true
   },
   "settings_community_topic_status_label": {
-    "value": "Topic — status",
+    "value": "Topic (status)",
     "_human": true
   },
   "settings_community_transport_tcp": {
@@ -5103,7 +5103,7 @@
     "_human": true
   },
   "settings_community_val_err_port_range": {
-    "value": "Poort moet 1–65535 zijn",
+    "value": "Poort moet tussen 1 en 65535 liggen",
     "_human": true
   },
   "settings_community_val_err_server_required": {
@@ -5187,7 +5187,7 @@
     "_human": true
   },
   "settings_diag_footer": {
-    "value": "Standaard uit. Als dit aanstaat, uploadt KiekR de crash-, vastloop- en CPU-rapporten die iOS aanlevert naar api.kiekr.app: app-versie, iOS-versie, apparaatmodel, de systeemfoutcodes en de call stack. Geen berichten, contacten, sleutels of locaties — en het is de enige manier waarop een fout op je telefoon de ontwikkelaar bereikt.",
+    "value": "Standaard uit. Als dit aanstaat, uploadt KiekR de crash-, vastloop- en CPU-rapporten die iOS aanlevert naar api.kiekr.app: app-versie, iOS-versie, apparaatmodel, de systeemfoutcodes en de call stack. Geen berichten, contacten, sleutels of locaties. Het is de enige manier waarop een fout op je telefoon de ontwikkelaar bereikt.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -5222,7 +5222,7 @@
     "_human": true
   },
   "settings_directory_builtin_hint": {
-    "value": "Vooraf geconfigureerde rijen kunnen niet worden hernoemd of van URL worden gewijzigd — zet ze uit als je ze niet wilt gebruiken, of voeg een nieuwe bron toe.",
+    "value": "Vooraf geconfigureerde rijen kunnen niet worden hernoemd of van URL worden gewijzigd. Zet ze uit als je ze niet wilt gebruiken, of voeg een nieuwe bron toe.",
     "_human": true
   },
   "settings_directory_cache_footer": {
@@ -5306,7 +5306,7 @@
     "_human": true
   },
   "settings_directory_sources_footer": {
-    "value": "Opzoekingen lopen elke ingeschakelde bron in rangorde af; de eerste bron die een kandidaat teruggeeft wint. api.kiekr.app is privacyvriendelijk (alleen tier-A-repeaters). Meshcorenetz Analyzer is breder — valt natuurlijk door voor nodes die de KiekR-backend niet heeft. Herorden met de omhoog/omlaag-pijlen; tik op het potlood om de max. afstand per hop per bron te bewerken.",
+    "value": "Opzoekingen lopen elke ingeschakelde bron in rangorde af; de eerste bron die een kandidaat teruggeeft wint. api.kiekr.app is privacyvriendelijk (alleen tier-A-repeaters). Meshcorenetz Analyzer is breder en valt natuurlijk door voor nodes die de KiekR-backend niet heeft. Herorden met de omhoog/omlaag-pijlen; tik op het potlood om de max. afstand per hop per bron te bewerken.",
     "_human": true
   },
   "settings_directory_sources_header": {
@@ -5386,7 +5386,7 @@
     "_human": true
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— diagnostische context —",
+    "value": "Diagnostische context:",
     "_human": true
   },
   "settings_help_logs_email_firmware": {
@@ -5402,7 +5402,7 @@
     "_human": true
   },
   "settings_help_logs_email_subject": {
-    "value": "KiekR Android-logboeken — %1$s %2$s — %3$s",
+    "value": "KiekR Android-logboeken, %1$s %2$s, %3$s",
     "_human": true
   },
   "settings_help_no_log": {
@@ -5584,7 +5584,7 @@
     "_human": true
   },
   "settings_notifications_dm_footer": {
-    "value": "Stuur een melding bij elke inkomende DM. DM's zijn cryptografisch geauthenticeerd — dit uitzetten onderdrukt alleen de melding; het bericht komt nog steeds in je chatlijst aan.",
+    "value": "Stuur een melding bij elke inkomende DM. DM's zijn cryptografisch geauthenticeerd. Dit uitzetten onderdrukt alleen de melding; het bericht komt nog steeds in je chatlijst aan.",
     "_human": true
   },
   "settings_notifications_dm_header": {
@@ -5637,7 +5637,7 @@
     "_seeded": "2026-07-01"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Persistent leerhulpmiddel voor prefix-botsingen: zodra de deterministische kiezer een winnaar heeft gekozen, wordt de (prefix, hop, pubkey) gemarkeerd zodat de volgende gelijkstand bij dezelfde prefix dezelfde kant op breekt.\n\nCache-TTL — hoe lang een vermelding overleeft zonder opnieuw te worden gebruikt. Standaard 30 dagen, begrensd 1..=180.\n\nGelijkspelmarge — hoe dicht de metrieken van twee kandidaten bij elkaar moeten liggen (in %%) voordat de cache de gelijkstand breekt. 0 schakelt de cache-terugval uit (alleen exacte gelijkstanden kwalificeren); 20 is de bovengrens. Standaard 5 %%.",
+    "value": "Persistent leerhulpmiddel voor prefix-botsingen: zodra de deterministische kiezer een winnaar heeft gekozen, wordt de (prefix, hop, pubkey) gemarkeerd zodat de volgende gelijkstand bij dezelfde prefix dezelfde kant op breekt.\n\nCache-TTL: hoe lang een vermelding overleeft zonder opnieuw te worden gebruikt. Standaard 30 dagen, begrensd 1..=180.\n\nGelijkspelmarge: hoe dicht de metrieken van twee kandidaten bij elkaar moeten liggen (in %%) voordat de cache de gelijkstand breekt. 0 schakelt de cache-terugval uit (alleen exacte gelijkstanden kwalificeren); 20 is de bovengrens. Standaard 5 %%.",
     "_human": true
   },
   "settings_pathlookup_cache_header": {
@@ -5681,11 +5681,11 @@
     "_human": true
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Multibyte-hops vereisen companion-firmware v1.15.0 of nieuwer. Je companion meldt een oudere versie — vergrendeld op 1 Byte totdat je bijwerkt. Je vorige voorkeur blijft bewaard en wordt na het bijwerken weer geactiveerd.",
+    "value": "Multibyte-hops vereisen companion-firmware v1.15.0 of nieuwer. Je companion meldt een oudere versie: vergrendeld op 1 Byte totdat je bijwerkt. Je vorige voorkeur blijft bewaard en wordt na het bijwerken weer geactiveerd.",
     "_human": true
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Bytes per hop die aan het pad worden toegevoegd op nieuwe uitgaande pakketten die wij opstellen. Hogere waarden verminderen naambotsingen, maar worden mogelijk niet doorgegeven door oudere repeater-firmware. Geleerde paden naar bekende contacten houden de breedte waarmee ze ontvangen zijn — deze instelling raakt alleen flood- en anon-reply-paden. 3 bytes aanbevolen voor unieke paden (2 werkt ook); firmwarestandaard is 1.",
+    "value": "Bytes per hop die aan het pad worden toegevoegd op nieuwe uitgaande pakketten die wij opstellen. Hogere waarden verminderen naambotsingen, maar worden mogelijk niet doorgegeven door oudere repeater-firmware. Geleerde paden naar bekende contacten houden de breedte waarmee ze ontvangen zijn. Deze instelling raakt alleen flood- en anon-reply-paden. 3 bytes aanbevolen voor unieke paden (2 werkt ook); firmwarestandaard is 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -5714,7 +5714,7 @@
     "_human": true
   },
   "settings_region_discovery_directory_off": {
-    "value": "Online directory staat uit — schakel een bron in bij Instellingen → Delen → Directory.",
+    "value": "Online directory staat uit. Schakel een bron in bij Instellingen → Delen → Directory.",
     "_human": true
   },
   "settings_region_discovery_fetch_all": {
@@ -5977,7 +5977,7 @@
     "_human": true
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Regio %1$s staat al in je lijst — weer getoond",
+    "value": "Regio %1$s staat al in je lijst: weer getoond",
     "_human": true
   },
   "settings_regions_unhide": {
@@ -6112,7 +6112,7 @@
     "_human": true
   },
   "settings_tools_background_footer": {
-    "value": "Android pauzeert het app-netwerk wanneer het scherm uit is. Stel KiekR vrij van batterijoptimalisatie — en van de autostart-beperkingen van je fabrikant — zodat de companion-verbinding op de achtergrond blijft bestaan.",
+    "value": "Android pauzeert het app-netwerk wanneer het scherm uit is. Stel KiekR vrij van batterijoptimalisatie (en van de autostart-beperkingen van je fabrikant) zodat de companion-verbinding op de achtergrond blijft bestaan.",
     "_human": true
   },
   "settings_tools_background_header": {
@@ -6160,7 +6160,7 @@
     "_human": true
   },
   "settings_tools_neighbour_footer": {
-    "value": "Pogingen is hoeveel extra pogingen core-lib doet per GET_NEIGHBOURS-pagina als de firmware niet binnen het venster per poging antwoordt — handig op onbetrouwbare BLE- / radioverbindingen waar een pagina time-out geeft. Het venster schaalt met de paginagrootte, dus verhogen geeft de extra pogingen de tijd die ze nodig hebben. De paginagrootte zelf ligt vast op het buffermaximum van de firmware. Standaard %1$d.",
+    "value": "Pogingen is hoeveel extra pogingen core-lib doet per GET_NEIGHBOURS-pagina als de firmware niet binnen het venster per poging antwoordt, handig op onbetrouwbare BLE- / radioverbindingen waar een pagina time-out geeft. Het venster schaalt met de paginagrootte, dus verhogen geeft de extra pogingen de tijd die ze nodig hebben. De paginagrootte zelf ligt vast op het buffermaximum van de firmware. Standaard %1$d.",
     "_human": true
   },
   "settings_tools_neighbour_header": {
@@ -6223,12 +6223,12 @@
     "_seeded": "2026-07-01"
   },
   "traceroute_no_response": {
-    "value": "Geen reactie — het pad is mogelijk niet bereikbaar.",
+    "value": "Geen reactie: het pad is mogelijk niet bereikbaar.",
     "_ai": true,
     "_seeded": "2026-07-01"
   },
   "traceroute_reachability_hint": {
-    "value": "De eerste repeater moet je kunnen horen en jij moet het antwoord van de laatste repeater kunnen horen — kies een pad waarvan je weet dat dat bereikbaar is.",
+    "value": "De eerste repeater moet je kunnen horen en jij moet het antwoord van de laatste repeater kunnen horen. Kies een pad waarvan je weet dat dat bereikbaar is.",
     "_ai": true,
     "_seeded": "2026-07-01"
   },
@@ -6285,7 +6285,7 @@
     "_human": true
   },
   "ui_connection_banner_disconnected": {
-    "value": "Geen node verbonden — tik om te koppelen",
+    "value": "Geen node verbonden: tik om te koppelen",
     "_human": true
   },
   "ui_connection_banner_pairing": {
@@ -6301,7 +6301,7 @@
     "_human": true
   },
   "ui_directory_notice_body": {
-    "value": "KiekR kan een onbekende repeater via zijn hash opzoeken in online directory's — handig wanneer een pad-hop verschijnt als een kale hex-prefix. Het blijft uit totdat je het inschakelt bij Instellingen → Delen → Directory.",
+    "value": "KiekR kan een onbekende repeater via zijn hash opzoeken in online directory's (handig wanneer een pad-hop verschijnt als een kale hex-prefix). Het blijft uit totdat je het inschakelt bij Instellingen → Delen → Directory.",
     "_human": true
   },
   "ui_directory_notice_title": {
@@ -6556,7 +6556,7 @@
     "_seeded": "2026-08-04"
   },
   "nodes_cli_no_reply": {
-    "value": "Opdracht verzonden — deze opdracht stuurt geen antwoord.",
+    "value": "Opdracht verzonden. Deze opdracht stuurt geen antwoord.",
     "_ai": true,
     "_seeded": "2026-08-04"
   },
@@ -6641,7 +6641,7 @@
     "_seeded": "2026-08-04"
   },
   "mynode_advert_share_hint": {
-    "value": "Zendt de positie van deze node naar de hele mesh in zijn advert — vanaf de GPS (indien ingeschakeld) of een vaste positie die je hieronder instelt.",
+    "value": "Zendt de positie van deze node naar de hele mesh in zijn advert: vanaf de GPS (indien ingeschakeld) of een vaste positie die je hieronder instelt.",
     "_ai": true,
     "_seeded": "2026-08-04"
   },
@@ -6831,7 +6831,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Log in via de knop rechtsboven — ‘gast’ voor statistieken, buren, telemetrie en firmware; ‘beheerder’ voor configuratie, regio’s en CLI.",
+    "value": "Log in via de knop rechtsboven: ‘gast’ voor statistieken, buren, telemetrie en firmware; ‘beheerder’ voor configuratie, regio’s en CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -7086,7 +7086,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pakketten die de radio niet correct kon lezen — neemt toe bij interferentie of een zwak signaal.",
+    "value": "Pakketten die de radio niet correct kon lezen. Neemt toe bij interferentie of een zwak signaal.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -7346,7 +7346,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Wanneer deze functie is ingeschakeld, deelt KiekR met mapme.sh — een community-dekkingskaart — welke kaartcellen mesh-dekking hebben. Elk monster bevat de kaartcel, signaalsterkte en het hop-pad, maar nooit je exacte positie of identiteit. Uploads volgen je instellingen voor ‘alleen wifi’ en upload-interval.",
+    "value": "Wanneer deze functie is ingeschakeld, deelt KiekR met mapme.sh (een community-dekkingskaart) welke kaartcellen mesh-dekking hebben. Elk monster bevat de kaartcel, signaalsterkte en het hop-pad, maar nooit je exacte positie of identiteit. Uploads volgen je instellingen voor ‘alleen wifi’ en upload-interval.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -7578,7 +7578,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Geen GPS-signaal — online directory-hops worden mogelijk niet op de kaart weergegeven. Schakel locatietoegang in voor volledige padresolutie.",
+    "value": "Geen GPS-signaal: online directory-hops worden mogelijk niet op de kaart weergegeven. Schakel locatietoegang in voor volledige padresolutie.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -7593,7 +7593,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Plak een hexadecimale privésleutel van 64 of 128 tekens om een identiteit uit een back-up te herstellen — deze wordt lokaal opgeslagen en naar de gekoppelde companion verzonden. Bij het exporteren wordt de sleutel van dit knooppunt weergegeven, zodat u er een back-up van kunt maken.",
+    "value": "Plak een hexadecimale privésleutel van 64 of 128 tekens om een identiteit uit een back-up te herstellen. Deze wordt lokaal opgeslagen en naar de gekoppelde companion verzonden. Bij het exporteren wordt de sleutel van dit knooppunt weergegeven, zodat u er een back-up van kunt maken.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -7628,7 +7628,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Vaste standaardbron — het eindpunt en andere instellingen staan vast; u kunt de naam hier wijzigen.",
+    "value": "Vaste standaardbron: het eindpunt en andere instellingen staan vast; u kunt de naam hier wijzigen.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -7653,7 +7653,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Server heeft gereageerd — URL is geldig",
+    "value": "Server heeft gereageerd: URL is geldig",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -7693,7 +7693,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Dit is de geheime identiteitssleutel van je knooppunt — iedereen die deze sleutel heeft, kan zich voordoen als jouw knooppunt. Bewaar hem op een veilige plek en deel hem nooit met anderen.",
+    "value": "Dit is de geheime identiteitssleutel van je knooppunt: iedereen die deze sleutel heeft, kan zich voordoen als jouw knooppunt. Bewaar hem op een veilige plek en deel hem nooit met anderen.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -7758,7 +7758,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Als deze optie is ingeschakeld, kan KiekR automatisch directory-zoekopdrachten uitvoeren voor ontbrekende context die de app passief waarneemt — onbekende hops in een pad, gehoorde repeaters die nog niet in de directory staan, ontbrekende buurregels en ontbrekende regio's bij een ontdekking. Als deze optie is uitgeschakeld (standaard), is voor elke directory-zoekopdracht een tik nodig.",
+    "value": "Als deze optie is ingeschakeld, kan KiekR automatisch directory-zoekopdrachten uitvoeren voor ontbrekende context die de app passief waarneemt: onbekende hops in een pad, gehoorde repeaters die nog niet in de directory staan, ontbrekende buurregels en ontbrekende regio's bij een ontdekking. Als deze optie is uitgeschakeld (standaard), is voor elke directory-zoekopdracht een tik nodig.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -7788,7 +7788,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Zoekopdrachten gaan uitsluitend naar de KiekR-directory — nooit naar een host van een derde partij. Cache-lezingen blijven gratis; deze schakelaar regelt de netwerkhelft.",
+    "value": "Zoekopdrachten gaan uitsluitend naar de KiekR-directory, nooit naar een host van een derde partij. Cache-lezingen blijven gratis; deze schakelaar regelt de netwerkhelft.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -7823,7 +7823,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Dit is NIET je BLE-koppelings-PIN en ook NIET je identiteitswachtwoord. Het beschermt alleen dit back-upbestand. Kies iets dat je gemakkelijk kunt onthouden — KiekR kan het niet voor je herstellen.",
+    "value": "Dit is NIET je BLE-koppelings-PIN en ook NIET je identiteitswachtwoord. Het beschermt alleen dit back-upbestand. Kies iets dat je gemakkelijk kunt onthouden. KiekR kan het niet voor je herstellen.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -7918,7 +7918,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Meld wanneer het verbonden apparaat daalt tot het waarschuwingspercentage. Het heractiveringsinterval is de mate waarin het percentage weer boven de drempel moet stijgen voordat de volgende waarschuwing kan worden geactiveerd — vergroot dit interval als je batterijcurve afvlakt (LiFePO4, AA).",
+    "value": "Meld wanneer het verbonden apparaat daalt tot het waarschuwingspercentage. Het heractiveringsinterval is de mate waarin het percentage weer boven de drempel moet stijgen voordat de volgende waarschuwing kan worden geactiveerd. Vergroot dit interval als je batterijcurve afvlakt (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -7978,7 +7978,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Veeg om de blokkering op te heffen. Hun eerdere berichten verschijnen weer in elk kanaal zodra de blokkering is opgeheven. Het blokkeren gebeurt op basis van de exacte weergegeven naam — iedereen kan die naam kiezen, dus dit zal een vastberaden poster er niet van weerhouden de naam te wijzigen.",
+    "value": "Veeg om de blokkering op te heffen. Hun eerdere berichten verschijnen weer in elk kanaal zodra de blokkering is opgeheven. Het blokkeren gebeurt op basis van de exacte weergegeven naam. Iedereen kan die naam kiezen, dus dit zal een vastberaden poster er niet van weerhouden de naam te wijzigen.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -7988,12 +7988,12 @@
     "_seeded": "2026-08-12"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Verbonden met een standaardknooppunt — alleen kanalen die op het apparaat zijn geïnstalleerd, kunnen verzenden. Veeg naar rechts om een kanaal aan het apparaat toe te voegen of te verwijderen. Veeg naar links om een kanaal te verwijderen — #-kanalen behouden hun sleutel, zodat je ze op naam opnieuw kunt toevoegen; kanalen met een aangepaste sleutel worden definitief verwijderd.",
+    "value": "Verbonden met een standaardknooppunt: alleen kanalen die op het apparaat zijn geïnstalleerd, kunnen verzenden. Veeg naar rechts om een kanaal aan het apparaat toe te voegen of te verwijderen. Veeg naar links om een kanaal te verwijderen: #-kanalen behouden hun sleutel, zodat je ze op naam opnieuw kunt toevoegen; kanalen met een aangepaste sleutel worden definitief verwijderd.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Kanalen moeten aan een regio worden toegewezen om op de meeste netwerken te worden herhaald. Tik op een kanaal om het toe te wijzen. Veeg naar links om te verwijderen — #-kanalen behouden hun sleutel, zodat je ze op naam opnieuw kunt toevoegen; kanalen met een aangepaste sleutel worden definitief verwijderd.",
+    "value": "Kanalen moeten aan een regio worden toegewezen om op de meeste netwerken te worden herhaald. Tik op een kanaal om het toe te wijzen. Veeg naar links om te verwijderen: #-kanalen behouden hun sleutel, zodat je ze op naam opnieuw kunt toevoegen; kanalen met een aangepaste sleutel worden definitief verwijderd.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8113,7 +8113,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Gasttoegang — alleen-lezen",
+    "value": "Gasttoegang (alleen-lezen)",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8193,17 +8193,17 @@
     "_seeded": "2026-08-12"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "De online directory is uitgeschakeld — schakel een bron in via Instellingen → Delen → Directory.",
+    "value": "De online directory is uitgeschakeld. Schakel een bron in via Instellingen → Delen → Directory.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Meerdere repeaters komen overeen met het korte-padvoorvoegsel van deze hop. We kunnen niet automatisch de juiste kiezen — kies degene die op uw route lag.",
+    "value": "Meerdere repeaters komen overeen met het korte-padvoorvoegsel van deze hop. We kunnen niet automatisch de juiste kiezen. Kies degene die op uw route lag.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Er zijn nog geen hexes in kaart gebracht — rijd rond met de radio aan en ze zullen hier verschijnen.",
+    "value": "Er zijn nog geen hexes in kaart gebracht. Rijd rond met de radio aan en ze zullen hier verschijnen.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8303,7 +8303,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Gepauzeerd — via mobiel netwerk",
+    "value": "Gepauzeerd: via mobiel netwerk",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8373,22 +8373,22 @@
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Onderwerp — pakketten",
+    "value": "Onderwerp (pakketten)",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_status": {
-    "value": "Onderwerp — status",
+    "value": "Onderwerp (status)",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Onderwerp — debug",
+    "value": "Onderwerp (debug)",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Onderwerp — raw",
+    "value": "Onderwerp (raw)",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8493,7 +8493,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Slaat de identiteit lokaal op. Als de sleutel op een seed is gebaseerd en er een companion is verbonden, wordt de seed ook via CMD_IMPORT_PRIVATE_KEY naar het apparaat verzonden — hierdoor wordt de huidige identiteit van het apparaat overschreven.",
+    "value": "Slaat de identiteit lokaal op. Als de sleutel op een seed is gebaseerd en er een companion is verbonden, wordt de seed ook via CMD_IMPORT_PRIVATE_KEY naar het apparaat verzonden. Hierdoor wordt de huidige identiteit van het apparaat overschreven.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8638,7 +8638,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Klokafwijking afzender — lokale ontvangsttijd gebruiken",
+    "value": "Klokafwijking afzender: lokale ontvangsttijd gebruiken",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8778,7 +8778,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Het wachtwoord is beperkt tot 15 tekens — alles wat langer is, wordt afgekapt wanneer je inlogt.",
+    "value": "Het wachtwoord is beperkt tot 15 tekens. Alles wat langer is, wordt afgekapt wanneer je inlogt.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8803,7 +8803,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Meld bij elk inkomend DM. DM’s worden cryptografisch geauthenticeerd — als je dit uitschakelt, wordt alleen de melding onderdrukt; het bericht komt nog steeds binnen in je chatlijst.",
+    "value": "Meld bij elk inkomend DM. DM’s worden cryptografisch geauthenticeerd. Als je dit uitschakelt, wordt alleen de melding onderdrukt; het bericht komt nog steeds binnen in je chatlijst.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8853,7 +8853,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Voor multi-byte-hops is de bijbehorende firmware v1.15.0 of nieuwer vereist. Je bijbehorende apparaat meldt een oudere versie — vastgezet op 1 byte totdat je een upgrade uitvoert. Je eerdere voorkeur blijft behouden en wordt na de upgrade weer geactiveerd.",
+    "value": "Voor multi-byte-hops is de bijbehorende firmware v1.15.0 of nieuwer vereist. Je bijbehorende apparaat meldt een oudere versie: vastgezet op 1 byte totdat je een upgrade uitvoert. Je eerdere voorkeur blijft behouden en wordt na de upgrade weer geactiveerd.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -8883,7 +8883,7 @@
     "_seeded": "2026-08-12"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Veeg over een regio om deze te verwijderen. De regio blijft in de database staan (en blijft inkomend verkeer annoteren), maar verdwijnt uit deze lijst en uit de kanaalkeuzemenu’s — voeg de regio opnieuw toe op naam om deze terug te halen.",
+    "value": "Veeg over een regio om deze te verwijderen. De regio blijft in de database staan (en blijft inkomend verkeer annoteren), maar verdwijnt uit deze lijst en uit de kanaalkeuzemenu’s. Voeg de regio opnieuw toe op naam om deze terug te halen.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -9093,7 +9093,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Niet verbonden met een bijbehorend apparaat — sluit eerst een node aan.",
+    "value": "Niet verbonden met een bijbehorend apparaat. Sluit eerst een node aan.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -9118,7 +9118,7 @@
     "_seeded": "2026-08-12"
   },
   "backup_restore_hint": {
-    "value": "Herstel vanuit een `.json`- of `.mcbackup`-bestand. Bij het importeren is de standaardinstelling ‘Vervangen’ — je bestaande kanalen, contacten en regio’s worden gewist, waarna de bundel wordt ingevoegd. Tik op ‘Bevestigen’ en houd deze 5 seconden ingedrukt.",
+    "value": "Herstel vanuit een `.json`- of `.mcbackup`-bestand. Bij het importeren is de standaardinstelling ‘Vervangen’: je bestaande kanalen, contacten en regio’s worden gewist, waarna de bundel wordt ingevoegd. Tik op ‘Bevestigen’ en houd deze 5 seconden ingedrukt.",
     "_ai": true,
     "_seeded": "2026-08-12"
   },
@@ -9218,17 +9218,17 @@
     "_seeded": "2026-08-18"
   },
   "reach_state_none": {
-    "value": "Nog geen observer heeft het gehoord — dat betekent nooit dat het verzenden mislukte.",
+    "value": "Nog geen observer heeft het gehoord. Dat betekent nooit dat het verzenden mislukte.",
     "_ai": true,
     "_seeded": "2026-08-18"
   },
   "reach_state_local": {
-    "value": "Tot nu toe in één observerregio gehoord — waarschijnlijk alleen dichtbij.",
+    "value": "Tot nu toe in één observerregio gehoord, waarschijnlijk alleen dichtbij.",
     "_ai": true,
     "_seeded": "2026-08-18"
   },
   "reach_state_mesh": {
-    "value": "In %1$d regio's gehoord — de mesh heeft dit bericht doorgegeven.",
+    "value": "In %1$d regio's gehoord: de mesh heeft dit bericht doorgegeven.",
     "_ai": true,
     "_seeded": "2026-08-18"
   },
@@ -9243,7 +9243,7 @@
     "_seeded": "2026-08-18"
   },
   "reach_error": {
-    "value": "Controle mislukt — probeer het later opnieuw.",
+    "value": "Controle mislukt. Probeer het later opnieuw.",
     "_ai": true,
     "_seeded": "2026-08-18"
   },
@@ -9253,7 +9253,7 @@
     "_seeded": "2026-08-18"
   },
   "reach_state_observers": {
-    "value": "Door %1$d observers gehoord — de mesh heeft dit bericht doorgegeven.",
+    "value": "Door %1$d observers gehoord: de mesh heeft dit bericht doorgegeven.",
     "_ai": true,
     "_seeded": "2026-08-18"
   },
@@ -9263,7 +9263,7 @@
     "_seeded": "2026-08-18"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Deze node voegt momenteel elk soort advertentie automatisch toe (“Auto add all”) — de filters hieronder hebben geen effect. Mogelijk heeft een andere app dit omgezet.",
+    "value": "Deze node voegt momenteel elk soort advertentie automatisch toe (“Auto add all”). De filters hieronder hebben geen effect. Mogelijk heeft een andere app dit omgezet.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9281,7 +9281,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Niet verzonden — niet op je node geïnstalleerd",
+    "value": "Niet verzonden: niet op je node geïnstalleerd",
     "_human": true
   },
   "notif_reply_failed": {
@@ -9303,7 +9303,7 @@
     "_seeded": "2026-08-19"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Brengt ook hexagons in kaart waar geen verkeer is ontvangen — gebruikt gps en meer batterij.",
+    "value": "Brengt ook hexagons in kaart waar geen verkeer is ontvangen. Gebruikt gps en meer batterij.",
     "_ai": true,
     "_seeded": "2026-08-19"
   },
@@ -9348,7 +9348,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "De contactenlijst van deze node is vol — hij kan geen nieuwe contacten meer opnemen die hij hoort. Verwijder er een paar om ruimte te maken.",
+    "value": "De contactenlijst van deze node is vol: hij kan geen nieuwe contacten meer opnemen die hij hoort. Verwijder er een paar om ruimte te maken.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9358,17 +9358,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Gepauzeerd — locatietoegang is alleen \"Tijdens gebruik van de app\"",
+    "value": "Gepauzeerd: locatietoegang is alleen \"Tijdens gebruik van de app\"",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Gepauzeerd — locatiesessie gestopt",
+    "value": "Gepauzeerd: locatiesessie gestopt",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Zonder \"Altijd\" verzamelt coverage alleen zolang KiekR open is — iOS pauzeert de locatiesessie zodra de app naar de achtergrond gaat. Met \"Altijd\" blijft KiekR verzamelen in je zak, met alleen de positie die je telefoon al kent, zonder extra GPS.",
+    "value": "Zonder \"Altijd\" verzamelt coverage alleen zolang KiekR open is. IOS pauzeert de locatiesessie zodra de app naar de achtergrond gaat. Met \"Altijd\" blijft KiekR verzamelen in je zak, met alleen de positie die je telefoon al kent, zonder extra GPS.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9468,12 +9468,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Verwijdert %@ uit je chatlijst en kanaalinstellingen. Je kunt het later opnieuw toevoegen door de naam in te voeren bij Instellingen → Kanalen → Kanaal toevoegen op naam — de SHA-256-sleutel wordt op dezelfde manier afgeleid.",
+    "value": "Verwijdert %@ uit je chatlijst en kanaalinstellingen. Je kunt het later opnieuw toevoegen door de naam in te voeren bij Instellingen → Kanalen → Kanaal toevoegen op naam. De SHA-256-sleutel wordt op dezelfde manier afgeleid.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "%@ verwijderen? Dit is definitief — de sleutel kan niet opnieuw uit de naam worden afgeleid.",
+    "value": "%@ verwijderen? Dit is definitief: de sleutel kan niet opnieuw uit de naam worden afgeleid.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9518,7 +9518,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Blijvend leerhulpmiddel voor prefixbotsingen: zodra de deterministische picker een winnaar heeft gekozen, wordt de (prefix, hop, pubkey) bijgewerkt, zodat de volgende gelijke stand bij hetzelfde prefix op dezelfde manier wordt opgelost.\n\nCache-TTL — hoe lang een item overleeft zonder opnieuw gebruikt te worden. Standaard 30 dagen, begrensd op 1..=180.\n\nTiebreaker-marge — hoe dicht de metrics van twee kandidaten bij elkaar moeten liggen (in %) voordat de cache de gelijke stand oplost. 0 schakelt de cache-fallback uit (alleen exacte gelijke standen komen in aanmerking); 20 is de bovengrens. Standaard 5 %.",
+    "value": "Blijvend leerhulpmiddel voor prefixbotsingen: zodra de deterministische picker een winnaar heeft gekozen, wordt de (prefix, hop, pubkey) bijgewerkt, zodat de volgende gelijke stand bij hetzelfde prefix op dezelfde manier wordt opgelost.\n\nCache-TTL: hoe lang een item overleeft zonder opnieuw gebruikt te worden. Standaard 30 dagen, begrensd op 1..=180.\n\nTiebreaker-marge: hoe dicht de metrics van twee kandidaten bij elkaar moeten liggen (in %) voordat de cache de gelijke stand oplost. 0 schakelt de cache-fallback uit (alleen exacte gelijke standen komen in aanmerking); 20 is de bovengrens. Standaard 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9553,7 +9553,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth staat uit — tik om het in te schakelen",
+    "value": "Bluetooth staat uit: tik om het in te schakelen",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -9568,7 +9568,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "Gepauzeerd — deze telefoon heeft geen netwerklocatie. GPS-posities komen alleen binnen zolang een andere app GPS gebruikt of tijdens het opladen.",
+    "value": "Gepauzeerd: deze telefoon heeft geen netwerklocatie. GPS-posities komen alleen binnen zolang een andere app GPS gebruikt of tijdens het opladen.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -9578,7 +9578,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Deze telefoon heeft geen netwerklocatie. Als dit aanstaat, zet KiekR zelf de GPS aan zolang mesh-verkeer binnenkomt — ook op batterij, en stopt als je stilstaat. Kost meer batterij.",
+    "value": "Deze telefoon heeft geen netwerklocatie. Als dit aanstaat, zet KiekR zelf de GPS aan zolang mesh-verkeer binnenkomt (ook op batterij, en stopt als je stilstaat). Kost meer batterij.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -9854,7 +9854,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Alleen hex-tekens 0–9, a–f. Spaties en dubbele punten worden bij het plakken verwijderd. De repeater heeft de volledige sleutel nodig om toe te voegen.",
+    "value": "Alleen hex-tekens 0-9, a-f. Spaties en dubbele punten worden bij het plakken verwijderd. De repeater heeft de volledige sleutel nodig om toe te voegen.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -9984,7 +9984,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d items – lijst mogelijk onvolledig",
+    "value": "%1$d items (lijst mogelijk onvolledig)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -10069,7 +10069,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Alleen hex-tekens 0–9, a–f. Spaties en dubbele punten worden bij het plakken verwijderd. De room-server heeft de volledige sleutel nodig om toe te voegen.",
+    "value": "Alleen hex-tekens 0-9, a-f. Spaties en dubbele punten worden bij het plakken verwijderd. De room-server heeft de volledige sleutel nodig om toe te voegen.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -10119,7 +10119,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "“Iedereen” betekent elk contact dat op deze node is opgeslagen — met automatisch toevoegen aan, praktisch iedereen binnen bereik.",
+    "value": "“Iedereen” betekent elk contact dat op deze node is opgeslagen: met automatisch toevoegen aan, praktisch iedereen binnen bereik.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10134,7 +10134,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Delen staat uit op je node — zet het aan bij Mijn node → Telemetrie delen.",
+    "value": "Delen staat uit op je node. Zet het aan bij Mijn node → Telemetrie delen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10144,7 +10144,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Kon de rechten niet bijwerken — het contact moet op je node staan.",
+    "value": "Kon de rechten niet bijwerken: het contact moet op je node staan.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10164,7 +10164,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Er loopt al een ander verzoek op deze node — probeer het straks opnieuw.",
+    "value": "Er loopt al een ander verzoek op deze node. Probeer het straks opnieuw.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10189,7 +10189,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Positie ongewijzigd — het apparaat heeft mogelijk geen actuele GPS-fix.",
+    "value": "Positie ongewijzigd: het apparaat heeft mogelijk geen actuele GPS-fix.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10199,12 +10199,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Geen locatie in het antwoord — geen GPS, GPS uit, of locatie niet met jou gedeeld.",
+    "value": "Geen locatie in het antwoord: geen GPS, GPS uit, of locatie niet met jou gedeeld.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Geen reactie — buiten bereik, of dit contact heeft je geen toestemming gegeven om dit op te vragen.",
+    "value": "Geen reactie: buiten bereik, of dit contact heeft je geen toestemming gegeven om dit op te vragen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10229,7 +10229,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Tot 16 verzoeken over 15 minuten, alleen via een bekende route of direct bereik — geen mesh-flood.",
+    "value": "Tot 16 verzoeken over 15 minuten, alleen via een bekende route of direct bereik (geen mesh-flood).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10244,17 +10244,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Live-lokalisatie beëindigd — de 15 minuten zijn om.",
+    "value": "Live-lokalisatie beëindigd: de 15 minuten zijn om.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Geen reactie — buiten direct bereik? Gebruik “Zoeken in mesh” om het via repeaters te proberen.",
+    "value": "Geen reactie. Buiten direct bereik? Gebruik “Zoeken in mesh” om het via repeaters te proberen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "De verbinding met de node is verbroken — live-lokalisatie gestopt.",
+    "value": "De verbinding met de node is verbroken. Live-lokalisatie gestopt.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -10319,7 +10319,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Locatietoegang staat uit — nodig om je positie en de afstand te tonen.",
+    "value": "Locatietoegang staat uit: nodig om je positie en de afstand te tonen.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },

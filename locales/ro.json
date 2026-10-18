@@ -31,7 +31,7 @@
     "_seeded": "2026-07-30"
   },
   "app_safemode_reset_hint": {
-    "value": "Partajează mai întâi jurnalul — ștergerea elimină exact datele necesare diagnosticării.",
+    "value": "Partajează mai întâi jurnalul: ștergerea elimină exact datele necesare diagnosticării.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -191,12 +191,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_compose_gate_no_node": {
-    "value": "Niciun nod conectat — conectează un companion pentru a trimite.",
+    "value": "Niciun nod conectat. Conectează un companion pentru a trimite.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "chat_compose_placeholder_disconnected": {
-    "value": "Deconectat — reconectează-te pentru a trimite",
+    "value": "Deconectat: reconectează-te pentru a trimite",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -251,12 +251,12 @@
     "_seeded": "2026-07-05"
   },
   "chat_detail_channel_unsigned_advisory": {
-    "value": "Mesajele din canal nu sunt semnate — numele expeditorului poate fi al oricărei persoane din canal.",
+    "value": "Mesajele din canal nu sunt semnate: numele expeditorului poate fi al oricărei persoane din canal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_directory_offline_caption": {
-    "value": "Directorul online este dezactivat — activează o sursă din Setări → Partajare → Director.",
+    "value": "Directorul online este dezactivat. Activează o sursă din Setări → Partajare → Director.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -271,7 +271,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_candidates_explain": {
-    "value": "Mai multe repetoare corespund prefixului de traseu scurt al acestui salt. Nu putem alege automat cel potrivit — alege-l pe cel care se afla pe traseul tău.",
+    "value": "Mai multe repetoare corespund prefixului de traseu scurt al acestui salt. Nu putem alege automat cel potrivit. Alege-l pe cel care se afla pe traseul tău.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -291,12 +291,12 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_not_found": {
-    "value": "nu s-a găsit nicio potrivire — directorul nu conținea nicio intrare pentru acest prefix",
+    "value": "nu s-a găsit nicio potrivire: directorul nu conținea nicio intrare pentru acest prefix",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "chat_detail_hop_outside_radius": {
-    "value": "nu există rezultate — cele mai apropiate rezultate online se află în afara razei de normalitate",
+    "value": "nu există rezultate: cele mai apropiate rezultate online se află în afara razei de normalitate",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -346,7 +346,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_path_footer_bytes": {
-    "value": "Fiecare etapă reprezintă primul (%1$d) byte(i) din cheia publică a unui repetor. Cheile scurte pot corespunde mai multor repetoare — atinge globul pentru a căuta etapele lipsă în directorul online.",
+    "value": "Fiecare etapă reprezintă primul (%1$d) byte(i) din cheia publică a unui repetor. Cheile scurte pot corespunde mai multor repetoare. Atinge globul pentru a căuta etapele lipsă în directorul online.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -361,7 +361,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_path_unknown_from_device": {
-    "value": "necunoscut — de pe dispozitiv",
+    "value": "necunoscut (de pe dispozitiv)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -396,7 +396,7 @@
     "_seeded": "2026-07-22"
   },
   "chat_detail_receptions_lower_bound": {
-    "value": "Numărul este o limită inferioară — la trafic intens, copiile se pot pierde înainte să ajungă în aplicație.",
+    "value": "Numărul este o limită inferioară: la trafic intens, copiile se pot pierde înainte să ajungă în aplicație.",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -466,7 +466,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_detail_signal_none": {
-    "value": "(niciuna — de pe dispozitiv)",
+    "value": "(niciuna, de pe dispozitiv)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -531,7 +531,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_discovered_channels_header": {
-    "value": "Canale descoperite — atinge pentru a le vizualiza",
+    "value": "Canale descoperite (atinge pentru a le vizualiza)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -576,7 +576,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hidden_channel_key_footer": {
-    "value": "Atingeți cheia pentru a o copia. Canalele sunt asociate în funcție de cheie, nu de nume — coliziunile sunt frecvente.",
+    "value": "Atingeți cheia pentru a o copia. Canalele sunt asociate în funcție de cheie, nu de nume: coliziunile sunt frecvente.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -616,7 +616,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_hops_range": {
-    "value": "%1$d–%2$d salturi",
+    "value": "%1$d-%2$d salturi",
     "_ai": true,
     "_seeded": "2026-07-22"
   },
@@ -756,7 +756,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_retry_duplicate_body": {
-    "value": "Nodul tău a transmis deja acest mesaj. Nu a venit nicio confirmare, dar destinatarii aflați în raza de acoperire l-ar fi putut primi totuși — dacă îl trimiți din nou, îl vor vedea de două ori.",
+    "value": "Nodul tău a transmis deja acest mesaj. Nu a venit nicio confirmare, dar destinatarii aflați în raza de acoperire l-ar fi putut primi totuși. Dacă îl trimiți din nou, îl vor vedea de două ori.",
     "_ai": true,
     "_seeded": "2026-07-06"
   },
@@ -786,7 +786,7 @@
     "_seeded": "2026-06-26"
   },
   "chat_room_compose_guest_readonly": {
-    "value": "Acces pentru oaspeți — numai pentru citire",
+    "value": "Acces pentru oaspeți (numai pentru citire)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -951,7 +951,7 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_empty_desc": {
-    "value": "Fiecare cadru pe care îl aude nodul tău apare aici — nimic nu este filtrat.",
+    "value": "Fiecare cadru pe care îl aude nodul tău apare aici. Nimic nu este filtrat.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -976,17 +976,17 @@
     "_seeded": "2026-07-05"
   },
   "live_traffic_footer": {
-    "value": "Nefiltrat — apar cadre decodate, criptate pentru alții, necunoscute și malformate.",
+    "value": "Nefiltrat: apar cadre decodate, criptate pentru alții, necunoscute și malformate.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_foreign_hint": {
-    "value": "criptat — nu este pentru acest dispozitiv",
+    "value": "criptat, nu este pentru acest dispozitiv",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "live_traffic_hero_sub": {
-    "value": "arată fiecare cadru primit — chiar și ce nu poate fi citit",
+    "value": "arată fiecare cadru primit, chiar și ce nu poate fi citit",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -1291,7 +1291,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_cached_partial": {
-    "value": "%1$d în cache · parțial — atinge pentru reîmprospătare",
+    "value": "%1$d în cache · parțial, atinge pentru reîmprospătare",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1301,7 +1301,7 @@
     "_seeded": "2026-06-26"
   },
   "map_neighbour_no_cache": {
-    "value": "Nu există vecini în cache — atingeți butonul de reîmprospătare.",
+    "value": "Nu există vecini în cache. Atingeți butonul de reîmprospătare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1341,7 +1341,7 @@
     "_seeded": "2026-06-26"
   },
   "map_path_no_path_body": {
-    "value": "Niciunul dintre repetitorii acestui mesaj — și nici sursa — nu are coordonate GPS înregistrate. Închide această fereastră, atinge pictograma globului din secțiunea „Traseu” a mesajului, apoi revino.",
+    "value": "Niciunul dintre repetitorii acestui mesaj (și nici sursa) nu are coordonate GPS înregistrate. Închide această fereastră, atinge pictograma globului din secțiunea „Traseu” a mesajului, apoi revino.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1466,7 +1466,7 @@
     "_seeded": "2026-06-26"
   },
   "map_snr_workable_label": {
-    "value": "%1$.0f–%2$.0f dB",
+    "value": "%1$.0f până la %2$.0f dB",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1486,7 +1486,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_broadcast_advert_footer": {
-    "value": "Celelalte noduri trebuie să aibă anunțul nostru în tabelul lor de contacte înainte de a putea decripta mesajele noastre directe. Atingeți pentru a alege modul de difuzare — „zero-hop” este discret (doar vecinii); „flood” este intens (întreaga rețea).",
+    "value": "Celelalte noduri trebuie să aibă anunțul nostru în tabelul lor de contacte înainte de a putea decripta mesajele noastre directe. Atingeți pentru a alege modul de difuzare: „zero-hop” este discret (doar vecinii); „flood” este intens (întreaga rețea).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1501,7 +1501,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_clock_ahead_rtc_body": {
-    "value": "Acest dispozitiv dispune de un ceas real-time (RTC) alimentat de o baterie de rezervă. Software-ul nu îl poate reseta — pentru a-l repune în funcțiune, trebuie să actualizați firmware-ul sau să scoateți bateria de rezervă a ceasului RTC.",
+    "value": "Acest dispozitiv dispune de un ceas real-time (RTC) alimentat de o baterie de rezervă. Software-ul nu îl poate reseta. Pentru a-l repune în funcțiune, trebuie să actualizați firmware-ul sau să scoateți bateria de rezervă a ceasului RTC.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1571,7 +1571,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_device_actions_footer": {
-    "value": "Opțiunea „Reboot” repornește nodul asociat. Opțiunea „Factory reset” șterge contactele, canalele și preferințele dispozitivului — datele locale ale aplicației rămân intacte.",
+    "value": "Opțiunea „Reboot” repornește nodul asociat. Opțiunea „Factory reset” șterge contactele, canalele și preferințele dispozitivului. Datele locale ale aplicației rămân intacte.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1586,7 +1586,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_disconnect_footer": {
-    "value": "Opțiunea „Deconectare” întrerupe conexiunea, dar păstrează legătura în memoria cache — atingeți „Conectare” pentru a vă reconecta fără a mai fi necesară reasocierea. Opțiunea „Uită” anulează asocierea și șterge memoria cache; nodul trebuie reasociat pentru a reveni.",
+    "value": "Opțiunea „Deconectare” întrerupe conexiunea, dar păstrează legătura în memoria cache. Atingeți „Conectare” pentru a vă reconecta fără a mai fi necesară reasocierea. Opțiunea „Uită” anulează asocierea și șterge memoria cache; nodul trebuie reasociat pentru a reveni.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1616,7 +1616,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_factory_reset_dialog_body": {
-    "value": "Șterge contactele, canalele, regiunile, setările și datele de identitate de pe dispozitiv. Acțiune ireversibilă — nu se poate anula. Exportați tot ce doriți să păstrați înainte de a continua.",
+    "value": "Șterge contactele, canalele, regiunile, setările și datele de identitate de pe dispozitiv. Acțiune ireversibilă: nu se poate anula. Exportați tot ce doriți să păstrați înainte de a continua.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1646,7 +1646,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_flood_body": {
-    "value": "Rețea completă. Intensitate ridicată — fiecare repetor retransmite mesajul. A se folosi cu moderație; anunțurile de tip „flood” se plătesc pe durata de difuzare pentru fiecare repetor.",
+    "value": "Rețea completă. Intensitate ridicată: fiecare repetor retransmite mesajul. A se folosi cu moderație; anunțurile de tip „flood” se plătesc pe durata de difuzare pentru fiecare repetor.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1706,7 +1706,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_advanced_body_on": {
-    "value": "Modul avansat permite setarea valorilor brute pentru frecvență, lățime de bandă, factor de subdiviziune și raport de conversie. Intervalele firmware-ului: 400–2500 MHz, 7,8–500 kHz, factor de subdiviziune 5–12, raport de conversie 4/5–4/8.",
+    "value": "Modul avansat permite setarea valorilor brute pentru frecvență, lățime de bandă, factor de subdiviziune și raport de conversie. Intervalele firmware-ului: 400-2500 MHz, 7,8-500 kHz, factor de subdiviziune 5-12, raport de conversie 4/5-4/8.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1746,7 +1746,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_current_device_footer": {
-    "value": "Ce raportează în acest moment nodul asociat. Presetările de mai jos provin din catalogul comunității MeshCore — alege-o pe cea pe care o utilizează rețeaua ta locală de tip mesh.",
+    "value": "Ce raportează în acest moment nodul asociat. Presetările de mai jos provin din catalogul comunității MeshCore. Alege-o pe cea pe care o utilizează rețeaua ta locală de tip mesh.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1811,7 +1811,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_lora_suggested_footer": {
-    "value": "În funcție de setările de localizare ale dispozitivului tău. Confirmă pentru a aplica — nimic nu se schimbă până nu faci acest lucru.",
+    "value": "În funcție de setările de localizare ale dispozitivului tău. Confirmă pentru a aplica. Nimic nu se schimbă până nu faci acest lucru.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -1921,7 +1921,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_reconnect_footer": {
-    "value": "Reconectează-te la nodul cu care s-a stabilit anterior o conexiune. Nu se solicită codul PIN — conexiunea este încă stocată în memoria cache.",
+    "value": "Reconectează-te la nodul cu care s-a stabilit anterior o conexiune. Nu se solicită codul PIN: conexiunea este încă stocată în memoria cache.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2086,7 +2086,7 @@
     "_seeded": "2026-06-26"
   },
   "mynode_zero_hop_body": {
-    "value": "Doar vecini. Liniște — fără supraîncărcare. Se utilizează doar atunci când nodurile din apropiere trebuie să preia anunțul tău.",
+    "value": "Doar vecini. Liniște: fără supraîncărcare. Se utilizează doar atunci când nodurile din apropiere trebuie să preia anunțul tău.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2141,7 +2141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_add_channel_secret_footer": {
-    "value": "„Secret” este cheia AES comună a canalului, de 16 octeți, scrisă sub forma a 32 de caractere hexazecimale. Pentru canalele de tip hashtag, cheia secretă se generează automat din numele canalului — păstrați semnul hash dacă preferați să folosiți această metodă.",
+    "value": "„Secret” este cheia AES comună a canalului, de 16 octeți, scrisă sub forma a 32 de caractere hexazecimale. Pentru canalele de tip hashtag, cheia secretă se generează automat din numele canalului. Păstrați semnul hash dacă preferați să folosiți această metodă.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2451,7 +2451,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_clock_ahead_hint": {
-    "value": "Ceasul este setat mai înainte. Firmware-ul standard nu permite sincronizarea înapoi. Soluție: executați comanda `clkreboot` din interfața CLI de mai jos — aceasta resetează ceasul RTC la data de 15 mai 2024 și repornește dispozitivul — apoi atingeți opțiunea de sincronizare pentru a seta ora curentă.",
+    "value": "Ceasul este setat mai înainte. Firmware-ul standard nu permite sincronizarea înapoi. Soluție: executați comanda `clkreboot` din interfața CLI de mai jos (aceasta resetează ceasul RTC la data de 15 mai 2024 și repornește dispozitivul), apoi atingeți opțiunea de sincronizare pentru a seta ora curentă.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2491,7 +2491,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_admin_error_not_ready": {
-    "value": "Dispozitivul este încă în curs de sincronizare — vă rugăm să încercați din nou peste câteva momente.",
+    "value": "Dispozitivul este încă în curs de sincronizare. Vă rugăm să încercați din nou peste câteva momente.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -2926,7 +2926,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_directory_offline": {
-    "value": "Directorul online este dezactivat — activează o sursă din Setări → Partajare → Director.",
+    "value": "Directorul online este dezactivat. Activează o sursă din Setări → Partajare → Director.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3006,7 +3006,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_login_hint_overlength": {
-    "value": "Parola unui repetor este limitată la 15 caractere — orice text mai lung decât atât va fi trunchiat la autentificare.",
+    "value": "Parola unui repetor este limitată la 15 caractere. Orice text mai lung decât atât va fi trunchiat la autentificare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3076,7 +3076,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_neighbours_cached_partial": {
-    "value": "%1$d în cache · parțial — atinge pentru reîmprospătare",
+    "value": "%1$d în cache · parțial, atinge pentru reîmprospătare",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3141,7 +3141,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_detail_rate_limited": {
-    "value": "Limitare de viteză — %1$d s",
+    "value": "Limitare de viteză: %1$d s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3655,7 +3655,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manage_regions_snackbar_has_children": {
-    "value": "Nu se poate șterge — regiunea are regiuni subordonate.",
+    "value": "Nu se poate șterge: regiunea are regiuni subordonate.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3725,7 +3725,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_err_not_triple": {
-    "value": "Fiecare salt are 3 octeți. Rezultă un total d%1$di — fie prin completare, fie prin trunchiere.",
+    "value": "Fiecare salt are 3 octeți. Rezultă un total de %1$d. Fie prin completare, fie prin trunchiere.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -3760,7 +3760,7 @@
     "_seeded": "2026-06-26"
   },
   "nodes_manual_no_learned_path": {
-    "value": "(nu există încă o cale învățată — transmisiile directe ar avea zero salturi)",
+    "value": "(nu există încă o cale învățată: transmisiile directe ar avea zero salturi)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4190,7 +4190,7 @@
     "_seeded": "2026-06-26"
   },
   "path_anchor_live_fallback": {
-    "value": "Pe baza locației tale actuale — nu s-a înregistrat nicio poziție pentru acest mesaj.",
+    "value": "Pe baza locației tale actuale: nu s-a înregistrat nicio poziție pentru acest mesaj.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4400,12 +4400,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_empty": {
-    "value": "Nu există intrări ACL — atingeți „Reîmprospătează” pentru a le încărca.",
+    "value": "Nu există intrări ACL. Atingeți „Reîmprospătează” pentru a le încărca.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_invalid_hex": {
-    "value": "Cheie publică hexadecimală nevalidă — trebuie să conțină exact 64 de caractere hexadecimale",
+    "value": "Cheie publică hexadecimală nevalidă: trebuie să conțină exact 64 de caractere hexadecimale",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4425,7 +4425,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_acl_paste_hint": {
-    "value": "64 de caractere hexazecimale — cheia publică completă a nodului.",
+    "value": "64 de caractere hexazecimale (cheia publică completă a nodului).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4455,7 +4455,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_admin_placeholder": {
-    "value": "Instrumentele de administrare se încarcă aici — CLI și editorul ACL vor fi disponibile în următoarea actualizare.",
+    "value": "Instrumentele de administrare se încarcă aici. CLI și editorul ACL vor fi disponibile în următoarea actualizare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4465,7 +4465,7 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_cli_busy": {
-    "value": "O altă solicitare este în curs de procesare — vă rugăm să încercați din nou.",
+    "value": "O altă solicitare este în curs de procesare. Vă rugăm să încercați din nou.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4495,12 +4495,12 @@
     "_seeded": "2026-06-26"
   },
   "room_admin_login_failed": {
-    "value": "Autentificarea a eșuat — parolă incorectă sau cameră inaccesibilă.",
+    "value": "Autentificarea a eșuat: parolă incorectă sau cameră inaccesibilă.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "room_admin_login_password_hint": {
-    "value": "Parola este limitată la 15 caractere — orice text mai lung va fi trunchiat la autentificare.",
+    "value": "Parola este limitată la 15 caractere. Orice text mai lung va fi trunchiat la autentificare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4660,7 +4660,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoadd_companion_types_footer": {
-    "value": "Când dispozitivul conectat detectează o anunțare de tip activat, acesta stochează nodul în tabelul său de contacte — informația se păstrează chiar și după repornire și ajunge la aplicație la următoarea sincronizare.",
+    "value": "Când dispozitivul conectat detectează o anunțare de tip activat, acesta stochează nodul în tabelul său de contacte. Informația se păstrează chiar și după repornire și ajunge la aplicație la următoarea sincronizare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4735,7 +4735,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_bg_lookups_footer": {
-    "value": "Când este activată, KiekR poate efectua automat căutări în director pentru elementele de context lipsă pe care aplicația le detectează în mod pasiv — salturi necunoscute într-o cale, repetoare detectate care nu figurează încă în director, rânduri de vecini lipsă și regiuni lipsă identificate în urma unei descoperiri. Când este dezactivată (setare implicită), fiecare căutare în director necesită o atingere a ecranului.",
+    "value": "Când este activată, KiekR poate efectua automat căutări în director pentru elementele de context lipsă pe care aplicația le detectează în mod pasiv: salturi necunoscute într-o cale, repetoare detectate care nu figurează încă în director, rânduri de vecini lipsă și regiuni lipsă identificate în urma unei descoperiri. Când este dezactivată (setare implicită), fiecare căutare în director necesită o atingere a ecranului.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4770,7 +4770,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_autoresolve_surfaces_footer": {
-    "value": "Căutările se efectuează numai în directorul KiekR — niciodată pe un server terț. Citirile din cache rămân gratuite; această opțiune activează sau dezactivează partea legată de rețea.",
+    "value": "Căutările se efectuează numai în directorul KiekR, niciodată pe un server terț. Citirile din cache rămân gratuite; această opțiune activează sau dezactivează partea legată de rețea.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4890,12 +4890,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done": {
-    "value": "Importul s-a finalizat — identități de la %1$d, canale de la %2$d, regiuni de la %3$d, contacte de la %4$d și date de conectare la repetor de la %5$d.",
+    "value": "Importul s-a finalizat: identități de la %1$d, canale de la %2$d, regiuni de la %3$d, contacte de la %4$d și date de conectare la repetor de la %5$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_done_v2": {
-    "value": "Importul s-a finalizat — %1$d identități, %2$d canale, %3$d regiuni, %4$d contacte, %5$d autentificări la repetoare, %6$d favorite, %7$d expeditori blocați, %8$d setări.",
+    "value": "Importul s-a finalizat: %1$d identități, %2$d canale, %3$d regiuni, %4$d contacte, %5$d autentificări la repetoare, %6$d favorite, %7$d expeditori blocați, %8$d setări.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -4910,7 +4910,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_backup_import_footer": {
-    "value": "Restaurați dintr-un fișier .json sau .mcbackup. Importul se efectuează în mod implicit prin înlocuire — canalele, contactele și regiunile existente vor fi șterse, iar apoi pachetul va fi inserat. Atingeți și mențineți apăsat butonul „Confirm” timp de 5 secunde.",
+    "value": "Restaurați dintr-un fișier .json sau .mcbackup. Importul se efectuează în mod implicit prin înlocuire: canalele, contactele și regiunile existente vor fi șterse, iar apoi pachetul va fi inserat. Atingeți și mențineți apăsat butonul „Confirm” timp de 5 secunde.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -4965,7 +4965,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_backup_passphrase_advisory": {
-    "value": "Acesta NU este codul PIN de asociere BLE. Acesta protejează doar acest fișier de rezervă — alegeți ceva ușor de reținut; KiekR nu îl poate recupera.",
+    "value": "Acesta NU este codul PIN de asociere BLE. Acesta protejează doar acest fișier de rezervă. Alegeți ceva ușor de reținut; KiekR nu îl poate recupera.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5010,7 +5010,7 @@
     "_seeded": "2026-07-07"
   },
   "settings_backup_warn_newer_schema": {
-    "value": "Copia de rezervă a fost creată de o versiune mai nouă a aplicației (schema %1$s) — aplicată în măsura posibilului.",
+    "value": "Copia de rezervă a fost creată de o versiune mai nouă a aplicației (schema %1$s), aplicată în măsura posibilului.",
     "_ai": true,
     "_seeded": "2026-07-07"
   },
@@ -5120,7 +5120,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_preview_footer": {
-    "value": "Linia continuă = curba pe care o salvați. Linia punctată = curba chimică implicită pentru această variantă. Axa X: 2800–4400 mV. Axa Y: 0–100%%.",
+    "value": "Linia continuă = curba pe care o salvați. Linia punctată = curba chimică implicită pentru această variantă. Axa X: 2800-4400 mV. Axa Y: 0-100%%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5175,7 +5175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_battery_warn_footer": {
-    "value": "Trimite o notificare atunci când dispozitivul conectat ajunge la procentul de avertizare. Intervalul de reactivare reprezintă cât de mult trebuie să crească procentul peste pragul stabilit înainte ca următoarea avertizare să se declanșeze — mărește-l dacă curba de descărcare a bateriei se stabilizează (LiFePO4, AA).",
+    "value": "Trimite o notificare atunci când dispozitivul conectat ajunge la procentul de avertizare. Intervalul de reactivare reprezintă cât de mult trebuie să crească procentul peste pragul stabilit înainte ca următoarea avertizare să se declanșeze. Mărește-l dacă curba de descărcare a bateriei se stabilizează (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5205,7 +5205,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_blocklist_section_footer": {
-    "value": "Atinge pictograma coșului de gunoi pentru a debloca. Mesajele anterioare ale respectivei persoane vor reapărea în toate canalele. Blocarea se face pe baza numelui exact afișat — oricine poate alege acel nume, așa că această măsură nu va împiedica un utilizator hotărât să-și schimbe numele.",
+    "value": "Atinge pictograma coșului de gunoi pentru a debloca. Mesajele anterioare ale respectivei persoane vor reapărea în toate canalele. Blocarea se face pe baza numelui exact afișat. Oricine poate alege acel nume, așa că această măsură nu va împiedica un utilizator hotărât să-și schimbe numele.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5235,12 +5235,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_key": {
-    "value": "Nodul tău are acest canal numit „%1$s”, dar la nivel local se numește „%2$s”. Ambele folosesc aceeași cheie de criptare, așa că mesajele funcționează în continuare — alege un nume pe care să-l păstrezi.",
+    "value": "Nodul tău are acest canal numit „%1$s”, dar la nivel local se numește „%2$s”. Ambele folosesc aceeași cheie de criptare, așa că mesajele funcționează în continuare. Alege un nume pe care să-l păstrezi.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channel_conflicts_explanation_name": {
-    "value": "Atât lista ta locală, cât și nodul tău au un canal numit „%1$s”, dar cu chei de criptare diferite. Mesajele nu se vor decripta între ele — alege care dintre chei este cea adevărată.",
+    "value": "Atât lista ta locală, cât și nodul tău au un canal numit „%1$s”, dar cu chei de criptare diferite. Mesajele nu se vor decripta între ele. Alege care dintre chei este cea adevărată.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5340,7 +5340,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_delete_body": {
-    "value": "Șterge canalul și cheia acestuia din baza de date. Acest canal utilizează o cheie personalizată, așa că nu poate fi dedusă din nume — ștergerea este definitivă, cu excepția cazului în care reimportați cheia (de exemplu, prin cod QR).",
+    "value": "Șterge canalul și cheia acestuia din baza de date. Acest canal utilizează o cheie personalizată, așa că nu poate fi dedusă din nume. Ștergerea este definitivă, cu excepția cazului în care reimportați cheia (de exemplu, prin cod QR).",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5350,7 +5350,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channel_detail_dialog_remove_body": {
-    "value": "Ascunde %1$s din lista de chat și din setările canalului. Îl poți adăuga din nou mai târziu introducând numele în Setări → Canale → Adăugare canal după nume — cheia SHA-256 se generează în același mod.",
+    "value": "Ascunde %1$s din lista de chat și din setările canalului. Îl poți adăuga din nou mai târziu introducând numele în Setări → Canale → Adăugare canal după nume. Cheia SHA-256 se generează în același mod.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5485,7 +5485,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_error": {
-    "value": "Nu s-a putut adăuga canalul — este posibil ca acesta să existe deja sau ca numele/cheia să fie nevalide.",
+    "value": "Nu s-a putut adăuga canalul: este posibil ca acesta să existe deja sau ca numele/cheia să fie nevalide.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5495,12 +5495,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_public": {
-    "value": "Utilizează cheia publică fixă a canalului — nu este necesară nicio cheie.",
+    "value": "Utilizează cheia publică fixă a canalului, nu este necesară nicio cheie.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_channels_add_hint_key_required": {
-    "value": "Este necesară o cheie — canalele cu nume personalizate necesită o cheie hexadecimală de 32 de caractere.",
+    "value": "Este necesară o cheie: canalele cu nume personalizate necesită o cheie hexadecimală de 32 de caractere.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5570,7 +5570,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_conflict_body": {
-    "value": "Nodul tău și lista ta locală nu sunt de acord cu privire la un canal — alege care dintre ele are prioritate.",
+    "value": "Nodul tău și lista ta locală nu sunt de acord cu privire la un canal. Alege care dintre ele are prioritate.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5620,7 +5620,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_channels_hidden_footer": {
-    "value": "Cheia a fost păstrată. Afișează-o din nou pentru a o primi încă o dată — sau șterge-o definitiv.",
+    "value": "Cheia a fost păstrată. Afișează-o din nou pentru a o primi încă o dată, sau șterge-o definitiv.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5700,7 +5700,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_auth_footer_none": {
-    "value": "Conectare anonimă — funcționează pentru brokerii de dezvoltare fără autentificare.",
+    "value": "Conectare anonimă: funcționează pentru brokerii de dezvoltare fără autentificare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5780,7 +5780,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_footer": {
-    "value": "Când este activată, aplicația KiekR înregistrează regiunile (și, acolo unde este posibil, repetoarele) pe care le recepționează într-o celulă de hartă cu o rezoluție aproximativă de jumătate de kilometru și încarcă periodic totalurile pe celulă prin Wi-Fi. Poziția ta exactă nu părăsește niciodată telefonul — ci doar celula — iar harta afișează doar ceea ce a fost recepționat acolo, niciodată cine a recepționat. Este un pseudonim separat de identitatea ta KiekR; îl poți dezactiva oricând.",
+    "value": "Când este activată, aplicația KiekR înregistrează regiunile (și, acolo unde este posibil, repetoarele) pe care le recepționează într-o celulă de hartă cu o rezoluție aproximativă de jumătate de kilometru și încarcă periodic totalurile pe celulă prin Wi-Fi. Poziția ta exactă nu părăsește niciodată telefonul (ci doar celula), iar harta afișează doar ceea ce a fost recepționat acolo, niciodată cine a recepționat. Este un pseudonim separat de identitatea ta KiekR; îl poți dezactiva oricând.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5820,7 +5820,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_coverage_precise_hint": {
-    "value": "Funcția de acoperire necesită o localizare precisă pentru a plasa ceea ce auzi în celula corespunzătoare de pe hartă. Permite localizarea precisă pentru KiekR — în caz contrar, funcția de acoperire nu va înregistra nimic pe acest telefon.",
+    "value": "Funcția de acoperire necesită o localizare precisă pentru a plasa ceea ce auzi în celula corespunzătoare de pe hartă. Permite localizarea precisă pentru KiekR. În caz contrar, funcția de acoperire nu va înregistra nimic pe acest telefon.",
     "_ai": true,
     "_seeded": "2026-06-27"
   },
@@ -5885,7 +5885,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_mqtt_footer": {
-    "value": "MQTT transmite date doar atât timp cât ești conectat la dispozitivul tău prin Bluetooth. Identitatea de rețea mesh a dispozitivului tău nu este încărcată niciodată — fiecare broker utilizează propria pereche de chei generată. Numele observatorilor încep întotdeauna cu „KiekR_”.",
+    "value": "MQTT transmite date doar atât timp cât ești conectat la dispozitivul tău prin Bluetooth. Identitatea de rețea mesh a dispozitivului tău nu este încărcată niciodată: fiecare broker utilizează propria pereche de chei generată. Numele observatorilor încep întotdeauna cu „KiekR_”.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5900,7 +5900,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_observer_footer": {
-    "value": "Codul aeroportului format din trei litere identifică regiunea ta pe pagina analizorului (de exemplu, HAM, JFK, MUC). Numele observatorului apare lângă pachetele tale — prefixul „KiekR_” este fix.",
+    "value": "Codul aeroportului format din trei litere identifică regiunea ta pe pagina analizorului (de exemplu, HAM, JFK, MUC). Numele observatorului apare lângă pachetele tale. Prefixul „KiekR_” este fix.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5920,12 +5920,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular": {
-    "value": "În pauză — pe rețeaua mobilă",
+    "value": "În pauză: pe rețeaua mobilă",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_paused_on_cellular_with_queue": {
-    "value": "În pauză — pe telefonul mobil · „%1$d” în coada de redare",
+    "value": "În pauză: pe telefonul mobil · „%1$d” în coada de redare",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -5975,7 +5975,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_privacy_dialog_body": {
-    "value": "Funcția de încărcare MQTT redirecționează fiecare pachet LoRa neprelucrat pe care îl recepționează dispozitivul tău — inclusiv octeții criptați pe care nu îi poți citi tu însuți — către brokerul pe care îl configurezi. Opțiunea este dezactivată implicit; o poți activa pentru fiecare broker în parte. Fiecare broker utilizează propria pereche de chei generată, astfel încât identitatea de rețea a dispozitivului tău nu părăsește niciodată dispozitivul.",
+    "value": "Funcția de încărcare MQTT redirecționează fiecare pachet LoRa neprelucrat pe care îl recepționează dispozitivul tău (inclusiv octeții criptați pe care nu îi poți citi tu însuți) către brokerul pe care îl configurezi. Opțiunea este dezactivată implicit; o poți activa pentru fiecare broker în parte. Fiecare broker utilizează propria pereche de chei generată, astfel încât identitatea de rețea a dispozitivului tău nu părăsește niciodată dispozitivul.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6020,22 +6020,22 @@
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_debug_label": {
-    "value": "Subiect — depanare",
+    "value": "Subiect (depanare)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_packets_label": {
-    "value": "Subiect — pachete",
+    "value": "Subiect (pachete)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_raw_label": {
-    "value": "Subiect — brut",
+    "value": "Subiect (brut)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_community_topic_status_label": {
-    "value": "Subiect — stare",
+    "value": "Subiect (stare)",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6210,7 +6210,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_diag_footer": {
-    "value": "Dezactivat implicit. Când e activ, KiekR încarcă pe api.kiekr.app rapoartele de blocare, îngheț și CPU pe care i le dă iOS: versiunea aplicației, versiunea iOS, modelul dispozitivului, codurile de eroare ale sistemului și stiva de apeluri. Niciun mesaj, contact, cheie sau locație — și este singura cale prin care o defecțiune de pe telefonul tău ajunge la dezvoltator.",
+    "value": "Dezactivat implicit. Când e activ, KiekR încarcă pe api.kiekr.app rapoartele de blocare, îngheț și CPU pe care i le dă iOS: versiunea aplicației, versiunea iOS, modelul dispozitivului, codurile de eroare ale sistemului și stiva de apeluri. Niciun mesaj, contact, cheie sau locație. Este singura cale prin care o defecțiune de pe telefonul tău ajunge la dezvoltator.",
     "_ai": true,
     "_seeded": "2026-07-30"
   },
@@ -6250,7 +6250,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_builtin_hint": {
-    "value": "Rândurile preconfigurate nu pot fi redenumite și nici adresa URL a acestora nu poate fi modificată — dezactivați-le dacă nu doriți să le utilizați sau adăugați o sursă nouă.",
+    "value": "Rândurile preconfigurate nu pot fi redenumite și nici adresa URL a acestora nu poate fi modificată. Dezactivați-le dacă nu doriți să le utilizați sau adăugați o sursă nouă.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6355,7 +6355,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_directory_sources_footer": {
-    "value": "Căutările parcurg fiecare sursă activată în ordinea rangului; prima sursă care returnează un candidat câștigă. api.kiekr.app respectă confidențialitatea (numai repetoare de nivel A). Meshcorenetz Analyzer are o acoperire mai largă — trece în mod natural la nodurile pe care backend-ul KiekR nu le are. Reordonați cu ajutorul săgeților sus/jos; atingeți creionul pentru a edita distanța maximă pe salt pentru fiecare sursă.",
+    "value": "Căutările parcurg fiecare sursă activată în ordinea rangului; prima sursă care returnează un candidat câștigă. api.kiekr.app respectă confidențialitatea (numai repetoare de nivel A). Meshcorenetz Analyzer are o acoperire mai largă și trece în mod natural la nodurile pe care backend-ul KiekR nu le are. Reordonați cu ajutorul săgeților sus/jos; atingeți creionul pentru a edita distanța maximă pe salt pentru fiecare sursă.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6455,7 +6455,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_diag_header": {
-    "value": "— contextul diagnosticului —",
+    "value": "Contextul diagnosticului:",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6475,7 +6475,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_help_logs_email_subject": {
-    "value": "Jurnalele KiekR pentru Android — %1$s %2$s — %3$s",
+    "value": "Jurnalele KiekR pentru Android, %1$s %2$s, %3$s",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6695,7 +6695,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_notifications_dm_footer": {
-    "value": "Notifică la fiecare mesaj direct primit. Mesajele directe sunt autentificate criptografic — dezactivarea acestei opțiuni anulează doar notificarea; mesajul va apărea în continuare în lista ta de conversații.",
+    "value": "Notifică la fiecare mesaj direct primit. Mesajele directe sunt autentificate criptografic. Dezactivarea acestei opțiuni anulează doar notificarea; mesajul va apărea în continuare în lista ta de conversații.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6760,7 +6760,7 @@
     "_seeded": "2026-07-05"
   },
   "settings_pathlookup_cache_footer": {
-    "value": "Măsură de învățare persistentă pentru coliziunile de prefixe: odată ce selectorul determinist a ales un câștigător, perechea (prefix, hop, cheie publică) este „bumpată”, astfel încât următoarea situație de egalitate la același prefix să se rezolve în același mod.\n\nTTL cache — cât timp rămâne o intrare fără a fi reutilizată. Implicit 30 de zile, limită 1..=180.\n\nMarja de departajare — cât de apropiate trebuie să fie metricile celor doi candidați (în %%) înainte ca cache-ul să rezolve egalitatea. 0 dezactivează recurgerea la cache (se califică doar egalitățile exacte); 20 este limita superioară. Implicit 5 %%.",
+    "value": "Măsură de învățare persistentă pentru coliziunile de prefixe: odată ce selectorul determinist a ales un câștigător, perechea (prefix, hop, cheie publică) este „bumpată”, astfel încât următoarea situație de egalitate la același prefix să se rezolve în același mod.\n\nTTL cache: cât timp rămâne o intrare fără a fi reutilizată. Implicit 30 de zile, limită 1..=180.\n\nMarja de departajare: cât de apropiate trebuie să fie metricile celor doi candidați (în %%) înainte ca cache-ul să rezolve egalitatea. 0 dezactivează recurgerea la cache (se califică doar egalitățile exacte); 20 este limita superioară. Implicit 5 %%.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -6815,12 +6815,12 @@
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_locked": {
-    "value": "Funcția „Multi-byte hops” necesită versiunea v1.15.0 sau o versiune mai recentă a firmware-ului dispozitivului Companion. Dispozitivul Companion indică o versiune mai veche — funcția va rămâne limitată la 1 Byte până la efectuarea actualizării. Preferința dvs. anterioară este păstrată și va fi reactivată după actualizare.",
+    "value": "Funcția „Multi-byte hops” necesită versiunea v1.15.0 sau o versiune mai recentă a firmware-ului dispozitivului Companion. Dispozitivul Companion indică o versiune mai veche: funcția va rămâne limitată la 1 Byte până la efectuarea actualizării. Preferința dvs. anterioară este păstrată și va fi reactivată după actualizare.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
   "settings_pathlookup_encoding_footer_supported": {
-    "value": "Numărul de octeți pe salt adăugat la traseu pentru noile pachete de ieșire pe care le inițiem. Valorile mai mari reduc coliziunile de nume, dar este posibil ca acestea să nu fie redirecționate de versiunile mai vechi de firmware ale repetorilor. Traseele învățate către contactele cunoscute își păstrează lățimea cu care au fost primite — această setare afectează doar traseele de tip „flood” și „anon-reply”. Se recomandă 3 octeți pentru trasee unice (funcționează și 2); valoarea implicită a firmware-ului este 1.",
+    "value": "Numărul de octeți pe salt adăugat la traseu pentru noile pachete de ieșire pe care le inițiem. Valorile mai mari reduc coliziunile de nume, dar este posibil ca acestea să nu fie redirecționate de versiunile mai vechi de firmware ale repetorilor. Traseele învățate către contactele cunoscute își păstrează lățimea cu care au fost primite. Această setare afectează doar traseele de tip „flood” și „anon-reply”. Se recomandă 3 octeți pentru trasee unice (funcționează și 2); valoarea implicită a firmware-ului este 1.",
     "_ai": true,
     "_seeded": "2026-09-23"
   },
@@ -6855,7 +6855,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_region_discovery_directory_off": {
-    "value": "Directorul online este dezactivat — activează o sursă din Setări → Partajare → Director.",
+    "value": "Directorul online este dezactivat. Activează o sursă din Setări → Partajare → Director.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7175,7 +7175,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_regions_toast_already_in_list_unhid": {
-    "value": "Regiunea „%1$s” se află deja în lista ta — afișeaz-o",
+    "value": "Regiunea „%1$s” se află deja în lista ta: afișeaz-o",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7335,7 +7335,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_background_footer": {
-    "value": "Android suspendă conexiunile de rețea ale aplicațiilor atunci când ecranul este oprit. Exclude KiekR din optimizarea consumului de baterie — și din limitele de pornire automată impuse de producătorul telefonului — astfel încât conexiunea de însoțire să rămână activă în fundal.",
+    "value": "Android suspendă conexiunile de rețea ale aplicațiilor atunci când ecranul este oprit. Exclude KiekR din optimizarea consumului de baterie (și din limitele de pornire automată impuse de producătorul telefonului), astfel încât conexiunea de însoțire să rămână activă în fundal.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7395,7 +7395,7 @@
     "_seeded": "2026-06-26"
   },
   "settings_tools_neighbour_footer": {
-    "value": "„Retries” reprezintă numărul de încercări suplimentare pe care core-lib le efectuează pentru fiecare pagină GET_NEIGHBOURS în cazul în care firmware-ul nu răspunde în intervalul de timp alocat fiecărei încercări — o funcție utilă în cazul conexiunilor BLE / radio instabile, în care o pagină depășește timpul de așteptare. Intervalul se adaptează în funcție de dimensiunea paginii, astfel încât mărirea acestuia oferă încercărilor suplimentare timpul necesar. Dimensiunea paginii în sine este fixată la limita maximă a bufferului firmware-ului. Valoarea implicită este %1$d.",
+    "value": "„Retries” reprezintă numărul de încercări suplimentare pe care core-lib le efectuează pentru fiecare pagină GET_NEIGHBOURS în cazul în care firmware-ul nu răspunde în intervalul de timp alocat fiecărei încercări, o funcție utilă în cazul conexiunilor BLE / radio instabile, în care o pagină depășește timpul de așteptare. Intervalul se adaptează în funcție de dimensiunea paginii, astfel încât mărirea acestuia oferă încercărilor suplimentare timpul necesar. Dimensiunea paginii în sine este fixată la limita maximă a bufferului firmware-ului. Valoarea implicită este %1$d.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7465,12 +7465,12 @@
     "_seeded": "2026-07-05"
   },
   "traceroute_no_response": {
-    "value": "Niciun răspuns — calea s-ar putea să nu fie accesibilă.",
+    "value": "Niciun răspuns: calea s-ar putea să nu fie accesibilă.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
   "traceroute_reachability_hint": {
-    "value": "Primul repetator trebuie să te audă, iar tu trebuie să auzi răspunsul ultimului — alege o cale despre care știi că e accesibilă.",
+    "value": "Primul repetator trebuie să te audă, iar tu trebuie să auzi răspunsul ultimului. Alege o cale despre care știi că e accesibilă.",
     "_ai": true,
     "_seeded": "2026-07-05"
   },
@@ -7530,7 +7530,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_connection_banner_disconnected": {
-    "value": "Nu este conectat niciun nod — atingeți pentru a realiza asocierea",
+    "value": "Nu este conectat niciun nod: atingeți pentru a realiza asocierea",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -7550,7 +7550,7 @@
     "_seeded": "2026-06-26"
   },
   "ui_directory_notice_body": {
-    "value": "KiekR poate căuta un repetor necunoscut după codul său hash în directoarele online — o funcție utilă atunci când un hop din traseu apare sub forma unui prefix hexadecimal simplu. Această funcție rămâne dezactivată până când o activezi din Setări → Partajare → Director.",
+    "value": "KiekR poate căuta un repetor necunoscut după codul său hash în directoarele online (o funcție utilă atunci când un hop din traseu apare sub forma unui prefix hexadecimal simplu). Această funcție rămâne dezactivată până când o activezi din Setări → Partajare → Director.",
     "_ai": true,
     "_seeded": "2026-06-26"
   },
@@ -8105,7 +8105,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_login_cta_hint": {
-    "value": "Conectați-vă folosind butonul din colțul din dreapta sus — „guest” pentru statistici, vecini, telemetrie și firmware; „admin” pentru configurare, regiuni și CLI.",
+    "value": "Conectați-vă folosind butonul din colțul din dreapta sus: „guest” pentru statistici, vecini, telemetrie și firmware; „admin” pentru configurare, regiuni și CLI.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8360,7 +8360,7 @@
     "_seeded": "2026-08-05"
   },
   "repeater_stat_recv_errors_hint": {
-    "value": "Pachete pe care radioul nu le-a putut citi corect — valoarea crește în cazul interferențelor sau al unui semnal slab.",
+    "value": "Pachete pe care radioul nu le-a putut citi corect. Valoarea crește în cazul interferențelor sau al unui semnal slab.",
     "_ai": true,
     "_seeded": "2026-08-05"
   },
@@ -8620,7 +8620,7 @@
     "_seeded": "2026-08-09"
   },
   "settings_community_mapme_footer": {
-    "value": "Când această opțiune este activată, KiekR partajează cu mapme.sh — o hartă comunitară de acoperire — informații despre celulele de hartă care au acoperire mesh. Fiecare eșantion include celula de hartă, intensitatea semnalului și traseul de salt, dar niciodată poziția ta exactă sau identitatea ta. Încărcările respectă setările tale privind utilizarea exclusivă a Wi-Fi-ului și intervalul de încărcare.",
+    "value": "Când această opțiune este activată, KiekR partajează cu mapme.sh, o hartă comunitară de acoperire, informații despre celulele de hartă care au acoperire mesh. Fiecare eșantion include celula de hartă, intensitatea semnalului și traseul de salt, dar niciodată poziția ta exactă sau identitatea ta. Încărcările respectă setările tale privind utilizarea exclusivă a Wi-Fi-ului și intervalul de încărcare.",
     "_ai": true,
     "_seeded": "2026-08-09"
   },
@@ -8852,7 +8852,7 @@
     "_seeded": "2026-08-11"
   },
   "map_path_no_gps_hint": {
-    "value": "Nu există semnal GPS — este posibil ca punctele de tranzit din directorul online să nu poată fi afișate pe hartă. Activați accesul la locație pentru determinarea completă a traseului.",
+    "value": "Nu există semnal GPS: este posibil ca punctele de tranzit din directorul online să nu poată fi afișate pe hartă. Activați accesul la locație pentru determinarea completă a traseului.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8867,7 +8867,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_import_identity_footer": {
-    "value": "Lipiți o cheie privată hexadecimală de 64 sau 128 de caractere pentru a restaura o identitate salvată în copie de rezervă — salvată local și transmisă către dispozitivul asociat conectat. Opțiunea de export dezvăluie cheia acestui nod, astfel încât să o puteți salva în copie de rezervă.",
+    "value": "Lipiți o cheie privată hexadecimală de 64 sau 128 de caractere pentru a restaura o identitate salvată în copie de rezervă, salvată local și transmisă către dispozitivul asociat conectat. Opțiunea de export dezvăluie cheia acestui nod, astfel încât să o puteți salva în copie de rezervă.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8902,7 +8902,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_fixed_default_hint": {
-    "value": "Sursă implicită fixă — punctul final și alte setări sunt fixe; o puteți redenumi aici.",
+    "value": "Sursă implicită fixă: punctul final și alte setări sunt fixe; o puteți redenumi aici.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8927,7 +8927,7 @@
     "_seeded": "2026-08-17"
   },
   "settings_directory_url_probe_ok": {
-    "value": "Serverul a răspuns — URL-ul este valid",
+    "value": "Serverul a răspuns: URL-ul este valid",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -8967,7 +8967,7 @@
     "_seeded": "2026-08-17"
   },
   "mynode_export_warning": {
-    "value": "Aceasta este cheia secretă de identitate a nodului tău — oricine o deține se poate da drept nodul tău. Păstrează-o într-un loc sigur și nu o împărtăși niciodată.",
+    "value": "Aceasta este cheia secretă de identitate a nodului tău: oricine o deține se poate da drept nodul tău. Păstrează-o într-un loc sigur și nu o împărtăși niciodată.",
     "_ai": true,
     "_seeded": "2026-08-17"
   },
@@ -9032,7 +9032,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_when_on_kiekr_may_automatically_issue_di": {
-    "value": "Când e activată, KiekR poate trimite automat căutări în director pentru contextul lipsă pe care aplicația îl observă pasiv — hopuri necunoscute într-un traseu, repeatere auzite care nu sunt încă în director, rânduri de vecini lipsă și regiuni lipsă la o descoperire. Când e dezactivată (implicit), fiecare căutare în director necesită o apăsare.",
+    "value": "Când e activată, KiekR poate trimite automat căutări în director pentru contextul lipsă pe care aplicația îl observă pasiv: hopuri necunoscute într-un traseu, repeatere auzite care nu sunt încă în director, rânduri de vecini lipsă și regiuni lipsă la o descoperire. Când e dezactivată (implicit), fiecare căutare în director necesită o apăsare.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9062,7 +9062,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_autoresolve_lookups_go_to_the_kiekr_directory_only_n": {
-    "value": "Căutările ajung doar la directorul KiekR — niciodată la un host terț. Citirile din cache rămân gratuite; acest comutator controlează doar partea de rețea.",
+    "value": "Căutările ajung doar la directorul KiekR, niciodată la un host terț. Citirile din cache rămân gratuite; acest comutator controlează doar partea de rețea.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9097,7 +9097,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_backup_this_is_not_your_ble_pairing_pin_and_not": {
-    "value": "Acesta NU este PIN-ul tău de asociere BLE și NICI fraza ta de acces a identității. Protejează doar acest fișier de backup. Alege ceva memorabil — KiekR nu îl poate recupera pentru tine.",
+    "value": "Acesta NU este PIN-ul tău de asociere BLE și NICI fraza ta de acces a identității. Protejează doar acest fișier de backup. Alege ceva memorabil. KiekR nu îl poate recupera pentru tine.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9192,7 +9192,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_battery_notify_when_the_connected_device_drops_t": {
-    "value": "Notifică atunci când dispozitivul conectat scade la procentul de avertizare. Intervalul de rearmare este cât trebuie să crească procentul înapoi peste prag înainte ca următoarea avertizare să poată apărea — mărește-l dacă curba bateriei tale are un platou (LiFePO4, AA).",
+    "value": "Notifică atunci când dispozitivul conectat scade la procentul de avertizare. Intervalul de rearmare este cât trebuie să crească procentul înapoi peste prag înainte ca următoarea avertizare să poată apărea. Mărește-l dacă curba bateriei tale are un platou (LiFePO4, AA).",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9252,7 +9252,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_blocklist_swipe_to_unblock_their_past_messages_rea": {
-    "value": "Glisează pentru a debloca. Mesajele lor anterioare reapar în fiecare canal după deblocare. Blocarea se face pe baza numelui exact afișat — oricine poate folosi acel nume, așa că nu va opri un expeditor decis să se redenumească.",
+    "value": "Glisează pentru a debloca. Mesajele lor anterioare reapar în fiecare canal după deblocare. Blocarea se face pe baza numelui exact afișat. Oricine poate folosi acel nume, așa că nu va opri un expeditor decis să se redenumească.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9262,12 +9262,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_connected_to_a_stock_node_only_channels_": {
-    "value": "Conectat la un nod standard — pot transmite doar canalele instalate pe dispozitiv. Glisează spre dreapta pentru a adăuga sau elimina un canal de pe dispozitiv. Glisează spre stânga pentru a elimina un canal — canalele cu # își păstrează cheia, ca să le poți readăuga după nume; canalele cu cheie personalizată sunt șterse definitiv.",
+    "value": "Conectat la un nod standard: pot transmite doar canalele instalate pe dispozitiv. Glisează spre dreapta pentru a adăuga sau elimina un canal de pe dispozitiv. Glisează spre stânga pentru a elimina un canal: canalele cu # își păstrează cheia, ca să le poți readăuga după nume; canalele cu cheie personalizată sunt șterse definitiv.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_channels_must_be_assigned_a_region_to_be": {
-    "value": "Canalelor trebuie să li se atribuie o regiune pentru a fi retransmise în majoritatea rețelelor. Apasă pe un canal pentru a-l atribui. Glisează spre stânga pentru a-l elimina — canalele cu # își păstrează cheia, ca să le poți readăuga după nume; canalele cu cheie personalizată sunt șterse definitiv.",
+    "value": "Canalelor trebuie să li se atribuie o regiune pentru a fi retransmise în majoritatea rețelelor. Apasă pe un canal pentru a-l atribui. Glisează spre stânga pentru a-l elimina: canalele cu # își păstrează cheia, ca să le poți readăuga după nume; canalele cu cheie personalizată sunt șterse definitiv.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9387,7 +9387,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_conversation_guest_access_read_only": {
-    "value": "Acces invitat — doar citire",
+    "value": "Acces invitat (doar citire)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9467,17 +9467,17 @@
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_online_directory_is_off_enable_a_source_": {
-    "value": "Directorul online este dezactivat — activează o sursă din Setări → Partajare → Director.",
+    "value": "Directorul online este dezactivat. Activează o sursă din Setări → Partajare → Director.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_messagedetailshe_several_repeaters_match_this_hop_s_short": {
-    "value": "Mai multe repeatere corespund prefixului scurt de traseu al acestui hop. Nu îl putem alege automat pe cel corect — selectează-l pe cel care a fost pe traseul tău.",
+    "value": "Mai multe repeatere corespund prefixului scurt de traseu al acestui hop. Nu îl putem alege automat pe cel corect. Selectează-l pe cel care a fost pe traseul tău.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_coveragemap_no_hexes_mapped_yet_drive_around_with_th": {
-    "value": "Încă nu sunt cartografiate hexagoane — deplasează-te cu radioul pornit și vor apărea aici.",
+    "value": "Încă nu sunt cartografiate hexagoane. Deplasează-te cu radioul pornit și vor apărea aici.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9577,7 +9577,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_paused_on_cellular": {
-    "value": "Pauzat — pe rețea mobilă",
+    "value": "Pauzat: pe rețea mobilă",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9647,22 +9647,22 @@
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_packets": {
-    "value": "Topic — pachete",
+    "value": "Topic (pachete)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_status": {
-    "value": "Topic — status",
+    "value": "Topic (status)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_debug": {
-    "value": "Topic — depanare",
+    "value": "Topic (depanare)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_mqtt_topic_raw": {
-    "value": "Topic — brut",
+    "value": "Topic (brut)",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9767,7 +9767,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_mynode_saves_the_identity_locally_if_the_key_is": {
-    "value": "Salvează identitatea local. Dacă cheia se bazează pe un seed și un companion este conectat, seed-ul este trimis și pe dispozitiv prin CMD_IMPORT_PRIVATE_KEY — aceasta suprascrie identitatea curentă a dispozitivului.",
+    "value": "Salvează identitatea local. Dacă cheia se bazează pe un seed și un companion este conectat, seed-ul este trimis și pe dispozitiv prin CMD_IMPORT_PRIVATE_KEY. Aceasta suprascrie identitatea curentă a dispozitivului.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -9912,7 +9912,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_nodes_originator_clock_skew_using_local_receiv": {
-    "value": "Decalaj de ceas al originatorului — se folosește ora locală de recepție",
+    "value": "Decalaj de ceas al originatorului: se folosește ora locală de recepție",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10052,7 +10052,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_roomadmin_password_is_limited_to_15_characters_any": {
-    "value": "Parola este limitată la 15 caractere — orice e mai lung este trunchiat la conectare.",
+    "value": "Parola este limitată la 15 caractere. Orice e mai lung este trunchiat la conectare.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10077,7 +10077,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_notifications_notify_on_every_inbound_dm_dms_are_crypt": {
-    "value": "Notifică la fiecare mesaj direct primit. Mesajele directe sunt autentificate criptografic — dezactivarea acestei opțiuni suprimă doar notificarea; mesajul ajunge totuși în lista ta de conversații.",
+    "value": "Notifică la fiecare mesaj direct primit. Mesajele directe sunt autentificate criptografic. Dezactivarea acestei opțiuni suprimă doar notificarea; mesajul ajunge totuși în lista ta de conversații.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10127,7 +10127,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_multi_byte_hops_require_companion_firmwa": {
-    "value": "Hopurile multi-byte necesită firmware companion v1.15.0 sau mai nou. Companionul tău raportează o versiune mai veche — limitat la 1 byte până la actualizare. Preferința ta anterioară este păstrată și se va reactiva după actualizare.",
+    "value": "Hopurile multi-byte necesită firmware companion v1.15.0 sau mai nou. Companionul tău raportează o versiune mai veche: limitat la 1 byte până la actualizare. Preferința ta anterioară este păstrată și se va reactiva după actualizare.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10157,7 +10157,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_regions_swipe_a_region_to_remove_it_it_stays_in_": {
-    "value": "Glisează o regiune pentru a o elimina. Rămâne în baza de date (și continuă să adnoteze traficul primit), dar dispare din această listă și din selectoarele de canale — readaug-o după nume pentru a o aduce înapoi.",
+    "value": "Glisează o regiune pentru a o elimina. Rămâne în baza de date (și continuă să adnoteze traficul primit), dar dispare din această listă și din selectoarele de canale. Readaug-o după nume pentru a o aduce înapoi.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10367,7 +10367,7 @@
     "_seeded": "2026-10-14"
   },
   "repeater_err_not_connected": {
-    "value": "Nu este conectat la un dispozitiv companion — conectează mai întâi un nod.",
+    "value": "Nu este conectat la un dispozitiv companion. Conectează mai întâi un nod.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10392,7 +10392,7 @@
     "_seeded": "2026-09-20"
   },
   "backup_restore_hint": {
-    "value": "Restaurează dintr-un fișier `.json` sau `.mcbackup`. Importurile înlocuiesc implicit — canalele, contactele și regiunile existente sunt șterse, apoi pachetul este inserat. Ține apăsat Confirmă timp de 5 secunde.",
+    "value": "Restaurează dintr-un fișier `.json` sau `.mcbackup`. Importurile înlocuiesc implicit: canalele, contactele și regiunile existente sunt șterse, apoi pachetul este inserat. Ține apăsat Confirmă timp de 5 secunde.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10492,17 +10492,17 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_none": {
-    "value": "Niciun observator nu l-a auzit încă — asta nu înseamnă niciodată că trimiterea a eșuat.",
+    "value": "Niciun observator nu l-a auzit încă. Asta nu înseamnă niciodată că trimiterea a eșuat.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_local": {
-    "value": "Auzit până acum într-o regiune observator — probabil doar zona din apropiere.",
+    "value": "Auzit până acum într-o regiune observator, probabil doar zona din apropiere.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "reach_state_mesh": {
-    "value": "Auzit în %1$d regiuni — mesh-ul a purtat acest mesaj.",
+    "value": "Auzit în %1$d regiuni: mesh-ul a purtat acest mesaj.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10517,7 +10517,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_error": {
-    "value": "Verificarea a eșuat — încearcă din nou mai târziu.",
+    "value": "Verificarea a eșuat. Încearcă din nou mai târziu.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10527,7 +10527,7 @@
     "_seeded": "2026-09-20"
   },
   "reach_state_observers": {
-    "value": "Auzit de %1$d observatori — mesh-ul a purtat acest mesaj.",
+    "value": "Auzit de %1$d observatori: mesh-ul a purtat acest mesaj.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10537,7 +10537,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_autoadd_master_off_hint": {
-    "value": "Acest nod adaugă automat momentan fiecare tip de anunț („Auto add all”) — filtrele de mai jos nu au niciun efect. O altă aplicație poate fi comutat asta.",
+    "value": "Acest nod adaugă automat momentan fiecare tip de anunț („Auto add all”). Filtrele de mai jos nu au niciun efect. O altă aplicație poate fi comutat asta.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10555,7 +10555,7 @@
     "_human": true
   },
   "notif_reply_failed_not_installed": {
-    "value": "Netrimis — nu este instalat pe nodul tău",
+    "value": "Netrimis: nu este instalat pe nodul tău",
     "_human": true
   },
   "notif_reply_failed": {
@@ -10577,7 +10577,7 @@
     "_seeded": "2026-09-20"
   },
   "settings_community_mapme_active_mapping_hint": {
-    "value": "Cartografiază și hexagoanele fără trafic recepționat — folosește GPS și mai multă baterie.",
+    "value": "Cartografiază și hexagoanele fără trafic recepționat. Folosește GPS și mai multă baterie.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10622,7 +10622,7 @@
     "_seeded": "2026-09-20"
   },
   "device_contact_table_full": {
-    "value": "Lista de contacte a acestui nod este plină — nu mai poate primi contacte noi pe care le aude. Șterge câteva pentru a face loc.",
+    "value": "Lista de contacte a acestui nod este plină: nu mai poate primi contacte noi pe care le aude. Șterge câteva pentru a face loc.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10632,17 +10632,17 @@
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_always": {
-    "value": "Pauzat — accesul la locație este doar „Cât timp folosești aplicația”",
+    "value": "Pauzat: accesul la locație este doar „Cât timp folosești aplicația”",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_status_paused_fix": {
-    "value": "Pauzat — sesiunea de locație a fost oprită",
+    "value": "Pauzat: sesiunea de locație a fost oprită",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "settings_coverage_bg_pause_hint": {
-    "value": "Fără „Mereu”, coverage colectează doar cât timp KiekR este deschis — iOS pauzează sesiunea de locație de îndată ce aplicația trece în fundal. Cu „Mereu”, KiekR continuă să colecteze în buzunarul tău folosind doar poziția pe care telefonul tău o cunoaște deja, fără GPS suplimentar.",
+    "value": "Fără „Mereu”, coverage colectează doar cât timp KiekR este deschis. iOS pauzează sesiunea de locație de îndată ce aplicația trece în fundal. Cu „Mereu”, KiekR continuă să colecteze în buzunarul tău folosind doar poziția pe care telefonul tău o cunoaște deja, fără GPS suplimentar.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10742,12 +10742,12 @@
     "_seeded": "2026-09-20"
   },
   "ios_channels_soft_remove_body": {
-    "value": "Elimină %@ din lista ta de conversații și din setările canalelor. Îl poți readăuga mai târziu tastând numele în Setări → Canale → Adaugă canal după nume — cheia SHA-256 se derivă la fel.",
+    "value": "Elimină %@ din lista ta de conversații și din setările canalelor. Îl poți readăuga mai târziu tastând numele în Setări → Canale → Adaugă canal după nume. Cheia SHA-256 se derivă la fel.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
   "ios_channels_hard_delete_body": {
-    "value": "Ștergi %@? Este definitiv — cheia nu poate fi re-derivată din nume.",
+    "value": "Ștergi %@? Este definitiv: cheia nu poate fi re-derivată din nume.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10792,7 +10792,7 @@
     "_seeded": "2026-09-20"
   },
   "ios_pathlookup_cache_footer": {
-    "value": "Ajutor de învățare persistent pentru coliziunile de prefix: după ce selectorul deterministic a ales un câștigător, (prefix, hop, pubkey) este actualizat astfel încât următorul egal la același prefix se rezolvă la fel.\n\nTTL cache — cât timp supraviețuiește o intrare fără a fi reutilizată. Implicit 30 zile, limitat la 1..=180.\n\nMarja de departajare — cât de apropiate trebuie să fie metricile a doi candidați (în %) înainte ca cache-ul să rezolve egalitatea. 0 dezactivează fallback-ul cache-ului (se califică doar egalitățile exacte); 20 este limita superioară. Implicit 5 %.",
+    "value": "Ajutor de învățare persistent pentru coliziunile de prefix: după ce selectorul deterministic a ales un câștigător, (prefix, hop, pubkey) este actualizat astfel încât următorul egal la același prefix se rezolvă la fel.\n\nTTL cache: cât timp supraviețuiește o intrare fără a fi reutilizată. Implicit 30 zile, limitat la 1..=180.\n\nMarja de departajare: cât de apropiate trebuie să fie metricile a doi candidați (în %) înainte ca cache-ul să rezolve egalitatea. 0 dezactivează fallback-ul cache-ului (se califică doar egalitățile exacte); 20 este limita superioară. Implicit 5 %.",
     "_ai": true,
     "_seeded": "2026-09-20"
   },
@@ -10827,7 +10827,7 @@
     "_seeded": "2026-09-22"
   },
   "ui_connection_banner_bluetooth_off": {
-    "value": "Bluetooth este oprit — atinge pentru a-l porni",
+    "value": "Bluetooth este oprit: atinge pentru a-l porni",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10842,7 +10842,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_bg_status_paused_no_network_location": {
-    "value": "În pauză — acest telefon nu are localizare prin rețea. Pozițiile GPS sosesc doar cât timp o altă aplicație folosește GPS-ul sau în timpul încărcării.",
+    "value": "În pauză: acest telefon nu are localizare prin rețea. Pozițiile GPS sosesc doar cât timp o altă aplicație folosește GPS-ul sau în timpul încărcării.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -10852,7 +10852,7 @@
     "_seeded": "2026-09-22"
   },
   "settings_coverage_self_gps_on_battery_footer": {
-    "value": "Acest telefon nu are localizare prin rețea. Când e activat, KiekR pornește singur GPS-ul cât timp primește trafic mesh — și pe baterie, și se oprește când stai pe loc. Consumă mai multă baterie.",
+    "value": "Acest telefon nu are localizare prin rețea. Când e activat, KiekR pornește singur GPS-ul cât timp primește trafic mesh (și pe baterie, și se oprește când stai pe loc). Consumă mai multă baterie.",
     "_ai": true,
     "_seeded": "2026-09-22"
   },
@@ -11132,7 +11132,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_key_input_hint": {
-    "value": "Doar caractere hexazecimale 0–9, a–f. Spațiile și cele două puncte sunt eliminate la lipire. Repetorul are nevoie de cheia completă pentru a o adăuga.",
+    "value": "Doar caractere hexazecimale 0-9, a-f. Spațiile și cele două puncte sunt eliminate la lipire. Repetorul are nevoie de cheia completă pentru a o adăuga.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11262,7 +11262,7 @@
     "_seeded": "2026-09-27"
   },
   "repeater_acl_truncated_title": {
-    "value": "%1$d intrări – lista poate fi incompletă",
+    "value": "%1$d intrări (lista poate fi incompletă)",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11347,7 +11347,7 @@
     "_seeded": "2026-09-27"
   },
   "room_acl_key_input_hint": {
-    "value": "Doar caractere hexazecimale 0–9, a–f. Spațiile și cele două puncte sunt eliminate la lipire. Serverul de cameră are nevoie de cheia completă pentru a o adăuga.",
+    "value": "Doar caractere hexazecimale 0-9, a-f. Spațiile și cele două puncte sunt eliminate la lipire. Serverul de cameră are nevoie de cheia completă pentru a o adăuga.",
     "_ai": true,
     "_seeded": "2026-09-27"
   },
@@ -11397,7 +11397,7 @@
     "_seeded": "2026-09-28"
   },
   "mynode_telemetry_everyone_warning": {
-    "value": "„Toată lumea” înseamnă fiecare contact stocat pe acest nod — cu adăugarea automată activată, practic oricine se află în rază.",
+    "value": "„Toată lumea” înseamnă fiecare contact stocat pe acest nod: cu adăugarea automată activată, practic oricine se află în rază.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11412,7 +11412,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_hint_deny": {
-    "value": "Partajarea este dezactivată pe nodul tău — activeaz-o din Nodul meu → Partajare telemetrie.",
+    "value": "Partajarea este dezactivată pe nodul tău. Activeaz-o din Nodul meu → Partajare telemetrie.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11422,7 +11422,7 @@
     "_seeded": "2026-09-28"
   },
   "contact_telemetry_grants_write_failed": {
-    "value": "Nu s-au putut actualiza permisiunile — contactul trebuie să fie pe nodul tău.",
+    "value": "Nu s-au putut actualiza permisiunile: contactul trebuie să fie pe nodul tău.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11442,7 +11442,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_request_pending_notice": {
-    "value": "Pe acest nod este deja o cerere în curs — încearcă din nou peste puțin timp.",
+    "value": "Pe acest nod este deja o cerere în curs. Încearcă din nou peste puțin timp.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11467,7 +11467,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_fix_unchanged_hint": {
-    "value": "Poziție neschimbată — dispozitivul poate să nu aibă un fix GPS curent.",
+    "value": "Poziție neschimbată: dispozitivul poate să nu aibă un fix GPS curent.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11477,12 +11477,12 @@
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_gps_sample": {
-    "value": "Nicio locație în răspuns — fără GPS, GPS oprit sau locația nu este partajată cu tine.",
+    "value": "Nicio locație în răspuns: fără GPS, GPS oprit sau locația nu este partajată cu tine.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_reply_no_answer": {
-    "value": "Niciun răspuns — în afara razei, sau acest contact nu îți permite să soliciți asta.",
+    "value": "Niciun răspuns: în afara razei, sau acest contact nu îți permite să soliciți asta.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11507,7 +11507,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_live_cost_line": {
-    "value": "Până la 16 cereri în 15 minute, doar printr-o rută cunoscută sau rază directă — fără flood în mesh.",
+    "value": "Până la 16 cereri în 15 minute, doar printr-o rută cunoscută sau rază directă (fără flood în mesh).",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11522,17 +11522,17 @@
     "_seeded": "2026-09-28"
   },
   "locate_live_end_time_up": {
-    "value": "Localizare live încheiată — cele 15 minute au expirat.",
+    "value": "Localizare live încheiată: cele 15 minute au expirat.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_no_answer": {
-    "value": "Niciun răspuns — în afara razei directe? Folosește „Caută în mesh” pentru a încerca prin repetoare.",
+    "value": "Niciun răspuns. În afara razei directe? Folosește „Caută în mesh” pentru a încerca prin repetoare.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
   "locate_live_end_link_down": {
-    "value": "Conexiunea cu nodul s-a pierdut — localizarea live s-a oprit.",
+    "value": "Conexiunea cu nodul s-a pierdut. Localizarea live s-a oprit.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
@@ -11597,7 +11597,7 @@
     "_seeded": "2026-09-28"
   },
   "locate_map_location_off_hint": {
-    "value": "Accesul la locație este oprit — este necesar pentru a afișa poziția ta și distanța.",
+    "value": "Accesul la locație este oprit. Este necesar pentru a afișa poziția ta și distanța.",
     "_ai": true,
     "_seeded": "2026-09-28"
   },
