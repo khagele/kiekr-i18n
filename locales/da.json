@@ -3,7 +3,7 @@
     "language": "da",
     "name": "Dansk",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøgle tilhører allerede »%1$s«.",
@@ -14057,5 +14057,15 @@
     "value": "Reparationen af uret blev afbrudt: noden sendte ikke hele sin kontaktliste. Intet er ændret. Prøv igen.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Politikken kunne ikke læses fra noden",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Læs igen",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

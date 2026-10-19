@@ -3,7 +3,7 @@
     "language": "hr",
     "name": "Hrvatski",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Ovaj ključ već pripada \"%1$s\".",
@@ -14059,5 +14059,15 @@
     "value": "Popravak sata je prekinut: čvor nije dovršio popis svojih kontakata. Ništa nije promijenjeno. Pokušajte ponovno.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Politiku nije bilo moguće pročitati s čvora",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Pročitaj ponovno",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

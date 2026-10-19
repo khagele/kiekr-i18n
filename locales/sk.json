@@ -3,7 +3,7 @@
     "language": "sk",
     "name": "Slovenčina",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Tento kľúč už patrí k „%1$s“.",
@@ -14060,5 +14060,15 @@
     "value": "Oprava hodín bola prerušená: uzol nedokončil odosielanie zoznamu svojich kontaktov. Nič sa nezmenilo. Skúste to znova.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Nastavenia sa nepodarilo načítať z uzla",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Načítať znova",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

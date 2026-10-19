@@ -3,7 +3,7 @@
     "language": "lv",
     "name": "Latviešu",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Šī atslēga jau pieder „%1$s“.",
@@ -14059,5 +14059,15 @@
     "value": "Pulksteņa labošana tika pārtraukta: mezgls nepabeidza savu kontaktu saraksta nosūtīšanu. Nekas netika mainīts. Mēģiniet vēlreiz.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Neizdevās nolasīt politiku no mezgla",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Lasīt vēlreiz",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

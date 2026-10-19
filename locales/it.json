@@ -3,7 +3,7 @@
     "language": "it",
     "name": "Italiano",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Questa chiave appartiene già a \"%1$s\".",
@@ -12695,5 +12695,15 @@
     "value": "Riparazione dell'orologio interrotta: il nodo non ha finito di elencare i suoi contatti. Non è stato modificato nulla. Riprova.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Impossibile leggere le impostazioni dal nodo",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Rileggi",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

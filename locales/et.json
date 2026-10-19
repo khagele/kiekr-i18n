@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -14057,5 +14057,15 @@
     "value": "Kella parandamine katkes: sõlm ei lõpetanud oma kontaktide loetlemist. Midagi ei muudetud. Proovi uuesti.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Poliitikat ei õnnestunud sõlmest lugeda",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Loe uuesti",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

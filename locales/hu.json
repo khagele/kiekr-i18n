@@ -3,7 +3,7 @@
     "language": "hu",
     "name": "Magyar",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Ez a kulcs már a „%1$s” tulajdonát képezi.",
@@ -14057,5 +14057,15 @@
     "value": "Az óra javítása megszakadt: a csomópont nem fejezte be a kontaktjai felsorolását. Semmi sem változott. Próbáld meg újra.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Nem sikerült beolvasni a beállításokat a csomópontról",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Újraolvasás",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -3,7 +3,7 @@
     "language": "sv",
     "name": "Svenska",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Den här nyckeln tillhör redan ”%1$s”.",
@@ -14057,5 +14057,15 @@
     "value": "Klockreparationen avbröts: noden skickade inte hela sin kontaktlista. Inget har ändrats. Försök igen.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Det gick inte att läsa policyn från noden",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Läs igen",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

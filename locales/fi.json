@@ -3,7 +3,7 @@
     "language": "fi",
     "name": "Suomi",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Tämä avain kuuluu jo ”%1$s” -sivustolle.",
@@ -14057,5 +14057,15 @@
     "value": "Kellon korjaus keskeytyi: solmu ei lähettänyt koko yhteystietoluetteloaan. Mitään ei muutettu. Yritä uudelleen.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Asetuksia ei voitu lukea solmusta",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Lue uudelleen",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

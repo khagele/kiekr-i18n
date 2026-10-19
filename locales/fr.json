@@ -3,7 +3,7 @@
     "language": "fr",
     "name": "Français",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Cette clé appartient déjà à « %1$s ».",
@@ -12781,5 +12781,15 @@
     "value": "Réparation de l'horloge interrompue : le nœud n'a pas fini de lister ses contacts. Rien n'a été modifié. Réessayez.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Impossible de lire la politique depuis le nœud",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Relire",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -3,7 +3,7 @@
     "language": "mt",
     "name": "Malti",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Din iċ-ċavetta diġà tappartjeni lil \"%1$s\".",
@@ -14060,5 +14060,15 @@
     "value": "It-tiswija tal-arloġġ twaqqfet: in-nodu ma lestiex jelenka l-kuntatti tiegħu. Ma nbidel xejn. Erġa' pprova.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Il-politika ma setgħetx tinqara min-nodu",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Erġa' aqra",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

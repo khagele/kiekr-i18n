@@ -3,7 +3,7 @@
     "language": "nl",
     "name": "Nederlands",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Deze sleutel is al gekoppeld aan \"%1$s\".",
@@ -12780,5 +12780,15 @@
     "value": "Klokreparatie afgebroken: de node heeft zijn contacten niet volledig doorgegeven. Er is niets gewijzigd. Probeer het opnieuw.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Beleid kon niet van de node worden gelezen",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Opnieuw lezen",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -3,7 +3,7 @@
     "language": "de",
     "name": "Deutsch",
     "managed_by": "kiekr-team",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "app_upgrade_body": {
     "value": "Öffne die App erneut, um die neue Version fertig zu laden.",
@@ -11463,6 +11463,14 @@
   },
   "mynode_clock_repair_interrupted": {
     "value": "Uhr-Reparatur abgebrochen: Der Node hat seine Kontakte nicht vollständig gemeldet. Es wurde nichts geändert. Versuch es noch einmal.",
+    "_human": true
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Richtlinie konnte nicht vom Node gelesen werden",
+    "_human": true
+  },
+  "settings_autoadd_read_again": {
+    "value": "Erneut lesen",
     "_human": true
   }
 }

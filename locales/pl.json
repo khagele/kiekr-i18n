@@ -3,7 +3,7 @@
     "language": "pl",
     "name": "Polski",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Ten klucz należy już do „%1$s”.",
@@ -14052,5 +14052,15 @@
     "value": "Naprawa zegara została przerwana: węzeł nie przekazał pełnej listy kontaktów. Nic nie zostało zmienione. Spróbuj ponownie.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Nie udało się odczytać ustawień z węzła",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Odczytaj ponownie",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

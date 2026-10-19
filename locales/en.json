@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -2828,5 +2828,7 @@
   "identity_import_err_invalid_key": "Not a valid private key. Paste 64 or 128 hex characters.",
   "mynode_identity_derived_pubkey": "Derived public key: %1$s",
   "wifi_connect_err_invalid_target": "Enter a valid host and a port between 1 and 65535.",
-  "mynode_clock_repair_interrupted": "Clock repair stopped: the node did not finish listing its contacts. Nothing was changed. Try again."
+  "mynode_clock_repair_interrupted": "Clock repair stopped: the node did not finish listing its contacts. Nothing was changed. Try again.",
+  "settings_autoadd_read_failed_title": "Couldn't read the policy from the node",
+  "settings_autoadd_read_again": "Read again"
 }

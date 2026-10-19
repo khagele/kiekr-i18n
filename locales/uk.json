@@ -3,7 +3,7 @@
     "language": "uk",
     "name": "Українська",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Цей ключ уже належить до «%1$s».",
@@ -14061,5 +14061,15 @@
     "value": "Виправлення годинника перервано: вузол не завершив передавання списку своїх контактів. Нічого не змінено. Спробуйте ще раз.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Не вдалося зчитати політику з вузла",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Зчитати ще раз",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

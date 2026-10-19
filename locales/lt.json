@@ -3,7 +3,7 @@
     "language": "lt",
     "name": "Lietuvių",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Šis raktas jau priklauso „%1$s“.",
@@ -14060,5 +14060,15 @@
     "value": "Laikrodžio taisymas nutrauktas: mazgas nebaigė pateikti savo kontaktų sąrašo. Nieko nepakeista. Bandykite dar kartą.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Nepavyko nuskaityti politikos iš mazgo",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Nuskaityti dar kartą",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

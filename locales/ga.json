@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -14060,5 +14060,15 @@
     "value": "Stopadh deisiú an chloig: níor chríochnaigh an nód a theagmhálaithe a liostú. Níor athraíodh aon rud. Bain triail as arís.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Níorbh fhéidir an beartas a léamh ón nód",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Léigh arís",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

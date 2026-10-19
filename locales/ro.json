@@ -3,7 +3,7 @@
     "language": "ro",
     "name": "Română",
     "managed_by": "community",
-    "updated": "2026-10-18"
+    "updated": "2026-10-19"
   },
   "add_channel_duplicate_key": {
     "value": "Această cheie aparține deja site-ului „%1$s”.",
@@ -14059,5 +14059,15 @@
     "value": "Repararea ceasului a fost întreruptă: nodul nu a terminat de transmis lista de contacte. Nu s-a modificat nimic. Încearcă din nou.",
     "_ai": true,
     "_seeded": "2026-10-18"
+  },
+  "settings_autoadd_read_failed_title": {
+    "value": "Politica nu a putut fi citită de pe nod",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "settings_autoadd_read_again": {
+    "value": "Citește din nou",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }
