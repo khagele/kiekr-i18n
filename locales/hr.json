@@ -14069,5 +14069,20 @@
     "value": "Pročitaj ponovno",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Čvor je odbio snagu odašiljanja (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "ovaj firmver to ne podržava",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "promjena nije stigla do čvora",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

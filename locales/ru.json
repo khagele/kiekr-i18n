@@ -14071,5 +14071,20 @@
     "value": "Считать снова",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Узел отклонил мощность передачи (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "эта прошивка этого не поддерживает",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "изменение не дошло до узла",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

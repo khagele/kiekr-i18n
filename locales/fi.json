@@ -14067,5 +14067,20 @@
     "value": "Lue uudelleen",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Solmu hylkäsi lähetystehon (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "tämä laiteohjelmisto ei tue sitä",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "muutos ei tavoittanut solmua",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -14070,5 +14070,20 @@
     "value": "Načítať znova",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Uzol odmietol vysielací výkon (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "tento firmvér to nepodporuje",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "zmena sa k uzlu nedostala",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -2830,5 +2830,8 @@
   "wifi_connect_err_invalid_target": "Enter a valid host and a port between 1 and 65535.",
   "mynode_clock_repair_interrupted": "Clock repair stopped: the node did not finish listing its contacts. Nothing was changed. Try again.",
   "settings_autoadd_read_failed_title": "Couldn't read the policy from the node",
-  "settings_autoadd_read_again": "Read again"
+  "settings_autoadd_read_again": "Read again",
+  "mynode_config_error_tx_power_rejected": "The node rejected the transmit power (%1$d dBm).",
+  "mynode_config_error_unsupported": "this firmware does not support it",
+  "mynode_config_error_not_sent": "the change did not reach the node"
 }

@@ -12791,5 +12791,20 @@
     "value": "Relire",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Le nœud a rejeté la puissance d'émission (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "ce firmware ne le prend pas en charge",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "la modification n'a pas atteint le nœud",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

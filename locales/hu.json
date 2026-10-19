@@ -14067,5 +14067,20 @@
     "value": "Újraolvasás",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "A csomópont elutasította az adóteljesítményt (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "ez a firmware nem támogatja",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "a módosítás nem jutott el a csomópontig",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

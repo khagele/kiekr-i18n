@@ -14067,5 +14067,20 @@
     "value": "Ανάγνωση ξανά",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Ο κόμβος απέρριψε την ισχύ εκπομπής (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "αυτό το firmware δεν το υποστηρίζει",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "η αλλαγή δεν έφτασε στον κόμβο",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

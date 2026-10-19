@@ -14071,5 +14071,20 @@
     "value": "Зчитати ще раз",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Вузол відхилив потужність передавання (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "ця прошивка цього не підтримує",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "зміна не дійшла до вузла",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

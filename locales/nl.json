@@ -12790,5 +12790,20 @@
     "value": "Opnieuw lezen",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "De node weigerde het zendvermogen (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "deze firmware ondersteunt dat niet",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "de wijziging heeft de node niet bereikt",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

@@ -14068,5 +14068,20 @@
     "value": "Ler novamente",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "O nó rejeitou a potência de transmissão (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "este firmware não oferece suporte a isso",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "a alteração não chegou ao nó",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

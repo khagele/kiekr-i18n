@@ -11472,5 +11472,17 @@
   "settings_autoadd_read_again": {
     "value": "Erneut lesen",
     "_human": true
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Der Node hat die Sendeleistung abgelehnt (%1$d dBm).",
+    "_human": true
+  },
+  "mynode_config_error_unsupported": {
+    "value": "diese Firmware unterstützt das nicht",
+    "_human": true
+  },
+  "mynode_config_error_not_sent": {
+    "value": "die Änderung hat den Node nicht erreicht",
+    "_human": true
   }
 }

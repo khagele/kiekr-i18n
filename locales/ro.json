@@ -14069,5 +14069,20 @@
     "value": "Citește din nou",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Nodul a respins puterea de emisie (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "acest firmware nu o acceptă",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "modificarea nu a ajuns la nod",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }

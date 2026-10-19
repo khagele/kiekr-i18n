@@ -14062,5 +14062,20 @@
     "value": "Odczytaj ponownie",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_tx_power_rejected": {
+    "value": "Węzeł odrzucił moc nadawania (%1$d dBm).",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_unsupported": {
+    "value": "ten firmware tego nie obsługuje",
+    "_ai": true,
+    "_seeded": "2026-10-19"
+  },
+  "mynode_config_error_not_sent": {
+    "value": "zmiana nie dotarła do węzła",
+    "_ai": true,
+    "_seeded": "2026-10-19"
   }
 }
