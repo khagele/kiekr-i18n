@@ -3,7 +3,7 @@
     "language": "fi",
     "name": "Suomi",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Tämä avain kuuluu jo ”%1$s” -sivustolle.",
@@ -14082,5 +14082,50 @@
     "value": "muutos ei tavoittanut solmua",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Anna etuliite",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-etuliite, esim. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Vain hex-merkkejä: 0:sta 9:ään ja A:sta F:ään.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Anna kokonaisia tavuja: parillinen määrä hex-merkkejä.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Enintään 64 hex-merkkiä (32 tavua).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Toistimelle, jota sovellus ei vielä tunne. Traceroute lähettää nämä tavut hypyn tiivisteenä.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Tuntematon toistin",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Tunnetut toistimet etuliitteellä %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hypyllä %1$d on vain %2$d tavun etuliite. Traceroute toimii %3$d tavun tiivisteillä.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

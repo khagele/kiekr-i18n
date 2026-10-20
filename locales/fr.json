@@ -3,7 +3,7 @@
     "language": "fr",
     "name": "Français",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Cette clé appartient déjà à « %1$s ».",
@@ -12806,5 +12806,50 @@
     "value": "la modification n'a pas atteint le nœud",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Saisir un préfixe",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Préfixe hexadécimal, par ex. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Uniquement des caractères hexadécimaux : de 0 à 9 et de A à F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Saisissez des octets entiers : un nombre pair de caractères hexadécimaux.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "64 caractères hexadécimaux au maximum (32 octets).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Pour un répéteur que l'application ne connaît pas encore. La trace envoie ces octets comme hachage du saut.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Répéteur inconnu",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Répéteurs connus avec le préfixe %1$s : %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Le saut %1$d n'a qu'un préfixe de longueur %2$d (en octets). La trace s'exécute avec des hachages de longueur %3$d (en octets).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

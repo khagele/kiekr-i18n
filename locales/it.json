@@ -3,7 +3,7 @@
     "language": "it",
     "name": "Italiano",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Questa chiave appartiene già a \"%1$s\".",
@@ -12720,5 +12720,50 @@
     "value": "la modifica non ha raggiunto il nodo",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Inserisci prefisso",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Prefisso esadecimale, ad es. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Solo caratteri esadecimali: da 0 a 9 e da A a F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Inserisci byte interi: un numero pari di caratteri esadecimali.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Al massimo 64 caratteri esadecimali (32 byte).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Per un ripetitore che l'app non conosce ancora. Il traceroute invia questi byte come hash dell'hop.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Ripetitore sconosciuto",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Ripetitori noti con prefisso %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "L'hop %1$d ha solo un prefisso di %2$d byte. Il traceroute viene eseguito con hash di %3$d byte.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

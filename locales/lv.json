@@ -3,7 +3,7 @@
     "language": "lv",
     "name": "Latviešu",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Šī atslēga jau pieder „%1$s“.",
@@ -14084,5 +14084,50 @@
     "value": "izmaiņas nesasniedza mezglu",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Ievadīt prefiksu",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex prefikss, piem. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Tikai hex rakstzīmes: no 0 līdz 9 un no A līdz F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Ievadiet veselus baitus: pāra skaitu hex rakstzīmju.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Ne vairāk kā 64 hex rakstzīmes (32 baiti).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Atkārtotājam, kuru lietotne vēl nepazīst. Traceroute sūta šos baitus kā lēciena jaucējkodu.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Nezināms atkārtotājs",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Zināmi atkārtotāji ar prefiksu %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Lēcienam %1$d ir tikai īss prefikss (garums baitos: %2$d). Traceroute darbojas ar jaucējkodiem (garums baitos: %3$d).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

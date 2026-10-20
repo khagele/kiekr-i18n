@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -2833,5 +2833,14 @@
   "settings_autoadd_read_again": "Read again",
   "mynode_config_error_tx_power_rejected": "The node rejected the transmit power (%1$d dBm).",
   "mynode_config_error_unsupported": "this firmware does not support it",
-  "mynode_config_error_not_sent": "the change did not reach the node"
+  "mynode_config_error_not_sent": "the change did not reach the node",
+  "traceroute_enter_prefix": "Enter prefix",
+  "traceroute_prefix_placeholder": "Hex prefix, e.g. A3",
+  "traceroute_prefix_error_not_hex": "Only hex characters: 0 to 9 and A to F.",
+  "traceroute_prefix_error_odd_length": "Enter whole bytes: an even number of hex characters.",
+  "traceroute_prefix_error_too_long": "At most 64 hex characters (32 bytes).",
+  "traceroute_prefix_footer": "For a repeater the app doesn't know yet. The trace sends these bytes as the hop hash.",
+  "traceroute_unknown_repeater": "Unknown repeater",
+  "traceroute_prefix_known_matches": "Known repeaters with prefix %1$s: %2$s",
+  "traceroute_width_narrowed": "Hop %1$d has only a %2$d-byte prefix. The trace runs with %3$d-byte hashes."
 }

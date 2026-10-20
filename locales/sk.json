@@ -3,7 +3,7 @@
     "language": "sk",
     "name": "Slovenčina",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Tento kľúč už patrí k „%1$s“.",
@@ -14085,5 +14085,50 @@
     "value": "zmena sa k uzlu nedostala",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Zadať prefix",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex prefix, napr. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Iba hex znaky: 0 až 9 a A až F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Zadajte celé bajty: párny počet hex znakov.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Najviac 64 hex znakov (32 bajtov).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Pre opakovač, ktorý aplikácia ešte nepozná. Traceroute odošle tieto bajty ako hash skoku.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Neznámy opakovač",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Známe opakovače s prefixom %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Skok %1$d má iba %2$d-bajtový prefix. Traceroute používa %3$d-bajtové hashe.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

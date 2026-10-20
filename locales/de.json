@@ -3,7 +3,7 @@
     "language": "de",
     "name": "Deutsch",
     "managed_by": "kiekr-team",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "app_upgrade_body": {
     "value": "Öffne die App erneut, um die neue Version fertig zu laden.",
@@ -11483,6 +11483,42 @@
   },
   "mynode_config_error_not_sent": {
     "value": "die Änderung hat den Node nicht erreicht",
+    "_human": true
+  },
+  "traceroute_enter_prefix": {
+    "value": "Präfix eingeben",
+    "_human": true
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-Präfix, z. B. A3",
+    "_human": true
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Nur Hex-Zeichen: 0 bis 9 und A bis F.",
+    "_human": true
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Ganze Bytes eingeben: eine gerade Anzahl Hex-Zeichen.",
+    "_human": true
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Höchstens 64 Hex-Zeichen (32 Bytes).",
+    "_human": true
+  },
+  "traceroute_prefix_footer": {
+    "value": "Für einen Repeater, den die App noch nicht kennt. Der Trace sendet diese Bytes als Hop-Hash.",
+    "_human": true
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Unbekannter Repeater",
+    "_human": true
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Bekannte Repeater mit Präfix %1$s: %2$s",
+    "_human": true
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hop %1$d hat nur %2$d Byte Präfix. Der Trace läuft deshalb mit %3$d-Byte-Hashes.",
     "_human": true
   }
 }

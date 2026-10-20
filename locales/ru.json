@@ -3,7 +3,7 @@
     "language": "ru",
     "name": "Русский",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Этот ключ уже принадлежит «%1$s».",
@@ -14086,5 +14086,50 @@
     "value": "изменение не дошло до узла",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Ввести префикс",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-префикс, напр. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Только hex-символы: от 0 до 9 и от A до F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Введите целые байты: чётное число hex-символов.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Максимум 64 hex-символа (32 байта).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Для ретранслятора, которого приложение пока не знает. Трассировка отправляет эти байты как хеш хопа.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Неизвестный ретранслятор",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Известные ретрансляторы с префиксом %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "У хопа %1$d только %2$d-байтовый префикс. Трассировка выполняется с %3$d-байтовыми хешами.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

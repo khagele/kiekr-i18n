@@ -3,7 +3,7 @@
     "language": "ro",
     "name": "Română",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Această cheie aparține deja site-ului „%1$s”.",
@@ -14084,5 +14084,50 @@
     "value": "modificarea nu a ajuns la nod",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Introdu prefixul",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Prefix hex, de ex. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Doar caractere hex: de la 0 la 9 și de la A la F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Introdu octeți întregi: un număr par de caractere hex.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Cel mult 64 de caractere hex (32 de octeți).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Pentru un repetator pe care aplicația nu îl cunoaște încă. Traceroute trimite acești octeți drept hash al saltului.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Repetator necunoscut",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Repetoare cunoscute cu prefixul %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Saltul %1$d are doar un prefix scurt (lungime în octeți: %2$d). Traceroute rulează cu hash-uri (lungime în octeți: %3$d).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

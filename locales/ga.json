@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -14085,5 +14085,50 @@
     "value": "níor shroich an t-athrú an nód",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Cuir réimír isteach",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Réimír heicsidheachúlach, m.sh. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Carachtair heicsidheachúlacha amháin: 0 go 9 agus A go F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Cuir bearta iomlána isteach: líon cothrom de charachtair heicsidheachúlacha.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Uasmhéid: 64 carachtar heicsidheachúil (32 beart).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "D'athchraoltóir nach bhfuil aithne ag an aip air go fóill. Seolann Traceroute na bearta seo mar hash an hop.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Athchraoltóir anaithnid",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Athchraoltóirí aitheanta leis an réimír %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Níl ach réimír ghearr ag hop %1$d (fad i mbearta: %2$d). Ritheann Traceroute le hashanna (fad i mbearta: %3$d).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

@@ -3,7 +3,7 @@
     "language": "hu",
     "name": "Magyar",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Ez a kulcs már a „%1$s” tulajdonát képezi.",
@@ -14082,5 +14082,50 @@
     "value": "a módosítás nem jutott el a csomópontig",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Előtag megadása",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex előtag, pl. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Csak hex karakterek: 0-tól 9-ig és A-tól F-ig.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Adj meg egész bájtokat: páros számú hex karaktert.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Legfeljebb 64 hex karakter (32 bájt).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Olyan átjátszóhoz, amelyet az alkalmazás még nem ismer. A Traceroute ezeket a bájtokat az ugrás hash-eként küldi el.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Ismeretlen átjátszó",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Ismert átjátszók %1$s előtaggal: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "A(z) %1$d. ugrásnak csak %2$d bájtos előtagja van. A Traceroute %3$d bájtos hash-ekkel fut.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

@@ -3,7 +3,7 @@
     "language": "es",
     "name": "Español",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Esta clave ya pertenece a «%1$s».",
@@ -12805,5 +12805,50 @@
     "value": "el cambio no llegó al nodo",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Introducir prefijo",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Prefijo hexadecimal, p. ej. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Solo caracteres hexadecimales: de 0 a 9 y de A a F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Introduce bytes completos: un número par de caracteres hexadecimales.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Como máximo 64 caracteres hexadecimales (32 bytes).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Para un repetidor que la app aún no conoce. La traza envía estos bytes como hash del salto.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Repetidor desconocido",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Repetidores conocidos con el prefijo %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "El salto %1$d solo tiene un prefijo de longitud %2$d (en bytes). La traza se ejecuta con hashes de longitud %3$d (en bytes).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

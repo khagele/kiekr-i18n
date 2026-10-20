@@ -3,7 +3,7 @@
     "language": "el",
     "name": "Ελληνικά",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Αυτό το κλειδί ανήκει ήδη στο «%1$s».",
@@ -14082,5 +14082,50 @@
     "value": "η αλλαγή δεν έφτασε στον κόμβο",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Εισαγωγή προθέματος",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Δεκαεξαδικό πρόθεμα, π.χ. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Μόνο δεκαεξαδικοί χαρακτήρες: από 0 έως 9 και από A έως F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Εισαγάγετε ολόκληρα byte: άρτιο πλήθος δεκαεξαδικών χαρακτήρων.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Το πολύ 64 δεκαεξαδικοί χαρακτήρες (32 byte).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Για έναν επαναλήπτη που η εφαρμογή δεν γνωρίζει ακόμη. Το Traceroute στέλνει αυτά τα byte ως hash του άλματος.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Άγνωστος επαναλήπτης",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Γνωστοί επαναλήπτες με πρόθεμα %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Το άλμα %1$d έχει μόνο πρόθεμα μήκους %2$d byte. Το Traceroute εκτελείται με hash μήκους %3$d byte.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

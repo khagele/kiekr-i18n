@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -14082,5 +14082,50 @@
     "value": "muudatus ei jõudnud sõlmeni",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Sisesta prefiks",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-prefiks, nt A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Ainult hex-märgid: 0 kuni 9 ja A kuni F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Sisesta täisbaidid: paarisarv hex-märke.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Kuni 64 hex-märki (32 baiti).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Repiiterile, mida rakendus veel ei tunne. Traceroute saadab need baidid hüppe räsina.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Tundmatu repiiter",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Tuntud repiiterid prefiksiga %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hüppel %1$d on ainult %2$d-baidine prefiks. Traceroute töötab %3$d-baidiste räsidega.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

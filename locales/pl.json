@@ -3,7 +3,7 @@
     "language": "pl",
     "name": "Polski",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Ten klucz należy już do „%1$s”.",
@@ -14077,5 +14077,50 @@
     "value": "zmiana nie dotarła do węzła",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Wpisz prefiks",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Prefiks szesnastkowy, np. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Tylko znaki szesnastkowe: od 0 do 9 i od A do F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Wpisz pełne bajty: parzystą liczbę znaków szesnastkowych.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Maksymalnie 64 znaki szesnastkowe (32 bajty).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Dla przekaźnika, którego aplikacja jeszcze nie zna. Traceroute wysyła te bajty jako hash skoku.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Nieznany przekaźnik",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Znane przekaźniki z prefiksem %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Skok %1$d ma tylko %2$d-bajtowy prefiks. Traceroute działa z %3$d-bajtowymi hashami.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

@@ -3,7 +3,7 @@
     "language": "nl",
     "name": "Nederlands",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Deze sleutel is al gekoppeld aan \"%1$s\".",
@@ -12805,5 +12805,50 @@
     "value": "de wijziging heeft de node niet bereikt",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Voorvoegsel invoeren",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-voorvoegsel, bijv. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Alleen hex-tekens: 0 tot 9 en A tot F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Voer hele bytes in: een even aantal hex-tekens.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Maximaal 64 hex-tekens (32 bytes).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Voor een repeater die de app nog niet kent. De traceroute verstuurt deze bytes als hop-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Onbekende repeater",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Bekende repeaters met voorvoegsel %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hop %1$d heeft slechts een %2$d-byte-voorvoegsel. De traceroute draait met %3$d-byte-hashes.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

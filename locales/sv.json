@@ -3,7 +3,7 @@
     "language": "sv",
     "name": "Svenska",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Den här nyckeln tillhör redan ”%1$s”.",
@@ -14082,5 +14082,50 @@
     "value": "ändringen nådde inte fram till noden",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Ange prefix",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-prefix, t.ex. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Endast hex-tecken: 0 till 9 och A till F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Ange hela byte: ett jämnt antal hex-tecken.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Högst 64 hex-tecken (32 byte).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "För en repeater som appen inte känner till än. Traceroute skickar dessa byte som hopp-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Okänd repeater",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Kända repeatrar med prefixet %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hopp %1$d har bara ett %2$d-byte-prefix. Traceroute körs med %3$d-byte-hashar.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

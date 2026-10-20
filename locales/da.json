@@ -3,7 +3,7 @@
     "language": "da",
     "name": "Dansk",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøgle tilhører allerede »%1$s«.",
@@ -14082,5 +14082,50 @@
     "value": "ændringen nåede ikke frem til noden",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Angiv præfiks",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-præfiks, f.eks. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Kun hex-tegn: 0 til 9 og A til F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Angiv hele bytes: et lige antal hex-tegn.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Højst 64 hex-tegn (32 bytes).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Til en repeater, som appen endnu ikke kender. Traceroute sender disse bytes som hop-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Ukendt repeater",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Kendte repeatere med præfiks %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Hop %1$d har kun et %2$d-byte-præfiks. Traceroute kører med %3$d-byte-hashes.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

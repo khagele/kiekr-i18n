@@ -3,7 +3,7 @@
     "language": "sl",
     "name": "Slovenščina",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Ta ključ že pripada »%1$s«.",
@@ -14086,5 +14086,50 @@
     "value": "sprememba ni dosegla vozlišča",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Vnesi predpono",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Šestnajstiška predpona, npr. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Samo šestnajstiški znaki: od 0 do 9 in od A do F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Vnesite cele bajte: sodo število šestnajstiških znakov.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Največ 64 šestnajstiških znakov (32 bajtov).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Za ponavljalnik, ki ga aplikacija še ne pozna. Traceroute pošlje te bajte kot zgoščeno vrednost skoka.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Neznan ponavljalnik",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Znani ponavljalniki s predpono %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Skok %1$d ima samo %2$d-bajtno predpono. Traceroute se izvaja z %3$d-bajtnimi zgoščenimi vrednostmi.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

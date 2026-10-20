@@ -3,7 +3,7 @@
     "language": "bg",
     "name": "Български",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Този ключ вече принадлежи на „%1$s“.",
@@ -14082,5 +14082,50 @@
     "value": "промяната не стигна до възела",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Въведете префикс",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Шестнадесетичен префикс, напр. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Само шестнадесетични знаци: от 0 до 9 и от A до F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Въведете цели байтове: четен брой шестнадесетични знаци.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Най-много 64 шестнадесетични знака (32 байта).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "За ретранслатор, който приложението още не познава. Traceroute изпраща тези байтове като хеш на хопа.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Неизвестен ретранслатор",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Известни ретранслатори с префикс %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Хоп %1$d има само %2$d-байтов префикс. Traceroute се изпълнява с %3$d-байтови хешове.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

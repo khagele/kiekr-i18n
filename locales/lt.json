@@ -3,7 +3,7 @@
     "language": "lt",
     "name": "Lietuvių",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Šis raktas jau priklauso „%1$s“.",
@@ -14085,5 +14085,50 @@
     "value": "pakeitimas nepasiekė mazgo",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Įvesti prefiksą",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Šešioliktainis prefiksas, pvz. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Tik šešioliktainiai simboliai: nuo 0 iki 9 ir nuo A iki F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Įveskite sveikus baitus: lyginį šešioliktainių simbolių skaičių.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Daugiausia 64 šešioliktainiai simboliai (32 baitai).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Retransliatoriui, kurio programa dar nepažįsta. Traceroute siunčia šiuos baitus kaip šuolio maišos reikšmę.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Nežinomas retransliatorius",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Žinomi retransliatoriai su prefiksu %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Šuolis %1$d turi tik trumpą prefiksą (ilgis baitais: %2$d). Traceroute vykdomas su maišos reikšmėmis (ilgis baitais: %3$d).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

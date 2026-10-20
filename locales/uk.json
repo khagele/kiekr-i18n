@@ -3,7 +3,7 @@
     "language": "uk",
     "name": "Українська",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Цей ключ уже належить до «%1$s».",
@@ -14086,5 +14086,50 @@
     "value": "зміна не дійшла до вузла",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Ввести префікс",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex-префікс, напр. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Лише hex-символи: від 0 до 9 і від A до F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Введіть цілі байти: парну кількість hex-символів.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Максимум 64 hex-символи (32 байти).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Для ретранслятора, якого застосунок ще не знає. Трасування надсилає ці байти як хеш хопа.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Невідомий ретранслятор",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Відомі ретранслятори з префіксом %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Хоп %1$d має лише %2$d-байтовий префікс. Трасування виконується з %3$d-байтовими хешами.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

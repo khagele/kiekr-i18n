@@ -3,7 +3,7 @@
     "language": "hr",
     "name": "Hrvatski",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Ovaj ključ već pripada \"%1$s\".",
@@ -14084,5 +14084,50 @@
     "value": "promjena nije stigla do čvora",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Unesi prefiks",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Hex prefiks, npr. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Samo hex znakovi: 0 do 9 i A do F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Unesi cijele bajtove: paran broj hex znakova.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Najviše 64 hex znaka (32 bajta).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Za repetitor koji aplikacija još ne poznaje. Traceroute šalje te bajtove kao hash skoka.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Nepoznati repetitor",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Poznati repetitori s prefiksom %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "Skok %1$d ima samo %2$d-bajtni prefiks. Traceroute radi s %3$d-bajtnim hashevima.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }

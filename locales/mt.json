@@ -3,7 +3,7 @@
     "language": "mt",
     "name": "Malti",
     "managed_by": "community",
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "add_channel_duplicate_key": {
     "value": "Din iċ-ċavetta diġà tappartjeni lil \"%1$s\".",
@@ -14085,5 +14085,50 @@
     "value": "il-bidla ma waslitx għand in-nodu",
     "_ai": true,
     "_seeded": "2026-10-19"
+  },
+  "traceroute_enter_prefix": {
+    "value": "Daħħal prefiss",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_placeholder": {
+    "value": "Prefiss hex, eż. A3",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_not_hex": {
+    "value": "Karattri hex biss: 0 sa 9 u A sa F.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_odd_length": {
+    "value": "Daħħal bytes sħaħ: numru pari ta' karattri hex.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_error_too_long": {
+    "value": "Massimu ta' 64 karattru hex (32 byte).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_footer": {
+    "value": "Għal ripetitur li l-app għadha ma tafux. It-traceroute jibgħat dawn il-bytes bħala l-hash tal-hop.",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_unknown_repeater": {
+    "value": "Ripetitur mhux magħruf",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_prefix_known_matches": {
+    "value": "Ripetituri magħrufa bil-prefiss %1$s: %2$s",
+    "_ai": true,
+    "_seeded": "2026-10-20"
+  },
+  "traceroute_width_narrowed": {
+    "value": "L-hop %1$d għandu biss prefiss qasir (tul f'bytes: %2$d). It-traceroute jaħdem b'hashes (tul f'bytes: %3$d).",
+    "_ai": true,
+    "_seeded": "2026-10-20"
   }
 }
