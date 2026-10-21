@@ -11528,5 +11528,13 @@
   "mynode_config_error_telemetry_rejected": {
     "value": "Der Node hat die Einstellung zum Teilen der Telemetrie abgelehnt.",
     "_human": true
+  },
+  "config_error_default_region_rejected": {
+    "value": "Der Knoten hat die Standardregion abgelehnt.",
+    "_human": true
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Der Knoten hat den Pfad-Hash-Modus abgelehnt.",
+    "_human": true
   }
 }

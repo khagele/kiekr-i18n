@@ -14137,5 +14137,15 @@
     "value": "Noden afviste indstillingen for deling af telemetri.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Noden afviste standardregionen.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Noden afviste path-hash-tilstanden.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -14140,5 +14140,15 @@
     "value": "Mazgas atmetė telemetrijos bendrinimo nustatymą.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Mazgas atmetė numatytąjį regioną.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Mazgas atmetė kelių-hash režimą.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

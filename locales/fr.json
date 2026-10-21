@@ -12861,5 +12861,15 @@
     "value": "Le nœud a rejeté le réglage de partage de la télémétrie.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Le nœud a rejeté la région par défaut.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Le nœud a rejeté le mode de hash de chemin.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

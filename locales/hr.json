@@ -14139,5 +14139,15 @@
     "value": "Čvor je odbio postavku dijeljenja telemetrije.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Čvor je odbio zadanu regiju.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Čvor je odbio način put-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

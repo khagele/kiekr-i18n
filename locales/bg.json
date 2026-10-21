@@ -14137,5 +14137,15 @@
     "value": "Възелът отхвърли настройката за споделяне на телеметрията.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Възелът отхвърли региона по подразбиране.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Възелът отхвърли режима „Path-hash“.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

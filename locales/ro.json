@@ -14139,5 +14139,15 @@
     "value": "Nodul a respins setarea de partajare a telemetriei.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Nodul a respins regiunea implicită.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Nodul a respins modul „Path-hash”.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

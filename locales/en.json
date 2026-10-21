@@ -2844,5 +2844,7 @@
   "traceroute_prefix_known_matches": "Known repeaters with prefix %1$s: %2$s",
   "traceroute_width_narrowed": "Hop %1$d has only a %2$d-byte prefix. The trace runs with %3$d-byte hashes.",
   "mynode_config_error_location_sharing_rejected": "The node rejected the location sharing setting.",
-  "mynode_config_error_telemetry_rejected": "The node rejected the telemetry sharing setting."
+  "mynode_config_error_telemetry_rejected": "The node rejected the telemetry sharing setting.",
+  "config_error_default_region_rejected": "The node rejected the default region.",
+  "config_error_path_hash_mode_rejected": "The node rejected the path hash mode."
 }

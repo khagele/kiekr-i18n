@@ -12775,5 +12775,15 @@
     "value": "Il nodo ha rifiutato l'impostazione di condivisione della telemetria.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Il nodo ha rifiutato la regione predefinita.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Il nodo ha rifiutato la modalità hash del percorso.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

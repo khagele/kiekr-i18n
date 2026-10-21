@@ -14140,5 +14140,15 @@
     "value": "Dhiúltaigh an nód don socrú um an teiliméadracht a roinnt.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Dhiúltaigh an nód don réigiún réamhshocraithe.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Dhiúltaigh an nód don mhód path-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

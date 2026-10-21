@@ -12860,5 +12860,15 @@
     "value": "De node weigerde de instelling voor het delen van telemetrie.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "De node weigerde de standaardregio.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "De node weigerde de pad-hashmodus.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

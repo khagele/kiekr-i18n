@@ -14141,5 +14141,15 @@
     "value": "Vozlišče je zavrnilo nastavitev deljenja telemetrije.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Vozlišče je zavrnilo privzeto regijo.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Vozlišče je zavrnilo način »Path-hash«.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

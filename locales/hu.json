@@ -14137,5 +14137,15 @@
     "value": "A csomópont elutasította a telemetriamegosztás beállítását.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "A csomópont elutasította az alapértelmezett régiót.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "A csomópont elutasította az útvonal-hash módot.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

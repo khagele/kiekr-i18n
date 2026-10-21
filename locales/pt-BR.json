@@ -14138,5 +14138,15 @@
     "value": "O nó rejeitou a configuração de compartilhamento da telemetria.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "O nó rejeitou a região padrão.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "O nó rejeitou o modo de hash de caminho.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -14140,5 +14140,15 @@
     "value": "Uzol odmietol nastavenie zdieľania telemetrie.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_default_region_rejected": {
+    "value": "Uzol odmietol predvolený región.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "config_error_path_hash_mode_rejected": {
+    "value": "Uzol odmietol režim Path-hash.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }
