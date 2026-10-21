@@ -3,7 +3,7 @@
     "language": "sv",
     "name": "Svenska",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Den här nyckeln tillhör redan ”%1$s”.",
@@ -14127,5 +14127,15 @@
     "value": "Hopp %1$d har bara ett %2$d-byte-prefix. Traceroute körs med %3$d-byte-hashar.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Noden avvisade inställningen för delning av position.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Noden avvisade inställningen för delning av telemetri.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

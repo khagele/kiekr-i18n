@@ -3,7 +3,7 @@
     "language": "pl",
     "name": "Polski",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Ten klucz należy już do „%1$s”.",
@@ -14122,5 +14122,15 @@
     "value": "Skok %1$d ma tylko %2$d-bajtowy prefiks. Traceroute działa z %3$d-bajtowymi hashami.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Węzeł odrzucił ustawienie udostępniania pozycji.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Węzeł odrzucił ustawienie udostępniania telemetrii.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

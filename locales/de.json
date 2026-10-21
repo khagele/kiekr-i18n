@@ -3,7 +3,7 @@
     "language": "de",
     "name": "Deutsch",
     "managed_by": "kiekr-team",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "app_upgrade_body": {
     "value": "Öffne die App erneut, um die neue Version fertig zu laden.",
@@ -11519,6 +11519,14 @@
   },
   "traceroute_width_narrowed": {
     "value": "Hop %1$d hat nur %2$d Byte Präfix. Der Trace läuft deshalb mit %3$d-Byte-Hashes.",
+    "_human": true
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Der Node hat die Einstellung zum Teilen der Position abgelehnt.",
+    "_human": true
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Der Node hat die Einstellung zum Teilen der Telemetrie abgelehnt.",
     "_human": true
   }
 }

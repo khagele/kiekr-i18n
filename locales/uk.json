@@ -3,7 +3,7 @@
     "language": "uk",
     "name": "Українська",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Цей ключ уже належить до «%1$s».",
@@ -14131,5 +14131,15 @@
     "value": "Хоп %1$d має лише %2$d-байтовий префікс. Трасування виконується з %3$d-байтовими хешами.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Вузол відхилив налаштування передавання позиції.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Вузол відхилив налаштування передавання телеметрії.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

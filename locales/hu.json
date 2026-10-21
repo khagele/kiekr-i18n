@@ -3,7 +3,7 @@
     "language": "hu",
     "name": "Magyar",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Ez a kulcs már a „%1$s” tulajdonát képezi.",
@@ -14127,5 +14127,15 @@
     "value": "A(z) %1$d. ugrásnak csak %2$d bájtos előtagja van. A Traceroute %3$d bájtos hash-ekkel fut.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "A csomópont elutasította a pozíciómegosztás beállítását.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "A csomópont elutasította a telemetriamegosztás beállítását.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

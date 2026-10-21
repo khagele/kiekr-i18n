@@ -3,7 +3,7 @@
     "language": "mt",
     "name": "Malti",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Din iċ-ċavetta diġà tappartjeni lil \"%1$s\".",
@@ -14130,5 +14130,15 @@
     "value": "L-hop %1$d għandu biss prefiss qasir (tul f'bytes: %2$d). It-traceroute jaħdem b'hashes (tul f'bytes: %3$d).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "In-nodu rrifjuta l-issettjar biex taqsam il-pożizzjoni.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "In-nodu rrifjuta l-issettjar biex taqsam it-telemetrija.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

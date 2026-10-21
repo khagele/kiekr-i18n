@@ -3,7 +3,7 @@
     "language": "ru",
     "name": "Русский",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Этот ключ уже принадлежит «%1$s».",
@@ -14131,5 +14131,15 @@
     "value": "У хопа %1$d только %2$d-байтовый префикс. Трассировка выполняется с %3$d-байтовыми хешами.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Узел отклонил настройку передачи позиции.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Узел отклонил настройку передачи телеметрии.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

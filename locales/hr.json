@@ -3,7 +3,7 @@
     "language": "hr",
     "name": "Hrvatski",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Ovaj ključ već pripada \"%1$s\".",
@@ -14129,5 +14129,15 @@
     "value": "Skok %1$d ima samo %2$d-bajtni prefiks. Traceroute radi s %3$d-bajtnim hashevima.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Čvor je odbio postavku dijeljenja pozicije.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Čvor je odbio postavku dijeljenja telemetrije.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -3,7 +3,7 @@
     "language": "ga",
     "name": "Gaeilge",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Is le \"%1$s\" an eochair seo cheana féin.",
@@ -14130,5 +14130,15 @@
     "value": "Níl ach réimír ghearr ag hop %1$d (fad i mbearta: %2$d). Ritheann Traceroute le hashanna (fad i mbearta: %3$d).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Dhiúltaigh an nód don socrú um an suíomh a roinnt.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Dhiúltaigh an nód don socrú um an teiliméadracht a roinnt.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

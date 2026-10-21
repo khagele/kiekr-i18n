@@ -3,7 +3,7 @@
     "language": "lv",
     "name": "Latviešu",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Šī atslēga jau pieder „%1$s“.",
@@ -14129,5 +14129,15 @@
     "value": "Lēcienam %1$d ir tikai īss prefikss (garums baitos: %2$d). Traceroute darbojas ar jaucējkodiem (garums baitos: %3$d).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Mezgls noraidīja pozīcijas kopīgošanas iestatījumu.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Mezgls noraidīja telemetrijas kopīgošanas iestatījumu.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

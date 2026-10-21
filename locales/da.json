@@ -3,7 +3,7 @@
     "language": "da",
     "name": "Dansk",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøgle tilhører allerede »%1$s«.",
@@ -14127,5 +14127,15 @@
     "value": "Hop %1$d har kun et %2$d-byte-præfiks. Traceroute kører med %3$d-byte-hashes.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Noden afviste indstillingen for deling af position.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Noden afviste indstillingen for deling af telemetri.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

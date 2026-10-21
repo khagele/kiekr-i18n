@@ -3,7 +3,7 @@
     "language": "es",
     "name": "Español",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Esta clave ya pertenece a «%1$s».",
@@ -12850,5 +12850,15 @@
     "value": "El salto %1$d solo tiene un prefijo de longitud %2$d (en bytes). La traza se ejecuta con hashes de longitud %3$d (en bytes).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "El nodo rechazó el ajuste de compartir la posición.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "El nodo rechazó el ajuste de compartir la telemetría.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

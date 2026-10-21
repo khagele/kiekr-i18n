@@ -3,7 +3,7 @@
     "language": "fr",
     "name": "Français",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Cette clé appartient déjà à « %1$s ».",
@@ -12851,5 +12851,15 @@
     "value": "Le saut %1$d n'a qu'un préfixe de longueur %2$d (en octets). La trace s'exécute avec des hachages de longueur %3$d (en octets).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Le nœud a rejeté le réglage de partage de la position.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Le nœud a rejeté le réglage de partage de la télémétrie.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

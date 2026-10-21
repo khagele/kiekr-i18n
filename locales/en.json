@@ -3,7 +3,7 @@
     "language": "en",
     "managed_by": "kiekr-team",
     "name": "English",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": "This key already belongs to \"%1$s\".",
   "add_channel_generate_key": "Generate random key",
@@ -2842,5 +2842,7 @@
   "traceroute_prefix_footer": "For a repeater the app doesn't know yet. The trace sends these bytes as the hop hash.",
   "traceroute_unknown_repeater": "Unknown repeater",
   "traceroute_prefix_known_matches": "Known repeaters with prefix %1$s: %2$s",
-  "traceroute_width_narrowed": "Hop %1$d has only a %2$d-byte prefix. The trace runs with %3$d-byte hashes."
+  "traceroute_width_narrowed": "Hop %1$d has only a %2$d-byte prefix. The trace runs with %3$d-byte hashes.",
+  "mynode_config_error_location_sharing_rejected": "The node rejected the location sharing setting.",
+  "mynode_config_error_telemetry_rejected": "The node rejected the telemetry sharing setting."
 }

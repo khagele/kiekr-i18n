@@ -3,7 +3,7 @@
     "language": "pt-PT",
     "name": "Português (Portugal)",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Esta chave já pertence a «%1$s».",
@@ -14127,5 +14127,15 @@
     "value": "O salto %1$d tem apenas um prefixo de comprimento %2$d (em bytes). O traceroute é executado com hashes de comprimento %3$d (em bytes).",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "O nó rejeitou a definição de partilha da posição.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "O nó rejeitou a definição de partilha da telemetria.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

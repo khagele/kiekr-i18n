@@ -3,7 +3,7 @@
     "language": "bg",
     "name": "Български",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Този ключ вече принадлежи на „%1$s“.",
@@ -14127,5 +14127,15 @@
     "value": "Хоп %1$d има само %2$d-байтов префикс. Traceroute се изпълнява с %3$d-байтови хешове.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Възелът отхвърли настройката за споделяне на позицията.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Възелът отхвърли настройката за споделяне на телеметрията.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

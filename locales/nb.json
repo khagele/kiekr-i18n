@@ -3,7 +3,7 @@
     "language": "nb",
     "name": "Norsk bokmål",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Denne nøkkelen tilhører allerede «%1$s».",
@@ -14127,5 +14127,15 @@
     "value": "Hopp %1$d har bare et %2$d-byte-prefiks. Traceroute kjører med %3$d-byte-hash-verdier.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Noden avviste innstillingen for deling av posisjon.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Noden avviste innstillingen for deling av telemetri.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

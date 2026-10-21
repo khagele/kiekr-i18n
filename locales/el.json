@@ -3,7 +3,7 @@
     "language": "el",
     "name": "Ελληνικά",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Αυτό το κλειδί ανήκει ήδη στο «%1$s».",
@@ -14127,5 +14127,15 @@
     "value": "Το άλμα %1$d έχει μόνο πρόθεμα μήκους %2$d byte. Το Traceroute εκτελείται με hash μήκους %3$d byte.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Ο κόμβος απέρριψε τη ρύθμιση κοινοποίησης θέσης.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Ο κόμβος απέρριψε τη ρύθμιση κοινοποίησης τηλεμετρίας.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

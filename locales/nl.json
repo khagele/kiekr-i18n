@@ -3,7 +3,7 @@
     "language": "nl",
     "name": "Nederlands",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Deze sleutel is al gekoppeld aan \"%1$s\".",
@@ -12850,5 +12850,15 @@
     "value": "Hop %1$d heeft slechts een %2$d-byte-voorvoegsel. De traceroute draait met %3$d-byte-hashes.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "De node weigerde de instelling voor het delen van de positie.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "De node weigerde de instelling voor het delen van telemetrie.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

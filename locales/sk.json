@@ -3,7 +3,7 @@
     "language": "sk",
     "name": "Slovenčina",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Tento kľúč už patrí k „%1$s“.",
@@ -14130,5 +14130,15 @@
     "value": "Skok %1$d má iba %2$d-bajtový prefix. Traceroute používa %3$d-bajtové hashe.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Uzol odmietol nastavenie zdieľania polohy.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Uzol odmietol nastavenie zdieľania telemetrie.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

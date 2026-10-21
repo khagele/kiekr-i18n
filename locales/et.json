@@ -3,7 +3,7 @@
     "language": "et",
     "name": "Eesti",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "See võti kuulub juba „%1$s“-le.",
@@ -14127,5 +14127,15 @@
     "value": "Hüppel %1$d on ainult %2$d-baidine prefiks. Traceroute töötab %3$d-baidiste räsidega.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Sõlm lükkas asukoha jagamise seade tagasi.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Sõlm lükkas telemeetria jagamise seade tagasi.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

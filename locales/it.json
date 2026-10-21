@@ -3,7 +3,7 @@
     "language": "it",
     "name": "Italiano",
     "managed_by": "community",
-    "updated": "2026-10-20"
+    "updated": "2026-10-21"
   },
   "add_channel_duplicate_key": {
     "value": "Questa chiave appartiene già a \"%1$s\".",
@@ -12765,5 +12765,15 @@
     "value": "L'hop %1$d ha solo un prefisso di %2$d byte. Il traceroute viene eseguito con hash di %3$d byte.",
     "_ai": true,
     "_seeded": "2026-10-20"
+  },
+  "mynode_config_error_location_sharing_rejected": {
+    "value": "Il nodo ha rifiutato l'impostazione di condivisione della posizione.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
+  },
+  "mynode_config_error_telemetry_rejected": {
+    "value": "Il nodo ha rifiutato l'impostazione di condivisione della telemetria.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }
