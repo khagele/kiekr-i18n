@@ -14147,5 +14147,10 @@
     "value": "Noden avviste bane-hash-modusen.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Noden avviste innstillingen for automatisk tillegg.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

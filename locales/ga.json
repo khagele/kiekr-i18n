@@ -14150,5 +14150,10 @@
     "value": "Dhiúltaigh an nód don mhód path-hash.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Dhiúltaigh an nód don pholasaí uath-chur leis.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

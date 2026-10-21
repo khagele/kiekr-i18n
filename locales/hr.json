@@ -14149,5 +14149,10 @@
     "value": "Čvor je odbio način put-hash.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Čvor je odbio politiku automatskog dodavanja.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

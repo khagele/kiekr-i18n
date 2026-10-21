@@ -14147,5 +14147,10 @@
     "value": "Solmu hylkäsi polku-hash-tilan.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Solmu hylkäsi automaattisen lisäyksen säännön.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -12870,5 +12870,10 @@
     "value": "De node weigerde de pad-hashmodus.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "De node weigerde het auto-toevoegbeleid.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

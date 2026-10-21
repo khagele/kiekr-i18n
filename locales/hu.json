@@ -14147,5 +14147,10 @@
     "value": "A csomópont elutasította az útvonal-hash módot.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "A csomópont elutasította az automatikus hozzáadási szabályt.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

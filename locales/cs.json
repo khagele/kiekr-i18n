@@ -14150,5 +14150,10 @@
     "value": "Uzel odmítl režim Path-hash.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Uzel odmítl zásadu automatického přidávání.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

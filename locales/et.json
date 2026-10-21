@@ -14147,5 +14147,10 @@
     "value": "Sõlm lükkas teepõhise hash-režiimi tagasi.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Sõlm lükkas automaatse lisamise reegli tagasi.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -12870,5 +12870,10 @@
     "value": "El nodo rechazó el modo de hash de ruta.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "El nodo rechazó la política de autoañadir.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

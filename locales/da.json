@@ -14147,5 +14147,10 @@
     "value": "Noden afviste path-hash-tilstanden.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Noden afviste politikken for automatisk tilføjelse.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

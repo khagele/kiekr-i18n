@@ -14142,5 +14142,10 @@
     "value": "Węzeł odrzucił tryb skrótu ścieżki.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Węzeł odrzucił zasadę automatycznego dodawania.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

@@ -14147,5 +14147,10 @@
     "value": "O nó rejeitou o modo «Path-hash».",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "O nó rejeitou a política de adição automática.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

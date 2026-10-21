@@ -14150,5 +14150,10 @@
     "value": "Mazgas atmetė kelių-hash režimą.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Mazgas atmetė automatinio pridėjimo taisykles.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

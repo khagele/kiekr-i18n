@@ -11536,5 +11536,9 @@
   "config_error_path_hash_mode_rejected": {
     "value": "Der Knoten hat den Pfad-Hash-Modus abgelehnt.",
     "_human": true
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Der Knoten hat die Auto-Hinzufügen-Richtlinie abgelehnt.",
+    "_human": true
   }
 }

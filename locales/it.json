@@ -12785,5 +12785,10 @@
     "value": "Il nodo ha rifiutato la modalità hash del percorso.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "Il nodo ha rifiutato la politica di aggiunta automatica.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }

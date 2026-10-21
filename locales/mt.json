@@ -14150,5 +14150,10 @@
     "value": "In-nodu rrifjuta l-modalità path-hash.",
     "_ai": true,
     "_seeded": "2026-10-21"
+  },
+  "config_error_autoadd_rejected": {
+    "value": "In-nodu rrifjuta l-politika ta' żieda awtomatika.",
+    "_ai": true,
+    "_seeded": "2026-10-21"
   }
 }
